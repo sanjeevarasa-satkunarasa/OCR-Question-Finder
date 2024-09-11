@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/css/ocr.css" rel="stylesheet">
+    <title>Eksamensoppgaver</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap" rel="stylesheet"> <!-- Using the same font from the original page -->
+</head>
+<body>
+    <nav>
+        <h1><a href="../index.html"> Realfag.net</a></h1>
+        <a onclick="toggleModeIndex()" id="dark_mode"><img src="/media/dark_mode_light.png" alt="Mørk modus knapp" id="dark_mode_icon"></a>
+        <a id="discord" href="https://discord.gg/7AwyneAqgY" target="_blank"> <img src="/media/discord_logo_light.png" alt="discord-logo" id="dark_mode_discord"> </a>
+        <div class="dropdown">
+            <button class="dropbtn"><img src="/media/arrow_down.png"></button>
+            <div class="dropdown-content">
+                <a href="/html/VG3.html"> VG3 </a>
+                <a href="/html/VG2.html"> VG2 </a>
+                <a href="/html/VG1.html"> VG1 </a>
+                <a href="/html/info.html"> Info </a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="ocr-program">
+        <h3 class="ocr-program-heading">Programmet som sammenligner dine oppgaver med vår database med eksamensoppgaver</h3>
+
+        <form class="question-form" action="http://localhost/" method="post">
+            <textarea name="question-text" type="textarea" rows="6" cols="75" placeholder="Skriv inn oppgaven" class="question-text"></textarea>
+            <br>
+            <label for="file-upload" class="custom-file-upload"> Klikk for å laste opp filer</label>
+            <input name="file-upload" id="file-upload" type="file"/>
+            <input type="submit" class="question-submit" type="submit">
+        </form>
+
+        <div class="question-output-container">
+            <h4>Output:</h4>
+            <h4 id="question-output"></h4>
+        </div>
+    </div>
+
+    <footer>
+        <div class="version">Versjon 1.2.2
+            <a href="/html/logg.html">Logg</a>
+        </div>
+        <div class="popup" onclick="popUp()">Rapporter et problem/forbedringer
+            <span class="popuptext" id="myPopup">
+                <form netlify method="POST">
+                    <label for="problem-text">Oppgi Problemet ditt:</label>
+                    <br>
+                    <textarea id="problem-text" rows="10" cols="40"></textarea>
+                    <br>
+                    <input type="submit" value="Send inn">
+                </form>
+                <button onclick="popUpClose()">Lukk</button>
+            </span>
+        </div>
+    </footer>
+
+    <script src="script/index.js"></script> <!--Remember to add this to index.html-->
+</body>
+</html>
