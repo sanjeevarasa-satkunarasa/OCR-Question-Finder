@@ -14,10 +14,10 @@ def rank_documents(input_string):
     # Create a list to store the ranking results
     ranking = []
     
-    # Compare input string with each document's name field
+    # Compare input string with each document's content field
     for doc in documents:
-        name = doc.get("name", "")
-        match_score = sum(1 for a, b in zip(input_string, name) if a == b)
+        content = doc.get("content", "")
+        match_score = sum(1 for a, b in zip(input_string, content) if a == b)
         ranking.append((doc, match_score))
     
     # Sort the ranking list based on match_score in descending order
