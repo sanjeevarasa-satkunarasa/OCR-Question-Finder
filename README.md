@@ -12,4 +12,4 @@
 
 
 // Important
-The main.py only works currently when it is in the same folder as the files need to fix this that it can also work when outside the folder and when there are folder nested inside of the directory folder
+The main.py  still doesnt add things to the MongoDB
