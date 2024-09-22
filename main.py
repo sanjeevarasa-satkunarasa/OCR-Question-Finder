@@ -19,10 +19,15 @@ def process_pdfs(directory):
                 
                 # Call the cat command and redirect output
                 with open(output_file, 'w') as output:
-                    subprocess.run(f'ocrmypdf --sidecar{filename}.txt {pdf_path} {output_file}')
+                    try:
+                        subprocess.run(f'ocrmypdf --sidecar{filename}.txt {pdf_path} {output_file}')
                     # put some code to read the output file
-                    content = file.read(f'{filename}.txt') 
-                    insert_mangodb(f'{output_file}',content) # here x is the input pdf file name and y is the result of file reading of the output text file. 
+                        content = file.read(f'{filename}.txt') 
+                        insert_mangodb(f'{output_file}',content) # here x is 
+                    except:
+                        print('Error')
+
+#the input pdf file name and y is the result of file reading of the output text file. 
 
 # Start processing
 process_pdfs(directory)
