@@ -1,12 +1,6 @@
 import subprocess
-import pymongo
-
-# Running a shell command and capturing its output
-result = subprocess.run(['ls', '-l'], capture_output=True, text=True)
-print(result.stdout)
-
 import os
-import subprocess
+import pymongo
 
 # Directory containing the PDF files
 directory = '/path/to/your/pdf/files'
