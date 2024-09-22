@@ -6,6 +6,8 @@ function processInput() {
     if (textInput) {
         output = textInput;
     } else if (fileInput) {
+
+    
         const reader = new FileReader();
         reader.onload = function(event) {
             output = event.target.result;
