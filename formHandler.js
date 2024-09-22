@@ -1,37 +1,22 @@
-addEventListener('DOMContentLoaded', onloadCb);
+function processInput() {
+    const textInput = document.getElementById('textInput').value;
+    const fileInput = document.getElementById('fileInput').files[0];
+    let output;
 
-// This callback will be executed when the page initially loads.
-// See line 1 to know why
-function onloadCb () {
-    // Grab all forms which have a method attribute
-    const forms = document.querySelectorAll('form[method]');
-    
-    // Display info of any submitted form
-    forms.forEach(function (form) {
-        form.addEventListener('submit', displayInfo);
-    });
-};
-
-function displayInfo(event) {
-    // Prevent the page from redirecting to the action attribute.
-    event.preventDefault();
-    
-    // Get the form data
-    const formData = new FormData(event.target);
-    
-    logAsTitle('Data:');
-    for (let [key, val] of formData.entries()) {
-        console.log(`${key} \t ${val || '<Empty>'}`);
+    if (textInput) {
+        output = textInput;
+    } else if (fileInput) {
+        const reader = new FileReader();
+        reader.onload = function(event) {
+            output = event.target.result;
+            console.log("File content:", output);
+        };
+        reader.readAsText(fileInput);
+    } else {
+        output = "No input provided";
     }
-    
-    logAsTitle('Form attributes');
-    const neededAttributes = ['action','method', 'enctype'];
-    for (let attr of neededAttributes) {
-        console.log(`${attr} - ${event.target[[attr]] || '<empty>'}`);
-    }
-}
 
-function logAsTitle(str) {
-    console.log('\n' + str);
-    console.log('='.repeat(str.length));
+    if (textInput) {
+        console.log("Text input:", output);
+    }
 }
