@@ -9,7 +9,3 @@
 1. Download MangoDB
 2. Connect to database
 3. Have the program run through the whole directory of pdf files
-
-
-// Important
-The main.py  still doesnt add things to the MongoDB
