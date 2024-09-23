@@ -1,0 +1,359 @@
+ 
+
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Las likningssystemet
+
+5x =—-2y
+2x—-y=-9
+
+Oppgave 2 (2 poeng)
+
+Skriv sa enkelt som mulig
+
+2x? —2
+x* -2x4+1
+
+Oppgave 3 (2 poeng)
+
+Legs ulikheten
+
+~x* +3x>-10
+
+Oppgave 4 (2 poeng)
+Las likningen
+3
+Ig) 2x+— |=-1
+e( +2)
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016
+
+mate@matikk.net
+
+Side 14 av 24
+
+ 
+Oppgave 5 (1 poeng)
+
+Las likningen
+o8 . oO _ 07x
+Oppgave 6 (2 poeng)
+
+Skriv sa enkelt som mulig
+
+f 1
+N48 52 34
+
+54
+
+Oppgave 7 (2 poeng)
+
+Skriv sa enkelt som mulig
+
+X+2_ (xX+14
+x-3 x*-x-6
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016
+
+mat@matikk.net
+
+Side 15 av 24
+Oppgave 8 (2 poeng)
+
+ 
+
+ 
+
+ 
+
+| koordinatsystemet ovenfor har vi tegnet grafen til en andregradsfunksjon f .
+Bestem funksjonsuttrykket f(x).
+
+Oppgave 9 (8 poeng)
+
+Funksjonen f er gitt ved
+
+f(x) = (kK -1)(x -1)(« + 2)
+a) Bestem nullpunktene til f.
+b) Vis at f(x) =x*-—3x+2
+
+Cc) Bestem f’(x) og bruk den deriverte til A bestemme eventuelle topp- og
+bunnpunkter pa grafen til f.
+
+d) Bestem likningen for tangenten til f i punktet (0,2).
+
+€) Vis at grafen til f ikke har andre tangenter som er parallelle med tangenten du fant
+| Oppgave d).
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 16 av 24
+
+matematikk.net
+Oppgave 10 (2 poeng)
+
+En likesidet trekant har omkrets 24.
+Vis at arealet av trekanten er 16/3.
+
+Oppgave 111 (1 poeng)
+
+Om en vinkel u far du vite folgende
+
+Bestem tanu,
+
+Oppgave 12 (3 poeng)
+
+ 
+
+] U
+3
+
+a) Gitt trekanten ovenfor.
+Vis at (sinuy +(cos uy =1
+
+C
+a
+V
+b
+
+b) Bruk trekanten ovenfor til a vise at (sinv) +(cos vy =1 foralle ve (0°,90°)
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 17 av 24
+
+matematikk.net
+Oppgave 13 (3 poeng)
+
+| en eske er det fire bla og fire rade nisser. Tenk deg at du skal ta tre nisser tilfeldig fra
+esken. Du skal ta én nisse av gangen, og du skal sette dem pa en rekke fra venstre mot
+hg@yre.
+
+a) Bestem sannsynligheten for at rekken vil bli som vist pa bildet nedenfor.
+
+Ada
+
+. nn ie
+
+ 
+
+“.
+
+b) Bestem sannsynligheten for at det vil bli én bla og to rade nisser i rekken.
+
+c) Bestem sannsynligheten for at det vil bli minst én bla nisse i rekken.
+
+Oppgave 14 (4 poeng)
+
+ 
+
+Sirkelbuene pa figuren ovenfor er halvsirkler. Linjestykket AB har lengde a og
+linjestykket BC har lengde 4a.
+
+a) Bestem omkretsen av det bla omradet pa figuren uttrykt ved a.
+
+b) Bestem arealet av det bla omradet pa figuren uttrykt ved a.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 18 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (5 poeng)
+
+ 
+
+En jakt- og fiskeforening vil sette ut fisk i en innsj@. Fisk som settes ut, kaller vi settefisk.
+Foreningen antar at funksjonen f gitt ved
+
+f(x)=35 400-0,996* , xe[0,400]
+
+viser hvor mange settefisk f(x) det vil veere igjen i innsjoen x dggn etter utsettingen.
+a) Bruk graftegner til a tegne grafen til f.
+b) Hva forteller tallene 35 400 og 0,996 i funksjonsuttrykket om antall settefisk i innsj@en?
+
+Cc) Bestem f’(100) ved a tegne en tangent til grafen til f.
+Hva forteller denne verdien om antall settefisk i innsj@en?
+
+d) Bestem gjennomsnittlig vekstfart for antall settefisk det forste aret etter utsettingen.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 19 av 24
+
+mat@matikk.net
+Oppgave 2 (4 poeng)
+
+ 
+
+ 
+
+ 
+
+Ar 1970 1980 1990 2000 2010
+
+Kilogram
+
+sjokolade 4,6 6,2 1,6 8,2 9,5 2
+per person
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor viser hvor mange kilogram sjokolade hver person i Norge i gjennomsnitt
+spiste i arene 1970, 1980, 1990, 2000 og 2010.
+
+a) La x vere antall ar etter 1970, og bruk regresjon til a bestemme en lineeer funksjon S
+som kan beskrive utviklingen i perioden 1970-2010.
+
+b) Hva forteller stigningstallet til funksjonen S?
+
+c) Hvor mange gram sjokolade vil hver person i Norge i gjennomsnitt spise i 2020 ifglge
+funksjonen S?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 20 av 24
+
+mat@matikk.net
+Oppgave 3 (4 poeng)
+
+Q(q,F(q))
+
+P(p,f(p))
+
+>
+
+|
+
+ 
+
+Funksjonen f er gitt ved
+
+f(x) = x?
+
+Linjen | skjeerer grafen til f ipunktene P(p,f(p)) og Q(a,f(q)).
+Se koordinatsystemet ovenfor.
+
+a) Vis at linjen / har stigningstall p+q.
+
+b) Bruk CAS tila bestemme skjeringspunktene mellom linjen | og koordinataksene.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 21 av 24
+
+mat@matikk.net
+Oppgave 4 (4 poeng)
+
+En idrettsklubb har tre aktiviteter: fotball, handball og basketball. Noen av medlemmene
+deltar i én aktivitet, noen i to aktiviteter og noen i alle tre aktivitetene. Idrettsklubben har
+totalt 250 medlemmer.
+
+Tabellen nedenfor viser hvor mange medlemmer som deltar i hver aktivitet.
+
+ 
+
+ 
+
+ 
+
+Fotball 200
+Handball 90
+Basketball 40
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)  Tegn et venndiagram som vist nedenfor. Gj@r beregninger, og sett inn tallene som
+manegler.
+
+Handball
+Fotball
+
+30
+
+Basketball
+
+Vi skal velge et medlem tilfeldig fra klubben.
+
+b) |Bestem sannsynligheten for at vi kommer til a velge et medlem som deltar i alle
+tre aktivitetene.
+
+Anta at vi har valgt et medlem som spiller handball.
+
+C) Bestem sannsynligheten for at dette medlemmet ogsa spiller fotball.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 22 av 24
+
+mat@matikk.net
+Oppgave 5 (3 poeng)
+
+En funksjon f er gitt ved
+1 3 2 2
+MX) = 2X —ax* +a°x
+
+Bruk CAS til a vise at grafen til f har et terrassepunkt.
+Bestem koordinatene til terrassepunktet uttrykt ved a.
+
+Oppgave 6 (4 poeng)
+
+ 
+
+Gitt DABCD ovenfor.
+
+J3
+
+a) Vis at CD “34
+
+b) Vis at arealet av GABCD er aa (2V3 +1)
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2016 Side 23 av 24
+
+mat@matikk.net

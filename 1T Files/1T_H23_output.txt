@@ -1,0 +1,883 @@
+U
+
+juapisyeq ed sdiysuawesya as
+
+Utdannings-
+direktoratet
+
+20.11.2023
+
+ 
+
+Eksamen
+MAT1021 Matematikk 1T
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid
+
+Eksamen varer i 5 timar.
+
+Delen utan og delen med hjelpemiddel skal delast ut
+samtidig. Delen utan hjelpemiddel skal leverast etter 1 time.
+Etter 1 time kan kandidaten bruke hjelpemiddel.
+
+Delen med hjelpemiddel skal leverast innan 5 timar.
+
+ 
+
+Del utan hjelpemiddel
+
+Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Del med hjelpemiddel
+
+Alle hjelpemiddel er tillatne, med unntak av internett og andre
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate
+
+Delen utan hjelpemiddel har 5 oppgaver.
+
+Delen med hjelpemiddel har 7 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+utteljing. Bruk av digitale verktoy som rekneark,
+programmering, grafteiknar og CAS skal dokumenterast.
+
+ 
+
+Rettleiing om vurderinga
+
+Karakteren blir fastsett etter ei samla vurdering.
+Sensor vurderer i kva grad du
+e viser rekneferdigheiter og matematisk forstaing
+e gjennomfgrer logiske resonnement
+e ser samanhengar i faget, er oppfinnsam og kan ta i
+bruk fagkunnskap i nye situasjonar
+e kan bruke formalstenlege hjelpemiddel
+e forklarer framgangsmatar og grunngir svar
+e skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+e vurderer om svar er rimelege
+
+ 
+
+Om vekting av
+oppgavene
+
+Kvar deloppgave vil bli vekta likt nar svara dine blir vurderte,
+med unntak av
+
+e oppgave 2 og 3 i Del 1
+e oppgave 2, 3b og 6i Del 2
+
+som vil bli vekta 1,5 qonger sa mykje som dei andre
+deloppgavene.
+
+ 
+
+ 
+
+Andre opplysningar
+
+ 
+
+ 
+
+Kjelder for bilete, teikningar osv.
+e Flyttelass, Pixabay (18.03.2023)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1021
+
+Side 2 av 24
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+Ein likesida trekant har sidelengder 2.
+Sja figuren til hggre.
+
+Bruk trekanten til a vise at 2 2
+
+ 
+
+cos60° = 1
+2
+
+Oppgave 2
+Funksjonen f er gitt ved
+
+f(x) =x? +2x*-—5x-6
+
+| kva punkt skjer grafen til funksjonen x - aksen?
+
+ 
+
+Eksamen MAT1021 Side 3 av 24
+Oppgave 3
+Funksjonen f er gitt ved
+f(x) =x°-—3x*-x+4
+
+Bestem likninga for tangenten til grafen til f i punktet (1, f(1)).
+
+Oppgave 4
+
+6 150°
+32°
+
+ 
+
+ 
+
+Kva for ein av dei to trekantane har st@rst areal?
+
+Hugs a argumentere for at svaret ditt er rett.
+
+ 
+
+Eksamen MAT1021 Side 4 av 24
+Oppgave 5
+
+Funksjonane f og g er gitt ved
+
+2x-—8
+
+X+2
+
+F(x)
+
+x?-4
+(x —3)(x +3)
+
+g(x)
+
+a) Kva for ein av grafane nedanfor er grafen til f ?
+
+b) Kva for ein av grafane nedanfor er grafen til g ?
+
+Hugs a argumentere for at svara dine er rette.
+
+ 
+
+ 
+
+ 
+
+ 
+
+eee eee eee gee pee ee ee ee eee
+
+ 
+
+ 
+
+xX
+
+ 
+
+ee
+
+ 
+
+ 
+
+tee ee eee pee ee ee ee PH ee
+
+ 
+
+ 
+
+ 
+
+ 
+
+Side 5 av 24
+
+MAT1021
+
+Eksamen
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+ 
+
+Ei gruppe statistikarar har sett pa korleis folketalet i eit omrade har endra seg sidan
+1960, og laga ein modell F gitt ved
+
+(x)=. (0,027%* -5,8x? + 220x +7900) , xe[0,80]
+
+for folketalet F(x) tusen innbyggjarar i omradet x ar etter 1960.
+
+a) Vis korleis du pa to ulike matar kan bestemme nar folketalet var hggast if@lgje
+modellen.
+
+b) Bestem stigingstalet til den rette linja som gar gjennom punkta (30, F(30)) og
+(70, F(70)). Gi ei praktisk tolking av dette stigingstalet.
+
+c) Nar vil folketalet minke raskast if@lgje modellen?
+
+ 
+
+Eksamen MAT1021 Side 6 av 24
+Oppgave 2
+
+ 
+
+ 
+
+| denne oppgava skal du vise at du kan bruke trigonometri til a bestemme arealet av
+figuren ovanfor.
+
+Bestem arealet. Hugs a gjere greie for kva for trigonometriske samanhengar du
+bruker.
+
+ 
+
+Eksamen MAT1021 Side 7 av 24
+Oppgave 3
+| denne oppgava skal du arbeide med linjestykke som blir sette saman til ein figur.
+
+Skissa nedanfor viser dei 16 f@rste linjestykka i figuren. Lengda av eit linjestykke er
+alltid 90 % av lengda av det forre linjestykket. Det forste linjestykket er 100 cm langt.
+
+90cm
+
+ 
+
+100 cm des
+
+a) Bestem summen av lengdene av dei 8 forste linjestykka i figuren.
+
+b) Lag eit program som du kan bruke til 4 bestemme summen av lengdene av
+linjestykka dersom det er mange linjestykke i figuren.
+Kor mange linjestykke ma vi ha med i figuren dersom summen av lengdene skal
+
+bli minst 9 meter?
+
+c) Kor mange prosent aukar summen av lengdene dersom vi aukar talet pa
+linjestykke i figuren fra 50 til 100?
+
+ 
+
+Eksamen MAT1021 Side 8 av 24
+Oppgave 4
+
+ 
+
+Tabellen nedanfor viser kor mange personar i Noreg som hadde fiske som hovudyrke
+nokre ar i perioden 1952-2022.
+
+ 
+
+Ar 1952 | 1982 | 1992 | 2002 | 2012 | 2022
+Fiskarar 65 956 | 25 289 | 19 780 | 13 841 | 9825) 9591
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) La X vere talet pa ar etter 1950 og bruk opplysningane i tabellen til 4a bestemme
+
+ein modell F som du meiner kan brukast til 4 seie noko om kor mange personar
+som har hatt fiske som hovudyrke i perioden 1952-2022.
+
+b) Kor mange personar i Noreg vil i 2050 ha fiske som hovudyrke if@lgje modellen fra
+oppgave a)? Vurder gyldigheitsomradet til modellen.
+
+ 
+
+Eksamen MAT1021 Side 9 av 24
+Oppgave 5
+
+ 
+
+ 
+
+y
+Pp
+g
+—_—
+f
+oe”
+XxX.
+X=1
+
+Ovanfor har Sara teikna grafane til funksjonane f og g gitt ved
+
+f(x)=2x+8
+
+g(x)=x°-x?-4x+8
+Linja x =1 skjer grafen til f i punktet P og grafen til g i punktet Q.
+a) Bestem avstanden fra P til Q.
+
+Sara skal teikne ei ny linje x =a der ae(1, 3) i koordinatsystemet.
+
+Ho vil kalle skjeringspunktet mellom linja og grafen til f for R og skjeringspunktet
+mellom linja og grafen til g for S.
+
+b) Bestem a slik at avstanden fra R til S blir storst mogleg. Skriv svaret eksakt.
+
+ 
+
+Eksamen MAT1021 Side 10 av 24
+Oppgave 6
+
+Ein tredjegradsfunksjon f er gitt ved
+f(x) = ax? + bx* +cx —64
+
+e Punktet (—8,0) er eit toppunkt pa grafen til f.
+
+e Den gjennomsnittlege vekstfarten til f i intervallet | 0, 5 | er as
+
+Bestem a, bog c.
+
+ 
+
+Eksamen MAT1021 Side 11 av 24
+Oppgave 7
+Nedanfor ser du grafen til funksjonen f gitt ved
+
+8
+x? +20
+
+ 
+
+f(x) =
+
+Rektangelet under grafen har hjgrne i punkta (0,0), (5,0), (5,f(5)) og (0,f(5)).
+a) Bestem arealet av rektangelet.
+
+b) Lag ei systematisk oversikt som viser arealet av rektangla som har hj@rne i punkta
+(0,0), (n,0), (n,f(n)) og (0,f(n)) for ne{1, 2, 3,..., 10}
+
+c) Bestem k slik at arealet av rektangelet som har hjgrne i punkta (0,0), (k,0),
+(k,f(k)) og (0,f(k)), blir storst mogleg.
+
+0.4 |
+
+0.3 |
+
+0.2 3
+
+ 
+
+0.1 3
+
+ 
+
+ 
+
+Eksamen MAT1021 Side 12 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+
+Delen uten og delen med hjelpemidler skal deles ut samtidig.
+Delen uten hjelpemidler skal leveres etter 1 time.
+
+Etter 1 time kan kandidaten bruke hjelpemidler.
+
+Delen med hjelpemidler skal leveres innen 5 timer.
+
+ 
+
+Del uten hjelpemidler Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Del med hjelpemidler Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Delen uten hjelpemidler har 5 oppgaver.
+Delen med hjelpemidler har 7 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe
+uttelling. Bruk av digitale verktoy som regneark,
+programmering, graftegner og CAS skal dokumenteres.
+
+ 
+
+Veiledning om Karakteren blir fastsatt etter en samlet vurdering.
+
+vurderingen Sensor vurderer i hvilken grad du
+
+e viser regneferdigheter og matematisk forstaelse
+
+e gjennomf@rer logiske resonnementer
+
+e ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+e kan bruke hensiktsmessige hjelpemidler
+
+e forklarer framgangsmater og begrunner svar
+
+e skriver oversiktlig og er ngyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+e vurderer om svar er rimelige
+
+ 
+
+Om vekting av Hver deloppgave vektes likt nar besvarelsen din blir vurdert,
+oppgavene med unntak av
+
+e oppgave 2 og 3i Del 1
+e oppgave 2, 3b og 6i Del 2
+
+som vektes 1,5 ganger sa mye som de andre deloppgavene.
+
+ 
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+e Flyttelass, Pixabay (18.03.2023)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1021 Side 13 av 24
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+En likesidet trekant har sidelengder 2.
+Se figuren til hgyre.
+
+Bruk trekanten til a vise at 2 2
+
+ 
+
+cos60° = 1
+2
+
+Oppgave 2
+Funksjonen f er gitt ved
+
+f(x) =x? +2x*-—5x-6
+
+| hvilke punkter skjeerer grafen til funksjonen x - aksen?
+
+ 
+
+Eksamen MAT1021 Side 14 av 24
+Oppgave 3
+Funksjonen f er gitt ved
+f(x) =x°-—3x*-x+4
+
+Bestem likningen for tangenten til grafen til f i punktet (1, f(1)).
+
+Oppgave 4
+
+6 150°
+32°
+
+ 
+
+ 
+
+Hvilken av de to trekantene har st@rst areal?
+
+Husk a argumentere for at svaret ditt er riktig.
+
+ 
+
+Eksamen MAT1021 Side 15 av 24
+Oppgave 5
+
+Funksjonene f og g er gitt ved
+
+a) Hvilken av grafene nedenfor er grafen til f ?
+
+b) Hvilken av grafene nedenfor er grafen til g ?
+
+Husk a argumentere for at svarene dine er riktige.
+
+ 
+
+ 
+
+ 
+
+ 
+
+eee eee eee gee pee ee ee ee eee
+
+ 
+
+ 
+
+Xx
+
+ 
+
+——— PR ee Ee ee
+
+ 
+
+ 
+
+eee eee ee pee ee Se ee pH ee
+
+ 
+
+ 
+
+ 
+
+ 
+
+Side 16 av 24
+
+MAT1021
+
+Eksamen
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+ 
+
+En gruppe statistikere har sett pa hvordan folketallet i et omrade har endret seg siden
+1960, og laget en modell F gitt ved
+
+(x)=. (0,027x* -5,8x? +220x +7900) , xe[0,80]
+
+for folketallet F(x) tusen innbyggere i omradet xX ar etter 1960.
+
+a) Vis hvordan du pa to ulike mater kan bestemme nar folketallet var hgyest ifglge
+modellen.
+
+b) Bestem stigningstallet til den rette linjen som gar gjennom punktene (30, F(30))
+og (70, F(70)). Gi en praktisk tolkning av dette stigningstallet.
+
+c) Nar vil folketallet avta raskest ifglge modellen?
+
+ 
+
+Eksamen MAT1021 Side 17 av 24
+Oppgave 2
+
+ 
+
+ 
+
+| denne oppgaven skal du vise at du kan bruke trigonometri til a bestemme arealet av
+figuren ovenfor.
+
+Bestem arealet. Husk a gjgre rede for hvilke trigonometriske sammenhenger du
+bruker.
+
+ 
+
+Eksamen MAT1021 Side 18 av 24
+Oppgave 3
+| denne oppgaven skal du arbeide med linjestykker som settes sammen til en figur.
+Skissen nedenfor viser de 16 fgrste linjestykkene i figuren. Lengden av et linjestykke
+
+er alltid 90 % av lengden av det forrige linjestykket. Det forste linjestykket er 100 cm
+langt.
+
+90cm
+
+ 
+
+100 cm des
+
+a) Bestem summen av lengdene av de 8 forste linjestykkene i figuren.
+
+b) Lag et program som du kan bruke til a bestemme summen av lengdene av
+linjestykkene dersom det er mange linjestykker i figuren.
+Hvor mange linjestykker ma vi ha med i figuren dersom summen av lengdene skal
+
+bli minst 9 meter?
+
+c) Hvor mange prosent @ker summen av lengdene dersom vi oker antall linjestykker i
+figuren fra 50 til 100?
+
+ 
+
+Eksamen MAT1021 Side 19 av 24
+Oppgave 4
+
+ 
+
+Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke noen
+ar i perioden 1952-2022.
+
+ 
+
+Ar
+
+1952
+
+1982
+
+1992
+
+2002
+
+2012
+
+2022
+
+ 
+
+Antall fiskere
+
+ 
+
+ 
+
+65 956
+
+ 
+
+25 289
+
+ 
+
+19 780
+
+ 
+
+13 841
+
+ 
+
+9 825
+
+ 
+
+9 591
+
+ 
+
+ 
+
+a) La x vere antall ar etter 1950 og bruk opplysningene i tabellen til a bestemme
+en modell F som du mener kan brukes til a si noe om antall personer som har
+
+hatt fiske som hovedyrke i perioden 1952-2022.
+
+b) Hvor mange personer i Norge vil i 2050 ha fiske som hovedyrke ifglge modellen
+fra oppgave a)? Vurder modellens gyldighetsomrade.
+
+ 
+
+Eksamen MAT1021
+
+Side 20 av 24
+Oppgave 5
+
+ 
+
+ 
+
+y
+g P
+—_—
+f Q
+@
+XxX.
+X=1
+
+Ovenfor har Sara tegnet grafene til funksjonene f og g gitt ved
+
+f(x)=2x+8
+
+g(x)=x°-x?-4x+8
+Linjen x =1 skj@rer grafen til f i punktet P og grafen til g i punktet Q.
+a) Bestem avstanden fra P til Q.
+
+Sara skal tegne en ny linje x =a der ae(1, 3) i koordinatsystemet.
+
+Hun vil kalle skjaeringspunktet mellom linjen og grafen til f for R og
+skjzeringspunktet mellom linjen og grafen til g for S.
+
+b) Bestem a slik at avstanden fra R til S blir storst mulig. Oppgi svaret eksakt.
+
+ 
+
+Eksamen MAT1021 Side 21 av 24
+Oppgave 6
+
+En tredjegradsfunksjon f er gitt ved
+f(x) = ax? + bx* +cx —64
+
+e Punktet (—8,0) er et toppunkt pa grafen til f.
+
+e Den gjennomsnittlige vekstfarten til f i intervallet | 0, 5 | er =
+
+Bestem a, bog c.
+
+ 
+
+Eksamen MAT1021 Side 22 av 24
+Oppgave 7
+Nedenfor ser du grafen til funksjonen f gitt ved
+
+8
+x? +20
+
+ 
+
+f(x) =
+
+Rektangelet under grafen har hjgrner i punktene (0,0), (5,0), (5,f(5)) og (0,f(5)).
+a) Bestem arealet av rektangelet.
+
+b) Lag en systematisk oversikt som viser arealet av rektanglene som har hjgrner i
+punktene (0,0), (n,0), (n,f(n)) og (0,f(n)) for neq, 2, 3,..., 10}
+
+c) Bestem k slik at arealet av rektangelet som har hj@rner i punktene (0,0), (k,0),
+(k,f(k)) og (0,f(k)), blir storst mulig.
+
+0.4 |
+
+0.3 |
+
+0.2 3
+
+ 
+
+0.1 3
+
+ 
+
+ 
+
+Eksamen MAT1021 Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fre opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

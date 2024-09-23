@@ -1,10 +1,27 @@
-import subprocess
 import os
+import subprocess
 import pymongo
-# from mongo_module import insert_mangodb
 
-# Test command to ensure ocrmypdf works
-subprocess.run("wsl ocrmypdf --sidecar 1T_H12.txt --force-ocr 1T_H12.pdf 1T_H12_output.pdf")
+# MongoDB connection setup
+client = pymongo.MongoClient("mongodb://localhost:27017/")
+
+# Select the database
+db = client["admin"]
+
+# Select the collection
+collection = db["results"]
+
+# Function to insert into MongoDB
+def insert_mangodb(key, value):
+    # Create a dictionary to insert
+    document = {
+        "key": key,
+        "value": value
+    }
+    # Insert the document into the collection
+    result = collection.insert_one(document)
+    # Print the ID of the inserted document
+    print("Document inserted with ID:", result.inserted_id)
 
 # Directory containing the PDF files
 directory = r'G:\My Drive\Personal\Programming\Projects\OCR Question Bank\OCR-Question-Finder\1T Files'
@@ -49,7 +66,7 @@ def process_pdfs(directory):
                             content = file.read()
                         
                         # Insert into MongoDB
-                        # insert_mangodb(output_file, content)
+                        insert_mangodb(filename, content)
                     else:
                         print(f'Sidecar file not found: {sidecar_file}')
                 except subprocess.CalledProcessError as e:
