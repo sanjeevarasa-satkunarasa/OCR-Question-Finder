@@ -21,7 +21,7 @@ export default function processInput() {
             console.log("File content:", output);
             sendDataToPython(output);
         };
-        reader.readAsText(fileInput);
+        reader.readAsText(fileInput, 'UTF-8'); // Ensure the file is read as UTF-8
     } else {
         output = "No input provided";
         document.getElementById('question-output').innerText = output;
