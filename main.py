@@ -24,7 +24,7 @@ def insert_mangodb(key, value):
     print("Document inserted with ID:", result.inserted_id)
 
 # Directory containing the PDF files
-directory = r'G:\My Drive\Personal\Programming\Projects\OCR Question Bank\OCR-Question-Finder\1T Files'
+directory = r'G:\My Drive\Personal\Programming\Projects\OCR Question Bank\OCR-Question-Finder\eksamensoppgaver'
 
 # Function to convert Windows path to WSL path
 def convert_to_wsl_path(win_path):
