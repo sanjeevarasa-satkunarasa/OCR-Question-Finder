@@ -1,19 +1,25 @@
-function processInput() {
+export default function processInput() {
     const textInput = document.getElementById('textInput').value;
     const fileInput = document.getElementById('fileInput').files[0];
     let output;
 
+    if (textInput && fileInput) {
+        alert("There are two inputs given. Please provide only one input.");
+        return;
+    }
+
     if (textInput) {
         output = textInput;
-        saveToFile(output, 'textInput.txt');
+        document.getElementById('question-output').innerText = output;
+        console.log("Text input:", output);
+        sendDataToPython(output);
     } else if (fileInput) {
         const reader = new FileReader();
         reader.onload = function(event) {
             output = event.target.result;
-            saveToFile(output, fileInput.name);
-        };
-        reader.onerror = function(event) {
-            console.error("File could not be read! Code " + event.target.error.code);
+            document.getElementById('question-output').innerText = output;
+            console.log("File content:", output);
+            sendDataToPython(output);
         };
         reader.readAsText(fileInput, 'UTF-8'); // Ensure the file is read as UTF-8
     } else {
@@ -22,14 +28,23 @@ function processInput() {
     }
 }
 
-function saveToFile(content, filename) {
-    const blob = new Blob([content], { type: 'text/plain;charset=utf-8' }); // Ensure the file is saved as UTF-8
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = filename;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
+function sendDataToPython(data) {
+    const fs = require('fs');
+    const { exec } = require('child_process');
+
+    // Write JSON data to a file
+    fs.writeFileSync('data.json', JSON.stringify({ input: data }));
+
+    // Execute the Python script
+    exec('python data_receiver.py', (error, stdout, stderr) => {
+        if (error) {
+            console.error(`Error: ${error.message}`);
+            return;
+        }
+        if (stderr) {
+            console.error(`Stderr: ${stderr}`);
+            return;
+        }
+        console.log(`Output: ${stdout}`);
+    });
 }
