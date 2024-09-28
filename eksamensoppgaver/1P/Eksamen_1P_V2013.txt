@@ -1,0 +1,458 @@
+ 
+
+ 
+
+ 
+
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+au A
+& ity
+
+ge Vencidcth fra grr
+“i phrasert
+
+14,95 kroner
+per liter
+
+ 
+
+ 
+
+ 
+
+Hilde skal kjape
+
+2 Lmelk
+
+2,5 kg poteter
+0,5 kg ost
+
+200 g kokt skinke
+
+ 
+
+ 
+
+ 
+
+89,95 kroner
+per kilogram
+
+ 
+
+ 
+
+199 kroner
+per kilogram
+
+ 
+
+ 
+
+8,95 kroner
+per kilogram
+
+ 
+
+Gjg@r et overslag og finn ut omtrent hvor mye hun ma betale.
+
+Eksamen MAT1011 Matematikk LP Varen 2013
+
+mat@matikk.net
+
+Side 14 av 24
+
+ 
+
+ 
+Oppgave 2 (2 poeng)
+En vare koster na 210 kroner. Prisen er da satt ned med 30 %.
+
+Hva kostet varen f@r prisen ble satt ned?
+
+Oppgave 3 (2 poeng)
+
+En vare kostet 150 kroner i basisaret. | dag er indeksen for varen 110.
+
+Hvor mye koster varen i dag dersom vi antar at prisutviklingen har fulgt utviklingen i
+
+indeksen?
+
+Oppgave 4 (3 poeng)
+
+ 
+
+a) Vis at de to trekantene ovenfor er formlike.
+
+b) Bestem lengden av sidene AC og DF.
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2013
+
+mat@matikk.net
+
+Side 15 av 24
+
+ 
+ 
+
+Pa en pakke gretris star folgende opplysninger:
+
+ 
+
+Porsjoner
+
+Ris
+
+Vann
+
+Melk
+
+ 
+
+3
+
+ 
+
+ 
+
+1,5 dL
+
+ 
+
+3,0 dL
+
+ 
+
+O,/9L
+
+ 
+
+ 
+
+a) Hvor mye ris, vann og melk trenger du for a lage 10 porsjoner med gret?
+
+Du har nok vann og ris, men du har bare 5 L melk.
+
+b) Hvor mange porsjoner gret kan du lage’?
+
+ 
+
+ 
+
+ 
+
+Et omrade har form som en halvsirkel med radius r=1,0 m. Et annet omrade har form
+som en likebeint AABC , der AB=3,0 m og hgyden h=1,0 m. Se figurene ovenfor.
+
+Gjor beregninger og avgj@r
+
+a) hvilket av de to omradene som har sterst areal
+
+b) hvilket av de to omradene som har sterst omkrets
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2013
+
+mat@matikk.net
+
+Side 16 av 24
+
+ 
+Oppgave 7 (5 poeng)
+| en tank er det 60 L vann. Hver dag tapper vi 5,0 L vann fra tanken.
+
+a) | Hvor mye vann er det igjen i tanken etter atte dager?
+Hvor mange dager gar det for tanken er tom?
+
+b) Bestem funksjonsuttrykket f(x) til en funksjon f som viser hvor mange liter vann
+det er igjen i tanken etter x dager.
+
+c) Tegn grafen til f.
+Vis hvordan du kan bruke grafen til a finne svar pa spgrsmalene i oppgave 7 a).
+
+Oppgave & (3 poeng)
+
+ 
+
+| en eske er det tre rade og to bla kuler. Sondre trekker tilfeldig to av kulene.
+a) Bestem sannsynligheten for at han trekker to rade kuler.
+
+b) | Bestem sannsynligheten for at de to kulene han trekker, har samme farge.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2013 Side 17 av 24
+
+mat@matikk.net
+
+ 
+ 
+
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (8 poeng)
+
+Ole arbeider pa et mekanisk verksted. Han har en timelonn pa 195 kroner innenfor vanlig
+arbeidstid. Nedenfor ser du hvor mange timer han arbeidet en maned.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Arbeid Antall timer
+Vanlig arbeidstid 150
+Overtid med 50 %tillegs 16
+Overtid med 100 % tillegg 6
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Bestem bruttolgnna til Ole denne maneden.
+
+Ole betaler 2 % av bruttolgnna til en pensjonskasse.
+
+b) Hvor mye betalte Ole til pensjonskassen denne maneden?
+
+Ole betaler 36 % skatt.
+
+c) Hvor mye fikk Ole utbetalt etter at skatten var trukket fra, denne maneden?
+
+En periode arbeidet Ole med et prosjekt pa kveldstid. For timene han brukte pa dette
+prosjektet, fikk han overtid med 50 % tillegg. Han fikk utbetalt 5045 kroner for arbeidet.
+
+d) Hvor mange timer arbeidet han med prosjektet?
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2013 Side 18 av 24
+
+mat@matikk.net
+
+ 
+ 
+
+2 2 (5 poeng)
+
+ 
+
+| en klasse er det 30 elever. Klassen skal arrangere fest. Elevene ma bestemme seg for
+om de vil ha taco eller pizza til middag, og om de vil ha sjokoladekake eller
+marsipankake til dessert.
+
+Hver elev legger en lapp med hvilken middag de gnsker, i én krukke og en lapp med
+hvilken kake de @nsker, i en annen krukke.
+
+Nedenfor ser du hvordan @nskene fordeler seg.
+
+ 
+
+ 
+
+Taco 18 Sjokoladekake 6
+
+ 
+
+ 
+
+Pizza 12 Marsipankake 24
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For a avgj@re hva menyen skal veere, trekker leereren tilfeldig en lapp fra hver krukke.
+a) Bestem sannsynligheten for at det blir taco til middag.
+
+b) Bestem sannsynligheten for at det blir taco til middag og marsipankake til dessert.
+
+4 elever vil ha pizza og sjokoladekake.
+Vi trekker tilfeldig ut en elev.
+
+c) Bestem sannsynligheten for at eleven vil ha taco og marsipankake.
+
+ 
+
+ 
+
+Eksamen MATiO11 Matematikk LP Varen 2013 Side 19 av 24
+
+mat@matikk.net
+
+ 
+Oppgave 3 (6 poeng)
+
+ 
+
+Familien Hansen har hytte pa fjellet. | kijelleren har de en beholder der de samler opp
+regnvann. Beholderen har form som et rett firkantet prisme. Se skissen ovenfor.
+
+a) Hvor mange liter rommer beholderen?
+
+Nar det regner, vil alt vannet som treffer hyttetaket, bli ledet ned i beholderen. Hyttetaket
+er tilnzermet horisontalt og har et areal pa 70 m2. En dag da familien reiser fra hytta, er
+beholderen tom. | lgpet av den neste uken regner det 12 mm.
+
+b) | Hvor h@yt i beholderen star vannet nar familien kommer tilbake etter denne uken?
+En annen dag familien reiser fra hytta, star vannet 10 cm hgyt i beholderen. Nar de
+
+kommer tilbake, star vannet 85 cm hgyt.
+
+c) Hvor mange millimeter har det regnet den tiden de var borte?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2013 | Side 20 av 24
+
+ 
+
+matematikk.net
+
+ 
+ 
+
+Funksjonen h gitt ved
+
+h(t) =3,25t° —50t* +170t +700
+var en god modell for hjortebestanden i en kommune i perioden 1990-2000.
+
+lfalge modellen var det h(t) hjorti kommunen t ar etter 1. januar 1990.
+
+a) Tegn grafentil h for O<t<10.
+
+b) Nar var hjortebestanden sterst, og hvor mange hjort var det i kommunen da?
+
+c) L@slikningen h(t)=850 grafisk, og forklar hva lgsningen forteller om hjortebestanden.
+
+d) Hvor stor var den gjennomsnittlige endringen i antall hjort per ar i perioden
+
+1. januar 1994-1. januar 1998?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2013
+
+mat@matikk.net
+
+Side 21 av 24
+
+ 
+ 
+
+ 
+
+Oppgave 5 (5 poeng)
+kr 18 000 7
+>
+oo
+kr 16 000 - Og?
+Co oO i
+kr 14 000 - ot sao g~
+SEcRla
+kr 12 000 - si “B-8”° 8- ©
+-Bshel- gee 28°
+kr 100001 SHES Bao Be og”
+>eacee ~ Te ss a &
+cm i a
+kr8 0007 Mc i ~ eos ie
+Cc) 1
+kr 6 OOO - o BS o ch
+om ;
+kr 4 000 oBe hc icik
+r ) - mo ~ &
+tT) — 1.
+one f
+kr2000 1 HB &
+
+ 
+
+ 
+
+1 2 2 - a 6 i 6 9 10
+
+Terminer
+
+kr 1 401
+
+kr 14 595
+
+= Renter
+es Awdrag
+
+Ovenfor ser du nedbetalingsplanen for et lan som betales ned i Igpet av 10 terminer.
+Hver termin er 1 ar. Renten i prosent er den samme i hele nedbetalingsperioden.
+
+a) Forklar hvilken type lan dette er.
+b) Hvor stort er det totale lanebelgpet?
+
+c) Hvor mange prosent er renten pa?
+
+Eksamen MAT1011 Matematikk 1P Varen 2013
+
+mat@matikk.net
+
+Side 22 av 24
+
+ 
+
+ 
+
+ 
+Oppgave 6 (4 poeng)
+
+ 
+
+En haug med terr sand har form tilneermet lik en kjegle. Radius i kjeglen er 1,5 ganger sa
+stor som hgyden i kjeglen.
+
+a) Bestem volumet av haugen med terr sand dersom radius i kjeglen er 1,35 m.
+
+b) Bestem hvor hgy kjeglen er dersom haugen med sand har et volum pa 8,0 m8.
+
+Eksamen MAT1011 Matematikk 1P Varen 2013 Side 23 av 24
+
+mat@matikk.net
+
+ 

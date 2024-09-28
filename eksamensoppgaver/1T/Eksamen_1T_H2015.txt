@@ -1,0 +1,347 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+1,8-10°** -0,0005
+
+Oppgave 2 (2 poeng)
+
+Las likningssystemet
+
+2X+3y=13
+4x-2y=2
+
+Oppgave 3 (2 poeng)
+
+Legs ulikheten
+
+~2x* +6x <O
+
+Oppgave 4 (2 poeng)
+
+Regn ut og skriv svaret sa enkelt som mulig
+
+Jay 8 , yg 428
+
+ 
+
+ 
+
+2 3/2
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 13 av 24
+
+mate@matikk.net
+Oppgave 5 (2 poeng)
+
+Likningen x*+bx+c=O har lasningene x, =—4 og x, =2.
+
+Bestem Db Og c.
+
+Oppgave 6 (2 poeng)
+
+Trekk sammen og skriv sa enkelt som mulig
+
+ 
+
+X+1_ x-3 i
+x-1 2x-2 2
+
+Oppgave 7 (2 poeng)
+
+Skriv sa enkelt som mulig
+
+x* —Axy+4y*
+
+ 
+
+3xy —6y”
+
+Oppgave & (2 poeng)
+
+Las likningen
+
+9% oO — 39
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015
+
+mate@matikk.net
+
+Side 14 av 24
+Oppgave 9 (2 poeng)
+
+ 
+
+ 
+
+4
+
+Bestem arealet av AABC ovenfor.
+
+Oppgave 10 (9 poeng)
+
+Funksjonen f er gitt ved
+
+f(x) =x*-x-2
+
+a) Bestem nullounktene til f.
+
+1 9
+b) Vis at grafen til f har bunnpunktet F 3 :
+
+c) Bestem likningen for tangenten til grafen i punktet (2, f(2)).
+
+En rett linje | gar gjennom punktet (3, /) og er parallell med tangenten i oppgave c).
+
+d) Bestem skjzeringspunktene mellom linjen / og grafen til f ved regning.
+
+e) Tegn grafen til f , tangenten i oppgave c) og den rette linjen i oppgave d) i samme
+koordinatsystem.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 15 av 24
+
+mate@matikk.net
+Oppgave 11 (2 poeng)
+
+To trapeser er formlike. Hayden i det minste trapeset er lik h. Hayden i det sterste trapeset
+er lik 3h. Det minste trapeset har areal A.
+
+Vis ved formelregning at det storste trapeset har areal 9A.
+
+Oppgave 12 (4 poeng)
+
+Forskere skal pr@ve ut en ny test for a avgjgre om en person er smittet av en bestemt
+sykdom.
+
+Testen skal proves ut pa 360 personer. Pa forhand vet forskerne at 60 av disse personene
+er smittet av sykdommen, mens resten ikke er smittet.
+
+Det viser seg at 68 av personene tester positivt (det vil si at testen viser at de er smittet av
+sykdommen). Av disse 68 er det 10 personer som forskerne vet ikke er smittet.
+
+a) Tegn av og fyll ut krysstabellen nedenfor.
+
+ 
+
+Smittet Ikke smittet Sum
+
+ 
+
+Tester
+positivt
+
+ 
+
+Tester ikke
+positivt
+
+ 
+
+Sum
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Bestem sannsynligheten for at en person som er smittet, tester positivt.
+
+c) Bestem sannsynligheten for at en person som tester positivt, ikke er smittet.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 16 av 24
+
+mate@matikk.net
+Oppgave 13 (2 poeng)
+| AABC er ZB =90° og tanA -=
+
+Bestem cosC
+
+Oppgave 14 (2 poeng)
+
+ 
+
+Gitt AABC slik at BO=20, AC=13 og sinB ==
+
+Bestem arealet av trekanten.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 17 av 24
+
+mat@ematikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (3 poeng)
+
+Antall registrerte elbiler i Norge
+
+2000 1905
+
+1800 1667
+1600
+1352
++800 1195
+1200 1081
+1000 832
+800 607
+600
+383
+400
+0
+2000 2001 2002 20038 2004 2005 2006 2007
+
+Diagrammet ovenfor viser antall registrerte elbiler i Norge hvert ar fra ar 2000 til ar 2007.
+Antall registrerte elbiler okte tilnazermet linezert | denne perioden.
+
+a) La x vere antall ar etter ar 2000. Bestem en funksjon f som beskriver utviklingen.
+
+| 2008 var det 2 432 registrerte elbiler i Norge, i 2012 var det 9 580, og i 2014 var det 41 051.
+
+b) Hvordan passer funksjonen fra oppgave a) med disse verdiene?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 18 av 24
+
+mat@ematikk.net
+Oppgave 2 (3 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Et kvadrat har sider med lengde 6. Kvadratet er delt i tre bla og én hvit trekant. Se figuren
+ovenfor. Hver av de tre bla trekantene har like stort areal. Den hvite trekanten er likebeint.
+
+Bestem et eksakt uttrykk for arealet av den hvite trekanten.
+
+Oppgave 3 (4 poeng)
+
+Funksjonen f er gitt ved
+
+f(x) =x*-x-2
+
+a) Bruk graftegner til a tegne
+
+e grafen til f
+
+e enrett linje som gar giennom punktene (1, f(1)) og (3, f(3))
+e enrett linje som gar giennom punktene (O, f(O)) og (4, f(4))
+
+e tangenten til grafen til f i punktet (2, f(2))
+
+b) Bruk CAS til a vise at tangenten til grafen til f i punktet (Cc, f(C)) er parallell med den rette
+linjen som gar giennom punktene (c +h, f(c+h)) og (c—h, f(c—h)).
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 19 av 24
+
+matematikk.net
+Oppgave 4 (2 poeng)
+3 5
+Et rektangel har areal 3 og omkrets >
+
+Hvor langt og hvor bredt er rektangelet’?
+
+Oppgave 5 (5 poeng)
+
+Nedenfor ser du overskrift og et sitat fra en artikkel pa e.24.no/bil i 2014 etter at Statens
+vegvesen hadde foretatt trafikktellinger pa en veistrekning.
+
+ 
+
+ 
+
+Fire av fem kjoretoy I
+kollektivfeltet er elbiler
+
+«| telleperioden ble det daglig registrert omtrent 1350 elbiler, 120 busser og 100 drosjer i
+kollektivfeltet.»
+
+   
+
+ 
+
+ 
+
+ 
+
+a) Vurder om sitatet fra artikkelen gir grunnlag for overskriften som er valet.
+Anta at fire av fem kjgretey i kollektivfeltet er elbiler, og at du star langs denne veistrekningen i
+telleperioden.
+
+b) Bestem sannsynligheten for at ngyaktig ett av de tre neste kjoretoyene som passerer deg |
+kollektivfeltet, er elbiler.
+
+c) Bestem sannsynligheten for at minst to av de tre neste kjgretoyene som passerer deg |
+kollektivfeltet, er elbiler.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 20 av 24
+
+mat@ematikk.net
+Oppgave 6 (7 poeng)
+
+Gitt AABC slik at ZA=45°, BC=6 og AC=8
+a) Bruk CAS til a bestemme lengden av AB eksakt.
+
+| resten av oppgaven setter vi BC =a.
+Ved a velge ulike verdier for a kan vi fa to trekanter, én trekant eller ingen trekant.
+
+b) Lag skisser som illustrerer dette.
+
+Sett AB =x
+C) Bruk CAS til a bestemme for hvilke verdier av a likningen
+a’ = 8° + x* —16x-cos 45°
+
+e har to positive lgsninger
+e har én Igsning
+e ikke har Igsning
+
+Bruk eksakte verdier.
+
+d) Vurder om svarene i oppgave c) samsvarer med skissene du laget i oppgave b).
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Hausten/Hg@sten 2015 Side 21 av 24
+
+mate@matikk.net

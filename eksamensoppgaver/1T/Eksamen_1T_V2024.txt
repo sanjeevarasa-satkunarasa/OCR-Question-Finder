@@ -1,0 +1,1003 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+23.05.2024
+
+ 
+
+Eksamen
+MAT1021 Matematikk 1T
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timar.
+
+Delen utan og delen med hjelpemiddel skal delast ut
+samtidig. Delen utan hjelpemiddel skal leverast etter 1 time.
+Etter 1 time kan kandidaten bruke hjelpemiddel.
+
+Delen med hjelpemiddel skal leverast innan 5 timar.
+
+ 
+
+ 
+
+Del utan hjelpemiddel Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+Del med hjelpemiddel Alle hjelpemiddel er tillatne, med unntak av internett og andre
+
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate Delen utan hjelpemiddel har 5 oppgaver.
+Delen med hjelpemiddel har 7 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+utteljing.
+
+Bruk av digitale verktoy som rekneark, programmering,
+grafteiknar og CAS skal dokumenterast.
+
+ 
+
+Rettleiing om vurderinga | Poeng er berre rettleiande i vurderinga. Karakteren blir
+fastsett etter ei samla vurdering. Det betyr at sensor vurderer
+i kva grad du
+
+e viser rekneferdigheiter og matematisk forstaing
+
+e gjennomf@rer logiske resonnement
+
+e ser samanhengar i faget, er oppfinnsam og kan ta i
+bruk fagkunnskap i nye situasjonar
+
+e kan bruke formalstenlege hjelpemiddel
+
+e forklarer framgangsmatar og grunngir svar
+
+e skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+e vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar Kjelder for bilete, teikningar osv.
+e Bagettar: Pixabay (20.01.2024)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1021 Side 2 av 24
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+10
+
+ 
+
+ 
+
+Tom har arbeidd med trekanten ovanfor og pastar at tanu-tanv =1
+a) Vis at Tom har rett.
+
+b) Avgjer om pastanden stemmer for alle rettvinkla trekantar med to spisse
+vinklar u og v.
+
+Oppgave 2 (3 poeng)
+
+Guri har utfort to ulike polynomdivisjonar og pastar at begge divisjonane viser at
+faktoriseringa nedanfor er rett.
+
+2x°+3x? —11x-6 =(2x* +7x+3)-(x—2)
+
+Kva for nokre to polynomdivisjonar kan ho ha utfort?
+
+Utfgr dei to polynomdivisjonane, og forklar at kvar av dei viser at faktoriseringa er
+rett.
+
+ 
+
+Eksamen MAT1021 Side 3 av 24
+Oppgave 3 (2 poeng)
+
+Set opp ein matematisk identitet med utgangspunkt i arealet av det gr@ne omradet.
+
+a—-b b
+
+ 
+
+a—b
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a—-b b
+
+Oppgave 4 (2 poeng)
+Ada har laga programmet nedanfor.
+
+def f(x):
+return xX *kK 2-3 * x +7
+
+1
+
+2
+
+3
+
+4
+
+5 b=5
+6
+
+7 v = (f(b) - fla))/ (b-a
+8
+
+9
+
+print(v
+
+Kva verdi blir skriven ut nar Ada k@yrer programmet, og kva fortel denne verdien?
+
+ 
+
+Eksamen MAT1021 Side 4 av 24
+Oppgave 5 (4 poeng)
+
+Figuren viser grafen til ein funksjon f.
+
+240
+(0,24)
+20 -
+16 |
+
+12 4
+
+(4,0)
+
+ 
+
+ 
+
+a) Bestem f(x)
+
+b) Lays ulikskapen f(x)>12
+
+no
+
+Vv
+
+ 
+
+Eksamen MAT1021
+
+Side 5 av 24
+ 
+
+ 
+
+DEL 2
+
+Med hjelpemiddel
+
+ 
+
+ 
+
+Oppgave 1 (8 poeng)
+
+ 
+
+Tabellen nedanfor viser kor mange bagettar ei kantine har selt kvar av dei siste sju
+vekene, og kor stort overskot salet har gitt.
+
+ 
+
+Selde bagettar
+
+100
+
+160
+
+175
+
+190
+
+220
+
+235
+
+ 
+
+Overskot (kroner)
+
+ 
+
+ 
+
+1450
+
+ 
+
+2300 | 3050
+
+ 
+
+ 
+
+3365
+
+ 
+
+3720
+
+ 
+
+4140
+
+ 
+
+4175
+
+ 
+
+ 
+
+a) Bruk opplysningane ovanfor til a vise at funksjonen O gitt ved
+
+O(x) =—0,09x? +51,04x —2776,98
+
+er ein god modell for kor stort overskotet for ei veke blir nar kantina produserer og
+
+sel X bagettar i lgpet av veka.
+
+b) Kor mange bagettar ma kantina produsere og selje i Igpet av ei veke, if@lgje
+
+modellen O, for at overskotet skal bli st@rst mogleg? Kor stort blir dette
+
+overskotet?
+
+c) Bestem stigningstalet til den rette linja som gar gjennom punkta (100, 0(100)) og
+(200, O(200)). Gi ei praktisk tolking av svaret du far.
+
+d) Bestem den momentane vekstfarten nar x =235. Gi ei praktisk tolking av svaret
+
+du far.
+
+ 
+
+Eksamen MAT1021
+
+Side 6 av 24
+Oppgave 2 (3 poeng)
+Nar ein lysstrale gar fra luft til vatn, skiftar han retning.
+
+Pa figuren star linja m vinkelrett pa vassoverflata, m
+og lysstralen gar fra a danne ein vinkel u med m til
+a danne ein vinkel v med m. U
+
+Nar lysstralen gar fra luft til vann, vil
+
+ 
+
+sinu = 1,33-sinv V
+
+ 
+
+a) Kor stor ma vinkelen u vere for at vinkelen v skal bli 39°?
+b) Kva vil skje med vinkelen v dersom vinkelen u ngermar seg 90°?
+
+c) Kan vinklane u og v bli like store?
+
+Hugs a grunngi svara dine.
+
+Oppgave 3 (4 poeng)
+Du far vite folgjande om ein trekant ABC
+
+e ABer8
+e £A=120°
+
+e Arealet av trekanten er A/3
+
+Bestem lengdene av sidene AC og BC eksakt.
+
+ 
+
+Eksamen MAT1021 Side 7 av 24
+Oppgave 4 (4 poeng)
+| denne oppgava skal du arbeide med summar av oddetal.
+
+S,=1
+
+S,=1+3
+
+S,=1+3+5
+S,=14+34+5+7
+S;=1+3+5+7+9
+
+S, =14+34+5+/7+9+11
+
+a) Lag et program som summerer og skriv ut summane S,, S,, S, ... S.,
+
+b) Beskriv samanhengen du oppdagar nar du ser pa summane som er skrivne ut.
+Bruk figuren nedanfor til a argumentere for at samanhengen ma vere rett.
+
+ 
+
+ 
+
+(@/e/e/e
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1021 Side 8 av 24
+Oppgave 5 (8 poeng)
+Til hggare over havet vi er, til
+lagare er lufttrykket.
+
+   
+   
+
+Lufttrykk blir ofte malt i hektopascal (hPa).
+
+Lufttrykket ved havets overflate er
+ca. 1000 hPa.
+
+Nar lufttrykket er lagare enn 1000 hPa, vil kokepunktet for vatn vere lagare
+enn 100 °C. Sja tabellen nedanfor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lufttrykk (hPa) Kokepunkt for vatn (°C )
+1000 100
+500 81,4
+200 60,1
+80 41,5
+40 29
+
+ 
+
+a) Bestem ein modell K pa forma
+K(x)=a-x?
+
+som tilngerma viser samanhengen mellom lufttrykket x hPa og
+kokepunktet K(x) °C.
+
+ 
+
+Ari: Betyr dette at det ikkje gar an a fa egg hardkokte oppe pa eit h@gt fjell?
+Eit egg blir ikkje hardkokt dersom temperaturen i vatnet er lagare enn 85 °C.
+
+Lisa: Det kjem vel an pa kor hggt fjellet er?
+
+Ari: Eg vil lage ein modell som viser kor hggt lufttrykket er x kilometer over
+havoverflata. Eg har laert at lufttrykket minkar med ca. 12 % per km.
+
+Lisa: [Eg har leert at lufttrykket blir halvert for kvar 5,5 kilometer. Eg vil ta utgangspunkt
+i dette og lage ein modell pa same form som den du lagar, Ari.
+
+ 
+
+ 
+
+ 
+
+b) Lag modellane for Ari og Lisa.
+
+c) Omtrent kor hggt over havet er det mogleg a fa egg hardkokte?
+
+ 
+
+Eksamen MAT1021 Side 9 av 24
+Oppgave 6 (2 poeng)
+
+ 
+
+ 
+
+Den rette linja som er teikna i koordinatsystemet ovanfor, er den deriverte av ein
+funksjon f.
+
+Punktet P(1,2) ligg pa grafen til f.
+
+Bestem likninga for tangenten til grafen til f i punktet P.
+Hugs a argumentere for at svaret ditt er rett.
+
+ 
+
+Eksamen MAT1021 Side 10 av 24
+Oppgave 7 (6 poeng)
+
+ 
+
+C
+
+ 
+
+Figuren ovanfor viser tre grafar som til saman dannar ei lukka kurve.
+
+e To av grafane har botnpunkt som ligg pa y- aksen.
+e Punktet A og punktet B har same y - koordinat.
+
+Bruk tre ulike funksjonar og lag ein tilsvarande figur slik at krava i begge kulepunkta
+ovanfor er oppfylte.
+
+Det skal ga klart fram av svaret kva funksjonsuttrykk du har brukt.
+
+Hugs a forklare korleis du har tenkt, og argumenter for at Igysinga di er rett.
+
+ 
+
+Eksamen MAT1021 Side 11 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+
+Delen uten og delen med hjelpemidler skal deles ut samtidig.
+Delen uten hjelpemidler skal leveres etter 1 time.
+
+Etter 1 time kan kandidaten bruke hjelpemidler.
+
+Delen med hjelpemidler skal leveres innen 5 timer.
+
+ 
+
+Del uten hjelpemidler Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Del med hjelpemidler Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Delen uten hjelpemidler har 5 oppgaver.
+Delen med hjelpemidler har 7 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe
+uttelling.
+
+Bruk av digitale verktgy som regneark, programmering,
+graftegner og CAS skal dokumenteres.
+
+ 
+
+Veiledning om Poeng er bare veiledende i vurderingen. Karakteren blir
+vurderingen fastsatt etter en samlet vurdering. Det betyr at sensor
+vurderer i hvilken grad du
+
+e viser regneferdigheter og matematisk forstaelse
+
+e gjennomf@¢rer logiske resonnementer
+
+e ser sammenhenger i faget, er oppfinnsom og kan
+ta i bruk fagkunnskap i nye situasjoner
+
+e kan bruke hensiktsmessige hjelpemidler
+
+e forklarer framgangsmater og begrunner svar
+
+e skriver oversiktlig og er ngyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+e vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+e Bagetter: Pixabay (20.01.2024)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1021 Side 12 av 24
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+10
+
+ 
+
+ 
+
+Tom har arbeidet med trekanten ovenfor og pastar at tanu-tanv =1
+a) Vis at Tom har rett.
+
+b) Avgj@r om pastanden stemmer for alle rettvinklede trekanter med to spisse
+vinkler U og V.
+
+Oppgave 2 (3 poeng)
+
+Guri har utfort to ulike polynomdivisjoner og pastar at begge divisjonene viser at
+faktoriseringen nedenfor er riktig.
+
+2x°+3x? —11x-6 =(2x* +7x+3)-(x—2)
+
+Hvilke to polynomdivisjoner kan hun ha utf@rt?
+
+Utfgr de to polynomdivisjonene, og forklar at hver av dem viser at faktoriseringen er
+riktig.
+
+ 
+
+Eksamen MAT1021 Side 13 av 24
+Oppgave 3 (2 poeng)
+
+Sett opp en matematisk identitet med utgangspunkt i arealet av det gronne omradet.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a-b b
+a-b
+a
+b
+a-b b
+Oppgave 4 (2 poeng)
+Ada har laget programmet nedenfor.
+1 def f(x):
+2 return X *k 2-3 * x +7
+3
+4 a=@
+5 b=5
+6
+7 v = (f(b) - fla))/ (b-a
+8
+9 print(v
+
+Hvilken verdi skrives ut nar Ada kjgrer programmet, og hva forteller denne verdien?
+
+ 
+
+Eksamen MAT1021 Side 14 av 24
+Oppgave 5 (4 poeng)
+
+Figuren viser grafen til en funksjon f.
+
+24.0
+(0,24)
+20 -
+16 |
+
+12 7
+
+ 
+
+ 
+
+a) Bestem f(x)
+
+b) Ls ulikheten f(x)>12
+
+vw
+
+ 
+
+Eksamen MAT1021
+
+Side 15 av 24
+ 
+
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+Oppgave 1 (8 poeng)
+
+ 
+
+Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de siste sju
+ukene, og hvor stort overskudd salget har gitt.
+
+ 
+
+Solgte bagetter
+
+100
+
+130
+
+160
+
+175
+
+190
+
+220
+
+235
+
+ 
+
+Overskudd (kroner)
+
+ 
+
+ 
+
+1450
+
+ 
+
+2300
+
+ 
+
+3050
+
+ 
+
+3365
+
+ 
+
+3720
+
+ 
+
+4140
+
+ 
+
+4175
+
+ 
+
+ 
+
+a) Bruk opplysningene ovenfor til a vise at funksjonen O gitt ved
+
+O(x) = —0,09x* +51,04x — 2776,98
+
+er en god modell for hvor stort overskuddet en uke blir nar kantinen produserer og
+selger x bagetter i ldpet av uken.
+
+b) Hvor mange bagetter ma kantinen produsere og selge i Igpet av en uke, ifglge
+
+modellen O, for at overskuddet skal bli storst mulig? Hvor stort blir dette
+
+overskuddet?
+
+c) Bestem stigningstallet til den rette linjen som gar gjennom punktene (100, 0(100))
+
+og (200, 0(200)). Gi en praktisk tolkning av svaret du far.
+
+d) Bestem den momentane vekstfarten nar x =235. Gi en praktisk tolkning av svaret
+
+du far.
+
+ 
+
+Eksamen MAT1021
+
+Side 16 av 24
+Oppgave 2 (3 poeng)
+
+Nar en lysstrale gar fra luft til vann, skifter den retning.
+
+Pa figuren star linjen m vinkelrett pa vannoverflaten m
+og lysstralen gar fra a danne en vinkel u med m til
+a danne en vinkel v med m. U
+
+Nar lysstralen gar fra luft til vann, vil
+
+ 
+
+sinu = 1,33-sinv V
+
+ 
+
+a) Hvor stor ma vinkelen u veere for at vinkelen v skal bli 39°?
+b) Hva vil skje med vinkelen v dersom vinkelen U neermer seg 90°?
+
+c) Kan vinklene u og v bli like store?
+
+Husk a begrunne svarene dine.
+
+Oppgave 3 (4 poeng)
+Du far vite fglgende om en trekant ABC
+
+e ABer8
+e ZA=120°
+
+e Arealet av trekanten er AJ3
+
+Bestem lengdene av sidene AC og BC eksakt.
+
+ 
+
+Eksamen MAT1021 Side 17 av 24
+Oppgave 4 (4 poeng)
+| denne oppgaven skal du arbeide med summer av oddetall.
+
+S,=1
+
+S,=1+3
+
+S,=1+3+5
+S,=14+34+5+7
+S;=1+3+5+7+9
+
+S, =14+34+5+/7+9+11
+
+a) Lag et program som summerer og skriver ut summene S,, S,, S, ... S.,
+
+b) Beskriv sammenhengen du oppdager nar du ser pa summene som er skrevet ut.
+Bruk figuren nedenfor til 4 argumentere for at sammenhengen ma veere riktig.
+
+ 
+
+ 
+
+ 
+
+ 
+
+elelolele
+
+ 
+
+Eksamen MAT1021 Side 18 av 24
+Oppgave 5 (8 poeng)
+Jo hg@yere over havet vi befinner
+oss, jo lavere er lufttrykket.
+
+    
+  
+
+Lufttrykk males ofte i hektopascal (hPa).
+
+Lufttrykket ved havets overflate er
+ca. 1000 hPa.
+
+Nar lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann veere lavere
+enn 100 °C. Se tabellen nedenfor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lufttrykk (hPa) Kokepunkt for vann (°C )
+1000 100
+500 81,4
+200 60,1
+80 41,5
+40 29
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Bestem en modell K pa formen
+K(x)=a-x?
+
+som tilnzermet viser sammenhengen mellom lufttrykket x hPa og
+kokepunktet K(x) °C.
+
+ 
+
+Ari: Betyr dette at det ikke gar an fa egg hardkokte oppe pa et hgyt fjell?
+Et egg blir ikke hardkokt dersom temperaturen i vannet er lavere enn 85 °C.
+
+Lisa: Det kommer vel an pa hvor h@yt fjellet er?
+
+Ari: Jeg vil lage en modell som viser hvor hgyt lufttrykket er x kilometer over havets
+overflate. Jeg har leert at lufttrykket minker med ca. 12 % per km.
+
+Lisa: Jeg har leert at lufttrykket halveres for hver 5,5 km. Jeg vil ta utgangspunkt i
+dette og lage en modell pa samme form som den du lager, Ari.
+
+ 
+
+ 
+
+b) Lag modellene for Ari og Lisa.
+
+c) Omtrent hvor hgyt over havet er det mulig a fa egg hardkokte?
+
+ 
+
+Eksamen MAT1021 Side 19 av 24
+
+ 
+Oppgave 6 (2 poeng)
+
+ 
+
+ 
+
+Den rette linjen som er tegnet i koordinatsystemet ovenfor, er den deriverte av en
+funksjon f.
+
+Punktet P(1,2) ligger pa grafen til f .
+
+Bestem likningen for tangenten til grafen til f i punktet P.
+Husk a argumentere for at svaret ditt er riktig.
+
+ 
+
+Eksamen MAT1021 Side 20 av 24
+Oppgave 7 (6 poeng)
+
+ 
+
+C
+
+ 
+
+Figuren ovenfor viser tre grafer som til sammen danner en lukket kurve.
+
+e To av grafene har bunnpunkter som ligger pa y - aksen.
+e Punktet A og punktet B har samme y- koordinat.
+
+Bruk tre ulike funksjoner og lag en tilsvarende figur slik at kravene i begge
+kulepunktene ovenfor er oppfylt.
+
+Det skal ga klart fram av besvarelsen hvilke funksjonsuttrykk du har brukt.
+
+Husk a forklare hvordan du har tenkt, og argumenter for at Igsningen din er riktig.
+
+ 
+
+Eksamen MAT1021 Side 21 av 24
+Blank side
+
+ 
+
+Eksamen MAT1021 Side 22 av 24
+Blank side
+
+ 
+
+Eksamen MAT1021 Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

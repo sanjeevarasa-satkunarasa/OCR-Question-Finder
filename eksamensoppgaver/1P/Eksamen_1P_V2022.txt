@@ -1,0 +1,1087 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+25.05.2022
+
+ 
+
+Eksamen
+MAT1019 Matematikk 1P
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timar.
+
+Delen utan og delen med hjelpemiddel skal delast ut
+samtidig. Delen utan hjelpemiddel skal leverast etter 1 time.
+Etter 1 time kan kandidaten bruke hjelpemiddel.
+
+Delen med hjelpemiddel skal leverast innan 5 timar.
+
+ 
+
+ 
+
+Del utan hjelpemiddel Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+Del med hjelpemiddel Alle hjelpemiddel er tillatne, med unntak av internett og andre
+
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate Delen utan hjelpemiddel har 6 oppgaver.
+Delen med hjelpemiddel har 8 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+utteljing.
+
+Bruk av digitale verktoy som rekneark, programmering,
+grafteiknar og CAS skal dokumenterast.
+
+ 
+
+Rettleiing om vurderinga | Poeng er berre rettleiande i vurderinga. Karakteren blir
+fastsett etter ei samla vurdering. Det betyr at sensor vurderer
+i kva grad du
+
+e viser rekneferdigheiter og matematisk forstaing
+
+e gjennomf@rer logiske resonnement
+
+e ser samanhengar i faget, er oppfinnsam og kan ta i
+bruk fagkunnskap i nye situasjonar
+
+e kan bruke formalstenlege hjelpemiddel
+
+e forklarer framgangsmatar og grunngir svar
+
+e skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+e vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar Kjelder for bilete, teikningar osv.
+
+e Dusjsape: https://pixabay.com/no/ (11.03.2022)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019 Side 2 av 24
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+Renta pa eit lan steig fra 2,0 % til 2,2 %.
+a) Kor mange prosentpoeng steig renta med?
+
+b) Kor mange prosent steig renta med?
+
+Oppgave 2
+
+Elevar ved skulen
+
+1200
+1000
+800
+600
+
+400
+
+Tal pa elevar
+
+200
+
+   
+
+2018 2019 2020 2021
+
+Ar
+
+Diagrammet viser talet pa elevar ved ein vidaregaande skule dei fire siste ara.
+
+Nar var det st@rst prosentvis auke i talet pa elevar fra eit ar til det neste?
+
+ 
+
+Eksamen MAT1019 Side 3 av 24
+Oppgave 3
+a) Gi eit dgme pa to storleikar som er proporsjonale.
+
+b) Lag ei grafisk framstilling som viser samanhengen mellom dei to storleikane.
+
+Oppgave 4
+
+Siri har eit stykke papp og vil lage ei eske. Ho har sett opp ein modell som
+viser volumet V(x) cm? av eska dersom ho lagar ho x cm hg@g
+
+V(x)=4x°-100x*+600x , O<x<10
+
+a) Kor stort volum far eska dersom Siri lagar ho 5 cm hg@g?
+
+b) Kva finn Siri ut dersom ho Igyser likninga V(x)=500?
+
+Oppgave 5
+
+startverdi = 2000
+
+verdi = startverdi
+
+vekstfaktor = 1.05
+
+ar = @
+
+while verdi < startverdi x* 2:
+verdi = verdi * vekstfaktor
+
+ar =ar+1
+
+print(verdi)
+print(ar)
+
+Ein elev har skrive programkoden ovanfor.
+
+Kva gnskjer eleven a finne ut?
+Forklar kva som skjer nar programmet blir kgyrd.
+
+ 
+
+Eksamen MAT1019 Side 4 av 24
+Oppgave 6
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eit rektangel er tre gonger sa langt som det er breitt.
+Arealet av rektangelet er 432 cm?.
+
+Kor breitt er rektangelet?
+
+ 
+
+Eksamen MAT1019 Side 5 av 24
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+Ein fabrikk har ein vasstank. Vatnet i tanken skal tappast ut.
+
+Anta at funksjonen V gitt ved
+
+2
+v(x) =2000-2000 {1-2 , O<x<40
+
+kan brukast som ein modell for kor mange liter vatn V(x) som er tappa ut av
+tanken x minutt etter at tappinga starta.
+
+a) Bestem V(0). Gi ei praktisk tolking av svaret.
+b) Bestem verdimengda til V.
+c) Kor lang tid vil det ta for halvparten av vatnet er tappa ut av tanken?
+
+d) Bestem stigningstalet til den rette linja som gar gjennom punkta (0, V(0))
+og (30, V(30)). Gi ei praktisk tolking av svaret.
+
+e) Undersgk om det nokon gong vil tappast ut meir enn 105 liter vatn i Iopet av eitt
+minutt.
+
+ 
+
+Eksamen MAT1019 Side 6 av 24
+Oppgave 2
+
+Markus skal leige ein bil i eit dagn. Grafane nedanfor viser prisen han ma betale hos
+firma A, firma B og firma C.
+
+ 
+   
+ 
+
+Y Kroner
+1500
+
+1400
+1300
+1200
+
+1100 Firma B
+
+Firma A
+
+ 
+
+Tal pa kilometer x
+
+ 
+
+0 25 50 75 100 125 150 175 200 225 250 275 300
+
+a) Forklar at prisen Markus ma betale hos firma A, kan beskrivast med
+uttrykket A(x) = 4x +600
+
+b) Kva blir prisen per kilometer hos firma B dersom Markus kgyrer 50 km?
+Kva blir prisen per kilometer hos firma B dersom Markus k@yrer 400 km?
+
+Markus skal k@yre fra Bodg til Sulitjelma og tilbake til Bod@ igjen. Pa internett finn
+han ut at avstanden fra Bodg til Sulitjelma er 9,7 mil.
+
+c) Gjer berekningar, og vurder kva firma han bor leige bil hos.
+
+ 
+
+Eksamen MAT1019 Side 7 av 24
+Oppgave 3
+
+Ei flaske dusjsape kostar det same i fire butikkar.
+
+Dei fire butikkane bestemmer seg for a setje ned prisen.
+Dette gjer dei pa kvar sin mate. Sja nedanfor.
+
+ 
+
+Butikk A
+
+Tilbod
+dusjsape
+
+ 
+
+Ta 3 flasker, og betal for 2 av dei.
+
+Butikk B
+
+Tilbod
+dusjsape
+
+30 % rabatt
+
+ 
+
+ 
+
+ 
+
+Butikk C
+
+Tilbod
+dusjsape
+
+Betal full pris for éi flaske,
+og fa 75 % rabatt pa den neste.
+
+ 
+
+ 
+
+ 
+
+Butikk D
+Tilbod
+
+dusjsape
+
+Betal full pris for 3 flasker,
+og fa i tillegg 2 gratis.
+
+ 
+
+ 
+
+Gjer berekningar, og set opp ei oversikt der du sorterer tilboda etter kor
+
+gode dei er.
+
+ 
+
+Eksamen MAT1019
+
+Side 8 av 24
+Oppgave 4
+Ved ein temperatur pa 22 °C veg 1 L olje 0,9124 kg.
+
+a) Kor mange gram veg 10 mL av oljen ved denne temperaturen?
+
+Oljen i eit beger veg 556,6 g ved ein temperatur pa 22 °C.
+
+b) Kor mange desiliter olje er det i begeret?
+
+Oppgave 5
+Ein bakterie formeirar seg ved todeling kvart 20. minultt.
+
+Det vil seie at om det i starten er éin bakterie, vil det etter 20 minutt vere 2 bakteriar,
+etter 40 minutt fire bakteriar osv.
+
+Kor mange bakteriar vil det vere etter 12 timar?
+
+ 
+
+Eksamen MAT1019 Side 9 av 24
+Oppgave 6
+
+ 
+
+Figur 1 Figur 2 Figur 3
+
+Ovanfor ser du tre figurar. Figurane er sette saman av sma klossar. Roar vil fortsetje
+a lage figurar etter same m@nster.
+
+a) Kor mange klossar treng han for a lage figur 5?
+b) Kor mange klossar treng han til saman for a lage dei 10 forste figurane?
+Roar har 10 000 klossar. Han vil starte med den minste figuren og lage éin figur i kvar
+
+storleik.
+
+c) Kor mange figurar kan han lage?
+Kor mange klossar vil han ha igjen nar han har laga figurane?
+
+ 
+
+Eksamen MAT1019 Side 10 av 24
+Oppgave 7
+
+Da Eline og Malene kom til hytta, var temperaturen i stua 2,0 °C. Dei skrudde pa
+varmen og stilte termostaten pa 20 °C. Tabell 1 viser temperaturen i stua x minutt
+etter at dei skrudde pa varmen.
+
+ 
+
+1 5 10 20 30 90 80 120
+
+ 
+
+2,0 3,/ 9,3 8,0 10,2 | 13,4 | 16,4 | 18,4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabell 1
+
+Eline og Malene vil lage ein modell som viser temperaturen i stua x minutt etter at
+dei skrudde pa varmen. Dei startar med a bruke tala i tabell 1 til a lage ein
+modell T, pa forma T,(x)=a-x°
+
+a) Bestem tala a og b.
+b) Vurder gyldigheitsomradet til modellen T,.
+Eline og Malene @nskjer a forbetre modellen T,. Eline foreslar at dei skal trekkje
+
+20 °C fra kvar temperatur dei har malt, og heller bruke ein eksponentialfunksjon som
+modell. Ho set opp ein ny tabell.
+
+ 
+
+1 5 10 20 30 50 80 120
+
+ 
+
+—18,0 | -16,3 | -14,7 | -12,0 | -9,8 | -6,6 | -3,6 | -1,6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabell 2
+
+c) Lag ein eksponentialfunksjon f som passar godt til tala i tabell 2.
+
+d) Teikn grafen til T, og grafen til f i same koordinatsystem.
+Beskriv forskjellar mellom dei to grafane.
+
+Malene meiner dei kan bruke funksjonen f til a lage ein betre modell enn T, for
+temperaturen i stua. «Vi Iofter grafen til f opp 20 °C, slik at han startar omtrent i
+punktet (0,2)», seier ho. «Da vil han passe perfekt.»
+
+e) Bruk funksjonen f , og lag ein modell T, ved a gjere som Malene foreslar.
+Kva vil temperaturen i stua vere etter 4 timar if@lgje modellen T, ?
+
+ 
+
+Eksamen MAT1019 Side 11 av 24
+Oppgave 8
+Figuren viser eit lysgardin med sma lyspeerer.
+
+Lyspeerene heng pa tradar. Den fgrste traden i ei lenkje har tre lyspeerer, den neste
+har seks og den tredje har ni. Dette m@nsteret blir gjenteke vidare.
+
+Avstanden mellom kvar trad er 10 cm.
+Figuren viser altsa eit gardin med lengd 80 cm.
+
+|—___— 80 cm
+
+ 
+
+ 
+
+ 
+
+O—O—O—_O0— 0
+O—O—_O—0— 0
+O—O—O—_0—
+
+ 
+
+ 
+
+ 
+
+Eit anna lysgardin av same type er éin meter langt.
+
+a) Kor mange tradar har dette lysgardinet?
+
+b) Kor mange lysperer er det pa den siste traden? eter)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen viser talet pa lyspaerer pa lysgardin med ulike lengder. 1 63
+2 126
+
+c) Kor mange lysperer er det pa eit 15 meter langt lysgardin? 3 183
+d) Kva lengder, i heile meter, kan eit lysgardin ha om det skal vere 4 243
+ni lyspzerer pa den siste traden? 9 306
+
+6 363
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019 Side 12 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+
+Delen uten og delen med hjelpemidler skal deles ut samtidig.
+Delen uten hjelpemidler skal leveres etter 1 time.
+
+Etter 1 time kan kandidaten bruke hjelpemidler.
+
+Delen med hjelpemidler skal leveres innen 5 timer.
+
+ 
+
+Del uten hjelpemidler Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Del med hjelpemidler Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Delen uten hjelpemidler har 6 oppgaver.
+Delen med hjelpemidler har 8 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe
+uttelling.
+
+Bruk av digitale verktgy som regneark, programmering,
+graftegner og CAS skal dokumenteres.
+
+ 
+
+Veiledning om Poeng er bare veiledende i vurderingen. Karakteren blir
+vurderingen fastsatt etter en samlet vurdering. Det betyr at sensor
+vurderer i hvilken grad du
+
+e viser regneferdigheter og matematisk forstaelse
+
+e gjennomf@¢rer logiske resonnementer
+
+e ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+e kan bruke hensiktsmessige hjelpemidler
+
+e forklarer framgangsmater og begrunner svar
+
+e skriver oversiktlig og er ngyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+e vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+
+e Dusjsape: https://pixabay.com/no/ (11.03.2022)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019 Side 13 av 24
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+Renten pa et lan steg fra 2,0 % til 2,2 %.
+a) Hvor mange prosentpoeng steg renten med?
+
+b) Hvor mange prosent steg renten med?
+
+Oppgave 2
+
+Elever ved skolen
+
+1200
+
+1000
+
+800
+600
+400
+200
+
+0
+
+2018 2019 2020 2021
+
+Antall elever
+
+ 
+
+Ar
+
+Diagrammet viser antall elever ved en videregaende skole de fire siste arene.
+
+Nar var det st@rst prosentvis @kning i antall elever fra et ar til det neste?
+
+ 
+
+Eksamen MAT1019 Side 14 av 24
+Oppgave 3
+a) Gi et eksempel pa to storrelser som er proporsjonale.
+
+b) Lag en grafisk framstilling som viser sammenhengen mellom de to st@rrelsene.
+
+Oppgave 4
+
+Siri har et stykke papp og vil lage en eske. Hun har satt opp en modell som viser
+volumet V(x) cm? av esken dersom hun lager den x cm hoy
+
+V(x)=4x°-100x*+600x , O<x<10
+
+a) Hvor stort volum far esken dersom Siri lager den 5 cm hgy?
+
+b) Hva finner Siri ut dersom hun Igser likningen V(x) =500 ?
+
+Oppgave 5
+
+startverdi = 2000
+
+verdi = startverdi
+
+vekstfaktor = 1.@5
+
+ar = 0
+
+while verdi < startverdi * 2:
+verdi = verdi * vekstfaktor
+
+ar = ar+1
+
+print(verdi)
+print (ar)
+
+En elev har skrevet programkoden ovenfor.
+
+Hva gnsker eleven a finne ut?
+Forklar hva som skjer nar programmet kjgres.
+
+ 
+
+Eksamen MAT1019 Side 15 av 24
+Oppgave 6
+
+ 
+
+ 
+
+ 
+
+ 
+
+Et rektangel er tre ganger sa langt som det er bredt.
+Arealet av rektangelet er 432 cm?.
+
+Hvor bredt er rektangelet?
+
+ 
+
+Eksamen MAT1019 Side 16 av 24
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+En fabrikk har en vanntank. Vannet i tanken skal tappes ut.
+
+Anta at funksjonen V gitt ved
+2
+v(x)=2000-2000,{1-) , O<x<40
+
+kan brukes som en modell for hvor mange liter vann V(x) som er tappet ut av
+tanken x minutter etter at tappingen startet.
+
+a) Bestem V(0). Gi en praktisk tolkning av svaret.
+b) Bestem verdimengden til V.
+c) Hvor lang tid vil det ta for halvparten av vannet er tappet ut av tanken?
+
+d) Bestem stigningstallet til den rette linjen som gar gjennom punktene (0, V(0))
+og (30, V(30)). Gi en praktisk tolkning av svaret.
+
+e) Undersgk om det noen gang vil tappes ut mer enn 105 liter vann i Ipet av ett
+minutt.
+
+ 
+
+Eksamen MAT1019 Side 17 av 24
+Oppgave 2
+
+Markus skal leie en bil i et dagn. Grafene nedenfor viser prisen han ma betale hos
+firma A, firma B og firma C.
+
+ 
+   
+ 
+
+Y Kroner
+1500
+
+1400
+1300
+1200
+
+1100 Firma B
+
+Firma A
+
+ 
+
+Antall kilometer x
+
+ 
+
+0 25 50 75 100 125 150 175 200 225 250 275 300
+
+a) Forklar at prisen Markus ma betale hos firma A, kan beskrives med
+uttrykket A(x) = 4x +600
+
+b) Hva blir prisen per kilometer hos firma B dersom Markus kj@rer 50 km?
+Hva blir prisen per kilometer hos firma B dersom Markus kjg@rer 400 km?
+
+Markus skal kjgre fra Bodg@ til Sulitjelma og tilbake til Bod@ igjen. Pa internett finner
+han ut at avstanden fra Bod@ til Sulitjelma er 9,7 mil.
+
+c) Gjor beregninger, og vurder hvilket firma han bg@r leie bil hos.
+
+ 
+
+Eksamen MAT1019 Side 18 av 24
+Oppgave 3
+
+En flaske dusjsape koster det samme i fire butikker.
+
+De fire butikkene bestemmer seg for a Sette ned prisen.
+Dette gjor de pa hver sin mate. Se nedenfor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Butikk A Butikk B
+Tilbud Tilbud
+dusjsape dusjsape
+Ta 3 flasker, og betal for 2 av dem. 30 % rabatt
+Butikk C Butikk D
+Tilbud Tilbud
+dusjsape dusjsape
+Betal full pris for 3 flasker,
+Betal full pris for én flaske, og fa i tillegg 2 gratis.
+og fa 75 % rabatt pa den neste.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gj@r beregninger, og sett opp en oversikt hvor du sorterer tilbudene etter hvor
+gode de er.
+
+ 
+
+Eksamen MAT1019
+
+Side 19 av 24
+Oppgave 4
+Ved en temperatur pa 22 °C veier 1 L olje 0,9124 kg.
+
+a) Hvor mange gram veier 10 mL av oljen ved denne temperaturen?
+
+Oljen i et beger veier 556,6 g ved en temperatur pa 22 °C.
+
+b) Hvor mange desiliter olje er det i begeret?
+
+Oppgave 5
+En bakterie formerer seg ved todeling hvert 20. minultt.
+
+Det vil si at om det i starten er én bakterie, vil det etter 20 minutter veere 2 bakterier,
+etter 40 minutter fire bakterier osv.
+
+Hvor mange bakterier vil det veere etter 12 timer?
+
+ 
+
+Eksamen MAT1019 Side 20 av 24
+Oppgave 6
+
+ 
+
+Figur 1 Figur 2 Figur 3
+
+Ovenfor ser du tre figurer. Figurene er satt sammen av sma klosser. Roar vil fortsette
+a lage figurer etter samme m@nster.
+
+a) Hvor mange klosser trenger han for a lage figur 5?
+b) Hvor mange klosser trenger han til sammen for a lage de 10 forste figurene?
+Roar har 10 000 klosser. Han vil starte med den minste figuren og lage én figur i hver
+
+stgrrelse.
+
+c) Hvor mange figurer kan han lage?
+Hvor mange klosser vil han ha igjen nar han har laget figurene?
+
+ 
+
+Eksamen MAT1019 Side 21 av 24
+Oppgave 7
+
+Da Eline og Malene kom til hytta, var temperaturen i stua 2,0 °C. De skrudde pa
+varmen og stilte termostaten pa 20 °C. Tabell 1 viser temperaturen i stua x minutter
+etter at de skrudde pa varmen.
+
+ 
+
+1 5 10 20 30 90 80 120
+
+ 
+
+2,0 3,/ 9,3 8,0 10,2 | 13,4 | 16,4 | 18,4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabell 1
+
+Eline og Malene vil lage en modell som viser temperaturen i stua X minutter etter at
+de skrudde pa varmen. De starter med a bruke tallene i tabell 1 til a lage en
+modell 7, pa formen T,(x)=a-x°
+
+a) Bestem tallene a og b.
+b) Vurder gyldighetsomradet til modellen T, .
+Eline og Malene gnsker a forbedre modellen T, . Eline foreslar at de skal trekke 20 °C
+
+fra hver temperatur de har malt, og heller bruke en eksponentialfunksjon som modell.
+Hun setter opp en ny tabell.
+
+ 
+
+1 5 10 20 30 50 80 120
+
+ 
+
+ 
+
+—18,0 | -16,3 | -14,7 | -12,0 | -9,8 | -6,6 | -3,6 | -1,6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabell 2
+
+c) Lag en eksponentialfunksjon f som passer godt til tallene i tabell 2.
+
+d) Tegn grafen til T, og grafen til f i samme koordinatsystem.
+Beskriv forskjeller mellom de to grafene.
+
+Malene mener de kan bruke funksjonen f til a lage en bedre modell enn T, for
+temperaturen i stua. «Vi Iofter grafen til f opp 20 °C, slik at den starter omtrent i
+punktet (0,2) », sier hun. «Da vil den passe perfekt.»
+
+e) Bruk funksjonen f , og lag en modell T, ved a gjgre som Malene foreslar.
+Hva vil temperaturen i stua veere etter 4 timer ifalge modellen T, ?
+
+ 
+
+Eksamen MAT1019 Side 22 av 24
+Oppgave 8
+Figuren viser et lysgardin med sma lyspeerer.
+
+Lyspeerene henger pa trader. Den fg@rste traden i en lenke har tre lyspeerer, den neste
+har seks og den tredje har ni. Dette m@nsteret gjentas videre.
+
+Avstanden mellom hver trad er 10 cm.
+Figuren viser altsa et gardin med lengde 80 cm.
+
+|—___— 80 cm
+
+ 
+
+ 
+
+ 
+
+O—O—O—_O0— 0
+O—O—_O—0— 0
+O—O—O—_0—
+
+ 
+
+ 
+
+ 
+
+Et annet lysgardin av samme type er én meter langt.
+
+a) Hvor mange trader har dette lysgardinet?
+
+b) Hvor mange lysperer er det pa den siste traden? eter} A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen viser antall lyspaerer pa lysgardiner med ulike lengder. 1 63
+2 126
+
+c) Hvor mange lysperer er det pa et 15 meter langt lysgardin? 3 183
+d) Hvilke lengder, i hele meter, kan et lysgardin ha om det skal 4 243
+veere ni lyspzerer pa den siste traden? 9 306
+
+6 363
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019 Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

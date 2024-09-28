@@ -1,0 +1,320 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+Regn ut og skriv svaret pa standardform
+
+0,72-10°
+60-10°
+
+Oppgave 2 (1 poeng)
+
+Regn ut
+
+4° 42° .(2°)
+
+Oppgave 3 (2 poeng)
+
+Regn ut og skriv svaret sa enkelt som mulig
+
+J160
+V20 +5 ~~
+
+Oppgave 4 (2 poeng)
+
+Las likningssystemet
+
+x-+y* =4
+X+2=y
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 14 av 24
+
+mate@matikk.net
+Oppgave 5 (2 poeng)
+
+Las likningen
+
+3
+Ig] x? += ]=0
+e( x +3)
+
+Oppgave 6 (2 poeng)
+
+Skriv sa enkelt som mulig
+
+X-9 2x-6
+Xx-1 x?*-—x
+
+ 
+
+1
+—+
+Xx
+
+Oppgave 7 (4 poeng)
+
+Ved en skole leser 80 % av elevene aviser pa nett, 50 % leser papiraviser, og 2 % leser
+
+ikke aviser.
+
+a) Systematiser opplysningene gitt i teksten ovenfor i et venndiagram eller i en
+
+krysstabell.
+
+pa nett og papiraviser.
+
+Bestem sannsynligheten for at en tilfeldig valgt elev ved skolen leser bade aviser
+
+En elev ved skolen leser aviser pa nett.
+
+C) Bestem sannsynligheten for at denne eleven ikke leser papiraviser.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017
+
+mate@matikk.net
+
+Side 15 av 24
+Oppgave 8 (2 poeng)
+
+Om en rettvinklet trekant far du vite:
+
+e Lengden av den korteste siden er 20
+e Differansen mellom lengdene av de to andre sidene er 2
+
+Hvor lang er den lengste siden i denne trekanten?
+
+Oppgave 9 (4 poeng)
+
+En funksjon f er gitt ved
+f(x) =x? +3x* -2x-3
+a) Bestem den gjennomsnittlige vekstfarten til f i intervallet [-2,0]
+
+6b) | Bestem den momentane vekstfarten til f nar x =—2
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 16 av 24
+
+mate@matikk.net
+Oppgave 10 (2 poeng)
+
+ 
+
+ 
+
+| koordinatsystemet ovenfor har vi tegnet grafen til en tredjegradsfunksjon f.
+Bruk den grafiske framstillingen til a lose ulikhetene
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 17 av 24
+
+mat@matikk.net
+Oppgave 11 (8 poeng)
+
+Funksjonen f er gitt ved
+f(x) =x* -4x+3
+
+a) Bestem nullpunktene til f .
+
+Grafen til f er symmetrisk om en linje @.
+
+b) Tegn grafen til f sammen med linjen ¢ i et koordinatsystem.
+
+Grafen til f har en tangent med stigningstall 2.
+
+C) Bestem likningen for denne tangenten.
+Tegn tangenten i det samme koordinatsystemet som du brukte i oppgave b).
+
+Tangenten fra oppgave c) skjeerer linjen ¢ i punktet P.
+Grafen til f har en annen tangent som ogsa gar gjennom punktet P.
+
+d) Skisser denne tangenten i samme koordinatsystem som du har brukt tidligere i
+oppgaven. Bestem likningen for tangenten grafisk.
+
+e) Gjor beregninger og avgjor om likningen du fant i oppgave d), er riktig.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 18 av 24
+
+mate@matikk.net
+Oppgave 12 (5 poeng)
+
+ 
+
+ 
+
+ 
+
+1
+pP Q
+a) Bruk APOR ovenfor til a vise at
+sin(30°) = 5 cos (30°) = v8 tan(30°) = “8
+
+Videre i oppgaven kan du fa bruk for noen av disse trigonometriske verdiene.
+
+| AABC er AB=2, AC=4 og ZA=30°
+
+6b) Bestem arealet av AABC.
+
+c) Visat BC= 2/5 ~ 2/3
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 19 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1. (7 poeng)
+
+ 
+
+Funksjonen f gitt ved
+f(x) =—0,0047x* +0,40x? -8,3x+86 xe[0,52]
+viser fyllingsgraden f(x) prosent i et vannmagasin x uker etter 1. januar 2016.
+
+a) Bruk graftegner til a tegne grafen til f.
+
+b) | hvor mange uker var fyllingsgraden hgyere enn 60 %?
+
+c) | hvilken uke var fyllingsgraden lavest?
+Hvor stor del av vannmagasinet var fylt da?
+
+d) Bestem likningen for tangenten til grafen til f i punktet (22, f(22)) .
+Hva forteller stigningstallet til denne tangenten om fyllingsgraden i vannmagasinet?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 20 av 24
+
+mat@matikk.net
+Oppgave 2 (2 poeng)
+
+To voksne og tre barn betaler til sammen 520 kroner for billetter til en kinoforestilling.
+En voksenbillett koster 40 kroner mer enn en barnebillett.
+
+Hvor mye koster en barnebillett, og hvor mye koster en voksenbillett?
+
+Oppgave 3 (2 poeng)
+
+30 7
+
+28 +
+
+26 5
+
+24 °
+
+22 +
+
+20 5
+
+32 4%
+
+ 
+
+Prosent dagligroykere
+
+Ar etter 01.01.2000 ,
+
+ 
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 «18 +19 «20
+
+Linjediagrammet ovenfor viser hvordan andelen dagligra@ykere ved en bedrift har avtatt |
+perioden 2000-2017.
+
+a) Bestem en linezer modell som tilnezermet beskriver utviklingen.
+
+b) Nar vil andelen dagligraykere ved bedriften vere 5 % ifelge modellen
+i Oppgave a)?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 21 av 24
+
+matematikk.net
+Oppgave 4 (4 poeng)
+
+Ved et meieri blir det oppdaget en feil ved en av maskinene som skrur korker pa
+kartongene. Pa kjglelageret er det 200 kartonger med lettmelk og 100 kartonger med
+
+2
+helmelk. 5 av kartongene med lettmelk og av kartongene med helmelk har ikke tett
+
+kork.
+
+Tenk deg at du skal ta en kartong tilfeldig fra kjglelageret.
+
+a) Bestem sannsynligheten for at kartongen ikke har tett kork.
+
+Anta at du tar en kartong som ikke har tett kork.
+
+b) Bestem sannsynligheten for at kartongen inneholder lettmelk.
+
+Oppgave 5 (2 poeng)
+
+ 
+
+Gitt trekanten ovenfor.
+
+Bruk CAS tila bestemme s.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 22 av 24
+
+mate@matikk.net
+Oppgave 6 (3 poeng)
+
+En funksjon f er gitt ved
+f(x) = x° —2ax* +.a°x . a>O
+Bruk CAS til a
+
+e vise at grafen til f har et nullounkt og et stasjoneert punkt i P(a, O)
+e avgjgre om P er et toppunkt, et bunnpunkt eller et terrassepunkt
+
+Oppgave 7 (4 poeng)
+
+ 
+
+Figuren ovenfor viser
+e en halvsirkel med sentrum i B og radius R
+e en halvsirkel med sentrum i C og radius r
+
+e en kvart sirkel med sentrum i A og radius 2R
+
+De to halvsirklene tangerer hverandre i punktet D. Punktet D ligger pa linjen
+giennom B og C.
+
+2. 2
+a) Bruk Pytagoras’ setning til a vise at r = a"
+
+b) Bruk CAS til a bestemme arealet av det bla omradet pa figuren uttrykt ved R.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2017 Side 23 av 24
+
+matematikk.net

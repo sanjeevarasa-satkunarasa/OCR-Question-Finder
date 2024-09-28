@@ -1,0 +1,973 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+26.05.2023
+
+ 
+
+Eksamen
+MAT1019 Matematikk 1P
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid
+
+Eksamen varer i 5 timar.
+
+Delen utan og delen med hjelpemiddel skal delast ut
+samtidig. Delen utan hjelpemiddel skal leverast etter 1 time.
+Etter 1 time kan kandidaten bruke hjelpemiddel.
+
+Delen med hjelpemiddel skal leverast innan 5 timar.
+
+ 
+
+Del utan hjelpemiddel
+
+Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Del med hjelpemiddel
+
+Alle hjelpemiddel er tillatne, med unntak av internett og andre
+verktay som tillet kommunikasjon.
+
+ 
+
+Framgangsmate
+
+Delen utan hjelpemiddel har 4 oppgaver.
+
+Delen med hjelpemiddel har 6 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+Isysingsmetode, kan ein alternativ metode gi lag/noko
+utteljing. Bruk av digitale verktoy som rekneark,
+programmering, grafteiknar og CAS skal dokumenterast.
+
+ 
+
+Rettleiing om vurderinga
+
+Karakteren blir fastsett etter ei samla vurdering.
+Sensor vurderer i kva grad du
+e viser rekneferdigheiter og matematisk forstaing
+e gjennomf@rer logiske resonnement
+e ser samanhengar i faget, er oppfinnsam og kan ta i
+bruk fagkunnskap i nye situasjonar
+e kan bruke formalstenlege hjelpemiddel
+e forklarer framgangsmatar og grunngir svar
+e skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+e vurderer om svar er rimelege
+
+ 
+
+Om vekting av
+oppgavene
+
+Kvar deloppgave vil bli vekta likt nar svara dine blir vurderte,
+med unntak av
+e oppgave 4a, 4b og 4c i Del 2 som vil bli vekta som
+halvparten av dei andre deloppgavene
+e oppgave 5b i Del 2 som vil bli vekta dobbelt sa mykje
+som dei andre deloppgavene
+
+ 
+
+ 
+
+Andre opplysningar
+
+ 
+
+ 
+
+Kjelder for bilete, teikningar osv.
+
+e Marko og Mari: Kidaha, Pixabay (11.05.2021)
+e Maur: pixabay.com (25.11.2022)
+e Sekk: pixabay.com (25.11.2022)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019
+
+Side 2 av 24
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+Marko har kj@pt ei sjokoladeplate i ein butikk. Den kosta 20 kroner.
+Mari har kj@pt ei sjokoladeplate pa ein bensinstasjon. Den kosta 50 kroner.
+
+Eg har rekna og funne ut at sjokoladeplata er
+150 % dyrare pa bensinstasjonen enn i butikken.
+
+ 
+
+Eg har rekna og funne ut at sjokoladeplata er
+60 % billigare i butikken enn pa bensinstasjonen.
+
+ 
+
+Kan vi ha rekna rett? Kvifor far vi ulike prosentar?
+Det var rart.
+
+ 
+
+f=
+wy
+
+Gjer berekningar og svar pa Marko sine sp@rsmal.
+
+ 
+
+Eksamen MAT1019 Side 3 av 24
+Oppgave 2
+
+ 
+
+e Tal fra FN viser at folketalet pa jorda no har passert 8 milliardar.
+
+e Forskarar har komme fram til at det er omtrent 2,5 millionar gonger sa mange
+maur som menneske pa jorda.
+
+Omtrent kor mange maur er det pa jorda?
+Skriv svaret pa standardform.
+
+ 
+
+Eksamen MAT1019 Side 4 av 24
+Oppgave 3
+
+a) Gi eit dgme pa ein praktisk situasjon der to storleikar er proporsjonale.
+Grunngi at storleikane er proporsjonale.
+Teikn ein graf som viser samanhengen mellom storleikane.
+
+b) Gi eit dome pa ein praktisk situasjon der to storleikar er omvendt proporsjonale.
+
+Grunngi at storleikane er omvendt proporsjonale.
+Teikn ein graf som viser samanhengen mellom storleikane.
+
+Oppgave 4
+
+Tabellen nedanfor viser hggda til Klara nokre ar fra ho var 4 ar, til ho var 10 ar.
+
+ 
+
+Alder (ar) 4 5 8 10
+
+ 
+
+H@gd (cm) 100 107 128 142
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Lag ein modell som viser samanhengen mellom hggda og alderen til Klara basert
+pa tala i tabellen.
+
+b) Kor hgg vil Klara vere nar hun fyller 19 ar, ifg@lgje modellen?
+
+Klara var 50 cm hgg da ho blei fedd.
+
+c) Gjer berekningar og vurder gyldigheitsomradet til modellen du fann i oppgave a).
+
+ 
+
+Eksamen MAT1019 Side 5 av 24
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+ 
+
+Dei siste ara har Lars budd pa Svalbard fra 1. februar til 1. oktober. Kvart ar har han
+malt temperaturen utanfor huset sitt pa ulike tidspunkt nokre dagar kvar veke.
+
+Han har funne at funksjonen T gitt ved
+T(x) =0,048x* —1,4x° +13,36x*-45,8x+35,2 , 2<x<10
+
+er ein rimeleg bra modell for gjennomsnittstemperaturen T(x) °C kvart dggn dei
+manadene han bur pa Svalbard, nar han lar x =2 svare til 1. februar, x =3 til 1. mars,
+x= 4 til 1. april og sa vidare.
+
+a) Omtrent kor mange dggn i perioden 1. februar—1. oktober er
+gjennomsnittstemperaturen over 0°c ifglgje modellen?
+
+b) Bestem stigningstalet til den rette linja som gar gjennom punkta (3, 7(3)) og
+(7,T(7)). Gi ei praktisk tolking av dette stigningstalet.
+
+ 
+
+Eksamen MAT1019 Side 6 av 24
+Oppgave 2
+
+Ein dag gar Aurora med jamn fart fra huset der ho bur, til postkontoret, som ligg
+nokre kilometer unna. Ho star i k@ for a hente ein pakke. Nar ho har fatt pakken, gar
+
+ho med jamn fart heim att.
+
+Kva for ei av dei grafiske framstillingane nedanfor beskriv best lengda av turen som
+
+ein funksjon av tida?
+
+Hugs a grunngi svaret ditt.
+
+ 
+
+ 
+
+y kilometer
+A
+X minutt
+» y kilometer
+C
+X minutt
+
+ 
+
+ 
+
+ 
+
+y kilometer
+
+X minutt
+
+ 
+
+» y kilometer
+
+ 
+
+X minutt
+
+ 
+
+ 
+
+Eksamen MAT1019
+
+Side 7 av 24
+Oppgave 3
+
+ 
+
+Lengd
+
+ 
+
+ 
+
+Breidd
+
+Ei gruppe speidarar har slatt opp telt ved ei elv. Dei har eit tau som er 80 m langt, og
+fire pinnar. Tauet og pinnane skal dei bruke til a setje opp eit gjerde rundt teltet.
+Omradet dei gjerdar inn, skal ha form som eit rektangel, og dei vil ikkje setje opp
+gjerde langs elva. Sja skissa ovanfor.
+
+a) Kor stort blir arealet av omradet dersom dei vel at lengda skal vere
+60 meter?
+
+Herman pastar at arealet av omradet blir storst dersom lengda er dobbelt sa lang
+som breidda.
+
+b) Lag ei systematisk oversikt som viser arealet av ulike omrade som dei kan gjerde
+inn. Bruk oversikten til € argumentere for at Herman sin pastand kan vere rett.
+
+Josefine lurer pa om dei kan teikne ein graf som viser at Herman har rett. Ho pr@ver a
+setje opp eit funksjonsuttrykk som ho kan bruke.
+
+c) Set opp eit funksjonsuttrykk for Josefine. Teikn grafen og vis at Hermann sin
+pastand er rett.
+
+ 
+
+Eksamen MAT1019 Side 8 av 24
+Oppgave 4
+
+Ein bonde sel sekkar med poteter.
+
+ 
+
+| koordinatsystemet nedanfor ser du samanhengen mellom vekt og pris for
+
+potetsekkane. Kvart av punkta A, B, C, D, E og F representerer ein potetsekk.
+
+Y Pris (kroner)
+
+F
+e E
+e
+D
+e
+A
+e e
+eB C
+
+Vekt (kg) x
+
+ 
+
+ 
+
+a) Kva for ein sekk er tyngst?
+b) Kva for nokre sekkar kostar like mykje?
+
+c) Vil det ldnne seg a kjgpe sekk B eller sekk C?
+
+| to av sekkane kostar potetene like mykje per kilogram.
+
+d) Kva for nokre sekkar er dette?
+
+Hugs a grunngi alle svara dine.
+
+ 
+
+Eksamen MAT1019
+
+Side 9 av 24
+Oppgave 5
+
+  
+
+Kari har brukt Non Stop og laga tre K-ar. Sja ovanfor. Tenk deg at ho skal halde fram
+med a lage K-ar etter same m@nster.
+
+a) Beskriv m@nsteret, og bestem kor mange Non Stop det vil vere i K4 0g i Ks.
+
+Kari vil lage eit program som finn talet pa Non Stop ho treng for a lage kvar av dei 20
+forste K-ane. Ho vil ogsa vite kor mange Non Stop ho treng til saman for a lage alle
+desse 20 K-ane.
+
+b) Lag eit program som Kari kan bruke.
+Du kan til dgmes byrje som vist nedanfor, men leggje inn formlar i staden for talet
+éin i linje 14 og 15 slik at den rette oversikta blir skriven ut.
+
+# Startverdiar
+nonstop_figur = 10
+nonstop_totalt = 10
+
+# Overskrifter
+print("Figurnummer Non Stop i figur Non Stop totalt")
+for figurnummer in range(1, 21):
+
+# Skriv ut i tre kolonnar ved a bruke tabulatorar sep
+print(figurnummer, nonstop_figur, nonstop_totalt, sep
+
+u \ t\ t\ t"
+"\t\t\t")
+
+nonstop_figur = 1
+nonstop_totalt = 1
+
+c) Kor mange Non Stop treng Kari til saman for a lage dei 20 fgrste K-ane?
+
+Kari har 2000 Non Stop. Ho vil byrje med K, og lage éin K i kvar storleik.
+
+d) Kor mange k-ar kan Kari lage?
+
+ 
+
+Eksamen MAT1019 Side 10 av 24
+Oppgave 6
+
+Tabellen nedanfor viser sal av energidrikkar i Noreg kvart ar fra 2015 til 2021.
+
+ 
+
+Arstal 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021
+
+ 
+
+Sal (tusen liter) | 18 899 | 21 664 | 25 381 | 31 385 | 41 142 | 55 497 | 67 997
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+La X vere talet pa ar etter 2015.
+
+a) Lag ein modell pa forma
+E(x)=a-b”*
+
+som passar godt med tala i tabellen.
+
+b) Kva fortel tala a og b i modellen du fann i oppgave a)?
+
+| 2022 var salet av energidrikk 73 109 tusen liter.
+
+c) Kor stor var auken i salet av energidrikk i prosent fra 2021 til 2022?
+Vurder korleis dette passar med modellen i oppgave a).
+
+ 
+
+Eksamen MAT1019 Side 11 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+
+Delen uten og delen med hjelpemidler skal deles ut samtidig.
+Delen uten hjelpemidler skal leveres etter 1 time.
+
+Etter 1 time kan kandidaten bruke hjelpemidler.
+
+Delen med hjelpemidler skal leveres innen 5 timer.
+
+ 
+
+Del uten hjelpemidler Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Del med hjelpemidler Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Delen uten hjelpemidler har 4 oppgaver.
+
+Delen med hjelpemidler har 6 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe
+uttelling. Bruk av digitale verktoy som regneark,
+programmering, graftegner og CAS skal dokumenteres.
+
+ 
+
+Veiledning om Karakteren blir fastsatt etter en samlet vurdering.
+
+vurderingen Sensor vurderer i hvilken grad du
+
+e viser regneferdigheter og matematisk forstaelse
+
+e gjennomf¢rer logiske resonnementer
+
+e ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+e kan bruke hensiktsmessige hjelpemidler
+
+e forklarer framgangsmater og begrunner svar
+
+e skriver oversiktlig og er ngyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+e vurderer om svar er rimelige
+
+ 
+
+Om vekting av Hver deloppgave vektes likt nar besvarelsen din blir vurdert,
+
+oppgavene med unntak av
+
+e oppgave 4a, 4b og 4c i Del 2 som vektes som
+halvparten av de andre deloppgavene
+
+e Oppgave 5bi Del 2 som vektes dobbelt sa mye som
+de andre deloppgavene
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+
+e Marko og Mari: Kidaha, Pixabay (11.05.2021)
+e Maur: pixabay.com (25.11.2022)
+e = Sekk: pixabay.com (25.11.2022)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019 Side 12 av 24
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+Marko har kj@pt en sjokoladeplate i en butikk. Den kostet 20 kroner.
+Mari har kj@pt en sjokoladeplate pa en bensinstasjon. Den kostet 50 kroner.
+
+Jeg har regnet og funnet ut at sjokoladeplaten er
+150 % dyrere pa bensinstasjonen enn i butikken.
+
+ 
+
+Jeg har regnet og funnet ut at sjokoladeplaten er
+60 % billigere i butikken enn pa bensinstasjonen. *
+
+ 
+
+Kan vi ha regnet riktig? Hvorfor far vi ulike prosenter?
+Det var rart.
+
+ 
+
+f=
+wy
+
+Gjar beregninger og svar pa Marko sine sp@rsmal.
+
+ 
+
+Eksamen MAT1019 Side 13 av 24
+Oppgave 2
+
+ 
+
+e Tall fra FN viser at folketallet pa jorden na har passert 8 milliarder.
+
+e Forskere har kommet fram til at det er omtrent 2,5 millioner ganger sa mange
+maur som mennesker pa jorden.
+
+Omtrent hvor mange maur er det pa jorden?
+Skriv svaret pa standardform.
+
+ 
+
+Eksamen MAT1019 Side 14 av 24
+Oppgave 3
+
+a) Gi et eksempel pa en praktisk situasjon der to st@rrelser er proporsjonale.
+Begrunn at st@rrelsene er proporsjonale.
+
+Tegn en graf som viser sammenhengen mellom st@rrelsene.
+
+b) Gi et eksempel pa en praktisk situasjon der to st@rrelser er omvendt
+
+proporsjonale.
+
+Begrunn at st@rrelsene er omvendt proporsjonale.
+
+Tegn en graf som viser sammenhengen mellom st@rrelsene.
+
+ 
+
+ 
+
+Oppgave 4
+Tabellen nedenfor viser hgyden til Klara noen ar fra hun var 4 ar, til hun var 10 ar.
+Alder (ar) 4 5 8 10
+Hgyde (cm) 100 107 128 142
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Lag en modell som viser sammenhengen mellom hgyden og alderen til Klara
+
+basert pa tallene i tabellen.
+
+b) Hvor h@y vil Klara vaere nar hun fyller 19 ar, ifolge modellen?
+
+Klara var 50 cm h@y da hun ble fedt.
+
+c) Gjor beregninger og vurder gyldighetsomradet til modellen du fant i oppgave a).
+
+ 
+
+Eksamen MAT1019
+
+Side 15 av 24
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+ 
+
+De siste arene har Lars bodd pa Svalbard fra 1. februar til 1. oktober. Hvert ar har han
+malt temperaturen utenfor huset sitt pa ulike tidspunkt noen dager hver uke.
+
+Han har funnet at funksjonen T gitt ved
+T(x) =0,048x* —1,4x° +13,36x*-45,8x+35,2 , 2<x<10
+
+er en rimelig bra modell for gjennomsnittstemperaturen T(x) °c hvert dggn de
+manedene han bor pa Svalbard, nar han lar x =2 svare til 1. februar, x =3 til 1. mars,
+x=4 til 1. april og sa videre.
+
+a) Omtrent hvor mange dggn i perioden 1. februar—1. oktober er
+gjennomsnittstemperaturen over 0°c ifglge modellen?
+
+b) Bestem stigningstallet til den rette linjen som gar gjennom punktene (3, T(3)) og
+(7,T(7)). Gi en praktisk tolkning av dette stigningstallet.
+
+ 
+
+Eksamen MAT1019 Side 16 av 24
+Oppgave 2
+
+En dag gar Aurora med jevn fart fra huset der hun bor, til postkontoret, som ligger
+noen kilometer unna. Hun star i k@ for a hente en pakke. Nar hun har fatt pakken, gar
+
+hun med jevn fart hjem igjen.
+
+Hvilken av de grafiske framstillingene nedenfor beskriver best lengden av turen som
+
+en funksjon av tiden?
+
+Husk a begrunne svaret ditt.
+
+ 
+
+ 
+
+y kilometer
+A
+X minutter
+» y kilometer
+C
+X minutter
+
+ 
+
+ 
+
+ 
+
+y kilometer
+
+X minutter
+
+ 
+
+» y kilometer
+
+ 
+
+X minutter
+
+ 
+
+ 
+
+Eksamen MAT1019
+
+Side 17 av 24
+Oppgave 3
+
+ 
+
+Lengde
+
+ 
+
+ 
+
+Bredde
+
+En gruppe speidere har slatt opp telt ved en elv. De har et tau som er 80 m langt, og
+fire pinner. Tauet og pinnene skal de bruke til a sette opp et gjerde rundt teltet.
+Omradet de gjerder inn, skal ha form som et rektangel, og de vil ikke sette opp gjerde
+langs elven. Se skissen ovenfor.
+
+a) Hvor stort blir arealet av omradet dersom de velger at lengden skal vere
+60 meter?
+
+Herman pastar at arealet av omradet blir storst dersom lengden er dobbelt sa lang
+som bredden.
+
+b) Lag en systematisk oversikt som viser arealet av ulike omrader som de kan gjerde
+inn. Bruk oversikten til € argumentere for at Herman sin pastand kan veere riktig.
+
+Josefine lurer pa om de kan tegne en graf som viser at Herman har rett. Hun prover a
+sette opp et funksjonsuttrykk som hun kan bruke.
+
+c) Sett opp et funksjonsuttrykk for Josefine. Tegn grafen og vis at Hermann sin
+pastand er riktig.
+
+ 
+
+Eksamen MAT1019 Side 18 av 24
+Oppgave 4
+
+En bonde selger sekker med poteter.
+
+ 
+
+| koordinatsystemet nedenfor ser du sammenhengen mellom vekt og pris for
+
+potetsekkene. Hvert av punktene A, B, C, D, E og F representerer en potetsekk.
+
+Y Pris (kroner)
+
+F
+e E
+e
+D
+e
+A
+e e
+eB C
+
+Vekt (kg) x
+
+ 
+
+ 
+
+a) Hvilken sekk er tyngst?
+b) Hvilke sekker koster like mye?
+
+c) Vil det ldnne seg a kjgpe sekk B eller sekk C?
+
+| to av sekkene koster potetene like mye per kilogram.
+
+d) Hvilke sekker er dette?
+
+Husk a begrunne alle svarene dine.
+
+ 
+
+Eksamen MAT1019
+
+Side 19 av 24
+Oppgave 5
+
+  
+
+Kari har brukt Non Stop og laget tre K-er. Se ovenfor. Tenk deg at hun skal fortsette a
+lage K-er etter samme m@nster.
+
+a) Beskriv m@nsteret, og bestem hvor mange Non Stop det vil vaere i Ks og i Ks.
+
+Kari @nsker a lage et program som finner antall Non Stop hun trenger for a lage hver
+av de 20 fgrste K-ene. Hun @nsker ogsa a vite hvor mange Non Stop hun trenger til
+sammen for a lage alle disse 20 K-ene.
+
+b) Lag et program som Kari kan bruke.
+Du kan for eksempel begynne som vist nedenfor, men legge inn formler i stedet
+for tallet én i linje 14 og 15 slik at den riktige oversikten skrives ut.
+
+# Startverdier
+
+nonstop_figur = 10
+
+nonstop_totalt = 10
+
+# Overskrifter
+
+print("Figurnummer Non Stop i figur Non Stop totalt")
+
+for figurnummer in range(1, 21):
+
+# Skriver ut i tre kolonner ved a bruke tabulatorer sep = "\t\t\t"
+print(figurnummer, nonstop_figur, nonstop_totalt, sep = "\t\t\t")
+
+nonstop_figur = 1
+nonstop_totalt = 1
+
+c) Hvor mange Non Stop trenger Kari til sammen for a lage de 20 forste K-ene?
+
+Kari har 2000 Non Stop. Hun vil begynne med K, og lage én K i hver st@rrelse.
+
+d) Hvor mange k-er kan Kari lage?
+
+ 
+
+Eksamen MAT1019 Side 20 av 24
+Oppgave 6
+
+Tabellen nedenfor viser salg av energidrikker i Norge hvert ar fra 2015 til 2021.
+
+ 
+
+Arstall 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021
+
+ 
+
+Salg (tusen liter) | 18 899 | 21 664 | 25 381 | 31 385 | 41 142 | 55 497 | 67 997
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+La X vere antall ar etter 2015.
+
+a) Lag en modell pa formen
+E(x)=a-b”*
+
+som passer godt med tallene i tabellen.
+
+b) Hva forteller tallene a2 og b i modellen du fant i oppgave a)?
+
+| 2022 var salget av energidrikk 73 109 tusen liter.
+
+c) Hvor stor var @kningen i salget av energidrikk i prosent fra 2021 til 2022?
+Vurder hvordan dette passer med modellen i oppgave a).
+
+ 
+
+Eksamen MAT1019 Side 21 av 24
+Blank side
+
+ 
+
+Eksamen MAT1019 Side 22 av 24
+Blank side
+
+ 
+
+Eksamen MAT1019 Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

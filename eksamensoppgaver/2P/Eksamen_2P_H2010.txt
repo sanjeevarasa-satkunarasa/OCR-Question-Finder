@@ -1,0 +1,501 @@
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (15 poeng)
+
+a) Andersen kjgper fem bord. | enden av
+hvert bord star det et tall som forteller
+hvor mange centimeter bordet er. Se
+bildet til h@yre.
+
+Gjer overslag og finn ut omtrent hvor
+mye Andersen ma betale nar bordene
+
+koster 8,95 kroner per meter. /
+
+Kilde: Utdanningsdirektoratet
+
+ 
+
+b) Regn ut og skriv svaret pa standardform
+
+6,0-10' -2,5-10°
+
+c) len twistpose er det 30 twistbiter. Per liker 18 av disse.
+Vi trekker tilfeldig én twistbit fra posen.
+
+1) Finn sannsynligheten for at Per liker denne
+twistbiten.
+
+Sannsynligheten for at Ola liker en tilfeldig valgt twistbit
+fra posen, er O,4.
+
+2) Hvor mange av twistbitene | posen liker Ola?
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010 Side 13 av 24
+
+mat@matikk.net
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d) For aten trapp skal vere behagelig a ga i, | |
+ber ett inntrinn pluss to opptrinn veere inntrinn
+omtrent 630 mm. —__
+opptrinn {
+Hvor hgyt b@r opptrinnet | en trapp veere
+dersom inntrinnet skal veere
+340 mm?
+e) Tabellen nedenfor viser konsumprisindeksen (KPI) for de tre siste arene.
+Ar 2007 2008 2009
+KPI 118,6 123,1 125,/
+| 2008 hadde Sondre en reallann pa 1 OOO OOO kroner.
+Hvor mye matte Sondre hatt i nominell lonn i 2009 hvis han skulle beholdt samme
+kjgpekraft som i 2008?
+f) +
+100|¥ Strekning (meter)
+90
+80_
+70
+60_
+50_
+40 |
+30 |
+20 |
+10 |
+0 Tid (sekunder) ,
+0 iq 2 3 4 ls 6 7 'g ‘9 "40 11 "42 "43 44 45 16 ‘47 "148 ‘19 ‘20°
+Jens og far har Igpt 100-meteren. Far fikk starte tre sekunder for Jens. Ovenfor ser
+du en forenklet grafisk framstilling av Igpet til Jens og av Igpet til far.
+Hva kan du si om de to I@pene ut fra den grafiske framstillingen ovenfor?
+g) Tenk deg at du ser en kasse skratt ovenfra. Tegn kassen i ettopunktsperspektiv.
+
+Forsvinningspunkt og perspektivlinjer skal veere med pa tegningen.
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010
+
+matematikk.net
+
+Side 14 av 24
+Oppgave 2 (5 poeng)
+
+| tallsystemet som vi vanligvis bruker, er grunntallet 10. | totallsystemet er grunntallet 2.
+Det finnes ogsa tallsystemer med andre grunntall.
+
+Tegn av tabellen nedenfor i besvarelsen din, gjgr beregninger og fyll inn det som mangler.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tallsystem med Tallsystem med Tallsystem
+grunntall 10 grunntall 2 med grunntall 3
+4 11,
+1011,
+221,
+Oppgave 3 (4 poeng)
+
+ 
+
+  
+  
+ 
+
+Vi skal arrangere klassefest. Det vil koste
+6 300 kroner. Utgiftene skal deles likt mellom
+elevene som blir med.
+
+ 
+
+ 
+
+a) 1) Hvor mange elever ma bli med pa klassefesten dersom hver elev ikke skal
+matte betale mer enn 300 kroner?
+
+2) Sett opp en matematisk modell som Hakon kan bruke for a regne ut hvor mye
+hver elev ma betale dersom utgiftene deles likt og x elever deltar pa festen.
+
+ 
+
+    
+  
+
+    
+
+Jeg setter inn 10 OOO kroner pa en
+hgyrentekonto. Jeg regner med a fa 4 % rente
+per ar.
+
+ 
+
+b) 1) Hvor mye vil Mette ha pa kontoen etter
+ett ar?
+
+ 
+
+2) Sett opp en matematisk modell som Mette kan bruke for a regne ut hvor mye
+penger hun har pa kontoen etter x ar.
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010 Side 15 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+Oppgave 4 (4 poeng)
+
+ 
+
+Byens beste bilpakke - Pakkepris: 16 900 kroner
+
+Pakken bestar av:
+
+e 13 kjoretimer
+sikkerhetskurs pa bane
+sikkerhetskurs pa vei
+2 veiledningstimer
+leie av bil pa 1 forerproave
+
+Kjoretimer utover pakken koster 550 kroner per time.
+
+ 
+
+ 
+
+ 
+
+Pa nettsidene til en trafikkskole fant Anne og Jon tilbudet ovenfor. Begge benyttet seg av
+
+tilbudet.
+
+a) Anne hadde tilsammen 21 kjgretimer.
+Hvor mye betalte hun for kjgreoppleeringen?
+
+b) Jon betalte 29 OOO kroner for kjgreoppleeringen.
+Hvor mange kj@retimer hadde han?
+
+Oppgave 5 (4 poeng)
+
+| klasse 1A er det 12 jenter og 12 gutter. Nedenfor ser du hvor mange timer de bruker pa
+
+lekser hver uke.
+
+Jentene: 7,5, 5, 7,
+Guttene: 2, 5, 6, 7
+
+Bruk ulike sentral- og spredningsmal og gjor rede for hva dette datamaterialet viser om
+
+jentenes og guttenes arbeidsvaner i denne klassen.
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010
+
+mate@matikk.net
+
+Side 16 av 24
+
+ 
+Oppgave 6 (6 poeng)
+
+Verdien av aksjene i et firma har steget med 5 % per maned det siste aret. Berit kjoper
+derfor aksjer for 10 OOO kroner i dette firmaet.
+
+Berit haper at verdien av aksjene vil fortsette a stige med 5 % per maned det neste aret.
+
+a) 1) Hvor mye vil aksjene til Berit vaeere verdt etter 6Gn maned hvis det gar som hun
+haper?
+
+2) Hvor mye vil aksjene til Berit veere verdt etter ett ar hvis det gar som hun haper?
+
+| ettertid viste det seg at verdien av aksjene til Berit steg med 5 % per maned i fire
+
+maneder. Deretter steg verdien med 3 % per maned i tre maneder. Sa sank verdien med
+
+3 % per maned de neste fem manedene.
+
+b) Finn ut hvor mye verdien av aksjene steg, bade i kroner og prosent, i Iopet av dette
+aret.
+
+Verdien av aksjene fortsatte a synke med 3 % per maned det neste aret.
+
+c) Hvor mange maneder gikk det for Berits aksjer igjen var verdt 10 OOO kroner?
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010 Side 17 av 24
+
+mat@matikk.net
+Oppgave 7 (8 poeng)
+
+Fotballgruppa i et idrettslag onsker seg en ny ballbinge. De gjennomf@rer en
+spe@rreunders@kelse for a finne ut hva medlemmene i idrettslaget mener om dette.
+
+Alle de 240 medlemmene i idrettslaget blir spurt.
+
+45 % av medlemmene er kvinner.
+
+63 av mennene gnsker ballbinge.
+
+TilSammen 110 av medlemmene @nsker ikke ballbinge.
+
+a) Tegn av tabellen nedenfor i besvarelsen din. Bruk opplysningene ovenfor og fyll inn
+tallene som skal sta i de hvite feltene.
+
+ 
+
+Mann Kvinne | Totalt
+
+ 
+
+Onsker
+ballbinge
+
+ 
+
+Onsker ikke
+ballbinge
+
+ 
+
+Totalt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Finn sannsynligheten for at et tilfeldig valgt medlem i idrettslaget onsker ballbinge.
+
+Et medlem blir valgt tilfeldig. Det viser seg at dette medlemmet @nsker ballbinge.
+
+c) Finn sannsynligheten for at dette medlemmet er en mann.
+
+Styret i idrettslaget setter som krav at minst 75 % av medlemmene ma @nske ballbinge
+dersom de skal godkjenne planene.
+
+Fotballgruppa prover a verve nye medlemmer som g@nsker ballbinge.
+
+d) Hvor mange slike medlemmer ma fotballgruppa verve for at kravet fra styret skal
+innfris?
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010 Side 18 av 24
+
+matematikk.net
+Oppgave 8 (8 poeng)
+
+Jon har i flere ar malt hgyden til et tre. Se tabellen nedenfor. Ferste gang han malte, var
+treet 1,00 m hgyt.
+
+ 
+
+a) Framstill datamaterialet fra tabellen ovenfor i et koordinatsystem.
+
+Jon vil finne en matematisk modell som viser treets hgyde. Han er usikker pa hvilken type
+modell som passer best. Han legger til en ekstra rad i tabellen. Se nedenfor.
+
+ 
+
+ 
+
+b) Tegn av denne tabellen i besvarelsen din. Fyll inn tallene som skal sta i de hvite
+feltene. Bruk disse tallene til a begrunne hvilken type modell Jon ber velge.
+
+c) Bruk for eksempel regresjon til a finne modellen. Tegn grafen til modellen i samme
+koordinatsystem som du brukte | a).
+
+d) Denne modellen er laget pa grunnlag av data fra en
+periode pa seks ar. Vurder om modellen kan brukes
+til a si noe om treets vekst for og etter denne
+perioden.
+
+ 
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010 Side 19 av 24
+
+matematikk.net
+Oppgave 9 (6 poeng)
+
+ 
+
+ 
+
+| denne oppgaven skal du velge enten alternativ | eller alternativ II.
+De to alternativene teller like mye ved sensuren.
+
+ 
+
+Alternativ |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trine tegner et kvadrat der sidene er 8 cm lange. Hun tegner ogsa et rektangel. To av
+sidene i rektangelet er 10 % lengre enn sidene i kvadratet, og to av sidene er 10 %
+
+kortere enn sidene | kvadratet.
+
+Hun regner ut arealet av kvadratet og arealet av rektangelet. Sa finner hun forholdet
+mellom de to arealene. Resultatene setter hun opp i en tabell. Se nedenfor.
+
+ 
+
+ 
+
+ 
+
+. Areal av . Areal av Areal rektangel
+Side i kvadrat kKvadrat Side i rektangel rektangel Areal kvadrat
+8 64 8,8 1,2 63,36 0,99
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)  Tegn av tabellen. Velg to ulike kvadrater som er forskjellige fra kvadratet til Trine.
+For hvert av kvadratene skal du gjore de samme beregningene som Trine gjorde.
+
+Skriv resultatene pa de to neste radene i tabellen.
+
+b)  Gjer tilsvarende beregninger for et kvadrat der sidene er a cm lange, og fyll ut siste
+rad i tabellen. Kommenter resultatet.
+
+Oyvind har bygget en mur. Planen var at muren skulle veere like h@y som den var lang,
+men under byggingen bestemte Wyvind seg for a redusere hgyden med 10 % og @ke
+lengden med 10 %. Arealet av sideflaten til muren han bygget, ble 8,91 m2.
+
+c)  Hvor lang og hvor hgy ble muren?
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010
+
+mat@matikk.net
+
+Side 20 av 24
+
+ 
+
+ 
+Alternativ II
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+En ost har form som en sylinder. Den er 34,0 cm i diameter og 4,0 cm hay.
+Osten veier 3,0 kg.
+
+a) Finn volumet av osten.
+
+Osten har en 2 mm tykk hvit skorpe.
+
+b) | Hvor stor del av osten utgjgr skorpen?
+
+Gunnar kj@per 250 g ost. Han far et
+ostestykke formet som en sirkelsektor.
+
+c) Hvor mange grader er denne
+sirkelsektoren’?
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+ 
+
+Eksamen MAT1003 Matematikk 2P Haust/H@st 2010 Side 21 av 24
+
+mat@matikk.net

@@ -1,0 +1,304 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+ 
+
+ 
+
+Bruk trekanten ovenfor tila bestemme sinv.
+
+Oppgave 2 (2 poeng)
+Skriv sa enkelt som mulig
+
+Ax*-4
+x* -2x4+1
+
+Oppgave 3 (2 poeng)
+
+Legs ulikheten
+
+x* -4x-12<0O
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18
+
+matematikk.net
+
+Side 13 av 24
+Oppgave 4 (4 poeng)
+
+Las likningssystemet
+y=-x*+4
+y=x+2
+
+e grafisk
+
+e ved regning
+
+Oppgave 5 (2 poeng)
+
+Regn ut
+
+WB -(F—&
+
+Oppgave 6 (2 poeng)
+
+Las likningen
+
+2*.22 =
+
+00 | Fr
+
+Oppgave 7 (2 poeng)
+
+En sirkel S, har omkrets 57.
+En annen sirkel S, har et areal som er fire ganger sa stort som arealet av S, .
+
+Bestem radius i sirkelen S,.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 14 av 24
+
+mate@matikk.net
+Oppgave 8 (4 poeng)
+
+ 
+
+ 
+
+ 
+
+| koordinatsystemet ovenfor ser du grafen til en funksjon f.
+
+Du far vite dette om funksjonen:
+
+e Grafen gar giennom de tre punktene (—2,—6) , (0,0) og 4
+
+e f(x) =(x -1)(x -1)(x +2)
+
+a) Bestem f’(0)
+b) Bestem likningen for tangenten til grafen til f i punktet (0,0).
+
+c) Vis ved regning at punktet (—2,—6) er et bunnpunkt, og at punktet (1,5) er et
+
+terrassepunkt pa grafen til f.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 15 av 24
+
+mat@matikk.net
+Oppgave 9 (4 poeng)
+
+ 
+
+Tenk deg at du skal kaste to terninger én gang.
+
+a) Bestem sannsynligheten for at du vil fa noyaktig én toer.
+
+Anta at summen av antall gyne blir atte nar du kaster terningene.
+
+b) Bestem sannsynligheten for at ingen av terningene da viser en toer.
+
+Oppgave 10 (6 poeng)
+
+Du far vite dette om en trekant ABC:
+e ZA=30°
+e AC=10
+
+a) Hva er den minste lengden BC kan ha?
+Lag en skisse som viser hvordan trekanten ser ut dersom BC har denne lengden.
+
+Tenk deg at vi flytter punktet B slik at vi far en trekant ABC der ZA=30°, AC=10 og
+BC=8.
+
+b) Bruk sinussetningen til a bestemme sinus til 7B (sinB).
+
+Sinussetningen gir oss to lasninger. Den ene er ZB =38,7°.
+
+c) Bestem den andre Igsningen, og lag skisser som viser hvordan trekanten ABC kan se
+ut dersom BC=8.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 16 av 24
+
+matematikk.net
+Oppgave 11 (6 poeng)
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+Gitt en rettvinklet trekant ABC med sider AB=6, AC=8 og BC=10.
+Et rektangel ADEF med sider x og h er innskrevet i trekanten. Se figuren ovenfor.
+
+a) Forklar at ADBE og AFEC er formlike.
+. 4
+b) Visat n=-2Xx+8
+
+c) Forklar at x €(0,6), og vis at arealet av rektangelet ADEF er gitt ved
+
+g(x) = -5x’ + 8x
+
+d) Bestem x slik at arealet av rektangelet blir storst mulig.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 17 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 11 (4 poeng)
+
+Skissen nedenfor viser en volleyballbane. Nettet star midt pa banen. Nar kvinner spiller
+kamper, skal hayden pa nettet veere 2,24 m, og nar menn spiller kamper, skal hayden pa
+nettet veere 2,43 m.
+
+2,24 m for kvinner
+2,43 m for menn ‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18M
+
+En spiller slar en ball fra enden av sin banehalvdel og rett over mot den andre siden. Vi
+antar at ballen beveger seg parallelt med langsidene pa volleyballbanen. Funksjonen h
+gitt ved
+
+h(x) = -0,07x? +0,67x+2,04 , O<x<12
+viser hvor mange meter h(x) ballen vil veere over bakken nar den har beveget
+seg xX meter horisontalt, dersom den ikke treffer pa noen hindringer.
+a) Bruk graftegner til a tegne grafen til h for x «[0,12|
+
+b) Vil ballen ga over nettet?
+Begrunn svaret ditt.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 18 av 24
+
+matematikk.net
+Oppgave 2 (8 poeng)
+Funksjonen f er gitt ved
+f(x)=—-x° +k-x* , k>1
+a) Bestem nullpunktene til f.
+b) Bruk CAS til a vise at grafen til f har et bunnpunkt i (0,0) og et
+(2, 4
+
+toppunkt i 3k x Ke |
+c) Bruk CAS til a bestemme likningen for tangenten til grafen til f i punktet (4, f(4)).
+
+Skriv likningen pa formen y=ax+b
+
+d) Bruk CAS og vis at den momentane vekstfarten til f nar x =1 , alltid er storre enn
+den gjennomsnittlige vekstfarten til f fra x =O til x=2.
+
+Oppgave 3 (4 poeng)
+
+ 
+
+En kveld var 450 kunder innom Kinokiosken. 280 kj@pte popcorn, og 220 kjgpte
+smagodt. 30 kjgpte verken popcorn eller smagodt.
+
+a) Systematiser opplysningene ovenfor i en krysstabell eller i et venndiagram.
+
+b) Bestem sannsynligheten for at en tilfeldig valgt kunde kjopte bade popcorn og
+smagodt.
+
+En kunde kjgpte smagodt.
+
+c) Bestem sannsynligheten for at kunden ikke kj@pte popcorn.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 19 av 24
+
+mate@matikk.net
+Oppgave 4 (5 poeng)
+
+60°
+
+ 
+
+Gitt AABC ovenfor.
+a) Bestem et eksakt uttrykk for arealet av trekanten uttrykt ved s.
+b) Bestem et eksakt uttrykk for lengden BC uttrykt ved s.
+
+c) Vis at trekanten ikke er rettvinklet for noen verdiav s.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 20 av 24
+
+mat@matikk.net
+Oppgave 5 (3 poeng)
+
+Heron fra Alexandria levde i det forste arhundret av var tidsregning.
+Han har fatt en formel oppkalt etter seg.
+
+ 
+
+ 
+
+Vi kan bruke Herons formel til a regne ut arealet T av en trekant med sider a, b og c.
+
+ 
+
+a+b+c
+Ss = ———_
+
+Arealeter T=./s(s—a)(s—b)(s—c) der 5
+
+Du far vite dette om en trekant:
+
+e Omkretsen av trekanten er 18.
+e Arealet av trekanten er 12.
+e Toavsidene i trekanten er like lange.
+
+Bruk CAS til a vise at det finnes to ulike trekanter som tilfredsstiller kravene ovenfor.
+Bestem lengden av sidene | trekantene eksakt.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T H18 Side 21 av 24
+
+mat@matikk.net

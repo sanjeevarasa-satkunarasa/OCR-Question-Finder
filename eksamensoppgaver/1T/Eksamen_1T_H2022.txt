@@ -1,0 +1,338 @@
+TYPE 1
+
+Informasjon om oppgaver type 1
+
+De forste oppgavene er av hovedtype 1. Her trenger du ikke 4 vise utregning eller gi en begrunnelse. Svaret pa oppgavene skal du gi enten som et tall eller et uttrykk i en svarrute, ved a
+velge et alternativ i en flervalgsoppgave eller som en del av en interaktiv oppgave.
+
+Oppgave 1
+
+Bestem den momentane vekstfarten til funksjonen f gitt ved
+f(x) = 4a? + 32 +8
+
+nar xz = 2
+
+ 
+
+Svar: | Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+Oppgave 2
+
+Kari skal bestemme hvor stor en vinkel v er.
+
+Hun har regnet ut at sin v er lik 2.
+
+Kan hun ha regnet riktig?
+
+You must pick a maximum of 1 choice
+
+ 
+
+[ Oo»
+
+ 
+
+ 
+
+[ Oe
+
+ 
+
+ 
+
+© Det kommer an pa hvor stor vinkelen er
+
+ 
+Oppgave 3
+
+Hvor stor er Zu?
+
+ 
+
+y
+P(0,692 ,0,722)
+v € [180°, 360°]
+U x
+cos v = cosu
+—_| 1
+
+Hvor stor er 7v ?
+
+ae
+
+ 
+
+Oppgave 4
+
+Funksjonene f og g ergittved f(x) =azr+4 og g(x) = —ax—4,der a #0.
+
+Bestem koordinatene til skjzeringspunktet mellom grafen til f og grafen til g.
+
+ 
+
+Svar: x©£= Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+ 
+
+Svar: y= | Skriv svaret her
+
+ 
+
+ 
+
+ 
+Oppgave 5
+
+Bestem r og s slik at sammenhengen blir en identitet
+
+24+ 8r+r=(x+4+s)?
+
+ 
+
+ 
+
+ 
+
+ 
+
+Svar: r= | Skriv svaret her og $= | Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 6
+
+  
+   
+ 
+
+y Timelgonn (kroner)
+
+(10, 300)
+
+ 
+
+Antall solgte boker
+x
+
+Sarah har deltidsjobb som bokselger.
+Modellen viser timelonnen hennes nar hun selger zx boker i lopet av en time.
+
+Sarah tjener 15 kroner for hver bok hun selger.
+
+Bestem k.
+
+ 
+
+Svar: k= Skriv svaret her
+
+ 
+
+ 
+
+ 
+Informasjon om oppgaver type 2
+
+De neste oppgavene er av hovedtype 2. Her skal du vise utregninger, forklare framgangsmater du har brukt, og begrunne resultater. Oppgavene besvares i en fil du lager selv, og du samler
+besvarelsen pa alle oppgavene i denne filen. Du vil ved eksamen kunne laste opp denne filen etter at du har gatt igjennom alle oppgavene.
+
+Pa de neste oppgavene vil det ogsa vzere en knapp som er merket med OK. Denne kan hukes av for 4 markere for deg selv at du har gjort oppgaven.
+
+Oppgave 7
+
+Funksjonen h gitt ved
+h(x) = —0,0005a° + 0,042?
+
+er en modell som viser hayden h(x) cm til en plante, x dager etter at planten begynte a spire.
+
+a) Hva viser modellen om plantens vekst?
+
+b) Hvilket gyldighetsomrade vil du si modellen kan ha?
+
+Denne oppgaven skal du svare pa i filen som du skal laste opp til slutt.
+
+© oK
+
+Oppgave 8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuren ovenfor er satt sammen av to kvadrater. Omkretsen av figuren er 16.
+
+Hvor lange ma sidene i hvert kvadrat vzere for at arealet av figuren skal bli minst mulig?
+Oppgave 9
+
+Danny har I@st ulikheten x > 3a? — 22
+
+Han Igste oppgaven slik:
+
+ 
+
+x > 3x" — 22
+
+2-2” > «(3a — 2)
+
+x’ > 32 —2
+
+2? —3r+2>0
+
+(x —1)(a-—2) > 0
+
+Lasning: x € (¢-,1) U (2,-)
+
+ 
+
+ 
+
+ 
+
+Vurder Igsningen.
+Oppgave 10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figur 1 Figur 2 Figur 3
+
+Ovenfor ser du tre figurer. Figurene er satt sammen av sma kvadrater.
+
+Tenk deg at du skal fortsette 4 lage figurer etter samme monster.
+
+a) Lag en algoritme som du kan bruke til 4 bestemme hvor mange sma kvadrater du totalt trenger for 4 lage de 100 forste figurene.
+
+b) Bruk et programmeringssprak, og lag et program med utgangspunkt i algoritmen. Programmet skal beregne og skrive ut hvor mange kvadrater du trenger.
+
+Oppgave 11
+
+ 
+
+ 
+
+ 
+
+Plasser to punkter A og B paparabelengitt ved f(x) = x” og trekk en linje gjennom dem.
+
+a) Finn en sammenheng mellom z- koordinatene til punktene A og B og y - koordinaten til skjzringspunktet S mellom linjen og y- aksen.
+
+b) Vis at sammenhengen gjelder for alle par av punkter Aog B pa parabelen.
+Oppgave 12
+
+ 
+
+w
+
+ 
+
+Figuren viser grafen til en funksjon f .
+
+Nullpunktene til f er 2 = —4, 2 =0 og x = 4, 0g bunnpunktene har koordinater (22, —64) og (2V2, —64).
+
+Tegn en fortegnslinje for f og en fortegnslinje for f’ .
+Informasjon om oppgaver type 3
+
+De neste oppgavene er av hovedtype 3. Her skal du selv velge fremgangsmate og vise utregninger, forklare framgangsmater du har brukt, og begrunne resultater. Oppgavene
+skal besvares i den samme filen du har brukt til 4 besvare oppgaver av type2. Du vil ved eksamen kunne laste opp denne filen etter at du har gatt igjennom alle oppgavene.
+
+Pa de neste oppgavene vil det ogsa vaere en knapp som er merket med OK. Denne kan hukes av for 4 markere for deg selv at du har gjort oppgaven.
+
+Oppgave 13
+
+| denne oppgaven skal du arbeide med skjzeringspunkter mellom grafene til funksjonene f og g gittved
+
+f(a) = az" og g(x) = Vbx
+For eksempel vil a = 2 og b = 32 gi skjaeringspunktet (2,8).
+15
+
+10
+(2, 8)
+
+ 
+
+Utforsk hvilke verdier av a,b © N som gir et skjzeringspunkt der begge koordinatene er hele tall.
+
+Start gjerne med 4 velge a = 1. Ta deretter fordeg a = 2, a= 3 osv.
+Oppgave 14
+
+Visste du at du kan bruke skistavene dine for 4 finne ut hvor bratt terrenget er der du befinner deg?
+
+Pa nettstedet www.varsom.no beskriver Snoskredskolen en metode for 4 beregne helningsvinkelen.
+
+P
+
+Legg den ene staven ned i fallretningen slik at den lager et tydelig avtrykk i sngen.
+
+Reis opp staven, og sett spissen ned i sngen i ovre kant av avtrykket.
+
+N
+
+Ta den andre staven. Hold stavene mot hverandre som pa det andre bildet. La den
+nederste staven pendle fritt slik at den blir hengende loddrett.
+
+w
+
+Senk sa stavene til den loddrette staven bergrer sngen. Merk deg hvor denne staven
+treffer avtrykket.
+
+>
+
+ 
+
+ 
+ 
+
+Avtrykk av
+handtaket
+
+  
+
+Dersom staven treffer akkurat nederst i avtrykket, har terrenget en helning pa 30°.
+
+Dersom staven treffer utenfor (nedenfor) avtrykket, er terrenget brattere enn 30°.
+
+Dersom staven treffer avtrykket, er terrenget slakere enn 30°.
+
+For hver 10 cm kan du legge til eller trekke fra 3°.
+
+Hvis den loddrette staven treffer 10 cm nedenfor avtrykket er det altsa en helning pa 30° + 3° = 33°.
+
+Treffer den 20 cm inn i avtrykket er det en helning pa 30° - 6° = 24°.
+
+Bruk trigonometri, gjor nodvendige forutsetninger og beregninger, og vurder denne metoden.

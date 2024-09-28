@@ -1,0 +1,415 @@
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Las likningssystemet
+
+5x+2y=4
+3x+4y =-6
+
+Oppgave 2 (1 poeng)
+
+Las likningen
+
+3-10* = 3000
+
+Oppgave 3 (2 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+(0,5-10°)
+0,2-10*+3-10°
+
+ 
+
+Oppgave 4 (1 poeng)
+
+Vis at
+
+Vis 5 -Ja8 =/3
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 14 av 24
+
+mate@matikk.net
+Oppgave 5 (2 poeng)
+
+Regn ut og skriv svaret sa enkelt som mulig
+
+1Ig1000 - 1g 2/10 - 1g 4/10? -1g0,00001
+
+Oppgave 6 (3 poeng)
+
+a) Vis at
+
+x(x +2)(x—4) = x° —2x* —8x
+
+b) L@s likningen
+
+x° —2x* —8x =0
+
+Oppgave 7 (2 poeng)
+
+Legs ulikheten
+
+x* -2x-8>0
+
+Oppgave 8 (3 poeng)
+Funksjonen f er gitt ved
+f(x) =x? +kx+4
+For hvilke verdier av k har grafen til f
+
+e ingen skjzeringspunkter med x- aksen
+e ett skjeringspunkt med x- aksen
+e toskjeringspunkter med x- aksen
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 15 av 24
+
+mate@matikk.net
+Oppgave 9 (3 poeng)
+
+ 
+
+a) Vis at
+1
+XF2t~ 3x2 46x43
+x dt x?-4
+3 3x
+
+b) Skriv sa enkelt som mulig
+
+x4242
+X
+
+x fF
+
+3 3x
+
+Oppgave 10 (4 poeng)
+En funksjon f er gitt ved
+
+f(x) =x? +2x?4+1
+a) Bestem den gjennomsnittlige vekstfarten til f i intervallet [—2,2].
+
+b) Bestem likningen for tangenten til grafen til f i punktet (4,f(4)).
+
+Oppgave 11 (3 poeng)
+
+ 
+
+Tenk deg at du kaster en red og en bla terning.
+
+Avgjor hvilket av de to alternativene nedenfor som er mest sannsynlig.
+
+e Terningene viser samme antall gyne.
+
+e Summen av antall gyne er 5 eller mindre.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018
+
+matematikk.net
+
+Side 16 av 24
+Oppgave 12 (6 poeng)
+
+Cc
+/\ | en likesidet trekant er alle sidene like lange og
+I alle vinklene 60°. Hgyden pa en av sidene
+30° 30°
+- halverer denne siden.
+3
+
+Heyden deler den likesidete trekanten | to like
+
+/ 60° m 60° ; store rettvinklete trekanter.
+
+‘ S ps i
+Cc
+/ | denne rettvinklete trekanten er vinklene 30°,
+60° og 90°. | tillegg er hypotenusen dobbelt sa
+30" lang som den minste kateten.
+
+Denne sammenhengen kalles 30°, 60° og 90°-
+
+60° setningen.
+/ a
+
+A 5 p
+
+Ovenfor ser du to avsnitt fra en leerebok for 10. klasse.
+
+SVv3
+
+a) Vis at DC =
+2
+
+3
+
+b) Bruk AADC tila vise at sin60° =~.
+
+|trekanten POR er PO=8 og PR =2,/3 | Se skissen nedenfor.
+R
+
+ 
+
+p S Q
+
+c) Bestem arealet av APOR.
+3
+
+8-/3
+
+ 
+
+d) Vis at tanQ=
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 17 av 24
+
+mate@matikk.net
+Oppgave 13 (4 poeng)
+
+Fire andregradsfunksjoner p, gq, r Og S er gitt ved
+
+p(x) = x* —2x
+Q(x) =x* +2x-2
+r(x) =4—-x?
+
+S(X) = x* —2x-2
+
+Nedenfor ser du seks grafer.
+
+Hvilken graf er grafen til p?
+Hvilken graf er grafen til q ?
+Hvilken graf er grafen til r ?
+Hvilken graf er grafen til s ?
+
+Husk a begrunne svarene dine.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 18 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 11 (6 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ar Pris (kroner)
+1970 1
+1980 4
+1990 8
+2000 14
+2010 20
+2017 25
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor viser hvor mye en kroneis kostet noen utvalgte ar i perioden fra 1970 til
+2017.
+
+a) Legg opplysningene i tabellen ovenfor inn som punkter i et koordinatsystem der
+xX - aksen viser antall ar etter 1970 og y- aksen viser pris (kroner).
+
+Funksjonen f er gitt ved
+f(x) =0,0054x*? +0,26x+0,9  , xe[0,50]
+
+b) Tegn grafen til f isamme koordinatsystem som du brukte | oppgave a).
+
+| resten av denne oppgaven skal du bruke funksjonen f som en modell som viser prisen
+f(x) kroner for en kroneis x ar etter 1970.
+
+c) Nar var prisen for en kroneis 16 kroner, ifelge modellen?
+
+d) Hvor mye har prisen for en kroneis i gjennomsnitt steget med per ar fra 1975 til
+2015?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 19 av 24
+
+mate@matikk.net
+Oppgave 2 (4 poeng)
+
+Ved en videregaende skole er det 640 elever. | en undersgkelse ble elevene spurt om nar
+de legger seg kvelden for en skoledag.
+
+1
+e a av elevene svarte at de legger seg for klokka 23.
+
+Det viser seg at
+
+4
+e 5 av elevene som legger seg for klokka 23, har et karaktersnitt over fire
+
+1
+e 3 av elevene som legger seg etter klokka 23, har et karaktersnitt over fire
+
+a) Lag en krysstabell som illustrerer opplysningene som er gitt ovenfor.
+
+Tenk deg at vi trekker ut en elev ved skolen tilfeldig.
+
+b) Bestem sannsynligheten for at eleven har et karaktersnitt over fire.
+
+Tenk deg at den eleven vi trakk i oppgave b), har et karaktersnitt over fire.
+
+c) Bestem sannsynligheten for at denne eleven legger seg for klokka 23 kvelden for en
+skoledag.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 20 av 24
+
+mate@matikk.net
+Oppgave 3 (2 poeng)
+
+ 
+
+Gitt trekanten ovenfor.
+
+Bruk CAS tila bestemme s.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 21 av 24
+
+mat@matikk.net
+Oppgave 4 (6 poeng)
+
+ 
+
+Figuren ovenfor viser to rettvinklete trekanter, AADC og ADBC. AC=a, BC=b,
+AD=c,, DB=c, og CD=h er hgyden fra C pa AB.
+
+Maria pastar at hayden h kan uttrykkes pa to ulike mater:
+
+1) h=a-cosu
+2) h=b-cosv
+
+a) Vis at Maria har rett.
+
+ 
+
+ 
+
+0 . . . c,-h c,-h
+For a bestemme arealet T av AABC vil Maria regne slik: T =—+— + 5
+b) Bruk blant annet resultatet fra oppgave a), og vis at dette uttrykket for arealet kan
+skrives som
+a-sinu-b-cosv’ b-SiNV-a-COSU
+T= +
+
+ 
+
+ 
+
+2 2
+
+Mats bruker arealsetningen og far at arealet av trekanten ogsa kan skrives slik:
+1
+Pa pa b-sinu+y)
+
+c) Bruk dette uttrykket og uttrykket du har for arealet fra oppgave b), til a vise at
+
+sin(u+V) =Sinu-COoSV+SiINV-COSU
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 22 av 24
+
+matematikk.net
+Oppgave 5 (6 poeng)
+
+En funksjon f er gitt ved
+
+f(x) =x*-6x+8
+
+a) Vis at tangenten til grafen til f i punktet (4, f(4)) er parallell med linjen som gar
+gjennom punktene (2,f(2)) og (6,(6)).
+
+Nedenfor ser du grafen til en funksjon g gitt ved
+
+g(x)=ax*+bx+ce , a0
+
+Q(a,8(q))
+
+P(p,g(p))
+
+b) Bruk CAS tila bestemme stigningstallet til tangenten til grafen til g i punktet
+M pra is Pp+q |
+2 2
+
+c) Vis at linjen gjennom punktene P(p,g(p)) og Q(q,8(q)) er parallell med tangenten i
+oppgave b).
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2018 Side 23 av 24
+
+matematikk.net

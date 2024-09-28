@@ -1,0 +1,377 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Skriv som prosent
+
+a) 0,451
+
+Oppgave 2 (2 poeng)
+
+92,9°
+
+48, 5° F
+
+ 
+
+ 
+
+ 
+
+a) Forklar at de to trekantene ovenfor er formlike.
+
+b) Bestem lengden av siden BC ved regning.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 12 av 20
+
+mat@matikk.net
+Oppgave 3 (2 poeng)
+
+Et vindu har form som et rektangel. Vinduet er 6 dm bredt og 7 dm heyt.
+
+Gjor beregninger og avgjor om det er mulig a fa en kvadratisk plate med sider 9 dm inn
+gjennom vinduet.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 4 (2 poeng)
+S R
+P ~ Q
+A B C D E F
+
+Figuren ovenfor viser et rektangel PQRS. PO=12cm, OR=3cmog AB=CD=EF=2cm
+
+Bestem arealet av det bla omradet.
+
+Oppgave 5 (4 poeng)
+
+Funksjonen f er gitt ved
+
+f(x) =x*+2x-3
+
+a) Skriv av verditabellen nedenfor i besvarelsen din, og fyll inn tallene som mangler.
+
+ 
+
+x —4 —3 —2 —1 O 1 2
+
+ 
+
+r(x)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b)  Tegn grafentil f for -4<x<2.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 13 av 20
+
+matematikk.net
+Oppgave 6 (3 poeng)
+
+ 
+
+Tenk deg at du har ni flasker med smoothie i kjoleskapet, to «Surf», tre Jump» og fire
+«Catch». Du tar tilfeldig to flasker.
+
+a) Bestem sannsynligheten for at du ikke tar en Jump»-smoothie.
+
+b) Bestem sannsynligheten for at du tar én «Surf»- og én «Catch»-smoothie.
+
+Oppgave 7 (2 poeng)
+
+| 2012 kostet en vare 6 kroner. Indeksen for varen var da 120.
+| 2014 var indeksen for varen 160.
+
+Hvor mye skulle varen ha kostet i 2014 dersom prisen hadde fulgt indeksen?
+
+Oppgave & (3 poeng)
+
+En formel er gitt ved
+
+1
+S=V,:t+—-a-t?
+
+2
+
+a) Bestem s nar v, =O, t=8 og a=10
+
+b) Bestem a nar v, =20, t=4 og s=144
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 14 av 20
+
+mat@ematikk.net
+Oppgave 9 (3 poeng)
+
+Anders skal leie en bil hos bilfirma A eller bilfirma B. Grafene nedenfor viser hvor mye han
+ma betale til hvert firma dersom han leier bilen én dag og kjgrer x kilometer.
+
+y Pris (kroner)
+1600+
+
+1000-
+800-
+600-
+
+400-
+
+ 
+
+Antall kilometer
+x
+
+ 
+
+0 3020U40)”~C~Saté<aCSCSC«sSC*«éaSCSC«éiS
+a) Sett opp et funksjonsuttrykk for hver av de to grafene.
+b) Hva forteller den grafiske framstillingen om de to pristiloudene?
+
+c) Erantall kilometer han kjgrer, og prisen han totalt ma betale, proporsjonale
+sterrelser? Begrunn svaret ditt.
+
+Oppgave 10 (2 poeng)
+
+Du har en boks med form som et rett, firkantet prisme og en boks med form som en
+sylinder. De to boksene er like hgye.
+
+Grunnflaten i det rette, firkantede prismet er et rektangel med sider 7 cm og 4 cm.
+Radius i sylinderen er 3 cm.
+
+Hvilken boks har st@rst volum?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 15 av 20
+
+matematikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (3 poeng)
+
+Da forslaget til statsbudsjett for 2015 ble lagt fram, var dette et av oppslagene pa
+nettsidene til avisen Dagens Neeringsliv:
+
+ 
+
+ 
+
+Stotten til FN kuttes
+
+Regjeringen vil kutte de direkte overforingene til FN-organisasjoner med 906
+millioner kroner - et kutt pa over 20 prosent.
+
+ 
+
+Blant FN-organisasjonene som far storst kutt, er UNICEF. Stotten til FNs barneorganisasjon
+
+blir bortimot halvert, fra 1 milliard til 520 millioner kroner.
+
+ 
+
+ 
+
+ 
+
+a) Hva kan du si om sterrelsen pa de direkte overfgringene til FN-organisasjoner
+for dette?
+
+b) Med hvor mange prosent ville regjeringen redusere stgetten til FNs
+barneorganisasjon UNICEF?
+
+Oppgave 2 (4 poeng)
+
+Ved en skole er det 437 elever. 164 av elevene drikker melk hver dag. 316 av elevene
+drikker juice hver dag. 67 av elevene drikker verken melk eller juice hver dag.
+
+a) Lag etvenndiagram eller en krysstabell som beskriver situasjonen ovenfor.
+b) Bestem sannsynligheten for at en tilfeldig valgt elev ikke drikker melk hver dag.
+
+c) Bestem sannsynligheten for at en tilfeldig valgt elev som drikker melk hver dag,
+ogsa drikker juice hver dag.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 16 av 20
+
+matematikk.net
+Oppgave 3 (2 poeng)
+
+Prisen pa en vare er endret flere ganger. Forst ble prisen satt opp med 20 %. Senere ble
+den satt opp med 10 % til. En stund etter ble prisen sa satt ned med 30 %. Na koster varen
+3 234 kroner.
+
+Hva kostet varen f@r prisen endret seg ferste gang?
+
+Oppgave 4 (4 poeng)
+
+ 
+
+Ovenfor ser du en boks «Stabbur-Makrell». Bunnen av boksen er tilnezermet lik et rektangel
+og to halvsirkler og har form som vist pa figuren til hayre. Rektangelet har lengde 8,2 cm
+og bredde 6,6 cm.
+
+Anta at sideflaten star vinkelrett pa topp og bunn, og at boksen er 2,1 cm hogy.
+
+a) Bestem volumet av boksen.
+
+b) Bestem overflaten av boksen.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 17 av 20
+
+mat@ematikk.net
+Oppgave 5 (8 poeng)
+En bedrift bruker i en periode vann fra et basseng i produksjonen av et nytt produkt.
+
+Funksjonen f gitt ved
+f(x) =0,0013x° —0,59x* +61x +2000 O<x<300
+
+viser vannstanden f(x) millimeter i bassenget x dager etter at fabrikken startet
+produksjonen av produktet.
+a) Bruk graftegner til a tegne grafen til f
+
+b) Bestem forskjellen mellom hgyeste og laveste vannstand i bassenget i denne
+perioden.
+
+Cc) Bruk graftegner til a lose likningen f(x) =3000
+Hva forteller lasningene om vannstanden i bassenget?
+
+d) Bestem stigningstallet for den rette linjen som gar gjennom punktene (90, f(90)) og
+(210, f(210)). Hva forteller dette stigningstallet om vannstanden i bassenget?
+
+Oppgave 6 (4 poeng)
+Et flytende rengjgringsmiddel skal blandes med vann i forholdet 3 : 10
+
+Du skal lage 6,5 dL ferdig blanding.
+
+a) Hvor mye rengj@ringsmiddel og hvor mye vann trenger du?
+
+Oda har blandet rengjgringsmiddelet med vann i forholdet 3 : 8. Hun har en bette med
+6,6 L av denne blandingen.
+
+b) Hva kan hun gjgre for a fa riktig blandingsforhold i betta?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 18 av 20
+
+mate@matikk.net
+Oppgave 7 (2 poeng)
+Pa et bilde er en bakterie 2 cm lang. | virkeligheten er bakterien 20 um lang.
+1 um =10°m
+
+Bestem malestokken til bildet.
+
+Oppgave 8 (7 poeng)
+
+ 
+
+A B C D E
+
+Prosentvis endring i reallgnn
+
+Ar | Konsumprisindeks | Nominell lgnn | Reallonn . . : .
+siden forrige registrering
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+2 1998 100 290 700
+3 2002 110,1 340 600
+4 2006 117,7 391 500
+3 2010 128,8 474 000
+6 2014 136,9 330 100
+
+ 
+
+Jostein vil ha en oversikt som viser hvordan reall@nnen hans har endret seg.
+
+a) Lag et regneark som vist ovenfor. Nar Jostein har registrert konsumprisindeks
+og nominell lonn, skal han fa beregnet reallonn. Han skal ogsa fa beregnet hvor
+mange prosent reallgannen har endret seg siden forrige registrering.
+
+Anta at konsumprisindeksen oker med 2,5 % per ar i perioden fra 2014 til 2024.
+
+b) Hva ma Josteins nominelle lonn i 2024 vezere dersom han da skal fa en reallann
+som er 10 % h@yere enn reallg@nnen i 2014?
+
+Oppgave 9 (2 poeng)
+
+En vanntank har form som en sylinder. Tanken er 0,8 m hg@y og rommer 150 L.
+
+Bestem radius | tanken.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Varen 2015 Side 19 av 20
+
+mat@matikk.net

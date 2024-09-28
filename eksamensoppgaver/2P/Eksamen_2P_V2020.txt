@@ -1,0 +1,1110 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+19.05.2020
+
+ 
+
+Eksamen
+MAT1015 Matematikk 2P
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timar.
+Del 1 skal leverast inn etter 2 timar.
+Del 2 skal leverast inn seinast etter 5 timar.
+
+ 
+
+Hjelpemiddel pa Del 1 | Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Hjelpemiddel pa Del 2 | Alle hjelpemiddel er tillatne, med unntak av internett og andre
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 7 oppgaver. Del 2 har 8 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+
+ 
+
+utteljing.
+Bruk av digitale verktgy som grafteiknar og rekneark skal
+dokumenterast.
+Rettleiing om Poeng i Del 1 og Del 2 er berre rettleiande i vurderinga.
+vurderinga Karakteren blir fastsett etter ei samla vurdering. Det betyr at
+
+sensor vurderer i kva grad du
+
+— viser rekneferdigheiter og matematisk forstaing
+
+— gjennomf¢rer logiske resonnement
+
+— ser samanhengar i faget, er oppfinnsam og kan ta i bruk
+fagkunnskap i nye situasjonar
+
+— kan bruke formalstenlege hjelpemiddel
+
+— forklarer framgangsmatar og grunngir svar
+
+—  skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+— vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar Kjelder for bilete, teikningar osv.
+
+e Husarbeid: https://www.iform.no/(23.06.3019)
+e Hengelasar: Angelo Giordano, Pixabay (20.06.2019)
+e Hoppekreps: http://marinbiologene.no (01.10.2019)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1015 Side 2 av 24
+ 
+
+ 
+
+DEL 1
+
+Utan hjelpemiddel
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+ 
+
+Trine har spurt 20 elevar i klassen kor mange gonger dei hjelpte til med husarbeid
+
+heime i lgpet av ei veke. Resultata ser du nedanfor.
+
+10 14 14 8 35 10
+
+10 10
+
+0 8 8
+
+7 7
+
+8 FF 7 5 7
+
+a) Bestem medianen, gjennomsnittet, typetalet og variasjonsbreidda for dette
+
+datamaterialet.
+
+b) Teikn av og fyll ut tabellen nedanfor.
+
+Forklar kva tala i nest siste rad i tabellen betyr.
+
+ 
+
+Kor mange gonger
+ein elev hjelper til
+med husarbeid
+heime
+
+Frekvens
+
+Kumulativ
+frekvens
+
+Relativ
+frekvens
+
+Relativ kumulativ
+frekvens
+
+ 
+
+0
+
+ 
+
+5
+
+ 
+
+7
+
+ 
+
+8
+
+ 
+
+10
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1015
+
+Side 3 av 24
+Oppgave 2 (3 poeng)
+
+For a reise til flyplassen kan Herman ta flybussen eller bybanen.
+Flybussen kostar 100 kroner, og bybanen kostar 40 kroner.
+
+a) Kor mange prosent billigare er bybanen samanlikna med flybussen?
+
+b) Kor mange prosent dyrare er flybussen samanlikna med bybanen?
+
+Oppgave 3 (3 poeng)
+
+Forklar forskjellen mellom lineaer og eksponentiell vekst.
+
+Ta med eit eksempel pa lineaer vekst og eit eksempel pa eksponentiell vekst i
+forklaringa di.
+
+Oppgave 4 (2 poeng)
+
+Forelska par festar nokre gonger ein
+hengelas til ei bru og kastar ngkkelen
+i vatnet som eit symbol pa evig
+kjaerleik.
+
+| 2015 matte myndigheitene i Paris
+byte ut rekkverket pa brua
+
+Pont des Arts fordi det ikkje tolte
+tyngda av alle hengelasane.
+
+45 tonn med hengelasar blei fjerna.
+
+ 
+
+Ga ut fra at kvar hengelas i
+gjennomsnitt vog 50 g.
+
+Omtrent kor mange hengelasar var det pa rekkverket? Skriv talet pa standardform.
+
+ 
+
+Eksamen MAT1015 Side 4 av 24
+Oppgave 5 (4 poeng)
+
+Tabellen nedanfor viser poengfordelinga pa ei kartleggingspr@ve i matematikk i
+2P-gruppene ved ein skole.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Bestem gjennomsnittet for dette datamaterialet.
+
+b) Lag eit histogram som viser fordelinga av poeng.
+
+Oppgave 6 (3 poeng)
+
+Ein bat har i dag ein verdi pa 200 000 kroner. Ga ut fra at verdien av baten s@kk med
+5 % kvart ar framover.
+
+a) Set opp eit uttrykk som du kan bruke til a rekne ut kor mykje baten vil vere verdt
+om 10 ar.
+
+Anders pastar at verdien til baten vil vere 100 000 kroner etter 10 ar.
+
+b) Forklar Anders kvifor dette ikkje kan vere riktig.
+
+ 
+
+Eksamen MAT1015 Side 5 av 24
+Oppgave 7 (3 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figur 1 Figur 2 Figur 3
+
+Ovanfor ser du tre figurar. Figurane er sette saman av sma kvite kvadrat og sma
+grone kvadrat. Tenk deg at du skal fortsetje a lage figurar etter same m@nster.
+
+a) Kor mange sma gr@ne kvadrat vil det vere i figur 10?
+Set opp eit reknestykke som viser korleis du har tenkt for a komme fram til dette
+svaret.
+
+b) Bestem eit uttrykk for kor mange sma gr@ne kvadrat det er nar talet pa sma kvite
+kvadrat er n°.
+
+ 
+
+Eksamen MAT1015 Side 6 av 24
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (7 poeng)
+
+  
+
+Funksjonane M og T gitt ved
+
+M(x) =—0,0002x* +0,046x*+2x+396 O<x<190
+T(x) =—0,00028x* +0,066x*+2,2x+295 , O<x<190
+
+viser tilnaerma daglengde, M(x) minutt i Mandal og T(x) minutt i
+Trondheim, X d@gn etter 31. desember 2018.
+
+a) Teikn grafane til M og T i same koordinatsystem.
+b) Nar var daglengda lik i dei to byane?
+
+c) Kor mange minutt auka daglengda i Mandal i gjennomsnitt med per dag fra
+31. desember til 1. mai?
+
+d) Bestem den momentane vekstfarten til funksjonen T nar x =60.
+Gi ei praktisk tolking av dette svaret.
+
+ 
+
+Eksamen MAT1015 Side 7 av 24
+Oppgave 2 (4 poeng)
+
+Tabellen nedanfor viser kor mange passasjerar som reiste med fly fra Oslo til
+Stavanger, Bergen og Trondheim i perioden fra 1. april til 30. juni, i 2018 og i 2019.
+
+  
+ 
+
+223 653
+
+  
+
+215 615
+
+ 
+
+2/0 427 255 117
+
+ 
+
+281 429 263 853
+
+ 
+
+ 
+
+ 
+
+Bruk tala i tabellen til a lage to ulike diagram.
+
+e Det fgrste diagrammet skal vise endringa i talet pa passasjerar fra 2018 til
+2019 for kvar av dei tre flyrutene.
+
+e Det andre diagrammet skal vise den prosentvise fordelinga av passasjerar
+mellom dei tre flyrutene i 2019.
+
+Oppgave 3 (2 poeng)
+
+Aina har i dag 100 000 kroner pa ein sparekonto. Pengane har statt ur@rte pa kontoen
+i 5 ar. Renta har vore 1,85 % per ar.
+
+Kor mykje hadde ho pa kontoen for 5 ar sidan?
+
+ 
+
+Eksamen MAT1015 Side 8 av 24
+Oppgave 4 (7 poeng)
+
+ 
+
+Lars og Lene forskar pa korleis talet pa hoppekreps i eit ferskvatn endrar seg.
+Tabellen nedanfor viser talet pa observerte hoppekreps nokre dagar i april og mai.
+
+ 
+
+Dato 30. april | 3. mai 4. mai 6. mai
+
+Talet pa hoppekreps | 10000 | 20000 | 30000 | 120000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ut fra desse observasjonane vil Lars og Lene lage ulike modellar.
+Dei lar X vere talet pa dagar etter 30.april.
+
+Nar Lars lagar sin modell, gar han ut fra at talet pa hoppekreps aukar med eit fast tal
+kvar dag.
+
+a) Bestem modellen han da far.
+Gjer greie for kva kvart av tala i modellen betyr i denne praktiske situasjonen.
+
+Nar Lene lagar sin modell, gar ho ut fra at talet pa hoppekreps aukar med ein fast
+prosent kvar dag.
+
+b) Bestem modellen ho da far.
+Gjer greie for kva kvart av tala i modellen betyr i denne praktiske situasjonen.
+
+Ved a bruke regresjon har Lene i tillegg funne modellen h gitt ved
+h(x) =1667x° —10000x* + 18333x +10000
+
+c) Vis korleis ho har gatt fram for a finne denne modellen.
+
+d) Teikn grafen til modellen fra oppgave b) og grafen til h i same koordinatsystem,
+og beskriv forskjellar og likskapar mellom dei to modellane.
+
+ 
+
+Eksamen MAT1015 Side 9 av 24
+Oppgave 5 (6 poeng)
+
+Matematikk
+
+Karakteren6 I) 7,8 %
+
+Karakteren5 [mss 21,5 %
+Karakteren 4 0: 26,3 %
+Karakteren 3 (Us 26 %
+Karakteren2 [I 16,6 %
+
+Karakteren1 §) 1,8%
+
+0 5 10 15 20 25 30
+
+Norsk hovudmal
+
+Karakteren6 [I 5.3%
+
+KarakterenS meee eee eee 241%
+
+Karalteren 4 [eye eee 35,5 %
+KarakterenS — 26,4 %
+Karakteren2 DI) 31%
+
+Karakteren1 | 0,6%
+
+0 10 20 30 40
+
+Diagramma ovanfor viser karakterfordelinga for 10. trinn i matematikk og norsk
+
+hovudmal varen 2019.
+
+a) Bestem gjennomsnittskarakteren i matematikk og gjennomsnittskarakteren i
+
+norsk.
+
+b) Korleis kan du ut fra diagramma argumentere for at standardavviket i matematikk
+
+er st@rre enn standardavviket i norsk?
+
+c) Kva for ein/nokon av pastandane nedanfor er riktig/riktige?
+
+Hugs a grunngi svara dine.
+
+1) Dersom gjennomsnittet for eit datasett A er hogare enn gjennomsnittet for
+eit datasett B, vil standardavviket for A alltid vere lagare enn
+
+standardavviket for B.
+
+2) Dersom standardawviket for eit datasett er lik null, er alle verdiane i
+
+datasettet like.
+
+ 
+
+Eksamen MAT1015
+
+Side 10 av 24
+Oppgave 6 (6 poeng)
+
+Linn har oppretta ein sparekonto. Den 1. januar kvart ar framover vil ho setje
+inn 25 000 kroner pa kontoen.
+
+Sa lenge bel@pet pa kontoen er lagare enn 100 000 kroner, vil ho fa ei rente pa
+2,5 % per ar.
+
+Nar belgpet pa kontoen passerer 100 000 kroner, vil ho fa ei rente pa 3,5 % per ar.
+
+a) Lag eitt rekneark som gir ei oversikt over kor mykje Linn vil ha pa kontoen ved
+begynnelsen og slutten av kvart ar dei neste 10 ara.
+
+b) Kor mykje har Linn til saman fatt i renter i lopet av desse 10 ara?
+
+Oppgave 7 (2 poeng)
+Ein storleik minkar eksponentielt.
+
+Kva for ein av grafane nedanfor illustrerer dette? Grunngi svaret.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 8 (2 poeng)
+
+Svein og Tore hadde lik Inn i 2017.
+
+Svein fekk 4 % Ignnsauke i 2018 og 6 % I@nnsauke i 2019.
+Tore fekk 8 % Ignnsauke i 2018 og 2 % Ig@nnsauke i 2019.
+
+Kven av dei to hadde hggast I@nn i 2019?
+
+ 
+
+Eksamen MAT1015 Side 11 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+Del 1 skal leveres inn etter 2 timer.
+Del 2 skal leveres inn senest etter 5 timer.
+
+ 
+
+Hjelpemidler pa Del 1 | Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Hjelpemidler pa Del 2. | Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 7 oppgaver. Del 2 har 8 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe uttelling.
+
+Bruk av digitale verktgy som graftegner og regneark skal
+
+ 
+
+dokumenteres.
+Veiledning om Poeng i Del 1 og Del 2 er bare veiledende i vurderingen.
+vurderingen Karakteren blir fastsatt etter en samlet vurdering. Det betyr at
+
+sensor vurderer i hvilken grad du
+
+— viser regneferdigheter og matematisk forstaelse
+gjennomfg¢rer logiske resonnementer
+
+ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+kan bruke hensiktsmessige hjelpemidler
+
+forklarer framgangsmater og begrunner svar
+
+skriver oversiktlig og er néyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+
+e Husarbeid: https://www.iform.no/(23.06.3019)
+e Hengelaser: Angelo Giordano, Pixabay (20.06.2019)
+e Hoppekreps: http://marinbiologene.no (01.10.2019)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1015 Side 12 av 24
+ 
+
+ 
+
+DEL 1
+
+Uten hjelpemidler
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+ 
+
+Trine har spurt 20 elever i klassen hvor mange ganger de hjalp til med husarbeid
+hjemme i lgpet av en uke. Resultatene ser du nedenfor.
+
+10 14 14 8 35 10
+
+10 10
+
+0 8 8
+
+7 7
+
+0
+
+8 FF 7 5 7
+
+a) Bestem medianen, gjennomsnittet, typetallet og variasjonsbredden for dette
+datamaterialet.
+
+b) Tegn av og fyll ut tabellen nedenfor.
+Forklar hva tallene i nest siste rad i tabellen betyr.
+
+ 
+
+Antall ganger en
+elev hjelper til med
+husarbeid hjemme
+
+Frekvens
+
+Kumulativ
+frekvens
+
+Relativ
+frekvens
+
+Relativ kumulativ
+frekvens
+
+ 
+
+0
+
+ 
+
+5
+
+ 
+
+7
+
+ 
+
+8
+
+ 
+
+10
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen
+
+MAT1015
+
+Side 13 av 24
+Oppgave 2 (3 poeng)
+
+For a reise til flyplassen kan Herman ta flybussen eller bybanen.
+Flybussen koster 100 kroner, og bybanen koster 40 kroner.
+
+a) Hvor mange prosent billigere er bybanen sammenlignet med flybussen?
+
+b) Hvor mange prosent dyrere er flybussen sammenlignet med bybanen?
+
+Oppgave 3 (3 poeng)
+
+Forklar forskjellen mellom lineaer og eksponentiell vekst.
+
+Ta med et eksempel pa linezer vekst og et eksempel pa eksponentiell vekst i
+forklaringen din.
+
+Oppgave 4 (2 poeng)
+
+Forelskede par fester noen ganger en
+hengelas til en bro og kaster nokkelen
+i vannet som et symbol pa evig
+kjaerlighet.
+
+| 2015 matte myndighetene i Paris
+bytte ut rekkverket pa broen
+
+Pont des Arts fordi det ikke talte
+tyngden av alle hengelasene.
+
+45 tonn med hengelaser ble fjernet.
+
+ 
+
+Anta at hver hengelas i gjennomsnitt
+veide 50 g.
+
+Omtrent hvor mange hengelaser var det pa rekkverket? Skriv tallet pa standardform.
+
+ 
+
+Eksamen MAT1015 Side 14 av 24
+Oppgave 5 (4 poeng)
+
+Tabellen nedenfor viser poengfordelingen pa en kartleggingspr@ve i matematikk i
+2P-gruppene ved en skole.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Bestem gjennomsnittet for dette datamaterialet.
+
+b) Lag et histogram som viser fordelingen av poeng.
+
+Oppgave 6 (3 poeng)
+
+En bat har i dag en verdi pa 200 000 kroner. Anta at batens verdi synker med
+5 % hvert ar framover.
+
+a) Sett opp et uttrykk som du kan bruke til a regne ut hvor mye baten vil vzere verdt
+om 10 ar.
+
+Anders pastar at batens verdi vil vere 100 000 kroner etter 10 ar.
+
+b) Forklar Anders hvorfor dette ikke kan veere riktig.
+
+ 
+
+Eksamen MAT1015 Side 15 av 24
+Oppgave 7 (3 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figur 1 Figur 2 Figur 3
+
+Ovenfor ser du tre figurer. Figurene er satt sammen av sma hvite kvadrater og sma
+gr@nne kvadrater. Tenk deg at du skal fortsette a lage figurer etter samme m@nster.
+
+a) Hvor mange sma gr@nne kvadrater vil det vere i figur 10?
+Sett opp et regnestykke som viser hvordan du har tenkt for a komme fram til dette
+svaret.
+
+b) Bestem et uttrykk for antallet sma gronne kvadrater nar antall sma hvite
+kvadrater er n?.
+
+ 
+
+Eksamen MAT1015 Side 16 av 24
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (7 poeng)
+
+  
+
+Funksjonene M og T gitt ved
+
+M(x) =—-0,0002x*+0,046x7+2x+396 =, O<x<190
+T(x) =—0,00028x* +0,066x*+2,2x+295 , O<x<190
+
+viser tilnaermet daglengde, M(x) minutter i Mandal og T(x) minutter i
+Trondheim, X d@gn etter 31. desember 2018.
+
+a) Tegn grafene til M og T isamme koordinatsystem.
+b) Nar var daglengden lik i de to byene?
+
+c) Hvor mange minutter okte daglengden i Mandal i gjennomsnitt med per dag fra
+31. desember til 1. mai?
+
+d) Bestem den momentane vekstfarten til funksjonen T nar x =60.
+Gi en praktisk tolkning av dette svaret.
+
+ 
+
+Eksamen MAT1015 Side 17 av 24
+Oppgave 2 (4 poeng)
+
+Tabellen nedenfor viser hvor mange passasjerer som reiste med fly fra Oslo til
+Stavanger, Bergen og Trondheim i perioden fra 1. april til 30. juni, i 2018 og i 2019.
+
+  
+ 
+
+223 653 215 615
+
+  
+
+ 
+
+2/0 427 255 117
+
+ 
+
+281 429 263 853
+
+ 
+
+ 
+
+ 
+
+Bruk tallene i tabellen til a lage to ulike diagrammer.
+
+e Det farste diagrammet skal vise endring i antall passasjerer fra 2018 til 2019
+for hver av de tre flyrutene.
+
+e Det andre diagrammet skal vise den prosentvise fordelingen av passasjerer
+mellom de tre flyrutene i 2019.
+
+Oppgave 3 (2 poeng)
+
+Aina har i dag 100 000 kroner pa en sparekonto. Pengene har statt ur@rt pa kontoen i
+5 ar. Renten har veert 1,85 % per ar.
+
+Hvor mye hadde hun pa kontoen for 5 ar siden?
+
+ 
+
+Eksamen MAT1015 Side 18 av 24
+Oppgave 4 (7 poeng)
+
+ 
+
+Lars og Lene forsker pa hvordan antallet hoppekreps i et ferskvann endrer seg.
+Tabellen nedenfor viser antall obServerte hoppekreps noen dager i april og mai.
+
+ 
+
+Dato 30. april | 3. mai 4. mai 6. mai
+
+Antall hoppekreps 10000 | 20000 | 30000 | 120000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ut fra disse observasjonene vil Lars og Lene lage ulike modeller.
+De lar X vere antall dager etter 30.april.
+
+Nar Lars lager sin modell, antar han at antallet hoppekreps @ker med et fast antall
+hver dag.
+
+a) Bestem modellen han da far.
+Gjor rede for hva hvert av tallene i modellen betyr i denne praktiske situasjonen.
+
+Nar Lene lager sin modell, antar hun at antallet hoppekreps @ker med en fast prosent
+hver dag.
+
+b) Bestem modellen hun da far.
+Gjor rede for hva hvert av tallene i modellen betyr i denne praktiske situasjonen.
+
+Ved a bruke regresjon har Lene i tillegg funnet modellen h gitt ved
+h(x) =1667x° —10000x* + 18333x +10000
+
+c) Vis hvordan hun har gatt fram for a finne denne modellen.
+
+d) Tegn grafen til modellen fra oppgave b) og grafen til h i samme koordinatsystem,
+og beskriv forskjeller og likheter mellom de to modellene.
+
+ 
+
+Eksamen MAT1015 Side 19 av 24
+Oppgave 5 (6 poeng)
+
+Matematikk
+
+Karakteren6 I) 7,8 %
+
+Karakteren5 [mss 21,5 %
+Karakteren 4 0: 26,3 %
+Karakteren 3 0 26 %
+Karakteren2 [I 16,6 %
+
+Karakteren1 §) 1,8%
+
+0 5 10 15 20 25 30
+
+Norsk hovedmal
+
+Karakteren6 J) 53%
+
+Karakteren5 [mss 24,1 %
+
+Karakteren 4 (a s-35,5%
+Karakteren3 [IIs 26,4 %
+
+Karakteren2 [I 81%
+Karakteren1 || 0,6%
+
+0 10 20 30 40
+
+Diagrammene ovenfor viser karakterfordelingen for 10. trinn i matematikk og norsk
+
+hovedmal varen 2019.
+
+a) Bestem gjennomsnittskarakteren i matematikk og gjennomsnittskarakteren i
+
+norsk.
+
+b) Hvordan kan du ut fra diagrammene argumentere for at standardavwviket i
+matematikk er st@rre enn standardavviket i norsk?
+
+c) Hvilken/hvilke av pastandene nedenfor er riktig/riktige?
+
+Husk a begrunne svarene dine.
+
+1) Dersom gjennomsnittet for et datasett A er hgyere enn gjennomsnittet for
+et datasett B, vil standardavwviket for A alltid veere lavere enn
+
+standardavviket for B.
+
+2) Dersom standardawviket for et datasett er lik null, er alle verdiene i
+
+datasettet like.
+
+ 
+
+Eksamen MAT1015
+
+Side 20 av 24
+Oppgave 6 (6 poeng)
+
+Linn har opprettet en sparekonto. Den 1. januar hvert ar framover vil hun sette
+inn 25 000 kroner pa kontoen.
+
+Sa lenge bel@pet pa kontoen er lavere enn 100 000 kroner, vil hun fa en rente pa
+2,5 % per ar.
+
+Nar belgpet pa kontoen passerer 100 000 kroner, vil hun fa en rente pa 3,5 % per ar.
+
+a) Lag ett regneark som gir en oversikt over hvor mye Linn vil ha pa kontoen ved
+begynnelsen og slutten av hvert ar de neste 10 arene.
+
+b) Hvor mye har Linn til sammen fatt i renter i lgpet av disse 10 arene?
+
+Oppgave 7 (2 poeng)
+En st@rrelse avtar eksponentielt.
+
+Hvilken av grafene nedenfor illustrerer dette? Begrunn svaret.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 8 (2 poeng)
+
+Svein og Tore hadde lik Inn i 2017.
+
+Svein fikk 4 % Ignns@kning i 2018 og 6 % Ignns@kning i 2019.
+Tore fikk 8 % I@nns@kning i 2018 og 2 % Ig@nns@kning i 2019.
+
+Hvem av de to hadde h@yest I@nn i 2019?
+
+ 
+
+Eksamen MAT1015 Side 21 av 24
+Blank side
+
+ 
+
+Eksamen MAT1015 Side 22 av 24
+Blank side
+
+ 
+
+Eksamen MAT1015 Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

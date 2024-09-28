@@ -1,0 +1,608 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Prisen pa en vare er satt ned med 30 %. | dag koster varen 280 kroner.
+
+Hvor mye kostet varen fr prisen ble satt ned?
+
+Oppgave 2 (1 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+3,4-10°-4,0-10°
+
+Oppgave 3 (1 poeng)
+
+Regn ut
+4? . 9-6
+4° . 0°
+
+Oppgave 4 (2 poeng)
+
+For 10 ar siden vant Lea i Lotto. Hun opprettet en konto i banken og satte inn hele
+gevinsten. Belgpet har statt urgrt pa kontoen siden. Renten har hele tiden veert
+3,2 % per ar.
+
+| dag har Lea 500 138 kroner pa kontoen.
+
+Sett opp et uttrykk som du kan bruke til a regne ut hvor stor gevinsten til Lea var.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 16 av 28
+
+matematikk.net
+Oppgave 5 (2 poeng)
+
+ 
+
+Omkretsen av jordkloden ved ekvator er ca. 40 OOO km. Tenk deg at voksne og barn star
+hand i hand og danner en ring rundt jordkloden. Hver person favner i gjennomsnitt 1,6 m.
+
+Omtrent hvor mange personer ma sta hand i hand for a na rundt jordkloden ved ekvator?
+
+Skriv svaret pa standardform.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 6 (3 poeng)
+Alder Bedrift A Bedrift B
+Frekvens Frekvens
+| 20, 40) 52 35
+| 40,60) 36 45
+| 60, 70) 12 20
+Sum 100 100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hver av de to bedriftene A og B har 100 ansatte. Tabellen ovenfor viser aldersfordelingen
+
+for de ansatte | bedriftene.
+
+a) Ihvilken bedrift er medianalderen lavest? Grunngi svaret.
+
+b) Bestem gjennomsnittsalderen for de ansatte i bedrift B.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2015
+
+matematikk.net
+
+Side 17 av 28
+Oppgave 7 (3 poeng)
+
+ 
+
+Ukenummer xy
+
+ 
+
+ly Minutter
+120-
+110+
+100-
+90-
+80-
+70-
+60- °
+50-
+40-
+30-
+20-
+10-
+0 1 2
+
+4
+
+>
+-
+
+4
+4
+4
+4
+4
+
+t T T
+4 5 6 7 8 Ql 10 #11
+
+| koordinatsystemet ovenfor har Liv markert hvor mange minutter hun trente i uke 1 og
+i uke 5. Liv har som mal at antall minutter hun trener, skal @ke linezert for hver uke.
+
+a)
+trene hver uke framover.
+
+Bestem en modell som Liv kan bruke for a regne ut hvor mange minutter hun ma
+
+b) Hvor mange timer ma hun trene i uke 40 ifglge denne modellen?
+
+Oppgave & (2 poeng)
+
+~~
+
+10000- y Antall bakterier
+9000-
+8000-
+7000-
+6000-
+5000-
+4000-
+3000-
+2000-
+
+1000-
+
+ 
+
+Antall timer etter at Lars startet observasjonene
+x
+
+ 
+
+t ' t t t t t t t t t
+
+t
+8 10 12 14 16 18
+
+Lars observerer en bakteriekultur. Fra han startet observasjonene, har antall bakterier
+avtatt eksponentielt. Se grafen til funksjonen B ovenfor.
+
+Bestem vekstfaktoren og sett opp utrykket for B(x)
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2015
+
+mat@matikk.net
+
+Side 18 av 28
+Oppgave 9 (5 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Karakterfordeling 1A Karakterfordeling 1B
+6 6
+5 - .
+- -
+24 - yg 4
+2 2
+23+ 23
+£ £
+s 2 - § 2
+1 - 1 -
+0 - oO -
+1 2 3 4 3 6 1 2 3 4 5 6
+Karakterer Karakterer
+
+Diagrammene ovenfor viser hvordan karakterene i klasse 1A og 1B fordelte seg ved forrige
+matematikkprove.
+
+a) Bestem gjennomsnittskarakteren i hver av de to klassene.
+b) Ihvilken klasse er standardavviket for karakterfordelingen storst? Grunngi svaret.
+c) Bestem den kumulative frekvensen for karakteren 3 i hver av de to klassene.
+
+d) Bestem den relative frekvensen for karakteren 6 i hver av de to klassene.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 19 av 28
+
+mat@ematikk.net
+Oppgave 10 (4 poeng)
+
+ 
+
+ 
+
+|Y Temperatur
+70°C -
+60°C -
+50°C - Kiokkeslett
+X 4
+6.30 7.00 7.30
+
+Hos familien Vassdal er termostaten i varmtvannstanken satt til 70°C. Nar familien bruker
+
+varmtvann fra tanken, renner kaldt vann inn, og gijennomsnittstemperaturen pa vannet i
+tanken avtar. Varmeelementet slar seg da automatisk pa, og vannet varmes opp igjen.
+
+Grafen ovenfor viser hvordan temperaturen i tanken varierte en morgen. Det varme vannet
+ble bare brukt til a dusje.
+
+a) Hvor mange familiemedlemmer dusjet denne morgenen?
+
+Datteren Vanda var den som brukte lengst tid i dusjen.
+
+b) Hvor lenge dusjet hun?
+
+Da familien forlot hjemmet klokka 7.30, var temperaturen i varmtvannstanken 58°C.
+
+c) Hvor lang tid tok det for temperaturen var steget til 7O°C igjen’?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 20 av 28
+
+matematikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (3 poeng)
+
+ 
+
+@stlandet Sor- Midt- —_— Nord-
+Oslo forevrig Norge Vestiandet Norge = Norge
+Elektriske 7 7 : : . 7
+av 597% 36.6% 30.4% 32.4% 34.2% 36.5%
+Varmepumpe 83% 18.0% 25.5% 33.2% 33.8% 27.7%
+Vannbaren 735, 9 3% 81% 6.4% 40% 5.0%
+varme . . . : : :
+Sentralvarme 12.6% 4.8% 31% 2.8% 0.4% 7.5%
+Vedfyring 53% 26.8% 28.3% 19.9% 196% 22.0%
+ae 68% 45% 4.6% 5.3% 80% 1.3%
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor gir en oversikt over de viktigste varmekildene for husstander i ulike deler
+av Norge.
+
+Bruk regneark til a lage ett diagram der du presenterer opplysningene i tabellen pa en
+oversiktlig mate.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 21 av 28
+
+mat@ematikk.net
+Oppgave 2 (7 poeng)
+
+Funksjonene G og J gitt ved
+
+G(x) = 0,0030x°* —0,088x* +1,17x+3,7 O<x<12
+J(x) =0,0017x* —0,057x* +0,93x+3,7 O<x<12
+
+viser hvordan vekten til to babyer, Geir og Janne, utviklet seg det forste levearet.
+
+Geir veide G(x) kilogram, og Janne veide J(x) kilogram x maneder etter fodselen.
+
+a) Bruk graftegner til a tegne grafen til G og grafen til J isamme koordinatsystem.
+b) Hvor mange kilogram la hver av de to babyene pa seg i lopet av det forste levearet?
+
+c) Hvor mange maneder gikk det for hver av de to babyene hadde doblet fodselsvekten
+sin?
+
+d) Bestem G(t2)~ GO) og G(2)~ GIO)
+12 2
+
+ 
+
+Hva forteller disse svarene om vekten til Geir?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 22 av 28
+
+mate@matikk.net
+Oppgave 3 (6 poeng)
+
+Tabellen nedenfor viser hvor mange nye elbiler som ble solgt i Hordaland i 2010 og 2014.
+
+ 
+
+ 
+
+Ar 2010 2014
+Antall nye 26 2962
+elbiler
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) La x vere antall ar etter 2010. Bruk opplysningene i tabellen til a bestemme
+en eksponentiell modell f(x) for elbilsalget i Hordaland.
+
+b) Hvor mange prosent steg elbilsalget per ar i perioden fra 2010 til 2014 ifolge
+modellen fra oppgave a)?
+
+Elbilsalget i Hordaland
+
+Utviklingen i salget av nye
+elbiler
+
+3500
+
+3000 |
+2500 |
+2000 |
+1500 |
+1000 |
+
+900 | 6
+
+2962
+
+Nye elbiler
+
+2010 2011 2012 2013 2014
+
+Diagrammet ovenfor viser utviklingen i salget av nye elbiler i Hordaland i perioden
+2010-2014.
+
+c) Gjor beregninger og vurder om modellen fra oppgave a) er en god modell for a
+beskrive denne utviklingen.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 23 av 28
+
+matematikk.net
+Oppgave 4 (4 poeng)
+
+ 
+
+       
+ 
+  
+
+Ekstremveret Nina
+Sterkaste middelvind | m/s
+
+  
+ 
+   
+ 
+ 
+ 
+  
+
+£55
+26,1
+
+  
+
+Orkan >32,.6
+Sterk storm >28,4
+
+27 8) 6 Full storm >24,4
+
+Liten storm >20,7
+28,5
+
+33,7
+
+    
+ 
+    
+
+   
+
+    
+  
+
+om
+
+24,2
+
+23,8
+met 59 oh
+
+Figuren ovenfor viser sterkeste middelvind ulike steder i S@r-Norge under ekstremveeret
+«Nina» i januar 2015.
+
+   
+  
+
+27,7
+29,7
+
+    
+ 
+
+   
+ 
+
+    
+  
+ 
+
+a)Meteorologene
+
+Vi lar den rede streken veere skillet mellom Vestlandet og S@r-Ostlandet.
+
+a) Bruk regneark til a bestemme gjennomsnitt og standardawvik for sterkeste middelvind
+pa Vestlandet og sterkeste middelvind pa Se@r-Ostlandet.
+
+b) Hva forteller svarene i oppgave a) om sterkeste middelvind pa Vestlandet
+sammenliknet med sterkeste middelvind pa Ser-Ostlandet?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 24 av 28
+
+mat@ematikk.net
+Oppgave 5 (4 poeng)
+
+ 
+
+°
+C? Hva er BSU?
+BSU star for boligsparing for ungdom,
+og er den smarteste boligsparingen for
+
+deg under 34 ar. 47 000
+
+| renter
+Sparer du 25 000 kroner i atte ar, far du totalt ca. 47 000 kroner i renter
+
+NBI Illustrasjonen er basert pa en effektiv rente pa 4,7 %. 200 000
+ceca ey
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tenk deg at du oppretter en BSU-konto 1. januar neste ar og setter inn 25 OOO kroner. Du
+setter inn 25 OOO kroner 1. januar de neste sju arene ogsa. Renten er 4,7 % per ar.
+
+a) Lag et regneark som gir en oversikt over hvor mye du vil ha pa kontoen ved slutten av
+hvert ar disse atte arene.
+
+b) Hvor mye vil du fa til sammen i renter i Iopet av disse atte arene?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 25 av 28
+
+mat@matikk.net
+Oppgave 6 (6 poeng)
+
+Tenk deg at du har lant penger i banken og vil betale tilbake lanet med termin én gang i
+aret.
+
+Sett
+
+e lanesummen lik L kroner
+
+e renten lik p prosent per ar, slik at vekstfaktoren blir v = 44—P
+
+100
+
+Dersom du betaler tilbake lanet i lopet av x terminer, er terminbelopet T(x) kroner
+gitt ved
+
+ 
+
+Du tar opp et lan pa 1 OOO OOO kroner med rente 3,5 % per ar.
+
+a) Vis at terminbelgpet er gitt ved
+
+35000 -1,035°*
+(x)=
+1,035* -1
+
+ 
+
+b) Bruk graftegner til a tegne grafen til T for x>1
+c) Bestem terminbelgpet dersom du vil betale tilbake lanet i Igapet av 20 terminer.
+
+d) Hvor lang tid vil det ta a betale tilbake lanet dersom du betaler 50 OOO kroner hver
+termin?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 26 av 28
+
+mate@matikk.net
+Oppgave 7 (6 poeng)
+
+ 
+
+7
+
+Figur 1 Figur 2 Figur 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ovenfor ser du de tre fgrste figurene i en serie som kan fortsettes. De store kvadratene er
+sammensatt av hvite og svarte kvadrater. Hvert av de hvite kvadratene har areal lik 1. De
+svarte kvadratene har areal som @ker i st@rrelse.
+
+a) Bestem det totale arealet av de svarte kvadratene i den neste figuren, figur 4.
+
+b) Sett opp et uttrykk som viser det totale arealet av de svarte kvadratene i figur n
+uttrykt ved n.
+
+Antall hvite kvadrater i den nederste raden i hver figur kan uttrykkes med et
+andregradsuttrykk S(n)
+
+c) Bestem S(n)
+
+d) Sett opp et uttrykk for det totale arealet av de hvite kvadratene i figur n
+uttrykt ved n.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2015 Side 27 av 28
+
+mat@matikk.net

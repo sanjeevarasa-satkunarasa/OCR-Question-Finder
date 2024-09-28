@@ -1,0 +1,1493 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+19.11.2019
+
+ 
+
+Eksamen
+MAT1011 Matematikk 1P
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timar.
+Del 1 skal leverast inn etter 2 timar.
+Del 2 skal leverast inn seinast etter 5 timar.
+
+ 
+
+Hjelpemiddel pa Del 1 | Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Hjelpemiddel pa Del 2 | Alle hjelpemiddel er tillatne, med unntak av internett og andre
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 9 oppgaver. Del 2 har 7 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+
+ 
+
+utteljing.
+Bruk av digitale verktgy som grafteiknar og rekneark skal
+dokumenterast.
+Rettleiing om Poeng i Del 1 og Del 2 er berre rettleiande i vurderinga.
+vurderinga Karakteren blir fastsett etter ei samla vurdering. Det betyr at
+
+sensor vurderer i kva grad du
+
+— viser rekneferdigheiter og matematisk forstaing
+
+— gjennomf¢rer logiske resonnement
+
+— ser samanhengar i faget, er oppfinnsam og kan ta i bruk
+fagkunnskap i nye situasjonar
+
+— kan bruke formalstenlege hjelpemiddel
+
+— forklarer framgangsmatar og grunngir svar
+
+— skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+— vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar Kjelder for bilete, teikningar osv.
+
+Mjastarnet: https://anleggsmaskinen.no (23.02.2019)
+Modell av Mjgstarnet: http://vollark.no (23.02.2019)
+Julekuler: https://clipartpng.com (23.02.2019)
+Stikkontakt: https://elmaterialer.no (03.03.2019)
+Stopsel: https://www.elsikkerhetsportalen.no (03.03.2019)
+Fisk, kjott, dessert: godt.no (04.05.2019)
+
+Matematikk: ung.no (05.05.2019)
+
+Sprak: pixabay.com (05.05.3019)
+
+Visittkort: https://www.nfoto.no (03.03.2019)
+
+Ost: https://snl.no/ost (03.03.2019)
+
+Jorda: https://snl.no/Jorden (03.03.2019)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1011 Side 2 av 28
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+ 
+
+Mj@starnet i Brumunddal er verdas hggaste trebygning. Tarnet er 85,4 m hggt.
+Pa Gardermoen var det utstilt ein modell av tarnet i malestokk 1:20.
+
+Kor hgg var denne modellen?
+
+Oppgave 2 (3 poeng)
+
+Tabellen nedanfor viser konsumprisindeksen (KPI) for ara 2015-2018.
+
+ 
+
+Ar 2015 2016 2017 2018
+KPI 100 103,6 105,5 | 108,4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Kor mange prosentpoeng auka konsumprisindeksen med fra 2017 til 2018?
+
+| 2016 hadde Marianne ei reallénn pa 1 000 000 kroner.
+
+b) Kor mykje matte Marianne hatt i nominell Ignn i 2018 dersom ho skulle hatt same
+kj@pekraft som i 2016?
+
+ 
+
+Eksamen MAT1011 Side 3 av 28
+Oppgave 3 (2 poeng)
+
+Lt
+Ow
+
+| ei eske ligg det raude, gr@ne og gule kuler.
+
+  
+
+2 _ 3
+Du tar tilfeldig ei kule fra eska. Sannsynet for at ho er raud, er lik 5° og
+
+sannsynet for at ho er gr@n, er lik 0,1.
+
+Kor mange prosent av kulene i eska er gule?
+
+Oppgave 4 (2 poeng)
+
+To rektangel er formlike. Det minste rektangelet har eit areal pa 24 cm’.
+
+9
+Forholdet mellom areala av rektangla er 1
+
+Gjer berekningar, og lag ei skisse som viser korleis rektangla kan sja ut.
+Set mal pa skissa.
+
+ 
+
+Eksamen MAT1011 Side 4 av 28
+Oppgave 5 (3 poeng)
+
+~
+
+HS o4
+
+Straumen til ein fryseboks blir slatt av.
+Formelen
+
+T=0,25t-—18
+
+kan brukast for a berekne temperaturen T grader celcius (°C) i fryseboksen nar
+straumen har vore slatt avi t timar.
+
+a) Bestem temperaturen i fryseboksen nar straumen har vore slatt av i 24 timar.
+b) Kor lenge har straumen vore slatt av nar temperaturen i fryseboksen er 0 °C?
+
+c) Gi ei praktisk tolking av tala 0,25 og —18 i formelen ovanfor.
+
+Oppgave 6 (3 poeng)
+
+10cm 10cm
+
+ 
+
+12cm
+
+Ein trekant har mal som vist pa skissa ovanfor.
+Bestem arealet av trekanten.
+
+ 
+
+Eksamen MAT1011 Side 5 av 28
+Oppgave 7 (3 poeng)
+
+ 
+
+Pa ein skoletur fekk elevane servert middag. Dei kunne velje mellom ein fiskerett og
+ein kj@ttrett. | tillegg fekk alle som @nskte det, dessert.
+
+Det viste seg at ~ av elevane valde fiskeretten, medan resten valde kjattretten.
+
+Halvparten av dei som valde fiskeretten, onskte dessert, medan - av dei som valde
+
+kjg@ttretten, o@nskte dessert.
+a) Lag eit valtre som illustrerer situasjonen ovanfor.
+
+Tenk deg at vi tilfeldig vel ein elev som var med pa turen.
+
+b) Bestem sannsynet for at denne eleven gnskte dessert.
+
+ 
+
+Eksamen MAT1011 Side 6 av 28
+Oppgave 8 (3 poeng)
+
+Tora og Espen skal kj@pe ny bil. Bilen kostar 194 000 kroner. Tora har lese at verdien
+av ein bil av den typen dei har valt, s@kk med omtrent 17 % per ar. Dei lurer pa kva
+
+verdien av bilen vil vere om tre ar.
+
+Nedanfor ser du berekningane dei gjer.
+
+Toras berekningar:
+
+17 %+17%+17 %=51%
+
+100 %-51%=49 %
+
+194000 kroner - 49
+100
+
+= 95060 kroner
+
+ 
+
+Espens berekningar:
+
+1—0,17=0,83
+
+194.000 kroner -0,83° ~ 110927 kroner
+
+Forklar korleis Tora og Espen kan ha tenkt.
+Kva for Igysing er riktig, og kva er feil i den andre Ig@ysinga?
+
+ 
+
+Eksamen MAT1011
+
+Side 7 av 28
+Oppgave 9 (3 poeng)
+
+Nedanfor ser du fire grafar og to pastandar.
+
+Pastand 1: x og y er proporsjonale stgrrelsar.
+
+Pastand 2: x og y er omvendt proporsjonale stgrrelsar.
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+ 
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+ 
+
+32
+
+28
+
+24
+
+20
+
+16
+
+12
+
+ 
+
+ 
+
+ 
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+ 
+
+ 
+
+a) For kva graf/grafar kan pastand 1 vere riktig?
+
+b) For kva graf/grafar kan pastand 2 vere riktig?
+
+ 
+
+ 
+
+Eksamen
+
+MAT1011
+
+Side 8 av 28
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+Prisindeksen for ei vare x manader etter 1. januar 2018 er tilnzerma gitt ved
+funksjonen f der
+
+f(x) =0,11x* —2,31x* +13,44x+813 , O<x<12
+a) Bruk grafteiknar til a teikne grafen til f .
+
+b) Nar var prisindeksen til vara lagare enn 100?
+
+c) Bestem stigingstalet til den rette linja som gar gjennom punkta (0,f(0)) og
+(12, f(12)). Gi ei praktisk tolking av dette stigingstalet.
+
+Oppgave 2 (4 poeng)
+
+a ziua
+
+Dzien dobry £
+o
+
+= SZIA
+SS=HE) © NOROC j—
+SVEIKI & ty 2 GUTEN TAG == SANNU
+SCzesé n= © BONJOUR Z PRONTO
+sHELLOSSiMs220|42
+HALOO= z DIA DUITS 0
+<=
+TIENS = 2DRAVOS =<
+
+Lj SALUT =<
+o = =
+
+—_
+<x
+
+ 
+
+VERWEL
+
+o
+N
+
+| ein klasse er det 30 elevar. 12 av elevane har tysk som framandsprak. 14 av elevane
+har matematikk 1P. 10 elevar har verken tysk eller 1P.
+
+a) Systematiser opplysningane ovanfor i ein krysstabell eller i eit venndiagram.
+
+Tenk deg at du trekkjer ein elev fra klassen tilfeldig.
+
+b) Bestem sannsynet for at eleven har tysk, men ikkje 1P.
+
+Tenk deg at du har trekt ein elev som ikkje har 1P.
+
+c) Bestem sannsynet for at eleven har tysk.
+
+ 
+
+Eksamen MAT1011 Side 9 av 28
+Oppgave 3 (6 poeng)
+
+ 
+
+Kari vil ha sitt eige visittkort. Ho har unders@kt kor mykje det vil koste a trykkje
+visittkort hos to ulike firma.
+
+Hos Print ma ho betale ein grunnpris pa 100 kroner og i tillegg 0,5 kroner for kvart
+visittkort. Hos Digitrykk ma ho ikkje betale nokon grunnpris, men 0,7 kroner for kvart
+visittkort.
+
+a) Set opp eit uttrykk P(x) som viser prisen Kari ma betale for trykking
+av x visittkort hos Print, og eit uttrykk D(x) som viser prisen Kari ma betale for
+trykking av x visittkort hos Digitrykk.
+
+b) Kor mange visittkort ma Kari minst bestille for at Print skal bli det rimelegaste
+alternativet?
+
+c) Avgjerom P(x) eller D(x) viser ein proporsjonal samanheng mellom talet pa
+visittkort og prisen Kari ma betale for visittkorta.
+
+ 
+
+Eksamen MAT1011 Side 10 av 28
+Oppgave 4 (6 poeng)
+
+(JARISB S BEE
+
+Lee U
+
+ 
+
+Ein sylinderforma ost har ein diameter pa 35,2 cm og ei hagd pa 14,4 cm.
+
+a) Bestem overflata av osten.
+
+| gjennomsnitt et kvar person i Noreg 12 kg kvitost kvart ar. Ga ut fra at 40 % av
+kvitosten blir brukt pa bradskiver, og at det gar med 20 g kvitost til éi bradskive.
+
+b) Kor mange br@dskiver med kvitost et kvar person i Noreg i gjennomsnitt i lopet av
+
+eitt ar?
+
+Ein person har eit dagleg energibehov pa 10 000 kJ. Denne personen et ein dag tre
+br@dskiver med kvitost. Energien i 100 gram av denne typen kvitost
+er 1447 kJ (kilojoule).
+
+c) Kor stor del av det daglege energibehovet utgjer osten pa dei tre skivene?
+
+ 
+
+Eksamen MAT1011 Side 11 av 28
+Oppgave 5 (4 poeng)
+
+Nokre medisinar blir doserte etter kor stor kroppsoverflate ein pasient har.
+Mostellers formel kan brukast til a berekne arealet av kroppsoverflata til ein person.
+
+ 
+
+Mostellers formel
+
+o=- hem
+
+60
+
+kvadratmeter kroppsoverflate
+hggda til personen malt i centimeter
+m: kor mange kilogram personen veg
+
+a)
+
+ 
+
+ 
+
+ 
+
+Ein person er 180 cm hg@g og veg 75 kg.
+
+a) Bruk Mostellers formel til a berekne arealet av kroppsoverflata til denne personen.
+
+Ein pasient veg 61 kg. Arealet av kroppsoverflata er 1,66 m*.
+
+b) Kor hgg er denne personen ifglgje Mostellers formel?
+
+Oppgave 6 (4 poeng)
+
+Noreg har eit areal pa 385 200 km. Det tilsvarer
+0,26 % av den delen av jordas overflateareal som
+ikkje er dekt av hav.
+
+a) Bestem arealet av den delen av jordas overflateareal
+som ikkje er dekt av hav.
+
+ 
+
+Noregs befolkning utgjer 0,72 % av Europas befolkning. Europas befolkning utgjer
+9,67 % av verdas befolkning.
+
+b) Kor stor prosentdel utgjer Noregs befolkning av verdas befolkning?
+
+ 
+
+Eksamen MAT1011 Side 12 av 28
+Oppgave 7 (6 poeng)
+
+e Arbeidstakarar betaler skatt til kommunen dei bur i, til fylket dei bur i, og til
+staten. Skatten til staten blir kalla fellesskatt.
+
+e Grunnlaget for berekning av skatten er alminneleg inntekt minus eit
+
+personfradrag pa 56 550 kroner.
+
+e Arbeidstakarar skal betale 22 % skatt av dette grunnlaget. Skatten blir fordelt
+pa kommuneskatt, fylkesskatt og fellesskatt.
+
+Eva har ei alminneleg inntekt pa 795 000 kroner.
+Jan har ei alminneleg inntekt pa 589 000 kroner.
+
+a) Lag eitt rekneark som vist til hagre.
+| dei kvite cellene skal du skrive inn
+opplysningane du finn i oppgaveteksten.
+| dei bla cellene skal du setje inn formlar.
+
+Bruk reknearket til 4a bestemme samla skatt
+for Eva og samla skatt for Jan.
+
+A
+
+1 Kommuneskatt, fyikesskatt og fellesskatt
+
+ 
+
+2 Alminneleg inntekt
+
+ 
+
+3 Personfradrag
+
+ 
+
+Grunnlag for berekning av
+
+ 
+
+kommuneskatt, fylkesskatt og fellesskatt
+
+ 
+
+ 
+
+6 Skatt av alminneleg inntekt
+
+ 
+
+Prosentsats
+
+Belgp
+
+ 
+
+Kommuneskatt
+
+Co
+
+11,80 %
+
+ 
+
+9 Fylkesskatt
+
+2,65 %
+
+ 
+
+10 Fellesskatt
+
+7,55 %
+
+ 
+
+11 Samla skatt av alminneleg inntekt
+
+ 
+
+22,00 %
+
+ 
+
+ 
+
+e Alminneleg inntekt er personinntekt minus ulike fradrag.
+
+e Alle arbeidstakarar far eit minstefradrag. Minstefradraget er 45 % av
+
+personinntekta, men maksimalt 100 800 kroner.
+
+Terje har ei personinntekt pa 175 000 kroner. Elisabet har ei personinntekt pa
+868 000 kroner. Dei har ingen andre fradrag enn minstefradraget.
+
+b) Utvid tabellen i reknearket fra
+oppgave a) med dei to radene som er
+markerte med ei raud ramme, og bruk dette
+til a bestemme alminneleg inntekt og samla
+skatt av alminneleg inntekt for Terje
+og for Elisabet.
+
+Legg inn opplysningane du
+finn i oppgaveteksten, i dei kvite cellene.
+| dei bla cellene skal du setje inn formlar.
+
+1
+
+2
+
+10
+
+11
+
+12
+
+13
+
+A
+
+Kommuneskatt, fyikesskatt og fellesskatt
+
+ 
+
+Personinntekt
+
+ 
+
+Minstefradrag
+
+ 
+
+ 
+
+Alminneleg inntekt
+
+ 
+
+Personfradrag
+
+ 
+
+Grunnlag for berekning av
+kommuneskatt, fylkesskatt og fellesskatt
+
+ 
+
+ 
+
+ 
+
+Skatt av alminneleg inntekt
+
+ 
+
+Prosentsats
+
+Belop
+
+ 
+
+Kommuneskatt
+
+11,80 %
+
+ 
+
+Fylkesskatt
+
+2,65 %
+
+ 
+
+Fellesskatt
+
+7,55 %
+
+ 
+
+Samlet skatt av alminneleg inntekt
+
+ 
+
+ 
+
+22,00 %
+
+ 
+
+ 
+
+Eksamen MAT1011
+
+Side 13 av 28
+
+ 
+
+ 
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+Del 1 skal leveres inn etter 2 timer.
+Del 2 skal leveres inn senest etter 5 timer.
+
+ 
+
+Hjelpemidler pa Del 1 | Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Hjelpemidler pa Del 2. | Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 9 oppgaver. Del 2 har 7 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe uttelling.
+
+Bruk av digitale verktgy som graftegner og regneark skal
+
+ 
+
+dokumenteres.
+Veiledning om Poeng i Del 1 og Del 2 er bare veiledende i vurderingen.
+vurderingen Karakteren blir fastsatt etter en samlet vurdering. Det betyr at
+
+sensor vurderer i hvilken grad du
+
+— viser regneferdigheter og matematisk forstaelse
+
+— gjennomf¢rer logiske resonnementer
+
+— ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+— kan bruke hensiktsmessige hjelpemidler
+
+— forklarer framgangsmater og begrunner svar
+
+—  skriver oversiktlig og er néyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+— vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+
+Mj@starnet: https://anleggsmaskinen.no (23.02.2019)
+Modell av Mjgstarnet: http://vollark.no (23.02.2019)
+Julekuler: https://clipartpng.com (23.02.2019)
+Stikkontakt: https://elmaterialer.no (03.03.2019)
+Stopsel: https://www.elsikkerhetsportalen.no (03.03.2019)
+Fisk, kjott, dessert: godt.no (04.05.2019)
+
+Matematikk: ung.no (05.05.2019)
+
+Sprak: pixabay.com (05.05.3019)
+
+Visittkort: https://www.nfoto.no (03.03.2019)
+
+Ost: https://snl.no/ost (03.03.2019)
+
+Jorda: https://snl.no/Jorden (03.03.2019)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1011 Side 14 av 28
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+ 
+
+Mj@starnet i Brumunddal er verdens h@yeste trebygning. Tarnet er 85,4 m h@yt.
+Pa Gardermoen var det utstilt en modell av tarnet i malestokk 1:20.
+
+Hvor hgy var denne modellen?
+
+Oppgave 2 (3 poeng)
+
+Tabellen nedenfor viser konsumprisindeksen (KPI) for arene 2015-2018.
+
+ 
+
+Ar 2015 2016 2017 2018
+KPI 100 103,6 105,5 | 108,4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Hvor mange prosentpoeng @kte konsumprisindeksen med fra 2017 til 2018?
+
+| 2016 hadde Marianne en reallgnn pa 1 000 000 kroner.
+
+b) Hvor mye matte Marianne hatt i nominell lonn i 2018 dersom hun skulle hatt
+samme kj@pekraft som i 2016?
+
+ 
+
+Eksamen MAT1011 Side 15 av 28
+Oppgave 3 (2 poeng)
+
+Lt
+Ow
+
+| en eske ligger det r@de, gr@nne og gule kuler.
+
+  
+
+3
+Du tar tilfeldig en kule fra esken. Sannsynligheten for at den er r@d, er lik 5 og
+
+sannsynligheten for at den er gr@nn, er lik 0,1.
+
+Hvor mange prosent av kulene i esken er gule?
+
+Oppgave 4 (2 poeng)
+
+To rektangler er formlike. Det minste rektangelet har et areal pa 24 cm’.
+
+9
+Forholdet mellom arealene av rektanglene er 1
+
+Gj@r beregninger, og lag en skisse som viser hvordan rektanglene kan se ut.
+Sett mal pa skissen.
+
+ 
+
+Eksamen MAT1011 Side 16 av 28
+Oppgave 5 (3 poeng)
+
+~
+
+HS o4
+
+Str@mmen til en fryseboks blir slatt av.
+Formelen
+T=0,25t-18
+
+kan brukes for a beregne temperaturen T grader celsius (°C) i fryseboksen nar
+str@mmen har veert slatt av i t timer.
+
+a) Bestem temperaturen i fryseboksen nar strammen har veert slatt av i 24 timer.
+b) Hvor lenge har strommen veert slatt av nar temperaturen i fryseboksen er 0°C ?
+
+c) Gi en praktisk tolkning av tallene 0,25 og —18 i formelen ovenfor.
+
+Oppgave 6 (3 poeng)
+
+10cm 10cm
+
+ 
+
+12cm
+
+En trekant har mal som vist pa skissen ovenfor.
+Bestem arealet av trekanten.
+
+ 
+
+Eksamen MAT1011 Side 17 av 28
+Oppgave 7 (3 poeng)
+
+ 
+
+Pa en skoletur fikk elevene servert middag. De kunne velge mellom en fiskerett og en
+kjottrett. | tillegg fikk alle som @nsket det, dessert.
+
+. 3 . ,
+Det viste seg at 5 av elevene valgte fiskeretten, mens resten valgte kjgttretten.
+
+. 3
+Halvparten av de som valgte fiskeretten, @nsket dessert, mens 1 av de som valgte
+
+kj@ttretten, onsket dessert.
+a) Lag et valgtre som illustrerer situasjonen ovenfor.
+
+Tenk deg at vi tilfeldig velger en elev som var med pa turen.
+
+b) Bestem sannsynligheten for at denne eleven gnsket dessert.
+
+ 
+
+Eksamen MAT1011 Side 18 av 28
+Oppgave 8 (3 poeng)
+
+Tora og Espen skal kj@pe ny bil. Bilen koster 194 000 kroner. Tora har lest at verdien
+av en bil av den typen de har valgt, synker med omtrent 17 % per ar. De lurer pa hva
+
+verdien av bilen vil veere om tre ar.
+
+Nedenfor ser du beregningene de gjgr.
+
+Toras beregninger:
+
+17 %+17%+17 %=51%
+
+100 %-51%=49 %
+
+194000 kroner - 49
+100
+
+= 95060 kroner
+
+ 
+
+Espens beregninger:
+
+1—0,17=0,83
+
+194000 kroner -0,83° =~ 110927 kroner
+
+Forklar hvordan Tora og Espen kan ha tenkt.
+Hvilken I@sning er riktig, og hva er feil i den andre Ig@sningen?
+
+ 
+
+Eksamen MAT1011
+
+Side 19 av 28
+Oppgave 9 (3 poeng)
+
+Nedenfor ser du fire grafer og to pastander.
+
+Pastand 1: x og y er proporsjonale stgrrelser.
+
+Pastand 2: x og y er omvendt proporsjonale st@rrelser.
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+32
+
+24
+
+20
+
+16
+
+12
+
+ 
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+ 
+
+ 
+
+40
+
+30
+
+25
+
+20
+
+15
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) For hvilken eller hvilke grafer kan pastand 1 veere riktig?
+
+b) For hvilken eller hvilke grafer kan pastand 2 vere riktig?
+
+ 
+
+Eksamen MAT1011 Side 20 av 28
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+Prisindeksen for en vare x maneder etter 1. januar 2018 er tilnzermet gitt ved
+funksjonen f der
+
+f(x) =0,11x* —2,31x* +13,44x+813 , O<x<12
+a) Bruk graftegner til a tegne grafen til f .
+
+b) Nar var prisindeksen til varen lavere enn 100?
+
+c) Bestem stigningstallet til den rette linjen som gar gjennom punktene (0, f(0)) og
+(12, f(12)). Gi en praktisk tolkning av dette stigningstallet.
+
+Oppgave 2 (4 poeng)
+c @
+-= Dziefi dobry =
+105 == OZIA 1
+<= HEI © NOROC j—
+
+=
+SVEIKI ca a z GUTEN TAG = SANNU
+3 Czesc N= 2 BONJOUR = ee
+=HELLOsS Shwe =0|42
+HALOO =DIA DUITZANe™
+TIENS << ZDRAVO SweRHaBa 2 «© HALLO
+Saag >
+x=
+
+=
+
+&
+N
+
+ 
+
+ares
+
+| en klasse er det 30 elever. 12 av elevene har tysk som fremmedsprak. 14 av elevene
+har matematikk 1P. 10 elever har verken tysk eller 1P.
+
+a) Systematiser opplysningene ovenfor i en krysstabell eller i et venndiagram.
+
+Tenk deg at du trekker en elev fra klassen tilfeldig.
+
+b) Bestem sannsynligheten for at eleven har tysk, men ikke 1P.
+
+Tenk deg at du har trukket en elev som ikke har 1P.
+
+c) Bestem sannsynligheten for at eleven har tysk.
+
+ 
+
+Eksamen MAT1011 Side 21 av 28
+Oppgave 3 (6 poeng)
+
+ 
+
+Kari vil ha sitt eget visittkort. Hun har unders@kt hvor mye det vil koste a trykke
+visittkort hos to ulike firma.
+
+Hos Print ma hun betale en grunnpris pa 100 kroner og i tillegg 0,5 kroner for hvert
+visittkort. Hos Digitrykk ma hun ikke betale noen grunnpris, men 0,7 kroner for hvert
+visittkort.
+
+a) Sett opp et uttrykk P(x) som viser prisen Kari ma betale for trykking
+av x visittkort hos Print, og et uttrykk D(x) som viser prisen Kari ma betale for
+trykking av x visittkort hos Digitrykk.
+
+b) Hvor mange visittkort ma Kari minst bestille for at Print skal bli det rimeligste
+alternativet?
+
+c) Avgj@r om P(x) eller D(x) viser en proporsjonal sammenheng mellom antall
+visittkort og prisen Kari ma betale for visittkortene.
+
+ 
+
+Eksamen MAT1011 Side 22 av 28
+Oppgave 4 (6 poeng)
+
+(JARISE SBE RG
+
+_ gan
+
+ 
+
+En sylinderformet ost har en diameter pa 35,2 cm og en h@yde pa 14,4 cm.
+
+a) Bestem overflaten av osten.
+
+| gjennomsnitt spiser hver person i Norge 12 kg hvitost hvert ar. Anta at 40 % av
+hvitosten brukes pa br@dskiver, og at det gar med 20 g hvitost til én brodskive.
+
+b) Hvor mange br@dskiver med hvitost spiser hver person i Norge i gjennomsnitt i
+Idpet av ett ar?
+
+En person har et daglig energibehov pa 10 000 kJ. Denne personen spiser en dag tre
+br@dskiver med hvitost. Energien i 100 gram av denne typen hvitost
+er 1447 kJ (kilojoule).
+
+c) Hvor stor del av det daglige energibehovet utgjgr osten pa de tre skivene?
+
+ 
+
+Eksamen MAT1011 Side 23 av 28
+Oppgave 5 (4 poeng)
+
+Noen medisiner doseres etter hvor stor kroppsoverflate en pasient har.
+Mostellers formel kan brukes til a beregne arealet av en persons kroppsoverflate.
+
+ 
+
+Mostellers formel
+
+o=- hem
+
+60
+
+O: antall kvadratmeter kroppsoverflate
+h: personens hgyde malt i centimeter
+m: antall kilogram personen veier
+
+ 
+
+ 
+
+ 
+
+En person er 180 cm hoy og veier 75 kg.
+
+a) Bruk Mostellers formel til a beregne arealet av kroppsoverflaten til denne
+personen.
+
+En pasient veier 61 kg. Arealet av kroppsoverflaten er 1,66 m’.
+
+b) Hvor hgy er denne personen ifglge Mostellers formel?
+
+Oppgave 6 (4 poeng)
+
+Norge har et areal pa 385 200 km*. Dette tilsvarer
+0,26 % av den delen av jordas overflateareal som
+ikke er dekket av hav.
+
+a) Bestem arealet av den delen av jordas overflateareal
+som ikke er dekket av hav.
+
+ 
+
+Norges befolkning utgj@r 0,72 % av Europas befolkning. Europas befolkning utgj@r
+9,67 % av verdens befolkning.
+
+b) Hvor stor prosentandel utgjor Norges befolkning av verdens befolkning?
+
+ 
+
+Eksamen MAT1011 Side 24 av 28
+Oppgave 7 (6 poeng)
+
+e Arbeidstakere betaler skatt til Kommunen de bor i, til fylket de bor i, og til
+staten. Skatten til staten kalles fellesskatt.
+
+e Grunnlaget for beregning av skatten er alminnelig inntekt minus et
+
+personfradrag pa 56 550 kroner.
+
+e Arbeidstakere skal betale 22 % skatt av dette grunnlaget. Skatten blir fordelt
+pa kommuneskatt, fylkesskatt og fellesskatt.
+
+Eva har en alminnelig inntekt pa 795 000 kroner.
+Jan har en alminnelig inntekt pa 589 000 kroner.
+
+a) Lag ett regneark som vist til hgyre.
+| de hvite cellene skal du skrive inn
+opplysningene du finner i oppgaveteksten.
+| de bla cellene skal du sette inn formler.
+
+Bruk regnearket til a bestemme samlet skatt
+for Eva og samlet skatt for Jan.
+
+wo oo NS nut
+
+Le
+
+A
+
+Kommuneskatt, fyikesskatt og fellesskatt
+
+ 
+
+Alminnelig inntekt
+
+ 
+
+Personfradrag
+
+ 
+
+Grunnlag for beregning av
+kommuneskatt, fylkesskatt og fellesskatt
+
+ 
+
+Skatt av alminnelig inntekt
+
+ 
+
+Prosentsats
+
+Belop
+
+ 
+
+Kommuneskatt
+
+11,80 %
+
+ 
+
+Fylkesskatt
+
+2,65 %
+
+ 
+
+Fellesskatt
+
+7,55 %
+
+ 
+
+Samlet skatt av alminnelig inntekt
+
+22,00 %
+
+ 
+
+ 
+
+ 
+
+e Alminnelig inntekt er personinntekt minus ulike fradrag.
+
+e Alle arbeidstakere far et minstefradrag. Minstefradraget er 45 % av
+personinntekten, men maksimalt 100 800 kroner.
+
+Terje har en personinntekt pa 175 000 kroner. Elisabet har en personinntekt pa
+868 000 kroner. De har ingen andre fradrag enn minstefradraget.
+
+b) Utvid tabellen i regnearket fra
+oppgave a) med de to radene som
+er markert med en rgd ramme, og bruk
+dette til a bestemme alminnelig inntekt
+og samlet skatt av alminnelig inntekt for
+Terje og for Elisabet.
+
+Legg inn opplysningene du
+finner i oppgaveteksten, i de hvite cellene.
+| de bla cellene skal du sette inn formler.
+
+wo ono
+
+11
+
+12
+
+13
+
+A
+
+Kommuneskatt, fyikesskatt og fellesskatt
+
+ 
+
+Personinntekt
+
+ 
+
+ 
+
+Minstefradrag
+
+ 
+
+Alminnelig inntekt
+
+ 
+
+Personfradrag
+
+ 
+
+Grunnlag for beregning av
+kommuneskatt, fylkesskatt og fellesskatt
+
+ 
+
+ 
+
+ 
+
+Skatt av alminnelig inntekt
+
+ 
+
+Prosentsats
+
+Belop
+
+ 
+
+Kommuneskatt
+
+11,80 %
+
+ 
+
+Fylkesskatt
+
+2,65 %
+
+ 
+
+Fellesskatt
+
+7,55 %
+
+ 
+
+Samlet skatt av alminnelig inntekt
+
+ 
+
+22,00 %
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1011
+
+Side 25 av 28
+
+ 
+Blank side
+
+ 
+
+Eksamen MAT1011 Side 26 av 28
+Blank side
+
+ 
+
+Eksamen MAT1011 Side 27 av 28
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

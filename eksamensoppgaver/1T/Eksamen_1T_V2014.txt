@@ -1,0 +1,315 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+2,5:10°°- 3,0-10°
+
+Oppgave 2 (2 poeng)
+
+Regn ut og skriv svaret sa enkelt som mulig
+
+1
+Q2.6°.4 +. 3/3?
+
+Oppgave 3 (1 poeng)
+
+Las likningen
+
+or . oitex _ 29
+
+Oppgave 4 (1 poeng)
+
+Bestem c slik at uttrykket
+X*+8x+cC
+
+blir et fullstendig kvadrat.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2014 Side 11 av 20
+
+mate@matikk.net
+Oppgave 5 (2 poeng)
+
+Las likningssystemet
+
+2Xx—-3y=-f
+3x-y=f
+
+Oppgave 6 (3 poeng)
+
+Trekk sammen og skriv sa enkelt som mulig
+
+6 5x+15
+
+x-3 x?-9 +t
+
+ 
+
+Oppgave 7 (4 poeng)
+
+| en klasse er det 25 elever. 15 av elevene har eldre sgsken. 18 av elevene har yngre
+
+sgsken. 2 av elevene har ikke sosken.
+
+a) Systematiser opplysningene ovenfor i et venndiagram.
+
+Vi velger tilfeldig én elev fra klassen.
+
+b) Bestem sannsynligheten for at eleven har eldre, men ikke yngre, s@sken.
+
+Vi velger tilfeldig 6n av elevene som har eldre s@sken.
+
+c) Bestem sannsynligheten for at eleven ogsa har yngre s@sken.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2014
+
+mate@matikk.net
+
+Side 12 av 20
+Oppgave 8 (3 poeng)
+| AABC er AC=10, BC=7 og ZB=90°.
+Lag en skisse, gjor beregninger, og avgjor om folgende pastander er riktige
+
+1) Arealet av trekanten er storre enn 24,5
+2) sinA>cosA
+
+Oppgave 9 (5 poeng)
+
+Funksjonen f er gitt ved
+f(x) =x* +2x-3
+a) Bestem nullpunktene til f ved regning.
+
+b) Grafentil f har en tangent med stigningstall 2.
+Bestem likningen til denne tangenten.
+
+c) Tegn grafen til f sammen med tangenten fra oppgave b).
+
+Oppgave 10 (2 poeng)
+
+Funksjonen f er gitt ved
+f(x) =x*+bx+e
+Grafen til f skjeerer y- aksen i punktet (O, 4) og har ett nullpunkt.
+
+Bestem b Og c.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2014 Side 13 av 20
+
+mate@matikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (4 poeng)
+
+ 
+
+Uke (x) 1 3 9 15 20
+Lengde (y) 3,4 km 5,1 km 8,5 km 15,5 km 18,0 km
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor viser hvor langt Janne jogget noen uker etter at hun begynte a trene. Den
+forste uka jogget hun 3,4 km, den tredje uka jogget hun 5,1 km, og sa videre.
+
+a) Bestem den linecere funksjonen som passer best med tallene i tabellen ovenfor.
+b) Hvor langt vil Janne jogge i uke 25 ifelge funksjonen i oppgave a) ?
+
+c)  Ihvilken uke jogget Janne for ferste gang mer enn 10 km ifglge funksjonen |
+oppgave a) ?
+
+Oppgave 2 (9 poeng)
+
+Funksjonen f gitt ved
+f(x) =0,0017x° —0,13x*+2,3x+72 , xe[0,52]
+
+viser hvor mange kilogram f(x) en idrettsut@ver veide x uker etter 1. januar 2013.
+a) Tegn grafentil f.
+
+b) Hvor mye veide idrettsuteveren 1. januar 2013, og hvor mye veide han ett ar (52 uker)
+senere?
+
+c) Omtrent hvor mange uker i lopet av 2013 veide han mer enn /0O kg?
+
+d) Nar veide idrettsutoveren mest, og nar veide han minst?
+Hvor mye gikk han i gjennomsnitt ned i vekt per uke i den perioden han gikk ned i vekt?
+
+e) Bestem f'(3) og f'(25)
+Hva forteller disse to svarene om vekten til idrettsutgveren?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2014 Side 14 av 20
+
+matematikk.net
+Oppgave 3 (4 poeng)
+
+En bedrift produserer to ulike typer soveposer. Undersgkelser viser at 10 % av soveposene
+av type 1 og 15 % av soveposene av type 2 har en feil med glidelasen.
+
+Pa lageret ligger 1000 soveposer av type 1 og 4000 soveposer av type 2.
+a) Systematiser opplysningene ovenfor i en krysstabell.
+
+Bjarne har tilfeldig tatt to soveposer fra lageret. Det viser seg at begge soveposene har feil
+med glidelasen.
+
+b) Bestem sannsynligheten for at 6n av soveposene er av type 1 og at én er av type 2.
+
+Oppgave 4 (4 poeng)
+| en skal er det atte hvite og seks rade kuler. Du skal trekke tre kuler tilfeldig.
+a) Systematiser de ulike utfallene i et valgtre.
+
+b) | Bestem sannsynligheten for at du trekker to hvite og én red kule.
+Marker hvordan du finner lgsningen i valgtreet i oppgave a).
+
+Oppgave 5 (2 poeng)
+
+Et trestykke er 35 cm langt. Trestykket skal deles i fire deler.
+To deler skal veere like lange. Den tredje delen skal veere dobbelt sa lang som de to like
+delene til sammen, og halvparten sa lang som den fjerde delen.
+
+Bestem lengden av hver av de fire delene.
+
+Oppgave 6 (3 poeng)
+C
+4
+A 5
+8
+Regn ut arealet av AABC. B
+Eksamen MAT1013 Matematikk 1T Varen 2014 Side 15 av 20
+
+ 
+
+mate@matikk.net
+Oppgave 7 (4 poeng)
+
+ 
+
+BRYGGE
+
+ 
+
+ 
+
+ 
+
+En bat ligger fortayd ved en brygge med et stramt tau som gar fra C til B. Tauet er 3,0 m
+langt. Se skissen ovenfor.
+
+a) Bestem avstanden AB fra baten til bryggen nar “<v=52°.
+
+Vannstanden synker med 30 cm.
+
+b) Bestem avstanden fra baten til bryggen na.
+
+Oppgave & (4 poeng)
+
+A ABC har grunnlinje AB=8.
+
+Punktet D ligger pa AB.
+CD=6 og BDC =90°.
+Se skissen til h@yre.
+
+Vi setter BD = x
+
+ 
+
+ 
+
+A gy. DD , B
+
+a) Vis atsammenhengen mellom lengden x og omkretsen f(x) av AABC
+er gitt ved
+
+ 
+
+f(x)=8+Vx? +36+Vx?-16x+100 , xe[0,8]
+
+b) Bestem x slik at omkretsen av AABC blir minst mulig.
+Forklar at trekanten da vil vere likebeint.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2014 Side 16 av 20
+
+mat@matikk.net
+Oppgave 9 (2 poeng)
+
+Petter far i oppgave a vise at nar omkretsen av trekanten i oppgave 8 er minst mulig, er
+trekanten likebeint. Han loser oppgaven med figurer. Se nedenfor.
+
+Ved hjelp av figurene viser han hvor punktet D ma plasseres pa linjestykket AB _ for at
+lengden AC+CB i figur 1 skal bli kortest mulig.
+
+Forklar hva Petter har gjort, og at han har last oppgaven riktig.
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+C F
+‘ Figur 2
+Figur 1
+6
+. |
+A 8 -X A &-xX
+F
+Figur 3
+6
+a
+A &-xX
+Eksamen MAT1013 Matematikk 1T Varen 2014 Side 17 av 20
+
+ 
+
+mat@ematikk.net

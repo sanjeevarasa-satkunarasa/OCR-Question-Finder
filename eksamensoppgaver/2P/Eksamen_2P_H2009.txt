@@ -1,0 +1,381 @@
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+a) Skriv tallene 32 000 000 og 0,000 678 pa standardform.
+b)  Hvilket tall er storst av tallet 70 i titallsystemet og tallet 1001001 i totallsystemet?
+
+c) Forholdet mellom n og p er lik 140. Hvor stor er p dersom n er /0?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Et badebasseng har form som et rett firkantet prisme med lengde 6,0 meter, bredde
+4,0 meter og hgyde 1,5 meter.
+
+1) —Hvor stort volum har bassenget?
+
+For a fylle bassenget med vann brukes en vannpumpe som gir 300 liter vann per minutt.
+
+2)  Hvor lang tid tar det a fylle bassenget?
+
+e) |enklasse er det 25 elever. 10 av jentene og 5 av guttene har arbeid i tillegg til skolen.
+
+Hva er sannsynligheten for at en tilfeldig valgt elev i denne klassen har arbeid | tillegg til
+skolen?
+
+Eksamen, MAT1003 Matematikk 2P Side 12 av 24
+mat@matikk.net
+f) | et land er skattesystemet slik at de forste 100 OOO kronene du tjener, er skattefrie,
+mens du ma betale 50 % skatt av det du tjener over 100 OOO kroner.
+
+1) Du tjener 500 000 kroner. Hvor stor blir lannen etter at skatten er trukket fra?
+
+La B kroner vere Ignnen for skatt og N kroner I@nnen etter at skatten er trukket fra.
+Formelen N=0,50-B+50 OOO gir oss en sammenheng mellom disse stgrrelsene.
+(Her forutsetter viat B er sterre enn 100 OOO.)
+
+2) Finn en formel for B, og bruk denne til a finne ut hvor mye du ma tjene for a sitte
+igjen med 350 OOO kroner etter at skatten er trukket fra.
+
+g)  Figuren nedenfor viser en halvsirkel med sentrum | S. | halvsirkelen har vi tegnet inn en
+likebeint trekant ABC. A, B og C ligger pa sirkelbuen. Er arealet av trekanten mer enn
+dobbelt sa stort som arealet av det rade omradet? Begrunn svaret ditt.
+
+C
+
+ 
+
+ 
+
+Eksamen, MAT1003 Matematikk 2P Side 13 av 24
+mat@matikk.net
+Oppgave 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Per skal tegne en eske i topunktsperspektiv. Han har begynt som vist pa figuren ovenfor.
+
+a)  I|vedlegget bak i eksamensoppgaven finner du den samme tegningen. Fullfgr tegningen |
+vedlegget.
+
+TA UT VEDLEGGET PA SIDE 21 OG LEVER DET SAMMEN MED BESVARELSEN AV DEL 1.
+
+b) Bildene nedenfor viser et trafikklys som er tegnet i trepunktsperspektiv.
+
+ 
+
+Kilde: http://4.bp.blogspot.com/_eKW3/IMZyb9U/R2ZVSqf5Wyl/AAAAAAAACJkK/Te (DHOaNo04/s1600-h/gse_multipart54453.jpg (22.04.09)
+
+| vedlegget bak i eksamensoppgaven finner du en tegning av et liknende trafikklys. Bruk
+tegningen i vedlegget til a lage hjelpelinjer og finne de tre forsvinningspunktene.
+
+TA UT VEDLEGGET PA SIDE 21 OG LEVER DET SAMMEN MED BESVARELSEN AV DEL 1.
+
+Eksamen, MAT1LOO3 Matematikk 2P Side 14 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 3
+
+PUDDING
+
+‘.
+
+ 
+
+  
+
+Kilde: Vosswater.com Kilde: htto://www.tine.no/page 7id=26&key=5948&cat=609
+(10.05.09) (10.05.09)
+
+Bildet til venstre viser en flaske Voss-vann. Flasken er 18,3 cm hgy og har en diameter pa
+5,1 cm. Bildet til hgyre viser en kartong med karamellpudding. Kartongen er 21,5 cm hoy, og
+grunnflaten er et rektangel med sider pa 11,0 cm og 4,4 cm.
+
+a) Regn ut volumet av kartongen med karamellpudding og volumet av flasken med Voss-
+vann.
+
+| en flaske Voss-vann med samme stgrrelse som den ovenfor er det igjen 250 ml vann.
+
+b) Hvor hgyt i flasken star vannet?
+
+Peder kjgpte en flaske med 800 ml Voss-vann pa en restaurant i Barcelona. Der kostet den
+
+10 euro.
+
+c) Hvor mange norske kroner koster 1 liter Voss-vann nar 1 euro er verdt 8,73 norske
+kroner?
+
+Eksamen, MAT1003 Matematikk 2P Side 15 av 24
+mat@matikk.net
+Oppgave 4
+
+Tabellen nedenfor viser karakterfordelingen pa en matematikkeksamen et ar.
+
+ 
+
+Karakter | Elever
+1 12
+
+47
+
+49
+
+57
+
+13
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O}U1);B |W | NM
+
+ 
+
+a)  Framstill dataene i tabellen ved hjelp av to ulike diagrammer.
+b) 1) Hvor mange prosent av elevene fikk karakteren 1°?
+2) Hva var gjennomsnittskarakteren?
+
+Aret etter var det 234 elever som hadde eksamen. Gjennomsnittskarakteren dette aret
+var 3,42.
+
+c) Hva var giennomsnittskarakteren dersom vi ser disse to arene under ett?
+Forklar hvordan du kom fram til svaret.
+
+Eksamen, MAT1003 Matematikk 2P Side 16 av 24
+mat@matikk.net
+Oppgave 5
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+Siri er student. Hun far utbetalt 8 290 kroner per maned fra Lanekassen.
+
+Hver maned betaler hun 3 200 kroner i husleie. En maned regner hun i tillegg med a fa
+disse utgiftene: 850 kroner til laremateriell, GOO kroner til reise, 350 kroner til telefon,
+1 800 kroner til mat, 800 kroner til klaer og 600 kroner til annet.
+
+a) Lag et manedsbudsjett for Siri denne maneden.
+
+Tabellen nedenfor viser hvor mye en student fikk utbetalt fra Lanekassen hver maned i
+1990 og i 2008.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ar Lan Stipend Utbetalt
+1990 4 580 kroner 600 kroner 5 180 kroner
+2008 4 970 kroner 3 320 kroner 8 290 kroner
+
+ 
+
+Konsumprisindeksen var 83,/ i 1990 og 123,1 | 2008.
+
+Mads var student i 2008. Matematikkleereren hans var student i 1990. Begge matte
+klare seg med de pengene de fikk fra Lanekassen.
+
+b) Hvem av de to hadde sterst kjopekraft i studietiden?
+
+c) Hvor stor andel utgjgr stipendet av den manedlige utbetalingen fra Lanekassen for
+Mads? Finn tilsvarende andel for matematikkleereren og kommenter svaret.
+
+Eksamen, MAT1LOO3 Matematikk 2P Side 17 av 24
+
+mat@matikk.net
+Oppgave 6
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+Da Snorre ble fadt, satte mormor inn penger pa en ny bankkonto. Funksjonen f gitt ved
+f(x) =18 000-1,0425*
+
+viser hvor mye penger det er pa kontoen etter x ar.
+
+a) 1) Hvor mye penger satte mormor inn pa kontoen? Hvor stor er den arlige
+renten?
+
+2) —Hvor mye penger er det pa kontoen etter 18 ar?
+b) | Hvor mange ar vil det ga for belapet pa kontoen passerer 30 OOO kroner?
+Farfar opprettet ogsa en konto da Snorre ble fedt. Han satte inn 10 OOO kroner pa
+kontoen. Etter 5 ar sto det 11 592,70 kroner pa kontoen.
+c) Hvorstor er den arlige renten pa denne kontoen?
+
+d) Etter hvor mange ar vil belopene pa de to kontoene til sammen passere
+50 OOO kroner?
+
+Eksamen, MAT1LOO3 Matematikk 2P Side 18 av 24
+
+mat@matikk.net
+Oppgave /
+
+ 
+
+| denne oppgaven skal du velge enten alternativ | eller alternativ II.
+De to alternativene teller like mye ved sensuren.
+
+ 
+
+ 
+
+ 
+
+Alternativ |
+
+a) Skriv sa enkelt som mulig
+
+(a®)* - ab?
+Qab>
+
+Professor Helge Nersterud ved NTNU har utviklet en formel for hvor lange ski en
+skihopper kan ha. Denne formelen er grunnlaget for de reglene som gjelder i dag.
+
+Dersom hgyden til hopperen er h centimeter, og vekten er v kilogram, er maksimal
+skilengde s, malt i centimeter, gitt ved folgende formel
+
+Ss-—0,9-h4+1,5-v
+
+b) En skihopper veier 68 kg og har ski som er 265 cm lange. Hvor hgy ma han minst
+veere for a ha lov til a bruke disse skiene?
+
+Alternativ II
+
+im
+
+ 
+
+2m
+
+ 
+
+ 
+
+6m
+
+ 
+
+ 
+
+3m
+
+Figuren ovenfor viser en skisse av grunnflaten i et rom. Hvor lang er den lengste
+rette linjen som kan trekkes langs gulvet innenfor rommets vegger?
+
+Eksamen, MAT1LOO3 Matematikk 2P Side 19 av 24
+
+mate@matikk.net
+Blank side
+
+Eksamen, MAT1003 Matematikk 2P Side 20 av 24
+mat@matikk.net
+VEDLEGG 1
+
+ 
+
+Skole
+
+ 
+
+ 
+
+Klasse
+
+ 
+
+Eksaminand nr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen, MAT1LOO3 Matematikk 2P
+
+mat@matikk.net
+
+Side 21 av 24

@@ -1,0 +1,493 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Ved kommunevalget i hgst fikk et politisk parti 4,5 % av stemmene. Ved forrige
+kommunevalg fikk partiet 3,6 % av stemmene.
+
+a) Hvor mange prosentpoeng har @kningen veert pa?
+
+b) Hvor mange prosent har @kningen veert pa?
+
+Oppgave 2 (1 poeng)
+
+ 
+
+En bensintank har form som et rett, firkantet prisme. Tanken er 40 cm bred, 90 cm lang og
+30 cm hgy (innvendige mal).
+
+Hvor mange liter rommer tanken?
+
+Oppgave 3 (2 poeng)
+
+| 2012 var indeksen for en vare 80. Varen kostet da 2 OOO kroner. | 2016 var indeksen for
+varen 60.
+
+Hvor mye ville varen kostet i 2016 dersom prisen hadde fulgt indeksen?
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016 Side 14 av 24
+
+matematikk.net
+Oppgave 4 (1 poeng)
+
+Pa et kart er avstanden mellom to byer 12 cm. | virkeligheten er avstanden 240 km.
+
+Bestem malestokken til kartet.
+
+ 
+
+ 
+
+Oppgave 5 (1 poeng)
+x 2,5 7,5
+y 50 200
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gitt tabellen ovenfor. x og y er proporsjonale st@rrelser.
+
+Skriv av tabellen ovenfor i besvarelsen din. Gj@r beregninger, og fyll ut tabellen.
+
+Oppgave 6 (4 poeng)
+
+En funksjon f er gitt ved
+
+f(x) =—-x*+4x+5
+
+a) Skriv av og fyll ut verditabellen nedenfor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x —2 —1 O 1 2 6
+f(x)
+b) Tegn grafentil f .
+Eksamen MAT1011 Matematikk 1P Varen 2016 Side 15 av 24
+
+ 
+
+mate@matikk.net
+Oppgave 7 (4 poeng)
+
+?
+NN ~~,
+I\7
+
+Snorre har seks bla og fire rosa ballonger. Han tar tilfeldig tre ballonger.
+
+   
+
+ 
+
+a) Bestem sannsynligheten for at han tar tre bla ballonger.
+b) Bestem sannsynligheten for at han tar minst én rosa ballong.
+
+c) Bestem sannsynligheten for at han tar én rosa og to bla ballonger.
+
+Oppgave & (3 poeng)
+
+Eirik har veert hos fotografen. Etter fotograferingen far han tilbud om a kjope en fotobok.
+Han kan selv bestemme hvor mange bilder han vil ha med i boken. Tabellen nedenfor viser
+prisen for fotobe@ker med 8, 14 og 24 bilder.
+
+ 
+
+ 
+
+Antall bilder |
+
+fotoboken (x) S a” “
+
+Pris for fotoboken 4.000 kroner 4 300 kroner 1 800 kroner
+med bilder (y)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sammenhengen mellom antall bilder og pris kan beskrives ved hjelp av likningen
+y=ax+b der x er antall bilder i boken og y er prisen.
+
+a) Bestemtallene a og Db.
+
+b) Gien praktisk tolkning av tallene a og b i denne oppgaven.
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016 Side 16 av 24
+
+matematikk.net
+Oppgave 9 (3 poeng)
+
+14000
+
+12000
+10000
+8000
+6000
+4000
+2000
+1 2 3 4 5 6 7 8 9 10
+
+@ Avdrag m@ Renter
+
+©
+
+Julie har tatt opp et lan med en fast arlig rente. Lanet skal betales tilbake i Iopet av 10 ar,
+med én termin i aret. Figuren ovenfor viser nedbetalingsplanen.
+
+a) Er dette et serielan eller et annuitetslan? Begrunn svaret.
+
+b) |Hvor mange prosent arlig rente betaler Julie pa lanet?
+
+Oppgave 10 (3 poeng)
+
+ 
+
+Gitt AABC slik at AB=8 og BC =10. Se figuren ovenfor.
+
+Vis at arealet av den gronne og den bla halvsirkelen til sammen er like stort som arealet av
+den gra halvsirkelen.
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016 Side 17 av 24
+
+mat@ematikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (5 poeng)
+
+ 
+
+Anta at antall registrerte elbiler i Norge x ar etter 2010 tilneermet er gitt ved
+funksjonen g der
+
+g(x) = 560x? —1767x* +2501x +2577 O<x<8
+
+a) Bruk graftegner til a tegne grafen til g.
+b) Nar vil antall registrerte elbiler passere 75 OOO ifelge denne funksjonen?
+
+Cc) Bestem g(4). Hva forteller denne verdien om antall elbiler?
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016 Side 18 av 24
+
+mat@matikk.net
+Oppgave 2 (2 poeng)
+
+| 2010 hadde Eirik en nominell lonn pa 450 OOO kroner. Konsumprisindeksen var da
+128,8.
+
+| 2015 var konsumprisindeksen 139,8. Hvor stor matte den nominelle lonnen til Eirik ha
+veert | 2015 dersom han skulle hatt like stor kjopekraft som | 2010?
+
+Oppgave 3 (4 poeng)
+
+Marita driver eget firma. | 2015 hadde hun en omsetning pa 1 200 000 kroner.
+Hun har som mal a @ke omsetningen med 3,5 % per ar.
+
+a) Hva vil omsetningen hennes bli i 2025 dersom hun klarer dette?
+Marita endrer prisen pa et produkt tre ganger. Forst setter hun prisen opp med 40 %. Senere
+
+setter hun den ned igjen, forst med 20 % og sa med 20 % en gang til. Etter disse tre endringene
+koster produktet 560 kroner.
+
+b) Hvor mye kostet produktet for prisendringene?
+
+Oppgave 4 (4 poeng)
+
+| en 1P-gruppe er det 26 elever. Elevene har valgt fag for neste skolear.
+
+e 20 elever har valgt Sosialkunnskap.
+e 16 elever har valgt Internasjonal engelsk.
+e 6elever har verken valgt Sosialkunnskap eller Internasjonal engelsk.
+
+a) Systematiser opplysningene i teksten ovenfor i en krysstabell eller i et venndiagram.
+
+b) Bestem sannsynligheten for at en tilfeldig valgt elev fra gruppen har valgt
+Sosialkunnskap, men ikke Internasjonal engelsk.
+
+Det viser seg at eleven som er trukket ut, har valgt Internasjonal engelsk.
+
+C) Bestem sannsynligheten for at denne eleven ogsa har valgt Sosialkunnskap.
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016 Side 19 av 24
+
+mate@matikk.net
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 5 (7 poeng)
+Ar KPI
+Fra og med maneden etter at et barn blir fadt, og til og med
+maneden for barnet fyller 18, far foreldrene utbetalt barnetrygd. 1996 I5,3
+Satsen for barnetrygd har veert 970 kroner per barn per maned 1997 97,8
+siden 1996. 1998 | 100
+1999 | 102,3
+Stian ble fadt i september 1996. 2000 | 105,5
+2001 | 108,7
+a) Hvor mye fikk foreldrene hans totalt utbetalt i barnetrygd? 2002 | 110,1
+2003 | 112,8
+Tabell il h iser k isindek h ar fra 1996 til 200" | 23s
+ad tll n@yre viser KonSuMprisindeksen Nvert ar Tra Ul 5005 115,1
+2006 | 117,7
+Stian mener at satsen for barnetrygd burde veert regulert | 2007 | 118,6
+samsvar med konsumprisindeksen. 2008 | 123,1
+2009 | 125,7
+b) Vis at satsen for barnetrygd da skulle veert 1 423 kroner per 2010 | 128.8
+barn per maned i 2015. 9011 130,4
+C) Lag et regneark som viser hvor mye Stians foreldre totalt Ls as
+ville fatt utbetalt dersom satsen for barnetrygd hvert ar
+hadde blitt regulert i samsvar med konsumprisindeksen. 2014 | 136,9
+2015 | 139,8
+Eksamen MAT1011 Matematikk 1P Varen 2016 Side 20 av 24
+
+ 
+
+mate@matikk.net
+
+ 
+Oppgave 6 (5 poeng)
+
+| regnearket nedenfor har vi lagt inn timelonn, skatteprosent og antall timer Sara, Vilde og
+
+Peder arbeidet | juli.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B C D
+1 Sara Vilde Peder
+2 Antall timer med ordiner timelgnn 30 32 28
+3 Antall timer med 40 % overtidstillegg 9 7 11
+4 Ordiner timelgnn kr 147,00/kr 15500|kr 152,00
+5 Lenn for ordinert arbeid
+6 Lgnn for overtidsarbeid
+7 Bruttolgnn
+8 Skattetrekk av ordiner Ignn (prosent) 12 % 15 % 10 %
+9 Skattetrekk av overtidslgnn (prosent) 40 % 40 % 40 %
+10 Skattetrekk (kroner)
+11 Nettoldnn juli
+12 Gjennomsnittlig skatteprosent
+
+ 
+
+a) Lag et regneark som vist ovenfor. Du skal sette inn formler i de bla cellene og
+beregne bruttolonn, skattetrekk og nettolgnn.
+
+Sara har regnet ut at hun i gjennomsnitt betalte 20,3 % i skatt av bruttolonnen hun
+hadde i juli. Hun har derfor satt opp at hun har en gjennomsnittlig skatteprosent pa
+
+20,3.
+
+b) Vis hvilke beregninger Sara har gjort. Legg inn formler i de rgde cellene i siste rad |
+regnearket fra oppgave a), slik at du ogsa far med gjennomsnittlig skatteprosent for
+
+Vilde og Peder.
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016
+
+mat@matikk.net
+
+Side 21 av 24
+
+ 
+Oppgave 7 (5 poeng)
+
+ 
+
+Gitt AABC og ACED. Se figuren ovenfor.
+BC =36,AC=39 og CD=26.
+
+a) Forklar hvorfor AABC og ACED er formlike.
+
+b) Bestem lengden av CE.
+
+9
+Cc) Vis at forholdet mellom arealet av AABC og arealet av ACED er 1
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016 Side 22 av 24
+
+mat@matikk.net
+Oppgave 8 (4 poeng)
+
+Pr RIF PR Rng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+~ PP
+—_—_—_-— ee
+
+Bildet ovenfor viser en torus. Torusen er laget av et aluminiumsrgr. Figurene viser tverrsnitt
+av torusen.
+
+Volumet V av en torus er gitt ved
+V=nr--2nR
+
+der BC =r er radius i aluminiumsrgret og AC=R er avstanden fra sentrum i det
+sirkelformede hullet i midten av torusen til sentrum i aluminiumsrgret.
+
+len torus er r=5,1cm og R=20,4cm.
+
+a) Bestem volumet av denne torusen. Gi svaret | liter.
+
+len annen torus er R=10,2 cm. Torusen har volum V =8,6L.
+
+b) Bestem omkretsen av sirkelen med radius AB.
+
+ 
+
+Eksamen MAT1011 Matematikk LP Varen 2016 Side 23 av 24
+
+mat@matikk.net

@@ -1,0 +1,630 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 11 (4 poeng)
+
+ 
+
+° _ tL
+| en vase star det 20 tulipaner. 25 % av tulipanene er hvite, 5 er gule, og resten er rede.
+
+Hvor mange tulipaner er rede?
+
+ 
+
+ 
+
+ 
+
+Oppgave 2 (2 poeng)
+Tabellen nedenfor viser konsumprisindeksen (KPI) for 2015 og 2017.
+Ar KPI
+2015 100
+2017 105,5
+
+ 
+
+ 
+
+ 
+
+ 
+
+En vare kostet 400 kroner i 2015. Hva kostet varen i 2017 dersom prisen har fulgt
+konsumprisindeksen?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 16 av 28
+
+mat@matikk.net
+Oppgave 3 (5 poeng)
+
+ 
+
+Et konditori selger marsipan. Tabellen nedenfor viser prisen for pakker med 3, 5 og 8
+
+marsipangriser.
+
+ 
+
+Antall marsipangriser
+
+3
+
+5
+
+8
+
+ 
+
+Pris per pakke (kroner)
+
+ 
+
+ 
+
+(2
+
+ 
+
+120
+
+ 
+
+180
+
+ 
+
+ 
+
+a) Er antall marsipangriser og pris per pakke proporsjonale storrelser?
+
+| konditoriet bruker de en oppskrift pa marsipan der det star at forholdet mellom mandler
+
+og melis skal veere 2: 3.
+
+b) Hvor mye melis trenger de til 7OO g mandler?
+
+| en ferdiglaget porsjon marsipan er det til Sammen brukt 7,5 kg mandler og melis.
+Porsjonen er laget ife@lge oppskriften ovenfor.
+
+c) Hvor mye mandler og hvor mye melis er det brukt til denne porsjonen?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18
+
+mat@ematikk.net
+
+Side 17 av 28
+Oppgave 4 (2 poeng)
+
+ 
+
+Skissen ovenfor viser en rettvinklet trekant og tre kvadrater.
+Arealene av de to stgrste kvadratene er 64 cm? og 100 cm2.
+
+a) Bestem arealet av det minste kvadratet.
+
+b) Bestem lengden av den korteste siden i trekanten.
+
+Oppgave 5 (4 poeng)
+
+En funksjon f er gitt ved
+f(x) =—-x* +2x4+3
+
+a) Skriv av og fyll ut verditabellen nedenfor.
+
+ 
+
+x —2 —1 0 1 2 3 4
+f(X)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Tegn grafen til f.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 18 av 28
+
+mat@matikk.net
+Oppgave 6 (4 poeng)
+
+Anfield Stadium
+
+ 
+
+UEFA & &&®
+Kallenavn Anfield
+Adresse Anfield Road,
+
+Liverpool, L4 OTH
+
+Land England
+Brukere Liverpool FC
+Underlag Naturgress
+Banestorrelse 100 x 69 meter
+
+Banen pa Anfield Stadium er 100 m lang og 69 meter bred. En modell av banen er
+20 cm lang.
+
+a) Bestem malestokken til modellen.
+
+b) Hvor bred er modellen?
+
+Oppgave 7 (3 poeng)
+
+ 
+
+Tenk deg at du skal kaste to terninger én gang.
+
+a) Bestem sannsynligheten for at summen av antall gyne vil bli atte.
+
+b) Bestem sannsynligheten for at du vil fa ngyaktig én toer.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18
+
+mat@matikk.net
+
+Side 19 av 28
+Oppgave 8 (3 poeng)
+
+Ole tok opp et lan i 2017. Lanet skal betales tiloake med én termin i aret og med samme
+prosent rente hvert ar. Nedenfor ser du en del av tilbakebetalingsplanen for lanet. Det
+har kommet noen flekker pa den. Enkelte tall er derfor ikke lesbare.
+
+Lanebelgp:
+
+Prosent rente per ar:
+
+Ar
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+
+kr
+kr
+
+kr
+
+Avdrag
+17 446 kr
+17 969 kr
+18 50
+
+a) Hvor stort lan tok Ole opp?
+
+b) Hvor mange prosent rente skal Ole betale hvert ar?
+
+c) Hvilken type lan er dette?
+
+Renter
+6 000
+5 477
+
+ 
+
+Terminbelgp
+
+kr
+kr
+kr
+kr
+kr
+kr
+kr
+kr
+
+23 446 kr
+23 446 kr
+23 446 kr
+23 446 kr
+23 446 kr
+23 446
+
+23 446 kr
+23 446 kr
+
+Restlan
+182 554
+164 585
+146 076
+127 012
+107 377
+
+44 864
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18
+
+mat@matikk.net
+
+Side 20 av 28
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 11 (6 poeng)
+
+Skissen nedenfor viser en volleyballbane. Nettet star midt pa banen. Nar kvinner spiller
+kamper, skal hayden pa nettet veere 2,24 m, og nar menn spiller kamper, skal hayden pa
+nettet veere 2,43 m.
+
+ 
+
+2,24 m for kvinner
+2,43 m for menn ‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18M
+
+En spiller slar en ball fra enden av sin banehalvdel og rett over mot den andre siden. Vi
+antar at ballen beveger seg parallelt med langsidene pa volleyballobanen. Funksjonen h
+gitt ved
+
+h(x) =—O,07x* +0,67x+2,04 , O0<x<12
+
+viser hvor mange meter h(x) ballen vil vere over bakken nar den har beveget
+seg X meter horisontalt, dersom den ikke treffer pa noen hindringer.
+
+a) Hvor hgyt over bakken er ballen idet spilleren slar den?
+b) Bruk graftegner til a tegne grafen til h for O<x<12
+c) Hvor hg@yt over bakken vil ballen vaere pa det hgyeste?
+
+d) Vil ballen ga over nettet?
+Begrunn svaret ditt.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 21 av 28
+
+matematikk.net
+Oppgave 2 (4 poeng)
+
+ 
+
+En kveld var 450 kunder innom Kinokiosken. 280 kj@pte popcorn, og 220 kjgpte
+smagodt. 30 kjgpte verken popcorn eller smagodt.
+
+a) Systematiser opplysningene ovenfor i en krysstabell eller i et venndiagram.
+
+b) Bestem sannsynligheten for at en tilfeldig valgt kunde kjopte bade popcorn og
+smagodt.
+
+En kunde kjgpte smagodt.
+
+c) Bestem sannsynligheten for at kunden ikke kjg@pte popcorn.
+
+Oppgave 3 (3 poeng)
+
+ 
+
+En sylinder, en kjegle og en kule har radius 4 cm. Sylinderen og kjeglen har hgyde 4 cm.
+
+Vis at volumet av sylinderen og kjeglen til sammen er lik volumet av kula.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 22 av 28
+
+mat@matikk.net
+Oppgave 4 (2 poeng)
+
+Heron fra Alexandria levde i det forste arhundret av var tidsregning.
+Han har fatt en formel oppkalt etter seg.
+
+ 
+
+ 
+
+Vi kan bruke Herons formel til a regne ut arealet T av en trekant med sider a, b og c.
+
+ 
+
+a+b+c
+Ss = ———_
+
+Arealeter T=./s(s—a)(s—b)(s—c) der 5
+
+Bruk Herons formel til a bestemme arealet av en trekant med sider 6, 10 og 14 cm.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 23 av 28
+
+mat@matikk.net
+Oppgave 5 (3 poeng)
+
+ 
+
+En hestekraft er effekten som trengs for a
+lofte 75 kg én meter opp i Igpet av
+ett sekund.
+
+| dag oppgis effekt ofte i kilowatt (kW) |
+stedet for i hestekrefter (hk).
+
+ 
+
+ 
+
+44 4646-46464 4646 hh 46 464
+
+ 
+
+ 
+
+ 
+
+Den grafiske framstillingen nedenfor viser Sammenhengen mellom hestekrefter (hk) og
+kilowatt (kW).
+
+ 
+
+Y Kilowatt (kW)
+150 |
+(140, 102.9)
+100 +
+(110, 80.85)
+50-
+Hestekrefter (hk) ,
+0 30 40 60 80 100 120 140 160 180 200 220 240 260 280 300 300
+
+ 
+
+a) Bestem stigningstallet til den rette linjen.
+
+En bil har en motoreffekt pa 1000 hk.
+
+b) Hvor mange kilowatt tilsvarer dette?
+
+ 
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 24 av 28
+
+mat@matikk.net
+Oppgave 6 (4 poeng)
+
+| 2014 hadde Anders en nominell lann pa 550 O00 kroner. Konsumprisindeksen
+var da 97,9.
+
+a) Bestem reallgnnen til Anders | 2014.
+
+| 2017 var konsumprisindeksen 105,5.
+
+b) Hvor stor matte den nominelle Ignnen til Anders ha veert i 2017 dersom han skulle
+hatt like stor kjopekraft som | 2014?
+
+Oppgave 7 (4 poeng)
+
+ 
+
+ 
+
+ 
+
+Et omrade har form som vist pa kartet ovenfor.
+
+a) Forklar at AABC og AABD er formlike.
+
+Avstanden fra A til D er 18,0 km. Avstanden fra B til D er 80,0 km.
+
+b) Tegn en skisse av de to trekantene AABD og AABC ved siden av hverandre, og
+marker samsvarende sider.
+Hvor langt er det fra A til C?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 25 av 28
+
+mate@matikk.net
+Oppgave 8 (4 poeng)
+
+      
+   
+
+Alle skjorter:
+Kl@p 2 og fa halv pris
+pa den rimeligste
+
+  
+
+En klesbutikk har satt opp plakaten ovenfor. Emil kjaper to helt like skjorter og far den
+ene til halv pris.
+
+a) Hvor mange prosent rabatt far han totalt sammenliknet med full pris?
+
+Alfred kjoper ogsa to skjorter. Den ene skjorta er opprinnelig 300 kroner dyrere enn
+den andre. Alfred betaler na 1350 kroner til sammen for de to skjortene.
+
+b) Hvor mye betaler Alfred for den rimeligste skjorta?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P H18 Side 26 av 28
+
+mate@matikk.net
+Oppgave 9 (6 poeng)
+
+| denne oppgaven skal du lage et regneark som du kan bruke til a beregne omkrets og
+areal av ti rettvinklede formlike trekanter. Vi kaller de ti trekantene for Trekant 1, Trekant
+
+2, Trekant 3, osv.
+
+e Sidene i Trekant 2 skal veere dobbelt sa lange som sidene i Trekant 1.
+
+e Sidene i Trekant 3 skal vere tre ganger sa lange som sidene i Trekant 1.
+e Sidene i Trekant 4 skal vere fire ganger sa lange som sidene i Trekant 1.
+e Osv.
+
+| rad 8 og 9 skal du ogsa beregne to forhold. Se regnearket nedenfor.
+
+a B C D E F G H J K
+
+Rettvinklede formlike trekanter
+
+ 
+
+Trekant 1
+
+Trekant 2
+
+Trekant 3
+
+Trekant 4
+
+Trekant 5
+
+Trekant 6
+
+Trekant 7
+
+Trekant 8
+
+Trekant 9
+
+Trekant 10
+
+ 
+
+5 Korteste katet
+
+5
+
+10
+
+ 
+
+Lengste katet
+
+12
+
+24
+
+ 
+
+Hypotenus
+
+13
+
+26
+
+ 
+
+Omkrets
+
+30
+
+60
+
+ 
+
+Areal
+
+30
+
+120
+
+ 
+
+Forholdet meliom omkretsen av
+trekanten og omkretsen av a 2
+. Trekant 1
+
+ 
+
+Forholdet meliom arealet av
+trekanten og arealet av 1 4
+: Trekant 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lag et regneark som vist ovenfor. Skriv inn tall i de hvite cellene, og legg inn formler |
+de bla cellene slik at hele tabellen blir fylt ut.
+
+ 
+
+b) Hvilken sammenheng er det mellom tallene i rad 8 og tallene i rad 9?
+c) Viltallene i rad 8 og i rad 9 endre seg om du endrer tallene i celle B3 og celle B4?
+Hvorfor? / Hvorfor ikke?
+Eksamen MAT1011 Matematikk 1P H18 Side 27 av 28
+
+mat@matikk.net

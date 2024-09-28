@@ -1,0 +1,594 @@
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (5 poeng)
+
+Tabellen nedenfor viser karakterfordelingen ved en skole ved norskeksamen varen 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Karakter Antall elever
+1 3
+2 12
+3 25
+4 12
+5 6
+6 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Hvor mange prosent av elevene fikk karakteren 1 eller 2?
+b) Bestem mediankarakteren.
+
+C) Bestem gjennomsnittskarakteren.
+
+Oppgave 2 (2 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+3,54-10° + 60000
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hgsten 2017
+
+mate@matikk.net
+
+Side 15 av 28
+Oppgave 3 (3 poeng)
+
+“NS
+
+y Kilometer
+100 7
+
+90 |
+80 |
+70 |
+60 |
+50 |
+AO |
+30 |
+20 |
+
+10 5
+
+ 
+
+ 
+
+Klokkeslett ,
+
+S
+7
+
+14.00 15.00
+
+Et tog kjorte fra by A til by B. Se diagrammet ovenfor.
+a) Bestem reisetiden mellom de to byene.
+b) Beskriv hva som skjer 20 km fra by A.
+
+c) Bestem farten til toget nar det er 10 km fra by A, og nar det er 10 km fra by B.
+Du skal gi svarene | km/h.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hg@sten 2017 Side 16 av 28
+
+mat@matikk.net
+Oppgave 4 (2 poeng)
+
+Et idrettslag har 240 medilemmer. Idrettslaget har fire forskjellige aktivitetsgrupper.
+
+Medlemmene fordeler seg slik:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aktivitetsgruppe | Antall medlemmer
+Langrenn 60
+Hopp 40
+Freestyle SO
+Alpint 60
+
+ 
+
+ 
+
+ 
+
+Gjor beregninger og lag et sektordiagram som viser fordelingen av medlemmene pa de
+ulike gruppene. Det skal ga klart fram hvor mange grader hver av sektorene i diagrammet
+
+er pa.
+
+Oppgave 5 (2 poeng)
+
+Du far 40 % rabatt pa en billett. Rabatten utgjor 120 kroner.
+
+Hvor mye ville billetten ha kostet dersom du ikke hadde fatt rabatt?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hgsten 2017
+
+mate@matikk.net
+
+Side 17 av 28
+Oppgave 6 (5 poeng) ox
+
+Asm Er
+why)
+v s ° ‘4s 3/ t a 4
+go ©
+"\ %
+we) vy
+
+ 
+
+| en butikk kan kundene kjope armband og charms (sma figurer) til a feste pa
+armbandene. Butikken selger alle charms til samme pris.
+
+Tabellen nedenfor viser sammenhengen mellom antall charms en kunde setter pa et
+armband, og prisen kunden ma betale for armbandet med charms.
+
+ 
+
+Antall charms 3 {
+
+ 
+
+Pris for armband
+med charms 1350 2450
+(kroner)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Hvor mye koster armbandet, og hvor mye koster hver charm?
+
+b) Bestem en linezer modell som viser sammenhengen mellom antall charms pa
+armbandet og samlet pris for armband med charms.
+
+Hanne betaler 3825 kroner for et armband med charms.
+
+c) Hvor mange charms har hun pa armbandet?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hg@sten 2017 Side 18 av 28
+
+mat@matikk.net
+Oppgave 7 (5 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figur 1 Figur 2 Figur 3
+
+Ovenfor ser du tre figurer. Figurene er satt sammen av sma kvadrater. Tenk deg at du
+skal fortsette a lage figurer etter samme mgnster.
+
+a) Hvor mange sma kvadrater vil det vere i figur 4?
+
+b) Bestem et uttrykk for antall sma kvadrater i figur n uttrykt ved n.
+
+c) Hvor mange sma kvadrater vil det veere i figur 20?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hg@sten 2017 Side 19 av 28
+
+mat@matikk.net
+ 
+
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+Oppgave 1 (5 poeng)
+
+Tabellen nedenfor viser antall innbyggere i Norge 1. januar noen utvalgte ar.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ar 1960 | 1970 | 1980 | 1990 | 2000 | 2010 | 2017
+Innbyggere | 357 | 386 | aos | 423 | 447 | 485 | 5.25
+(millioner)
+
+ 
+
+ 
+
+ 
+
+La X vere antall ar etter 1960. (La x =O svare tilar 1960, x =10 til 1970 osv.)
+
+a) Vis at f(x) =3,57-1,006* er en modell som passer godt med tallene i tabellen.
+
+b) Hva forteller tallet 1,006 i denne modellen?
+
+Anta at modellen fra oppgave a) vil gjelde i arene framover.
+
+c) I|hvilket ar vil innbyggertallet i Norge passere 10 millioner ifelge denne modellen?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hgsten 2017
+
+matematikk.net
+
+Side 20 av 28
+Oppgave 2 (6 poeng)
+
+ 
+
+En gangbro gar over en elv. | koordinatsystemet nedenfor har vi tegnet en skisse av
+broen. Pa skissen gar broen fra punktet A til punktet B.
+
+y D F
+
+om cnt ooo. B
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x
+e e >
+C FE
+Funksjonen G gitt ved
+G(x) = —0,0008x* +0,08x +1,0 ; O<x <100
+viser broens hgyde G(x) meter over elva ved normal vannstand der den horisontale
+avstanden fra punktet A er x meter.
+a) Bruk graftegner til a tegne grafen til G.
+<
+5
+©
+ew
+En bat har en mast som nar 290 cm over vannflaten. Se ovenfor.
+b) Vil baten kunne passere under broen ved normal vannstand?
+Broen hviler pa to bropilarer i punktene D og F. Ved normal vannstand er
+hgydene CD og EF fra vannflaten opp til broen lik 2,5 m.
+c) Bestem avstanden fra C til E.
+Eksamen MAT1015 Matematikk 2P Hausten / Hgsten 2017 Side 21 av 28
+
+mat@ematikk.net
+Oppgave 3 (3 poeng)
+
+Maskin A og maskin B fyller vann pa flasker. | hver flaske skal det veere 500 mL vann.
+
+Anders maler hvor mye vann det er i 20 av flaskene fra maskin A. Nedenfor ser du
+resultatene.
+
+a)
+
+510 mL
+500 mL
+498 mL
+505 mL
+
+490 mL
+504 mL
+485 mL
+497 mL
+
+495 mL
+508 mL
+499 mL
+500 mL
+
+480 mL
+501 mL
+502 mL
+493 mL
+
+520 mL
+516 mL
+515 mL
+516 mL
+
+Bestem gjennomsnittet og standardavviket for antall mL vann i disse 20 flaskene.
+
+Anders maler ogsa hvor mye vann det er i 20 flasker fra maskin B. Han regner ut at
+gjennomsnittet er det samme som for maskin A men at standardavwviket er 2,5 mL.
+
+b)
+
+Hva kan visi om de 20 flaskene fra maskin B sammenliknet med de 20 flaskene
+fra maskin A ut fra disse beregningene?
+
+ 
+
+Eksamen
+
+MAT1015 Matematikk 2P Hausten / Hgsten 2017
+
+mate@matikk.net
+
+Side 22 av 28
+Oppgave 4 (6 poeng)
+
+| dag er det 280 kaniner innenfor et avgrenset omrade. Anta at en sykdom brer seg blant
+kaninene, og at det om 20 maneder bare vil veere 40 kaniner igjen i omradet.
+
+a) Sett opp en modell som viser hvor mange kaniner det vil veere i omradet
+om x maneder dersom antallet avtar linezert.
+
+b) Sett opp en modell som viser hvor mange kaniner det vil veere i omradet
+om x maneder dersom antallet avtar eksponentielt.
+
+Anta at det om ett ar vil veere 96 kaniner igjen i omradet.
+
+c) Vurder om det da er mest rimelig a anta at nedgangen vil vere linezer eller
+eksponentiell.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hg@sten 2017 Side 23 av 28
+
+mat@matikk.net
+Oppgave 5 (8 poeng)
+
+| en klasse pa Vg2 idrettsfag er det 30 elever. Tabellen nedenfor viser hvor mye elevene
+trener utenom skoletiden i lopet av en uke.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kumulativ
+Kumulativ Relativ
+Antall minutter | Antall elever relativ
+frekvens frekvens
+
+frekvens
+| O, 60) 3
+| 60, 180) 6
+| 180, 300) 12
+| 300, 420) 6
+| 420, 540) 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Tegn av tabellen i besvarelsen din, og fyll inn verdier for kumulativ frekvens, relativ
+frekvens og kumulativ relativ frekvens.
+
+b) Lag et histogram som viser hvor mye elevene trener utenom skoletiden.
+c) Bestem gjennomsnittet for det klassedelte datamaterialet.
+
+d) Bestem medianen for det klassedelte datamaterialet.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hg@sten 2017 Side 24 av 28
+
+matematikk.net
+Oppgave 6 (8 poeng)
+
+Karen lante 90 OOO kroner den 1. november 2017. Hun har fatt folgende betingelser for
+
+nedbetaling av lanet:
+
+- enrente pa 0,4 % per maned
+
+- manedlige terminer
+- et fast avdrag pa 2500 kroner per termin
+
+- termingebyr 50 kroner
+
+a) Vis at forste terminbelgp blir 2 910 kroner.
+
+b) Lag et regneark som Karen kan bruke for a holde oversikt over lanet til det er
+
+nedbetalt. Nedenfor ser du hvordan de fgrste radene i regnearket skal se ut.
+
+A B
+
+1 Lanebelgp: kr 90000,00
+2  Rente per maned: 04%
+3 Avdrag per termin: kr 2 500,00
+4 Termingebyr: kr 50,00
+5
+
+6 Termin Rente
+
+7 01.11.2017
+
+8 01.12.2017 kr 360,00
+9 01.01.2018 kr 350,00
+10 01.02.2018 kr 340,00
+11
+
+AT AD IWNA10
+
+c) Hvor mye ma Karen totalt betale for dette lanet?
+
+Lew
+
+s.on nn
+
+Avdrag
+
+kr
+kr
+kr
+
+Low
+
+2 500,00
+2 500,00
+2 500,00
+
+AY CAN nn
+
+Gebyr
+
+kr
+kr
+kr
+
+Low
+
+50,00
+50,00
+50,00
+
+cn nn
+
+Terminbelgp
+kr 2 910,00
+kr 2 900,00
+kr 2 890,00
+
+Lew
+
+Yoon nn
+
+Restgjeld
+kr
+kr
+kr
+kr
+
+Lew
+
+90 000,00
+87 500,00
+85 000,00
+82 500,00
+
+ON NNN NN"
+
+Like etter at Karen inngikk laneavtalen ovenfor, sa hun en reklame der hun kunne ha
+fatt folgende betingelser for nedbetaling av et lan pa 90 OOO kroner:
+
+- enrente pa 0,5 % per maned
+- manedlige terminer
+- et fast avdrag pa 2500 kroner per termin
+
+- ingen gebyrer
+
+d) Hvor mye matte Karen totalt ha betalt for dette lanet?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten / Hgsten 2017
+
+matematikk.net
+
+Side 25 av 28

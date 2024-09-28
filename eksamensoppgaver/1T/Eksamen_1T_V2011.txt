@@ -1,0 +1,385 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (13 poeng)
+
+a) Skriv pa standardform
+1) 36200 000
+
+2) 0,034-107
+
+b) Ls likningen
+x* +6x =16
+
+c)  Lg@s ulikheten
+
+ 
+
+ 
+
+ 
+
+x*-x>0
+dA 8 © BP EF GH Ff Fs K Ef
+
+—? e—_# © o—_2___9—__- ® e—_9 ©
+
+0 1 2 3 ‘} 5 6
+Pa tallinjen ovenfor har vi merket av 12 punkter. Hvert av tallene nedenfor tilsvarer
+ett av punktene A - L pa tallinjen. Regn ut eller forklar hvor hvert av tallene skal
+plasseres.
+
+1
+
+1) 83
+2) 5,5°
+3) 21
+4) tan30°
+5) 6-27
+» (3)
+
+2
+
+Eksamen MAT1013 Matematikk 1T Varen 2011 Side 12 av 20
+
+matematikk.net
+e)  Lg@s likningen
+
+Ig(2x -1)=2
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+De 20 elevene i klasse 1A planlegger sommerferien.
+
+e 16 elever har fatt sommerjobb.
+e 10 avelevene som har fatt sommerjobb, skal ogsa pa ferie.
+e 2elever har ikke fatt sommerjobb og skal heller ikke pa ferie.
+
+1) Systematiser opplysningene i teksten ovenfor i en krysstabell eller i et
+venndiagram.
+
+2) Finn sannsynligheten for at en tilfeldig valgt elev fra klasse 1A skal pa ferie.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2011 Side 13 av 20
+
+mat@matikk.net
+Oppgave 2 (6 poeng)
+En funksjon f er gitt ved f (x) =x? —2.
+
+a) Tegn grafen til f i et koordinatsystem for x €| —3, 3 ].
+
+b) Finn ved regning likningen for den rette linjen som gar gjennom punktene (0, f(0))
+
+og (2,f(2)).
+
+c) Finn likningen for tangenten til f i punktet der x =1 ved regning. Tegn denne
+tangenten i samme koordinatsystem som du brukte | a).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 3 (5 poeng)
+D r C
+E
+A B
+
+Figuren ovenfor viser et kvadrat ABCD . Sidene i kvadratet har lengde 1.
+E er midtpunkt pa BC , og F er midtpunkt pa CD.
+
+V5
+
+a) Bruk Pytagoras’ setning til a vise at AE og AF har lengde -
+
+b) Vis atarealet av AAEF er 7
+
+c) Vis at sina ==
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2011 Side 14 av 20
+
+matematikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 4 (8 poeng)
+
+  
+
+Kilde: http://www.aadesign.no (09.12.2010)
+
+Antall gram CQ2 en bil slipper ut per kilometer er gitt ved
+f(x) = 0,046x* —6,7x + 386
+
+der x er farten til bilen malt i km/h.
+
+a) Tegn grafen til f i et koordinatsystem for x <| 20, 100 |.
+
+b) Finn grafisk og ved regning
+
+1) hvor fort bilen kjgrer dersom den holder konstant fart og slipper ut
+150 g CQ2 per kilometer.
+
+2) hvilken fart som gir minst COz-utslipp per kilometer og hvor stort
+CO2-utslippet per kilometer er da.
+
+Bilen kjgrer i 70 km/hi en halv time.
+
+c) Hvor mye COQz slipper bilen ut i lapet av denne halvtimen?
+
+ 
+
+Eksamen MAT1LO13 Matematikk 1T Varen 2011 Side 15 av 20
+
+mat@matikk.net
+Oppgave 5 (7 poeng)
+
+ 
+
+12m
+
+Et tre star pa en horisontal slette. Ved et gitt tidspunkt kaster solen en 12 m lang skygge
+bak treet. En pinne som er 1,2 m lang, har ved samme tidspunkt en 1,6 m lang skygge.
+Se skissen ovenfor.
+
+a) Hvor hgyt er treet?
+
+b) Vis at solstralene ved dette tidspunktet danner en vinkel pa 36,9° med sletten.
+
+ 
+
+ 
+
+ 
+
+1/m
+
+| enden av sletten er det en skraning som danner vinkelen u med horisontallinjen.
+| skraningen star det ogsa et tre. Dette treet star vinkelrett pa horisontalplanet.
+Se skissen ovenfor.
+
+Per og Kari vil prove a regne ut hvor hgyt treet i skraningen er, ved hjelp av trigonometri.
+De tar med seg et metermal, en planke og en kalkulator.
+
+c) Hvordan kan Per og Kari ga fram for a bestemme vinkelen u ?
+
+Per og Kari regner ut at ZU = 25°. Skyggen fra treet faller 17 m nedover skraningen.
+Vi antar at vinkelen mellom solstralene og horisontallinjen er den samme som i b).
+
+d) Hvor hgyt er treet i skraningen?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2011 Side 16 av 20
+
+matematikk.net
+Oppgave 6 (9 poeng)
+
+Vy
+
+100
+
+90 |
+
+80 |
+
+Temperatur malt i °C
+
+ 
+
+Tid matt i minutter
+
++
+' ' ' ' ' ' ' ' ' ' ' ,
+
+' ' '
+90 100 110 120 130 x
+
+ 
+
+Bjorn og Jon tapper 1 L vann fra springen. De varmer opp vannet i en glasskolbe. Etter en
+stund flytter de glasskolben fra varmekilden og inn i et kigleskap. Hele tiden maler de
+temperaturen i vannet ved hjelp av en datalogger.
+
+Grafen ovenfor viser temperaturen i vannet som funksjon av tiden.
+
+a)
+
+Bruk grafen til a svare pa folgende spgrsmal:
+
+1) Hva var temperaturen i vannet da Bjgrn og Jon tappet det fra springen?
+
+2) Hvor lenge varmet de vannet i glasskolben, og hva var temperaturen i vannet da
+
+de satte det inn i kjgleskapet?
+
+Foresla et funksjonsuttrykk for den delen av grafen som viser oppvarming av vannet,
+og bruk dette funksjonsuttrykket til a finne ut hvor lang tid det vil ta a varme opp 1L
+
+vann fra springen til LOO°C dersom vi bruker denne varmekilden.
+
+Grafen til funksjonen f gitt ved f(x) =115,82-0,94" +5, der x =5, beskriver
+temperaturen | vannet etter at det er satt inn i kjoleskapet.
+
+C)
+
+d)
+
+Finn ved regning i hvilket tidsrom vannet har hoyere temperatur enn 60°C .
+
+Hva var temperaturen i kjoleskapet?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2011
+
+Side 17 av 20
+
+matematikk.net
+Oppgave 7 (8 poeng)
+
+"Stein - saks - papir” er en konkurranse mellom to personer. Hver person bestemmer
+seg for enten stein, saks eller papir, og begge viser sa samtidig, ved a bruke den ene
+handen, hva de har valgt. Se figuren nedenfor.
+
+5a KS vinner
+OVel papi
+
+e Saks vinner over papir. , :
+e Papir vinner over stein. YS :
+
+e Stein vinner over saks.
+
+Reglene er slik:
+
+Dersom begge velger det
+samme (for eksempel
+stein), blir det uavgjort.
+
+   
+
+Pa Dilvinner
+over stein
+
+ 
+
+Stein vinner
+
+over saks |
+Kilde:
+
+http: //no.wikipedia.org/wiki/
+Fil:Rock_paper_scissors-no jpg
+(03.07.2010)
+
+  
+
+Bard og Lars skal spille "Stein - saks - papir”. Ett mulig utfall kan da for eksempel bli at
+Bard velger stein og Lars velger papir.
+
+a) Lag en oversikt som viser alle de ni mulige utfallene nar Bard og Lars spiller "Stein -
+
+Saks - papir” én gang.
+
+La B bety seier til Bard, U uavgjort og L seier til Lars.
+
+b) Forklar at sannsynligheten for at Bard vinner, P(B), er
+
+Bard og Lars skal spille "Stein - saks - papir” tre ganger. Et mulig resultat er da BUL,
+som betyr at Bard vinner forste gang, at det blir uavgjort andre gang, og at Lars vinner
+tredje gang.
+
+c) Hvor mange ulike resultater kan vi fa nar Bard og Lars spiller tre ganger?
+
+d) Hvaer sannsynligheten for at Bard vinner minst to av de tre gangene?
+
+Nar to personer spiller "Stein - saks - papir”, er vinneren den som vinner flest av tre
+ganger. Dersom begge vinner like mange ganger, blir det uavgjort.
+
+e) Hvaersannsynligheten for at Bard vinner?
+
+ 
+
+Eksamen MAT1L0O13 Matematikk 1T Varen 2011 Side 18 av 20
+
+mat@matikk.net
+Oppgave 8 (4 poeng)
+
+La A, B, C og D vere fire punkter pa en sirkel.
+Se figuren nedenfor.
+
+ 
+
+C Ptolemaios
+
+(ca. ar 100 e.Kr.)
+var bade
+matematiker og
+astronom.
+
+ 
+
+Kilde: http://no.wikipedia.org/wiki/Klaudios_Ptolemaios
+(16.09.2010)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ptolemaios fant ut at
+AC -BD =AB -CD +AD -BC
+
+Denne sammenhengen kalles Ptolemaios’ setning.
+
+| denne oppgaven skal du bruke Ptolemaios’ setning | to tilfeller.
+
+a)  Tegn figuren ovenfor i det tilfellet der firkanten ABCD er et rektangel.
+La sidekantene ha lengde a og Db, og la diagonalene ha lengde c. Skriv ned
+Ptolemaios’ setning for dette tilfellet. Du har na kommet fram til en annen og mer
+bergmt setning. Hvilken’?
+
+Lana A, B og C vere hjgrner i en likesidet trekant som er innskrevet i en sirkel, og la
+P veere et punkt pa sirkelouen mellom A og B som vist pa figuren nedenfor.
+
+C
+
+ 
+
+b) Skriv ned Ptolemaios’ setning for dette tilfellet og vis at PC =PA+PB.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2011 Side 19 av 20
+
+mat@matikk.net

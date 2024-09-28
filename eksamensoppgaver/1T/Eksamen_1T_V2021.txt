@@ -1,0 +1,444 @@
+Eksamen 1T LK20 fagfornyelsen var 2021
+
+Eksamen varer i 5 timer. Vi anbefaler at du fordeler tiden din slik:
+Oppgavetype 1 - en time
+Oppgavetype 2 - to timer
+
+Oppgavetype 3 - to timer
+
+Oppgavetype1 / Oppgave 1
+
+En funksjon f er gitt ved
+
+f(x) =az4-8
+
+Bestem a slik at grafen til f gar gjennom punktet (4, 4).
+
+ 
+
+ 
+
+ 
+
+Svar: a = | Skriv svaret her
+
+ 
+
+Oppgavetype 1 / Oppgave 2
+
+Du far vite folgende om trekanten ABC
+
+e AC=10
+
+e sn A= —
+
+ 
+
+Bestem lengden av BC.
+
+ 
+
+Svar: Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+mM Cd ie@m CG Ti kk. @ et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype 1 / Oppgave 3
+
+(x*° + 2? — 22 — 8) : (a +k)
+
+Bestem en verdi for k slik at divisjonen gar opp.
+
+ 
+
+Svar. k= | Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+Oppgavetype1 / Oppgave 4
+
+2? + 2ka —-2k-1=0
+
+Bestem k slik at likningen har én losning.
+
+ 
+
+ 
+
+ 
+
+Svar. k= | Skriv svaret her
+
+ 
+
+Mm Cd ie@m CG Ti kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype1 / Oppgave 5
+
+Ester skal leie bil. Hun kan velge 4 leie hos firma A eller hos firma B.
+
+Modellene i diagrammet viser hvor mye hun ma betale nar hun kjorer z kilometer i lopet av et dogn.
+
+ 
+
+ 
+
++
+Y Pris (kroner)
+1400
+Firma A
+1200
+1000
+Firma &
+800
+600
+400
+200
+Avstand (kilometer) :
+0 20 40 60 80 100 120 140 160 180 .
+
+ 
+
+Hvor langt ma Ester kjore i lopet av et dogn for at prisen skal vere lik hos firma A og firma B?
+
+ 
+
+Svar: | Skriv svaret her km
+
+ 
+
+ 
+
+ 
+
+m ai@m ati kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype1 / Oppgave 6
+
+m+2
+n+2
+
+ 
+
+; m
+Gitt to broker, — og , der msn EN og n>™m.
+n
+
+Hvilken pastand er riktig?
+
+Velg ett svar
+
+ 
+
+Om m+2
+n n+2
+
+ 
+
+ 
+
+Om m+2
+n n+2
+
+ 
+
+ 
+
+O La m+2
+n n+2
+
+ 
+
+ 
+
+O Hvilken brok som har storst verdi, avhenger av verdien til
+m og n
+
+ 
+
+ 
+
+Oppgavetype1 / Oppgave 7
+Funksjonen f ergittved f(x) = —5a? +aa+1.
+
+Grafen til f har et toppunkti (2, f(2)).
+
+Bestem a.
+
+ 
+
+Svar: a= Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+Mm Cd ie@m CG Ti kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype1 / Oppgave 8
+
+Bestem 7, s og t slik at sammenhengen blir en identitet
+
+4a” + 162 +r = (sx +t)?
+
+Svar:
+
+ 
+
+ 
+
+r= | Skriv svaret her s = | Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+t = | Skriv svaret her
+
+ 
+
+ 
+
+ 
+
+ 
+
+mat@ematikk.net
+
+ 
+
+Eksamen 1T Fagfornyelsen LK20 var 2021
+Informasjon oppgavetype 2
+
+De neste seks oppgavene er av hovedtype 2.
+Her skal du vise utregninger, forklare framgangsmater du har brukt, og begrunne resultater.
+Disse oppgavene vil samlet sett gi sensor mulighet til a vurdere i hvilken grad du
+
+e viser matematisk forstaelse
+
+e gjennomf¢rer logiske resonnementer
+
+e  vurderer om svar er rimelige
+
+e sersammenhenger i faget, er oppfinnsom og kan ta i bruk fagkunnskap i nye situasjoner
+
+e bruker hjelpemidler der det er hensiktsmessig
+
+e = skriver oversiktlig og er ndéyaktig med utregninger, benevninger, tabeller og grafiske
+framstillinger
+
+Vi anbefaler a bruke inntil to timer av eksamenstiden pa denne oppgavetypen.
+
+Oppgavetype2 / Oppgave 9
+
+En skal med blabergele ble satt til avkjoling i et rom der temperaturen var 20 °C.
+
+Tabellen viser temperaturen i blabezrgeléen x minutter etter at geléen ble satt til avkjoling.
+
+ 
+
+Tid (minutter) | 4 8 16 20 40 60 75 90
+
+ 
+
+Temperatur (°C)} 90.6 | 865 | 789 | 754 | 61,0 | 503 | 44,1 | 39,2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Lag en modell T' pa formen T(x) = a-b* som viser temperaturen i geléen z
+minutter etter at den ble satt til avkjoling.
+
+b) Hvilket gyldighetsomrade vil du si modellen kan ha?
+
+mM Cd i@m CG Ti kk. @ et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype2 / Oppgave 10
+
+ 
+
+Vis og gjor rede for hvordan du kan bruke skissen til a lose ulikheten
+
+2? —2>6
+
+mM Cd ie@m CG Ti kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype2 / Oppgave 11
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figur 1 Figur 2 Figur 3
+
+De tre figurene er laget av fyrstikker.
+
+Figur 1 bestar av ett lite kvadrat, figur 2 bestar av fire sma kvadrater, og figur 3 bestar av ni
+sma kvadrater.
+
+Tenk deg at du har 10 000 fyrstikker.
+
+Du skal lage de tre figurene, og sa fortsette 4 lage figurer etter samme monster, én i hver
+
+storrelse.
+
+a) Hvor mange figurer kan du lage?
+
+b) Hvor mange fyrstikker vil du ha igjen nar du har laget den siste figuren?
+
+Oppgavetype 2 / Oppgave 12
+
+| dag er det 280 kaniner innenfor et avgrenset omréade.
+
+Anta at en sykdom brer seg blant kaninene, og at det om 20 maneder bare vil vere
+40 kaniner igjen i omradet.
+
+a) Lag en modell som viser hvor mange kaniner det vil vere iomradetom zc maneder
+dersom antallet avtar linezert.
+
+b) Lag en modell som viser hvor mange kaniner det vil vere iomradetom z maneder
+dersom antallet avtar eksponentielt.
+
+m ai@m ati kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype 2 / Oppgave 13
+
+Funksjonen f ergitt ved
+
+f(a) =2° -—2-1
+
+1
+Grafen til f har to tangenter som er parallelle med linjen y = 92 + 2.
+
+Bestem skjzringspunktet med z-aksen for hver av disse tangentene eksakt.
+
+Oppgavetype 2 / Oppgave 14
+
+La f og g vere to polynomer som har «omvendt rekkefolge» pa koeffisientene.
+
+For eksempel kan f og g vere gitt ved
+
+f(z)=27-52+6 og g(x) =62*-—5r+1
+
+Det er en sammenheng mellom nullpunktene til slike polynomer.
+a) Finn denne sammenhengen.
+
+b) Bevis at sammenhengen gjelder for alle slike polynomer.
+
+mM ai@m ati kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Informasjon oppgavetype 3
+
+De to siste oppgavene er av hovedtype 3.
+
+| disse oppgavene vil du fa presentert en situasjon eller en problemstilling som du selv ma unders¢ke
+og utforske.
+
+| tillegg til kriteriene som er nevnt under oppgavetype 2, vil disse oppgavene gi sensor mulighet til a
+vurdere i hvilken grad du
+
+e bygger pa ngdvendige forutsetninger, stiller relevante sogrsmal og vurderer hvilke
+beregninger som er aktuelle a gjgre
+
+e arbeider systematisk
+
+e dokumenterer utforskingen og dr@fter, vurderer og presenterer resultatene pa en oversiktlig
+mate
+
+Vi anbefaler a bruke inntil to timer av eksamenstiden pa denne oppgavetypen.
+
+Mm Cc i@m CG ti k k. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype 3 / Oppgave 15
+Du skal utforske koordinatene til skjzeringspunktene mellom funksjonene f og g,gitt
+ved
+
+b
+
+f(z) = ax og g(z) = —
+
+Koordinatene til skjeeringspunktene skal vere positive hele tall, for eksempel (1, 1) og
+
+(3, 9).
+
+ 
+
+ 
+
+9 - (3, 9)
+
+ 
+
+Utforsk hvilke verdier av a,b € N som gir et skjzeringspunkt der begge koordinatene
+er positive hele tall.
+
+Begynn gjerne med 4 velge a = 1. Ta deretter fordeg a = 2,a = 3 osv.
+
+m ai@m ati kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021
+Oppgavetype 3 / Oppgave 16
+
+Siri har brukt cosinussetningen og fatt likningen
+
+a® = 8? 427 —8r
+
+Undersok hvordan trekanter som tilfredsstiller denne likningen, kan se ut for ulike verdier
+av a.
+
+mM Cd ie@m CG Ti kk. Nn et Eksamen 1T Fagfornyelsen LK20 var 2021

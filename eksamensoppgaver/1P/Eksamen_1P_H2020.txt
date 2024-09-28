@@ -1,0 +1,1223 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+17.11.2020
+
+ 
+
+Eksamen
+MAT1011 Matematikk 1P
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timar.
+Del 1 skal leverast inn etter 2 timar.
+Del 2 skal leverast inn seinast etter 5 timar.
+
+ 
+
+Hjelpemiddel pa Del 1 | Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Hjelpemiddel pa Del 2 | Alle hjelpemiddel er tillatne, med unntak av internett og andre
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 7 oppgaver. Del 2 har 7 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+
+ 
+
+utteljing.
+Bruk av digitale verktgy som grafteiknar og rekneark skal
+dokumenterast.
+Rettleiing om Poeng i Del 1 og Del 2 er berre rettleiande i vurderinga.
+vurderinga Karakteren blir fastsett etter ei samla vurdering. Det betyr at
+
+sensor vurderer i kva grad du
+
+— viser rekneferdigheiter og matematisk forstaing
+
+— gjennomf¢rer logiske resonnement
+
+— ser samanhengar i faget, er oppfinnsam og kan ta i bruk
+fagkunnskap i nye situasjonar
+
+— kan bruke formalstenlege hjelpemiddel
+
+— forklarer framgangsmatar og grunngir svar
+
+— skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+— vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar Kjelder for bilete, teikningar osv.
+e Kaffi: https://www. friele.no/kaffekalkulator/ (02.03.2020)
+
+e Barn: https://pixabay.com/no/vectors/barn-svart-gutt-silhouette-jente-303544/ (22.02.2020)
+
+e Langrenn: https://www.langrenn.com (22.02.2020)
+
+e Intraveng@st drypp: https://sml.snl.no/infusjon (01.03.2020)
+e Oljekanne: https://www.esska-no.com (02.03.2020)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1011 Side 2 av 24
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Erik onsker a ta fgrarkort for moped. Den grafiske framstillinga nedanfor viser
+samanhengen mellom antalet kgyretimar han treng, og prisen han totalt ma betale
+for fgrarkortet.
+
+ry Totalpris (kroner)
+9000
+8000
+7000
+6000
+5000
+4000
+3000
+2000
+
+1000
+
+ 
+
+Antall' k@yretimar x
+
+XS
+F
+
+ 
+
+0 1 2 3 4 5 6 7 8
+
+Kor mykje ma Erik betale for kvar kgyretime?
+
+Oppgave 2 (2 poeng)
+
+| ein klasse er forholdet mellom antal jenter og antal gutar 5:7. Det er 24 elevar i
+klassen.
+
+Kor mange jenter er det i klassen?
+
+ 
+
+Eksamen MAT1011 Side 3 av 24
+Oppgave 3 (3 poeng)
+
+ 
+
+@) Hvilken kaffe vil du lage?
+
+~ Ue
+
+  
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Ya Th.
+
+ 
+
+ 
+
+ 
+
+ 
+
+FILTERKAFFE
+
+@ Hvor mye vil du ha?
+{LD 8 koprer i 1 LITER
+Qe )= 6)
+
+®) Sa mye kaffe trenger du:
+
+- a a > — ~ a
+MALESKJE SPISESKJE TESKJE
+STROKEN TOPPET TOPPET
+
+ 
+
+Se fremgangsmate
+
+ 
+
+ 
+
+ 
+
+Ovanfor ser du eit bilete av ein kaffikalkulator fra Friele. Kalkulatoren bereknar kor
+mykje kaffi du treng for a lage filterkaffi. Pa biletet viser kalkulatoren kor mykje kaffi
+du treng for a lage 1 L filterkaffi.
+
+a) Kor mange desiliter filterkaffi vil det bli i kvar kopp?
+
+b) Kor mange strokne maleskeier kaffi vil denne kaffekalkulatoren berekne til 1,5 L
+filterkaffi?
+
+ 
+
+Eksamen MAT1011 Side 4 av 24
+Oppgave 4 (4 poeng)
+
+Ein figur er sett saman av eit kvadrat ABCD med sidelengde 2S og ein trekant CED
+der CE=DE og ZECF=45°. Sja skissa nedanfor.
+
+‘a 45°
+
+ 
+
+ 
+
+ 
+
+ 
+
+2S
+
+a) Vis at arealet av heile figuren er 5s°.
+
+Marie skal teikne figuren slik at arealet av trekanten CED blir 36 cm’.
+
+b) Kor lang ma sidelengda i kvadratet vere?
+
+ 
+
+Eksamen MAT1011 Side 5 av 24
+Oppgave 5 (4 poeng)
+
+ 
+
+Charlotte og Gunnar er med i ei gruppe pa ti elevar som skal arrangere ei
+skoleturnering i volleyball. Fra denne gruppa skal to elevar trekkast ut tilfeldig.
+Dei to skal lage kampoppsettet.
+
+a) Bestem sannsynet for at verken Charlotte eller Gunnar blir trekt ut.
+
+b) Bestem sannsynet for at det blir Charlotte og Gunnar som skal lage
+kampoppsettet.
+
+Oppgave 6 (5 poeng)
+
+ 
+
+c
+A D B
+
+Eit omrade har form som vist pa figuren ovanfor. AB=10 mog AC=6 m.
+a) Rekn ut lengda BC.
+b) Forklar at trekanten ABC er formlik med trekanten BCD.
+
+c) Rekn ut hggda CD.
+
+ 
+
+Eksamen MAT1011 Side 6 av 24
+Oppgave 7 (4 poeng)
+
+Andel som er i yrkesaktiv alder, men ikke i stand til a arbeide pga ufgrhet'
+Ufgre er personer som selv oppfatter seg som hovedsakelig arbeidsufgre og som ikke
+har inntekt fra arbeid.
+
+ 
+
+s TF% Q+15
+prosentpoeng  avhele befolkningen prosentpoeng heyere
+
+lavere
+
+ 
+    
+
+ 
+
+ 
+
+ 
+
+| Par under 45 ar uten barn
+Par 45 ar og over uten barn
+Par med barn 0-19 ar
+__Enslige med barn 0-19 ar
+
+I
+
+ 
+
+Menn QO
+Kvinner CO
+ALDER 0
+16-24 ar
+
+| 25-44 ar
+
+! 45-66 ar
+
+UTDANNING
+
+Grunnskole G*
+
+Videregaende
+
+| __Hoyere utdanning
+
+i HUSHOLDNINGSTYPE eR
+
+| Aleneboende under 45 ar (Or)
+
+22 Aleneboende 45 ar og over
+
+|
+
+|
+
+I
+
+I
+
+|
+
+|
+
+L
+
+!
+
+2 4 6 8 10 12 14 16 18 20 22 24
+
+0
+Andel i prosent
+Personer 16-66 ar
+a Statistisk sentralbyra Kilde: Levekarsunders@kelsen EU-SILC, 2015
+Cd Statistics Norway Ikoner: Flaticon.com
+
+Ovanfor ser du eit diagram som viser andel personar i yrkesaktiv alder som ikkje er i
+stand til a arbeide pa grunn av uf¢rleik.
+
+a) Kor stor andel menn i yrkesaktiv alder er ikkje i stand til a arbeide pa grunn av
+uf @rleik?
+
+b) Kor mange prosentpoeng forskjell er det mellom personar med berre
+grunnskoleutdanning og personar med h@gare utdanning i yrkesaktiv alder som
+ikkje i stand til a arbeide pa grunn av uf@rleik?
+
+Ga ut fra at det er like mange menn og kvinner i yrkesaktiv alder.
+
+c) Kor mange prosent fleire kvinner enn menn i yrkesaktiv alder er ikkje i stand til a
+arbeide pa grunn av uf¢@rleik?
+
+ 
+
+Eksamen MAT1011 Side 7 av 24
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+ 
+
+Ole har deltatt i eit skirenn. Funksjonen P gitt ved
+P(x)=0,001x°-0,09x7+2,4x+74 , xe[0,50]
+
+viser pulsen hans som prosent av makspuls x minutt etter starten pa skirennet.
+
+a) Teikn grafen til P.
+b) Kor mange minutt var pulsen til Ole hogare enn 92 % av makspuls?
+
+c) Bestem stigingstalet til den rette linja som gar gjennom punkta (5,P(5)) og
+(20,P(20)). Gi ei praktisk tolking av dette stigingstalet.
+
+ 
+
+Eksamen MAT1011 Side 8 av 24
+Oppgave 2 (5 poeng)
+
+=
+
+Intraveng@st drypp blir brukt for a gi pasientar vaesker og flytande medisinar.
+
+For a rekne ut drypphastigheita H i dropar per minutt for intravengse drypp blir denne
+formelen brukt:
+
+d-v
+
+60-t
+
+H= , der
+
+ 
+
+e d er dropefaktoren malt i dropar per milliliter
+e vVervolumeti milliliter av den intravengse veska
+e t erantal timar det vil ta a tilfore den intravengse veeska
+
+Ein pasient skal ha intravengst drypp i 2 timar. Volumet av den intravengse veeska er
+240 mL. Dropefaktoren er 20 dropar per milliliter.
+
+a) Rekn ut drypphastigheita H.
+
+b) Kva skjer med H dersom t blir dobla og d og v ikkje blir endra?
+
+Ein annan pasient skal ha intraveng@st drypp i 3 timar med ei drypphastigheit pa
+50 dropar per minutt. Dropefaktoren er 25 dropar per milliliter.
+
+c) Bestem volumet av den intravengse veeska denne pasienten skal ha.
+
+ 
+
+Eksamen MAT1011 Side 9 av 24
+Oppgave 3 (7 poeng)
+
+Sara arbeider som eigedomsmeklar. Ho har ein Ignnsavtale med eit fast grunnbelgp
+pa 12 000 kroner per manad. | tillegg til grunnbel@pet far ho 0,5 % av salssummen ho
+oppnar nar ho sel ein eigedom.
+
+| september arbeidde Sara 186 timar og selde eigedommar for 5 300 000 kroner.
+
+a) Kva blei Saras brutto timelgnn i september?
+
+Sara har eit pensjonstrekk pa 2 % av brutto manadsl@nn og eit skattetrekk pa 36 %.
+
+b) Bestem trekkgrunnlaget og Saras nettolonn i september.
+
+| oktober oppnadde Sara ei brutto timelg@nn pa 282 kroner. Denne manaden arbeidde
+ho 180 timar.
+
+c) Kva var salssummen Sara oppnadde for eigedommane ho selde denne manaden?
+
+Oppgave 4 (4 poeng)
+
+Tabellen nedanfor viser konsumprisindeksen (KPI) for 1950 og 2019.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ar KPI
+1950 5,3
+2019 110,8
+
+ 
+
+ 
+
+a) Kor mange prosent auka konsumprisindeksen fra 1950 til 2019?
+
+b) Ein liter mj@lk kosta 0,45 kroner | 1950. Kva ville ein liter mj@lk ha kosta i 2019
+dersom prisen hadde felgt konsumprisindeksen?
+
+ 
+
+Eksamen MAT1011 Side 10 av 24
+Oppgave 5 (3 poeng)
+
+| ein klasse er det 20 elevar.
+
+e 14 av elevane er med i idrettslaget.
+e 7 avelevane er med i korpset.
+e 2 avelevane er verken med i idrettslaget eller i korpset.
+
+Leeraren skal trekke ut éin elev tilfeldig fra klassen.
+
+Bestem sannsynet for at eleven er med i idrettslaget, men ikkje i korpset.
+
+Oppgave 6 (4 poeng)
+
+43 mm 43 mm
+
+ 
+
+76mm 76mm
+
+Behaldaren til ei oljekanne har tilnzerma form som ein sylinder med ei halvkule pa
+toppen. Sylinderen har diameter 76 mm og hggde 43 mm.
+
+a) Omtrent kor stort volum har behaldaren? Gi svaret i milliliter.
+
+b) Omtrent kor stort overflateareal har behaldaren? Gi svaret i kvadratcentimeter.
+
+ 
+
+Eksamen MAT1011 Side 11 av 24
+Oppgave 7 (7 poeng)
+
+Ei salsavdeling i eit firma kj@per fisk og sel han vidare.
+Prisen dei kjg@per fisken for, kallar vi kostpris, og prisen dei sel han for, kallar vi
+salspris.
+
+Salsavdelinga far provisjon av differansen mellom kostpris og salspris.
+Provisjonen er avhengig av kor stor differansen mellom kostpris og salspris er.
+Sja tabellen nedanfor.
+
+Salspris er mellom 0 % og 10 % h@gare | Lav 5 % av differansen mellom
+enn kostpris kostpris og salspris
+
+ 
+
+Salspris er 10 % eller meir enn 10 % Hoy 8 % av differansen mellom
+hggare enn kostpris kostpris og salspris
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Salsavdelinga fekk selt eit parti pa 1000 kg fisk for 80 kroner per kilo. Kostprisen var
+65 kroner per kilogram.
+
+a) Vis at provisjonen for dette salet blei 1200 kroner.
+
+b) Lag eit rekneark som vist nedanfor som firmaet kan bruke for a registrere
+provisjon til salsavdelinga. | dei grone cellene skal du legge inn formlar.
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B G D E | G H
+1 Provisjon
+2 Lag sats 5%
+3 Hgg sats 8%
+4
+| “ude | togram | peridogram | perkilogram | ikroner’ | iprocent’ | S28 | Proviefon
+
+ 
+
+Sorfisk 2000 kr 80,60 | kr 88,10
+
+ 
+
+Nordfisk 500 kr 97,90|kr 115,70
+
+ 
+
+Austfisk 3400 kr 89,00 | kr 95,50
+
+ 
+
+Vestfisk 1000 kr 65,00 | kr 80,00
+
+ 
+
+Havfisk 1200 kr 105,00}kr 115,50
+
+ 
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+11
+
+For a motivere salsavdelinga til a oppna hggast mogleg salspris blir satsane for
+provisjon endra. Lag sats blir sett til 4 % og hag sats til 10 %.
+
+c) Bruk reknearket du laga i oppgave b), til a bestemme samla provisjon med dei nye
+satsane.
+
+ 
+
+Eksamen MAT1011 Side 12 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+Del 1 skal leveres inn etter 2 timer.
+Del 2 skal leveres inn senest etter 5 timer.
+
+ 
+
+Hjelpemidler pa Del 1 | Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Hjelpemidler pa Del 2. | Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 7 oppgaver. Del 2 har 7 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe uttelling.
+
+Bruk av digitale verktgy som graftegner og regneark skal
+
+ 
+
+dokumenteres.
+Veiledning om Poeng i Del 1 og Del 2 er bare veiledende i vurderingen.
+vurderingen Karakteren blir fastsatt etter en samlet vurdering. Det betyr at
+
+sensor vurderer i hvilken grad du
+
+— viser regneferdigheter og matematisk forstaelse
+
+— gjennomf¢rer logiske resonnementer
+
+— ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+— kan bruke hensiktsmessige hjelpemidler
+
+— forklarer framgangsmater og begrunner svar
+
+—  skriver oversiktlig og er néyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+— vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+Kaffe: https://www.friele.no/kaffekalkulator/ (02.03.2020)
+
+Barn: https://pixabay.com/no/vectors/barn-svart-gutt-silhouette-jente-303544/ (22.02.2020)
+Langrenn: https://www.langrenn.com (22.02.2020)
+Intraveng@st drypp: https://sml.snl.no/infusjon (01.03.2020)
+Oljekanne: https://www.esska-no.com (02.03.2020)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1011 Side 13 av 24
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Erik onsker a ta fgrerkort for moped. Den grafiske framstillingen nedenfor viser
+sammenhengen mellom antallet kjgretimer han trenger, og prisen han totalt ma
+betale for forerkortet.
+
+ry Totalpris (kroner)
+9000
+8000
+7000
+6000
+5000
+4000
+3000
+2000
+
+1000
+
+ 
+
+Antall'kjgretimer x
+
+ 
+
+Vv
+
+0 1 2 3 4 5 6 7 8
+
+Hvor mye ma Erik betale for hver kjgretime?
+
+Oppgave 2 (2 poeng)
+
+| en klasse er forholdet mellom antall jenter og antall gutter 5:7. Det er 24 elever i
+klassen.
+
+Hvor mange jenter er det i klassen?
+
+ 
+
+Eksamen MAT1011 Side 14 av 24
+Oppgave 3 (3 poeng)
+
+ 
+
+@) Hvilken kaffe vil du lage?
+
+~ Ue
+
+  
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Ya Th.
+
+ 
+
+ 
+
+ 
+
+ 
+
+FILTERKAFFE
+
+@ Hvor mye vil du ha?
+{LD 8 koprer i 1 LITER
+Qe )= 6)
+
+®) Sa mye kaffe trenger du:
+
+- a a > — ~ a
+MALESKJE SPISESKJE TESKJE
+STROKEN TOPPET TOPPET
+
+ 
+
+Se fremgangsmate
+
+ 
+
+ 
+
+ 
+
+Ovenfor ser du et bilde av en kaffekalkulator fra Friele. Kalkulatoren beregner hvor
+mye kaffe du trenger for a lage filterkaffe. Pa bildet viser kalkulatoren hvor mye kaffe
+du trenger for a lage 1 L filterkaffe.
+
+a) Hvor mange desiliter filterkaffe vil det bli i hver kopp?
+
+b) Hvor mange str@kne maleskjeer kaffe vil denne kaffekalkulatoren beregne til 1,5 L
+filterkaffe?
+
+ 
+
+Eksamen MAT1011 Side 15 av 24
+Oppgave 4 (4 poeng)
+
+En figur er satt sammen av et kvadrat ABCD med sidelengde 2S og en trekant CED
+der CE=DE og ZECF = 45°. Se skissen nedenfor.
+
+‘a 45°
+
+ 
+
+ 
+
+ 
+
+ 
+
+2S
+
+a) Vis at arealet av hele figuren er 5s?.
+
+Marie skal tegne figuren slik at arealet av trekanten CED blir 36 cm’.
+
+b) Hvor lang ma sidelengden i kvadratet veere?
+
+ 
+
+Eksamen MAT1011 Side 16 av 24
+Oppgave 5 (4 poeng)
+
+ 
+
+Charlotte og Gunnar er medi en gruppe pa ti elever som skal arrangere en
+skoleturnering i volleyball. Fra denne gruppen skal to elever trekkes ut tilfeldig.
+De to skal lage kampoppsettet.
+
+a) Bestem sannsynligheten for at verken Charlotte eller Gunnar blir trukket ut.
+
+b) Bestem sannsynligheten for at det blir Charlotte og Gunnar som skal lage
+kampoppsettet.
+
+Oppgave 6 (5 poeng)
+
+ 
+
+c
+A D B
+
+Et omrade har form som vist pa figuren ovenfor. AB=10 mog AC=6 m.
+a) Regn ut lengden BC.
+b) Forklar at trekanten ABC er formlik med trekanten BCD.
+
+c) Regn ut hayden cD.
+
+ 
+
+Eksamen MAT1011 Side 17 av 24
+Oppgave 7 (4 poeng)
+
+Andel som er i yrkesaktiv alder, men ikke i stand til a arbeide pga ufgrhet'
+Ufgre er personer som selv oppfatter seg som hovedsakelig arbeidsufgre og som ikke
+har inntekt fra arbeid.
+
+ 
+
+s TF% Q+15
+prosentpoeng  avhele befolkningen prosentpoeng heyere
+
+lavere
+
+ 
+    
+
+ 
+
+ 
+
+ 
+
+| Par under 45 ar uten barn
+Par 45 ar og over uten barn
+Par med barn 0-19 ar
+__Enslige med barn 0-19 ar
+
+I
+
+ 
+
+Menn QO
+Kvinner CO
+ALDER 0
+16-24 ar
+
+| 25-44 ar
+
+| 45-66 ar
+
+I
+
+UTDANNING
+
+Grunnskole G*
+
+Videregaende
+
+| Hayere utdanning
+
+t |
+
+| HUSHOLDNINGSTYPE OW
+
+Aleneboende under 45 4r_—_—{) 0")
+
+22 Aleneboende 45 ar og over
+
+I
+
+|
+
+I
+
+I
+
+I
+
+|
+
+|
+
+2 4 6 8 10 12 14 16 18 20 22 24
+
+0
+Andel i prosent
+Personer 16-66 ar
+a Statistisk sentralbyra Kilde: Levekarsunders@kelsen EU-SILC, 2015
+Cd Statistics Norway Ikoner: Flaticon.com
+
+Ovenfor ser du et diagram som viser andel personer i yrkesaktiv alder som ikke er i
+stand til a arbeide pa grunn av uf@rhet.
+
+a) Hvor stor andel menn i yrkesaktiv alder er ikke i stand til a arbeide pa grunn av
+ufgrhet?
+
+b) Hvor mange prosentpoeng forskjell er det mellom personer med kun
+grunnskoleutdanning og personer med h@yere utdanning i yrkesaktiv alder som
+ikke i stand til a arbeide pa grunn av uf@rhet?
+
+Anta at det er like mange menn og kvinner i yrkesaktiv alder.
+
+c) Hvor mange prosent flere kvinner enn menn i yrkesaktiv alder er ikke i stand til a
+arbeide pa grunn av ufgrhet?
+
+ 
+
+Eksamen MAT1011 Side 18 av 24
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+ 
+
+Ole har deltatt i et skirenn. Funksjonen P gitt ved
+P(x)=0,001x°-0,09x7+2,4x+74 , xe[0,50]
+
+viser pulsen hans som prosent av makspuls x minutter etter starten pa skirennet.
+
+a) Tegn grafentil P.
+b) Hvor mange minutter var pulsen til Ole hoyere enn 92 % av makspuls?
+
+c) Bestem stigningstallet til den rette linjen som gar gjennom punktene (5,P(5)) og
+(20,P(20)). Gi en praktisk tolkning av dette stigningstallet.
+
+ 
+
+Eksamen MAT1011 Side 19 av 24
+Oppgave 2 (5 poeng)
+
+=
+
+Intravengst drypp brukes for a gi pasienter veesker og flytende medisiner.
+
+For a regne ut drypphastigheten H i draper per minutt for intravengse drypp brukes
+formelen
+
+ 
+
+e d erdrapefaktoren malt i draper per milliliter
+e Vv ervolumeti milliliter av den intravengse veesken
+e t erantall timer det vil ta a tilfore den intravendse veesken
+
+En pasient skal ha intravengst drypp | 2 timer. Volumet av den intravengse veesken
+er 240 mL. Drapefaktoren er 20 draper per milliliter.
+
+a) Regn ut drypphastigheten H.
+b) Hva skjer med H dersom t dobles og d og v ikke endres?
+
+En annen pasient skal ha intraveng@st drypp i 3 timer med en drypphastighet pa
+50 draper per minutt. Drapefaktoren er 25 draper per milliliter.
+
+c) Bestem volumet av den intravengse vaesken denne pasienten skal ha.
+
+ 
+
+Eksamen MAT1011 Side 20 av 24
+Oppgave 3 (7 poeng)
+
+Sara arbeider som eiendomsmegler. Hun har en Ignnsavtale med et fast grunnbelgp
+pa 12 000 kroner per maned. | tillegg til grunnbelgpet far hun 0,5 % av salgssummen
+hun oppnar nar hun selger en eiendom.
+
+| september arbeidet Sara 186 timer og solgte eiendommer for 5 300 000 kroner.
+
+a) Hva ble Saras brutto timelonn i september?
+
+Sara har et pensjonstrekk pa 2 % av brutto manedsl@nn og et skattetrekk pa 36 %.
+
+b) Bestem trekkgrunnlaget og Saras nettolonn i september.
+
+| oktober oppnadde Sara en brutto timelonn pa 282 kroner. Denne maneden arbeidet
+hun 180 timer.
+
+c) Hvilken salgssum oppnadde Sara for eiendommene hun solgte denne maneden?
+
+Oppgave 4 (4 poeng)
+
+Tabellen nedenfor viser konsumprisindeksen (KPI) for 1950 og 2019.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ar KPI
+1950 5,3
+2019 110,8
+
+ 
+
+ 
+
+a) Hvor mange prosent @kte konsumprisindeksen fra 1950 til 2019?
+
+b) En liter melk kostet 0,45 kroner | 1950. Hva ville en liter melk ha kostet i 2019
+dersom prisen hadde fulgt konsumprisindeksen?
+
+ 
+
+Eksamen MAT1011 Side 21 av 24
+Oppgave 5 (3 poeng)
+
+| en klasse er det 20 elever.
+
+e 14 av elevene er med i idrettslaget.
+e 7 avelevene er med i korpset.
+e 2 avelevene er verken med i idrettslaget eller i korpset.
+
+Leereren skal trekke ut én elev tilfeldig fra klassen.
+
+Bestem sannsynligheten for at eleven er med i idrettslaget, men ikke i korpset.
+
+Oppgave 6 (4 poeng)
+
+43mm 43 mm
+
+ 
+
+76mm 76mm
+
+Beholderen til en oljekanne har tilnaermet form som en sylinder med en halvkule pa
+toppen. Sylinderen har diameter 76 mm og h@yde 43 mm.
+
+a) Omtrent hvor stort volum har beholderen? Gi svaret i milliliter.
+
+b) Omtrent hvor stort overflateareal har beholderen? Gi svaret i kvadratcentimeter.
+
+ 
+
+Eksamen MAT1011 Side 22 av 24
+Oppgave 7 (7 poeng)
+
+En salgsavdeling i et firma kj@per fisk og selger den videre.
+Prisen de kj@per fisken for, kaller vi kostpris, og prisen de selger den for, kaller vi
+salgspris.
+
+Salgsavdelingen far provisjon av differansen mellom kostpris og salgspris.
+Provisjonen er avhengig av hvor stor differansen mellom kostpris og salgspris er.
+Se tabellen nedenfor.
+
+ 
+
+Salgspris er mellom 0 % og 10 % Lav 5 % av differansen mellom
+hgyere enn kostpris kostpris og salgspris
+Salgspris er 10 % eller mer enn 10 % Hoy 8 % av differansen mellom
+hgyere enn kostpris kostpris og salgspris
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Salgsavdelingen fikk solgt et parti pa 1000 kg fisk for 80 kroner per kilo. Kostprisen
+var 65 kroner per kilogram.
+
+a) Vis at provisjonen for dette salget ble 1200 kroner.
+
+b) Lag et regneark som vist nedenfor som firmaet kan bruke for a registrere
+provisjon til salgsavdelingen. | de gr@nne cellene skal du legge inn formler.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B C D E F G H
+1 Provisjon
+> Lav sats 5%
+3 Hgy sats 8%
+4
+| kinae | mal | famere | cages, | Omsange | Omtrenee | sate | Provo
+Sorfisk 2000 kr 80,60 | kr 88,10
+
+ 
+
+Nordfisk 500 kr 97,90|kr 115,70
+
+ 
+
+Ostfisk 3400 kr 89,00 | kr 95,50
+
+ 
+
+Vestfisk 1000 kr 65,00 | kr 80,00
+
+ 
+
+10 Havfisk 1200 kr 105,00 | kr 115,50
+
+ 
+
+ 
+
+ 
+
+ 
+
+11
+
+ 
+
+For a motivere salgsavdelingen til a oppna hgyest mulig salgspris endres satsene for
+provisjon. Lav sats settes til 4 % og h@y sats til 10 %.
+
+c) Bruk regnearket du laget i oppgave b), til a bestemme samlet provisjon med de
+nye satsene.
+
+ 
+
+Eksamen MAT1011 Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

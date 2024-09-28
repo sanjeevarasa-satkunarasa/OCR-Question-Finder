@@ -1,0 +1,348 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (4 poeng)
+
+| en klasse er det 20 elever. Nedenfor ser du hvor mange dager hver av elevene var borte
+fra skolen i lopet av et skolear.
+
+O03 27 20 0 14 4 3 28 103 2110 0 32
+
+a) Bestem gjennomsnitt, median og typetall for elevenes fraveer dette skolearet.
+
+b) | Dersom du skulle presentere et sentralmal for klassens fraveer dette skolearet, ville
+du da brukt gjennomsnitt eller median? Forklar hvorfor.
+
+Oppgave 2 (1 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+3,2-10° -4,0-10~°
+
+Oppgave 3 (3 poeng)
+
+Skriv sa enkelt som mulig
+
+ 
+
+2\- 4
+a) (2°)°.4
+2 3\2 4-1
+b 3) (2) -3
+) 2 6
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 12 av 20
+
+mate@matikk.net
+Oppgave 4 (2 poeng)
+
+Per satte inn 200 O00 kroner i banken 1. januar 2008. Renten har veert 4,65 % per ar.
+
+Sett opp et uttrykk som viser hvor mye penger Per har fatt i rente i lopet av de fem arene
+fra 1. januar 2008 til 1. januar 2013.
+
+Oppgave 5 (6 poeng)
+
+lfelge en undersgkelse kan et 20 maneder gammelt barn i gjennomsnitt 300 ord.
+Et 50 maneder gammelt barn kan i gjennomsnitt 2100 ord.
+
+a) Framstill opplysningene ovenfor som punkter i et koordinatsystem med maneder
+som enhet langs x - aksen og ord som enhet langs y- aksen.
+Trekk en rett linje gjennom punktene.
+
+Linjen i oppgave a) kan brukes som modell for sammenhengen mellom et barns alder og
+hvor mange ord barnet kan.
+
+b)  Bruk linjen tila ansla hvor mange ord et 35 maneder gammelt barn i gjennomsnitt
+kan.
+
+c) Bestem et matematisk uttrykk for modellen. Kommenter modellens
+
+ 
+
+ 
+
+ 
+
+ 
+
+gyidighetsomrade.
+Oppgave 6 (2 poeng)
+Lommepenger (kroner) | Antall elever
+| 0, 300) 30
+| 300, 600) 15
+| GOO, 900) 5
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor viser hvor mye lommepenger elevene ved en skole far en maned.
+
+Hvor mye far elevene ved skolen i giennomsnitt i lommepenger denne maneden?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 13 av 20
+
+mate@matikk.net
+Oppgave 7 (2 poeng)
+
+Beskriv en praktisk situasjon der funksjonen f gitt ved f(x) =300000-0,9* kan brukes
+som modell.
+
+Oppgave 8 (4 poeng)
+
+a) Skriv tallene 11, 22 og 44 i totallsystemet.
+
+b) | Formuler en regel for hvordan vi dobler et tall i totallsystemet.
+
+Tallene 121, og 120010, er skrevet i tretallsystemet.
+
+C) —_Hvilket tall i tretallsystemet er tre ganger sa stort som tallet 121, ?
+Hvilket tall i tretallsystemet er en tredjedel av tallet 120010, ?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 14 av 20
+
+mate@matikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+ 
+
+ 
+
+Ovenfor ser du hvor mange utenlandske spillere som spilte i den norske eliteserien hvert
+ar i perioden 2000-2012.
+
+Bestem gjennomsnitt og standardavvik for dette datamaterialet.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 15 av 20
+
+mat@ematikk.net
+Oppgave 2 (2 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Antall elever
+Gar A
+Sykler {
+Kjgrer privat bil 3
+Tar buss 10
+Tar tog 6
+
+ 
+
+ 
+
+ 
+
+ 
+
+| tabellen ovenfor ser du hvordan elevene i en klasse kommer seg til og fra skolen.
+
+Bruk et sektordiagram til a presentere datamaterialet fra tabellen.
+
+Oppgave 3 (4 poeng)
+
+| et atomkraftverk omdannes radioaktive atomkjerner. | omdanningen forsvinner noe av
+massen fra atomkjernene, og energi blir frigitt.
+
+Nar massen m_ kilogram forsvinner fra atomkjernene, er den frigitte energien, E Joule
+(J), gitt ved
+
+Konstanten c har verdien 3,0-10°®
+
+a) Hvor mye energi blir frigitt nar en masse pa 0,010 kg forsvinner fra atomkjernene?
+
+En norsk husholdning har et arlig energiforbruk pa 9,0-10°° J
+
+b) |Hvor mye masse ma forsvinne for a gi nok energi til en norsk husholdning i et ar?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 16 av 20
+
+mate@matikk.net
+Oppgave 4 (10 poeng)
+
+ 
+
+ 
+
+Arstall 1985 1990 1995 2000 2005 2010
+Prosent
+
+mannlige 42 3/ 34 31 25 19
+r@ykere
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor viser hvor mange prosent av norske menn i alderen 16-74 ar som re@ykte
+hver dag noen ar i perioden 1985-2010.
+
+Sett x =0 11985, x =5 i 1990 og sa videre, og bruk opplysningene i tabellen til a
+bestemme
+
+a) 1) en linezer modell som viser hvordan andelen mannlige raykere har endret seg
+2) en eksponentiell modell som viser hvordan andelen mannlige raykere har endret
+seg
+b) Hvor mange prosent av norske menn i alderen 16-74 ar vil vaere raykere i 2020
+
+if@lge hver av de to modellene i oppgave a)?
+
+c) Nar vil andelen mannlige raykere bli lavere enn 5 % ifglge hver av de to modellene i
+Oppgave a)?
+
+d) Kommenter modellenes gyldighetsomrade.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 17 av 20
+
+mate@matikk.net
+Oppgave 5 (6 poeng)
+
+Runar observerer en bakteriekultur i to dggn. Nar han begynner observasjonene, er det
+1000 bakterier i bakteriekulturen. Det viser seg at antall bakterier dobles hver sjette time.
+Etter 6 h er det 2000 bakterier i bakteriekulturen, etter 12 h er det 4000 bakterier |
+bakteriekulturen, osv.
+
+a) Hvor mange bakterier vil det veere i bakteriekulturen etter 24 h?
+
+b) Sett opp en modell som viser hvordan antall bakterier endrer seg i Igpet av de to
+dggnene.
+
+c) Hvor mange prosent @ker antall bakterier med per time?
+
+d) Hvor mange bakterier vil det veere i bakteriekulturen etter 40 h?
+Etter hvor mange timer vil det veere 50 OOO bakterier i bakteriekulturen?
+
+Oppgave 6 (6 poeng)
+| en undersg@kelse ble 30 elever spurt om hvor lang tid de bruker pa a komme seg til og fra
+skolen hver dag. Elevene oppga tiden i minutter. Resultatet av undersg@kelsen er vist
+nedenfor.
+
+28 56 12 16 34 78 64 18 10 21
+
+32 26 54 62 64 70 50 44 70 86
+
+16 20 38 14 80 24 20 32 14 10
+
+a) Lag et klassedelt materiale av tallene ovenfor. La den fgrste klassen starte i 10, og
+la alle klassene ha klassebredde 10.
+
+b) Ta utgangspunkt i det klassedelte materialet i a), og bestem gjennomsnittet.
+
+c)  Bruk det klassedelte materialet til a avgjore hvor stor andel av elevene som trenger
+mindre enn 60 min pa a komme seg til og fra skolen.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 18 av 20
+
+mate@matikk.net
+Oppgave 7 (6 poeng)
+
+ 
+
+Ved opptak til Politihggskolen rangeres s@kerne etter poeng.
+Reglene for poengberegningen er:
+
+Gjennomsnittet av karakterene fra videregaende skole multipliseres med 10.
+Fullfort forstegangstjeneste gir 2 poeng.
+
+Det gis ekstrapoeng for realfag/sprakfag, maksimalt 4 poeng.
+
+Det gis ogsa alderspoeng, 2 poeng for hvert ar etter fylte 20 ar, maksimalt 8 poeng.
+
+Poengene til sokeren er Summen av poengene fra de fire punktene ovenfor.
+
+ 
+
+ 
+
+ 
+
+Mathias er 22 ar. Han har fullfort forstegangstjenesten.
+
+Nedenfor ser du karakterene til Mathias fra videregaende skole.
+
+222333333 4444444444555 5 5 6
+
+Mathias far 1,5 ekstrapoeng for realfag/sprakfag.
+
+Mathias s@ker Politinggskolen.
+
+a) Hvor mange poeng har han ifglge reglene ovenfor?
+
+Mathias kom ikke inn pa Politihggskolen i Oslo. Der var poenggrensen 47,7
+
+For a vere sikker pa a komme inn neste ar vil Mathias prove a forbedre karakterene i
+noen fag, slik at han til sammen far 50,7 poeng neste ar.
+
+b) Hva ma gjennomsnittet av karakterene til Mathias veere neste ar for at han til
+
+sammen skal ha 50,/ poeng?
+
+Mathias regner med at han skal klare a ga opp én karakter i de fagene han velger a ta
+opp igjen.
+
+c) Hvor mange fag ma han da ta opp igjen for a klare 50,7 poeng?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2013 Side 19 av 20
+
+matematikk.net

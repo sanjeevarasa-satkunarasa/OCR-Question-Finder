@@ -1,0 +1,282 @@
+ 
+
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+Oppgave 1 (18 poeng)
+
+a)
+
+Regn ut
+
+1) 84+2-3-—3°-(10-—12)°
+
+ 
+
+Regn ut og skriv svaret pa standardform
+
+5,5-10° -6,0-10°
+
+Las likningssystemet
+
+xXx+2y=16
+3x-—y=6
+
+Las likningen grafisk
+
+ox-3=6-1x
+A
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2012
+
+mate@matikk.net
+
+Side 12 av 20
+
+ 
+e)  Lg@s ulikheten
+
+—x*—x+12>0
+
+f) | Faktoriser og forkort
+
+—x*—x+12
+x*—9
+
+ 
+
+g) | Klasse 1A er det 20 elever. 15 av elevene spiller fotball, og 10 spiller handball.
+En elev spiller verken fotball eller handball.
+
+Fra klassen velger vi tilfeldig én av elevene som spiller fotball.
+
+Bestem sannsynligheten for at denne eleven i tillegg spiller handball.
+
+h) Siri, Karen og Marit er til sammen 26 ar. Marit er tre ganger sa gammel som Siri var for
+fire ar siden. Karen er halvparten sa gammel som Marit.
+
+Sett opp en likning som du kan bruke for a finne ut hvor gamle Siri, Karen og Marit er.
+Las likningen. Hvor gamle er hver av de tre jentene?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2012 Side 13 av 20
+
+mate@matikk.net
+ 
+
+5 45
+
+ 
+
+1) Vis at BC=3J2
+
+2) Vis at cos 45° = 2
+
+Oppgave 2 (6 poeng)
+
+Funksjonen f er gitt ved
+
+f(x) =x* -2x+a
+
+a) Hva ma verdien av a vere for at grafen til f skal skjaere y- akseni y=2?
+b) Hva ma verdien av a veere for at grafen skal ha et nullpunkt for x =3?
+Cc) Hva ma verdien av a veere for at y- verdien i bunnpunktet til grafen skal vaere —5?
+
+d) For hvilke verdier av a har grafen minst ett nullpunkt?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2012 Side 14 av 20
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 3 (10 poeng)
+
+D 24m
+
+16m ‘. 16 m
+
+ 
+
+ 
+
+ 
+
+24m
+
+a) Vis ved regning at BD=30m
+
+b) Bestem ABD og ZBCD ved regning.
+
+C) Bestem arealet av LIABCD ved regning.
+
+dq) Forklar at ZABC #90°
+
+ 
+
+Eksamen MAT1LO13 Matematikk LT Varen 2012 Side 15 av 20
+
+mat@matikk.net
+Oppgave 4 (8 poeng)
+
+ 
+
+Kilde: http://minipigs.dk/ (21.08.2011)
+
+Funksjonen f gitt ved
+f(x) =—0,05x* + 2,60x +0,50
+viser Sammenhengen mellom alder og vekt for en type griser.
+
+Her er f(x) vekten til en gris malt i kilogram nar grisen er x maneder gammel.
+
+a) Tegn grafen til f for x <[0,25].
+Hvor mye veier en gris ved fodselen?
+
+b) Hvaer alderen til en gris nar vekten passerer 20 kg?
+Hvor mye @ker vekten i gijennomsnitt per maned fram til da?
+
+c) Hvor fort ker vekten til en gris nar grisen er n@yaktig 12 maneder gammel?
+
+En gris skal slaktes nar vekten @ker med mindre enn 0,5 kg per maned.
+
+d) Hvor gammel er en gris nar den skal slaktes?
+
+ 
+
+Eksamen MAT1LO13 Matematikk LT Varen 2012 Side 16 av 20
+
+mat@matikk.net
+  
+
+ 
+
+Karen har 2 brune, 2 rade, 2 bla, 2 hvite og 2 rosa sokker i en skuff.
+En dag tar hun tilfeldig to sokker fra skuffen.
+
+ 
+
+Oppgave 5 (6 poeng)
+© ~ é
+
+Kilde: https://nostebarn.no/wp/produkt/Ull-okologiske-
+Barneklaer-Babyklaer-Ulltoy/Ullsokker-barn/ (28.12.2010)
+
+a) Bestem sannsynligheten for at hun tar to rosa sokker.
+b) Bestem sannsynligheten for at hun tar 6n rosa sokk og én sokk i en annen farge.
+
+c) Bestem sannsynligheten for at hun tar to sokker med samme farge.
+
+Oppgave 6 (4 poeng)
+
+Undersgkelser har vist at 40 % av Norges befolkning over 15 ar spiser matpakke til lunsj.
+Vi velger tilfeldig 50 personer over 15 ar.
+
+a) Bestem sannsynligheten for at akkurat 20 av disse personene spiser matpakke
+til lunsj.
+
+b) Bestem sannsynligheten for at flere enn 15 av disse personene spiser matpakke
+til lunsj.
+
+ 
+
+Eksamen MAT1LO13 Matematikk LT Varen 2012 Side 17 av 20
+
+mat@matikk.net
+Oppgave 7 (4 poeng)
+
+ 
+
+12m
+C
+B D
+T] ” L
+\
+ran
+4 \
+/ \
+, \
+s \
+4 \
+¢ 1
+y \
+/ \
+10 m , .
+yl 1 12m
+
+4 \
+4 \
+\
+
+4 \
+
+4 \
+, ‘
+4
+4
+4
+4
+4
+4
+y
+
+ 
+
+ 
+
+Figuren ovenfor viser et omrade ABDE .. AB=10m, BD=12m, og DE =12m.
+C er et vilkarlig punkt pa BD.
+a)
+
+Sett BC=x og finn avstanden AC+CE uttrykt med x.
+b)
+
+Bestem x slik at avstanden AC+CE blir kortest mulig.
+
+Eksamen MAT1013 Matematikk 1T Varen 2012
+
+mat@matikk.net
+
+Side 18 av 20
+Oppgave 8 (4 poeng)
+
+ 
+
+ 
+
+ 
+
+ee EE
+
+ 
+
+ 
+
+ 
+
+2
+. . . . . a Dx+c
+Ovenfor har vi tegnet grafen til den rasjonale funksjonen f gitt ved f(x)= ——— .
+X—
+Linja x =1 er en vertikal asymptote for grafen til fF.
+Forklar at d=1.
+Bruk grafen tila bestemme a, 0 og c.
+Eksamen MAT1013 Matematikk 1T Varen 2012 Side 19 av 20
+
+mat@ematikk.net

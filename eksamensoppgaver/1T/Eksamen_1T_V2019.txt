@@ -1,0 +1,1006 @@
+S Utdanningsdirektoratet
+
+Eksamen 24.05.2019
+
+ 
+
+MATL0O013 Matematikk LT
+
+Nynorsk/ Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid: 5 timar:
+Del 1 skal leverast inn etter 3 timar.
+Del 2 skal leverast inn seinast etter 5 timar.
+
+ 
+
+Hjelpemiddel pa Del 1: Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Hjelpemiddel pa Del 2: | Alle hjelpemiddel er tillatne, med unntak av Internett og andre
+verktgy som tillét kommunikasjon.
+
+ 
+
+Framgangsmate: Del 1 har 14 oppgaver. Del 2 har 4 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+loysingsmetode, kan ein alternativ metode gi lag/noko utteljing.
+
+Bruk av digitale verktay som grafteiknar og rekneark skal
+dokumenterast med utskrift eller gjennom ein IKT-basert
+
+ 
+
+eksamen.
+Rettleiing om Poeng i Del 1 og Del 2 er berre rettleiande i vurderinga.
+vurderinga: Karakteren blir fastsett etter ei samla vurdering. Det betyr at
+
+sensor vurderer i kva grad du
+— viser rekneferdigheiter og matematisk forstaing
+— gjennomferer logiske resonnement
+
+— ser samanhengar | faget, er oppfinnsam og kan ta i bruk
+fagkunnskap | nye situasjonar
+
+— kan bruke formalstenlege hjelpemiddel
+— forklarer framgangsmatar og grunngir svar
+
+— Skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+— vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar: Kjelder for bilete, teikningar osv.
+
+Tog: https://www.dagsavisen.no (15.11.2018)
+Lindesnes: https://www.visitnorway.no (06.01.2019)
+Nordkapp: http://www. visitnordkapp.net (06.01.2019)
+Steikeform: matindustrien.no (19.08.2018)
+
+Sortere: sortere.no (19.08.2018)
+
+Aluminiumsformer: culina.no (19.08.2018)
+
+e Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 2 av 28
+ 
+
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Rekn ut og skriv svaret pa standardform
+
+4,5-10*7
+900
+
+Oppgave 2 (2 poeng)
+
+Lays ulikskapen
+
+~x* —2x+3>0
+
+Oppgave 3 (2 poeng)
+Trekk saman og skriv sa enkelt som mogleg
+
+x? 3 1
+5 + +
+x°--4 x-2 x+2
+
+ 
+
+Oppgave 4 (2 poeng)
+Rekn ut
+
+1 2
+
+A?.2%.973.64 3
+
+ 
+
+Eksamen
+
+MAT1013 Matematikk 1T Varen 2019
+
+Side 3 av 28
+Oppgave 5 (2 poeng)
+
+ 
+
+Bestem tanv.
+
+Oppgave 6 (2 poeng)
+
+Rekn ut
+
+iIg100+1g1 +lg-/10 +1g0,001
+
+Oppgave 7 (2 poeng)
+Lays likninga
+
+Ig(10* 10") =6
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 4 av 28
+Oppgave 8 (3 poeng)
+
+Om ein funksjon f far du vite at
+e = f(x)=kx?4+12x+9
+
+e f(x) er eit fullstendig kvadrat
+
+a) Bestem k.
+
+b) Bestem nullpunktet til f.
+
+Oppgave 9 (3 poeng)
+
+ 
+
+Sannsynet for at toget fra by A til by B er i rute ein tilfeldig mandag, er 80 %. Sannsynet
+for at toget er i rute ein tilfeldig fredag, er 90 %.
+
+Ei veke skal Marit ta toget pa mandag og pa fredag.
+a) Bestem sannsynet for at toget er i rute begge desse dagane.
+
+b) Bestem sannsynet for at toget er i rute ngyaktig éin av desse dagane.
+
+ 
+
+Eksamen
+
+MAT1013 Matematikk 1T Varen 2019 Side 5 av 28
+Oppgave 10 (5 poeng)
+
+| Noreg maler vi temperatur i grader celsius (°C ). | USA blir temperatur malt i grader
+fahrenheit (°F ). | tabellen nedanfor ser du samanhengen mellom grader celsius og
+grader fahrenheit.
+
+ 
+
+Grader celsius (°C ) —50 —30 0 10
+
+ 
+
+Grader fahrenheit (°F ) —58 —22 32 50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Teikn eit koordinatsystem med grader celsius langs x - aksen og grader fahrenheit
+langs y -aksen. Marker verdiane fra tabellen som punkt i koordinatsystemet, og teikn
+ei rett linje som gar gjennom punkta.
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+°C °F
+
+Tenk deg at du har ein gradestokk som viser grader celsius, og ein gradestokk som viser
+grader fahrenheit.
+
+b) Kor kaldt ma det vere ute for at dei to gradestokkane skal vise same verdi?
+
+c) Bestem ein formel som viser Samanhengen mellom grader celsius og grader
+fahrenheit.
+
+d) Bruk formelen du fann i oppgave c), til a vise at 100 °C er det same som 212 °F.
+
+ 
+
+Eksamen
+
+MAT1013 Matematikk 1T Varen 2019 Side 6 av 28
+Oppgave 11 (4 poeng)
+
+a) Vis at
+
+1) 48 =4/3
+2) J75 =5V3
+
+1
+b) Vis eller forklar at cos 60° =5
+
+Gitt trekanten ABC nedanfor.
+
+c) Bestem ein eksakt verdi for lengda av sida BC.
+
+60°
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 7 av 28
+Oppgave 12 (2 poeng)
+
+ 
+
+Arealet av trekanten ovanfor er 12.
+
+v3
+
+Bruk dette til a vise at sin120° =
+
+Oppgave 13 (2 poeng)
+
+Den bla figuren nedanfor er teikna pa eit rutenett. Rutene er kvadratiske med sider a.
+
+Bestem omkretsen av figuren uttrykt ved a.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 8 av 28
+Oppgave 14 (4 poeng)
+Du far vite dette om fire funksjonar p,q, r Og Ss:
+e =p'(0)=0 og p(-1)<0
+e q(1)=-2 og q'(2)=-2
+e Den gjennomsnittlege vekstfarten til r i intervallet [-2, 0] er 3.
+
+e Tangentane til grafen til s i punkta (-2, s(-2)) og (2, s(2)) har likningane
+y=-8x-16 og y=-8x+16.
+
+Nedanfor ser du seks grafar. Kva for graf er grafen til po? Kva for graf er grafen til g? Kva
+for graf er grafen til r? Kva for graf er grafen til s? Hugs a grunngi svara dine.
+
+on
+a
+o
+
+wo
+wo
+w
+
+nN
+NR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+y ly
+5 5
+4
+3
+. D . E F
+1 1
+x x x >
+1 2 3 4 3 2 1 0 1 2 3 4 3 2 1 2 3 4
+1 1
+2 2
+3 3
+4 -4
+5 -5 5
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 9 av 28
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (8 poeng)
+
+ 
+
+Funksjonane L og N er gitt ved
+
+L(x) = -0,0025x° + 0,089x? -0,67x+6,12 , xe/0, 24]
+N(x) = -0,00016x° +0,01x7-0,31x+1,15 , xe[0, 24]
+
+Funksjonane viser temperaturane L(x) grader celsius ved Lindesnes og N(x) grader
+celcius ved Nordkapp x timar etter midnatt eit dggn | januar 2019.
+
+a) Bruk grafteiknar til a teikne grafane til L og N.
+
+b) Bestem den momentane vekstfarten til kvar av funksjonane nar x=8.
+Gi ei praktisk tolking av desse svara.
+
+c) Bestem temperaturforskjellen mellom Lindesnes og Nordkapp klokka 12.00.
+
+d) Nar var temperaturforskjellen mellom Lindesnes og Nordkapp sterst dette dggnet?
+Kor stor var forskjellen da?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 10 av 28
+ 
+
+Oppgave 2 (4 poeng) ii. St) dle -mle
+
+ 
+
+Aluminium er eit ressurskrevjande metall a
+framstille, og det kan gjenvinnast i det uendelege.
+Dette gjer at aluminium er blant dei ravarene som
+gir storst miljoeffekt nar dei blir kjeldesorterte.
+
+Ate:
+. oo . . ‘ ma uh iil 53
+1000 personar deltek i ei sogrjeundersgking. Qe a cay
+
+3 Léa
+25 % av desse personane er under 30 ar. »
+
+Undersgkinga viser at 44 % av personane som er 30 ar
+eller eldre, kjieldesorterer aluminiumsformer, medan berre
+14 % av dei som er under 30 ar, gjer dette.
+
+ 
+
+a) Lag ein krysstabell som illustrerer opplysningane som er gitt ovanfor.
+
+Vi trekkjer tilfeldig ein person som deltok | undersgkinga.
+
+b) Bestem sannsynet for at personen kjeldesorterer aluminiumsformer.
+
+Du far vite at personen vi trekte i oppgave b), kjeldesorterer aluminiumsformer.
+
+c) Bestem sannsynet for at personen er under 30 ar.
+
+ 
+
+Eksamen
+
+MAT1013 Matematikk 1T Varen 2019 Side 11 av 28
+Oppgave 3 (6 poeng)
+
+Ein funksjon f er gitt ved f(x)=ax+b , a>O
+
+Nedanfor ser du ei skisse av grafen til f. Herer AD=1.
+
+ 
+
+ 
+
+a) Forklarat CD=a.
+
+Grafen til funksjonen g er ei rett linje som gar gjennom punktet A og star vinkelrett pa
+grafen til f . Sja skissa nedanfor.
+
+ 
+
+ 
+
+b) Forklarat AADC og ABDA er formlike.
+(Tips: Forklar at begge trekantane er formlike med AABC .)
+
+. . ye. 1
+c) Bruk resultatet fra oppgave b) til a vise at BD = 2"
+
+d) Vis at pastanden nedanfor er riktig.
+
+Pastand
+
+Dersom grafane til to lineaere funksjonar star normalt pa kvarandre, vil produktet av
+stigingstala vere lik —1 .
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 12 av 28
+Oppgave 4 (6 poeng)
+
+Funksjonen f er gitt ved
+
+f(x) = x(x? —8)
+
+Skissa nedanfor viser grafen til f.
+
+>
+OD
+x
+
+ 
+
+A og B ernullpunkttil f, og Cer toppunkt pa grafen til f .
+a) Bruk CAS til a bestemme eksakte verdiar for koordinatane til A,B og C.
+
+b) Bruk CAS til a bestemme eksakt verdi for arealet av AABC.
+
+x ty
+
+ 
+
+w
+
+ 
+
+ 
+
+Punktet D er skjeringspunktet mellom tangenten til grafen til f | punktet B og den
+vertikale linja giennom punktet A.
+
+c) Bruk CAS til a bestemme eksakt verdi for forholdet mellom arealet av AABD og
+arealet av AABC .
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 13 av 28
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid: 5 timer:
+Del 1 skal leveres inn etter 3 timer.
+Del 2 skal leveres inn senest etter 5 timer.
+
+ 
+
+Hjelpemidler pa Del 1: Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Hjelpemidler pa Del 2: | Alle hjelpemidier er tillatt, med unntak av Internett og andre
+verktey som tillater kommunikasjon.
+
+ 
+
+Framgangsmate: Del 1 har 14 oppgaver. Del 2 har 4 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+Igsningsmetode, kan en alternativ metode gi lav/noe uttelling.
+
+Bruk av digitale verktoy som graftegner og regneark skal
+dokumenteres med utskrift eller giennom en IKT-basert
+
+ 
+
+eksamen.
+Veiledning om Poeng i Del 1 og Del 2 er bare veiledende i vurderingen.
+vurderingen: Karakteren blir fastsatt etter en samlet vurdering. Det betyr at
+
+sensor vurderer i hvilken grad du
+— viser regneferdigheter og matematisk forstaelse
+— gjennomfegrer logiske resonnementer
+
+— sersammenhenger i faget, er oppfinnsom og kan ta | bruk
+fagkunnskap | nye situasjoner
+
+— kan bruke hensiktsmessige hjelpemidler
+— forklarer framgangsmater og begrunner svar
+
+— Skriver oversiktlig og er ngyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+— vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger: Kilder for bilder, tegninger osv.
+
+Tog: https://www.dagsavisen.no (15.11.2018)
+Lindesnes: https://www.visitnorway.no (06.01.2019)
+Nordkapp: http://www. visitnordkapp.net (06.01.2019)
+Stekeform: matindustrien.no (19.08.2018)
+
+Sortere: sortere.no (19.08.2018)
+
+Aluminiumsformer: culina.no (19.08.2018)
+
+e Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 14 av 28
+ 
+
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+45-10
+900
+
+Oppgave 2 (2 poeng)
+
+Les ulikheten
+
+~x*-2x+3>0
+
+Oppgave 3 (2 poeng)
+Trekk sammen og skriv sa enkelt som mulig
+
+x? 3 1
+5 + +
+x°-4 x-2 x4+2
+
+ 
+
+Oppgave 4 (2 poeng)
+
+Regn ut
+
+4
+
+4?.2°.273.64
+
+_2
+3
+
+ 
+
+Eksamen
+
+MAT1013 Matematikk 1T Varen 2019
+
+Side 15 av 28
+Oppgave 5 (2 poeng)
+
+ 
+
+Bestem tanv.
+
+Oppgave 6 (2 poeng)
+
+Regn ut
+
+Ig100 +1g1+1g-V10 +1g0,001
+
+Oppgave 7 (2 poeng)
+
+Las likningen
+
+Ig (10° -10**) = 6
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 16 av 28
+Oppgave 8 (3 poeng)
+
+Om en funksjon f far du vite at
+© f(x)=kx*4+12x+9
+
+e f(x) er et fullstendig kvadrat
+
+a) Bestem k.
+
+b) Bestem nullpunktet til f.
+
+Oppgave 9 (3 poeng)
+
+ 
+
+Sannsynligheten for at toget fra by A til by B eri rute en tilfeldig mandag, er 80 %.
+Sannsynligheten for at toget er i rute en tilfeldig fredag, er 90 %.
+
+En uke skal Marit ta toget pa mandag og pa fredag.
+a) Bestem sannsynligheten for at toget er i rute begge disse dagene.
+
+b) Bestem sannsynligheten for at toget er i rute ngyaktig én av disse dagene.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 17 av 28
+Oppgave 10 (5 poeng)
+
+| Norge maler vi temperatur i grader celsius (°C ). | USA males temperatur i grader
+fahrenheit (°F ). | tabellen nedenfor ser du sammenhengen mellom grader celsius og
+grader fahrenheit.
+
+ 
+
+Grader celsius (°C ) —50 —30 0 10
+
+ 
+
+Grader fahrenheit (°F ) —58 —22 32 50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Tegn et koordinatsystem med grader celsius langs x - aksen og grader fahrenheit
+langs y - aksen. Marker verdiene fra tabellen som punkter i koordinatsystemet, og
+tegn en rett linje som gar giennom punktene.
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+°C °F
+
+Tenk deg at du har en gradestokk som viser grader celsius, og en gradestokk som viser
+grader fahrenheit.
+
+b) Hvor kaldt ma det veere ute for at de to gradestokkene skal vise samme verdi?
+
+c) Bestem en formel som viser Sammenhengen mellom grader celsius og grader
+fahrenheit.
+
+d) Bruk formelen du fant i oppgave c), til a vise at 100 °C er detsamme som 212 °F.
+
+ 
+
+Eksamen
+
+MAT1013 Matematikk 1T Varen 2019 Side 18 av 28
+Oppgave 11 (4 poeng)
+
+a) Vis at
+
+1) Jag =4V3
+2) /75 =5V3
+
+1
+b) Vis eller forklar at cos 60° =5
+
+Gitt trekanten ABC nedenfor.
+
+c) Bestem en eksakt verdi for lengden av siden BC.
+
+60°
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 19 av 28
+Oppgave 12 (2 poeng)
+
+23 120°
+
+ 
+
+Arealet av trekanten ovenfor er 12.
+
+v3
+
+Bruk dette til a vise at sin120° =
+
+Oppgave 13 (2 poeng)
+
+Den bla figuren nedenfor er tegnet pa et rutenett. Rutene er kvadratiske med sider a.
+
+Bestem omkretsen av figuren uttrykt ved a.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 20 av 28
+Oppgave 14 (4 poeng)
+Du far vite folgende om fire funksjoner p,q, r Og Ss:
+e p(0)=0 og p(-1)<0
+e qi(1)=-2 0g q'(2)=-2
+e Den gjennomsnittlige vekstfarten til r i intervallet [-2,0] er 3.
+
+e Tangentene til grafen til s i punktene (-2, s(-2)) og (2, s(2)) har likningene
+y=-8x-16 og y=-8x+16.
+
+Nedenfor ser du seks grafer. Hvilken graf er grafen til po? Hvilken graf er grafen til q?
+Hvilken graf er grafen til ? Hvilken graf er grafen til s? Husk a begrunne svarene dine.
+
+uo
+
+>
+
+wo
+
+on
+
+bh
+
+oe
+
+nN
+nN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 21 av 28
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (8 poeng)
+
+ 
+
+Funksjonene L og N er gitt ved
+
+L(x) = -0,0025x° + 0,089x? -0,67x+6,12 , xe[0,24|
+N(x) = —0,00016x° + 0,01x?-0,34x+1,15 , xe[0, 24]
+
+Funksjonene viser temperaturene L(x) grader celsius ved Lindesnes og N(x) grader
+celcius ved Nordkapp x timer etter midnatt et dggn | januar 2019.
+
+a) Bruk graftegner til a tegne grafene til L og N.
+
+b) Bestem den momentane vekstfarten til hver av funksjonene nar x=8.
+Gi en praktisk tolkning av disse svarene.
+
+c) Bestem temperaturforskjellen mellom Lindesnes og Nordkapp klokka 12.00.
+
+d) Nar var temperaturforskjellen mellom Lindesnes og Nordkapp sterst dette dggnet?
+Hvor stor var forskjellen da?
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 22 av 28
+Oppgave 2 (4 poeng) , Ti] ad)
+
+ 
+
+Aluminium er et ressurskrevende metall a framstille,
+og det kan gjenvinnes i det uendelige.
+
+Dette gjar at aluminium er blant de ravarene som
+gir storst miljoeffekt nar de kildesorteres.
+
+ 
+
+Se
+| Aa SNS
+1000 personer deltar i en spgrreundersokelse. WE
+AY iia Sa 2
+
+WA
+
+25 % av disse personene er under 30 ar.
+
+Undersekelsen viser at 44 % av personene som er 30 ar
+eller eldre, kildesorterer aluminiumsformer, mens bare
+14 % av dem som er under 30 ar, gjor dette.
+
+ 
+
+a) Lag en krysstabell som illustrerer opplysningene som er gitt ovenfor.
+
+Vi trekker tilfeldig en person som deltok i undersg@kelsen.
+
+b) Bestem sannsynligheten for at personen kildesorterer aluminiumsformer.
+
+Du far vite at personen vi trakk i oppgave b), kildesorterer aluminiumsformer.
+
+c) Bestem sannsynligheten for at personen er under 30 ar.
+
+ 
+
+Eksamen
+
+MAT1013 Matematikk 1T Varen 2019 Side 23 av 28
+Oppgave 3 (6 poeng)
+
+En funksjon f er gitt ved f(x)=ax+b , a>O
+
+Nedenfor ser du en skisse av grafen til f .Herer AD=1.
+
+ 
+
+ 
+
+a) Forklarat CD=a.
+
+Grafen til funksjonen g er en rett linje som gar gijennom punktet A og star vinkelrett pa
+grafen til f . Se skissen nedenfor.
+
+ 
+
+ 
+
+b) Forklarat AADC og ABDA er formlike.
+(Tips: Forklar at begge trekantene er formlike med A ABC .)
+
+a 1
+c) Bruk resultatet fra oppgave b) til a vise at BD = a ,
+
+d) Vis at pastanden nedenfor er riktig.
+
+Pastand
+
+Dersom grafene til to lineeere funksjoner star normalt pa hverandre, vil produktet av
+stigningstallene veere lik —1.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 24 av 28
+Oppgave 4 (6 poeng)
+
+Funksjonen f er gitt ved
+f(x) = x(x* —8)
+
+Skissen nedenfor viser grafen til f.
+
+>
+OD
+x
+
+ 
+
+w
+
+ 
+
+A og B ernullpunkttil f og C ertoppunkt pa grafentil f .
+a) Bruk CAS til a bestemme eksakte verdier for koordinatene til A,B og C.
+
+b) Bruk CAS til a bestemme eksakt verdi for arealet av AABC.
+
+am fy
+
+ 
+
+vw
+
+ 
+
+ 
+
+Punktet D er skjeeringspunktet mellom tangenten til grafen til f i punktet B og den
+vertikale linjen giennom punktet A.
+
+c) Bruk CAS til a bestemme eksakt verdi for forholdet mellom arealet av AABD og
+arealet av AABC
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 25 av 28
+Blank side.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 26 av 28
+Blank side.
+
+ 
+
+Eksamen MAT1013 Matematikk 1T Varen 2019 Side 27 av 28
+ 
+
+Schweigaards gate 15
+Postboks 9359 Grg@nland
+0135 OSLO
+
+Telefon 23 30 12 00
+utdanningsdirektoratet.no
+
+eS Utdanningsdirektoratet

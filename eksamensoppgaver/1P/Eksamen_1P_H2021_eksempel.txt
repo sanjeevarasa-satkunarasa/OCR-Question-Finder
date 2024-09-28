@@ -1,0 +1,700 @@
+Utdannings-
+direktoratet
+
+ 
+
+Eksempelsett
+06.09.2021 MAT1019 Matematikk 1P
+
+     
+
+juapisyeq ed sdijsuawesya as
+jepisyeq ed sdijsuawesya els
+
+ 
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+Delen uten og delen med hjelpemidler skal deles ut samtidig.
+Delen uten hjelpemidler skal leveres etter 1 time.
+
+Etter 1 time kan kandidaten bruke hjelpemidler.
+
+Delen med hjelpemidler skal leveres innen 5 timer.
+
+ 
+
+Del uten hjelpemidler Pa delen uten hjelpemidler er ingen hjelpemidler tillatte, bortsett
+fra vanlige skrivesaker og linjal.
+
+ 
+
+Del med hjelpemidler Alle hjelpemidler er tillatt, med unntak av internett og andre verktgy
+som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Delen uten hjelpemidler har 5 oppgaver.
+Delen med hjelpemidler har 8 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+ldsningsmetode, kan en alternativ metode gi lav/noe uttelling.
+
+| den siste oppgaven vil du fa presentert en situasjon eller en
+problemstilling som du selv ma unders@ke og utforske. Du skal
+stille relevante matematiske sp@rsmal som gj@r at du far vist
+kompetansen din. Du skal besvarer sp@rsmalene dine ved a
+argumentere, resonnere, modellerer og generaliserer, og du skal
+vise lgsningsforslag hvor du vurderer gyldighet. Du skal gjgre
+kritiske vurderinger ut fra sp@rsmalene og beregningene dine, slik
+at du viser at du forstar og blir forstatt i matematikk. Vi anbefaler a
+bruke cirka 30 — 45 minutter pa denne oppgaven.
+
+Bruk av digitale verktgy som regneark, programmering, graftegner
+og CAS skal dokumenteres.
+
+ 
+
+Veiledning om Karakteren blir fastsatt etter en samlet vurdering. Det betyr at
+vurderingen sensor vurderer i hvilken grad du
+
+— viser kompetanse i kjerneelementene og matematisk
+forstaelse
+
+— gjennomforer logiske resonnementer
+
+— sersammenhenger i faget, er oppfinnsom og kan ta i bruk
+fagkunnskap i nye situasjoner
+
+— kan bruke hensiktsmessige hjelpemidler
+
+—  forklarer framgangsmater og begrunner svar
+
+—  skriver oversiktlig og er ngyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+— vurderer om svar er rimelige
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksempelsett MAT1019 Side 2 av 14
+ 
+
+Andre opplysninger
+
+ 
+
+ 
+
+Kilder for bilder, tegninger osv.
+
+Seilbat: pixabay.com (17.08.21)
+Hageslange: europris.no (22.08.21)
+Appelsiner: pixabay.com (22.08.21)
+Kart: pixabay.com (17.08.21)
+
+Taxi: pixabay.com (05.09.21)
+
+Andre bilder, tegninger og grafiske framstillinger:
+
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+Eksempelsett MAT1019
+
+Side 3 av 14
+
+ 
+ 
+
+DEL 1
+
+ 
+
+Uten hjelpemidler
+
+ 
+
+ 
+
+Oppgave 1
+
+Et politisk parti hadde en oppslutning pa 5 % i mai. Fra mai til september okte
+
+oppslutningen med 2 prosentpoeng.
+
+Hvor mange prosent @kte oppslutningen med?
+
+Oppgave 2
+
+reer
+
+h i )
+
+| si a
+
+Pn
+
+Noen venner skal leie en seilbat. Prisen hver person ma betale, er omvendt
+proporsjonal med antall personer som blir med.
+
+ 
+
+ 
+
+Antall personer
+
+12
+
+ 
+
+Pris per person (kroner)
+
+ 
+
+ 
+
+600
+
+ 
+
+ 
+
+ 
+
+Hva blir prisen per person dersom 12 personer blir med?
+
+ 
+
+Eksempelsett MAT1019
+
+Side 4 av 14
+Oppgave 3
+
+Forklar hva som skjer nar programmet nedenfor kjgres.
+Hva forteller de to tallene som skrives ut i linje 10 og 11?
+
+Oppgave 4
+
+belgp = 10000
+verdi = belgp
+vekstfaktor = 1.03
+ar = 0
+
+while verdi < belgp * 2:
+verdi = verdi * vekstfaktor
+ar=ar+1
+
+print(verdi)
+print(ar)
+
+En figur bestar av en rettvinklet trekant ABC og tre kvadrater. Arealet av det storste
+
+kvadratet er lik summen av arealene av de to minste kvadratene.
+
+Arealet av det storste kvadratet er 100 dm? og AB = 0,8 m
+
+Hvor mange centimeter er AC?
+
+ 
+
+Eksempelsett MAT1019
+
+Side 5 av 14
+Oppgave 5
+
+ 
+
+Tabellen nedenfor viser sammenhengen mellom prisen for en vogn med hageslange
+
+og lengden av hageslangen.
+
+ 
+
+Lengden av hageslangen (meter)
+
+25
+
+50
+
+ 
+
+Prisen for vognen med hageslange (kroner)
+
+ 
+
+ 
+
+450
+
+ 
+
+650
+
+ 
+
+ 
+
+Denne sammenhengen kan beskrives ved hjelp av uttrykket y = ax +5, der x meter er
+
+lengden av hageslange, og y kroner er prisen for vognen med hageslange.
+
+a) Bestem verdien av tallene g og pb.
+
+b) Gi en praktisk tolkning av tallene a og b i denne oppgaven.
+
+ 
+
+Eksempelsett MAT1019
+
+Side 6 av 14
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1
+
+Amalie skal lage appelsinsyltetoy
+og vil folge oppskriften til hayre. APPELSINSYLTETOY
+Hun har et malebeger. Det viser 1k isi
+at 1 L sukker har masse 0,8 kg. g appersiner
+Amalie skal bruke 26 kg 1 sitron
+
+appelsiner.
+
+En pose sukker inneholder 1 kg. 1 grapefrukt
+
+ 
+
+5 dL sukker
+
+5 dL vann
+
+Hvor mange poser sukker ma hun minst kjg@pe?
+
+Oppgave 2
+
+Johan leser folgende tekst nedenfor pa en nettside.
+
+ 
+
+Temperaturen i en by i USA endret seg 5 °C i I@pet av et dggn.
+Dette tilsvarer en temperaturendring pa 41 °F.
+
+ 
+
+ 
+
+ 
+
+Formelen for omregning mellom celsiusgrader, C, og fahrenheitgrader, F, er
+
+F=20+32
+5
+
+Vurder pastanden om at en temperaturendring pa 5 °C tilsvarer en temperaturendring
+pa 41 °F.
+
+ 
+
+Eksempelsett MAT1019 Side 7 av 14
+Oppgave 3
+
+ 
+
+Adil er med i et orienteringsl@p. Postene som er satt ut gir, enten 2 poeng eller
+5 poeng. Han finner 13 poster og far til sammen 38 poeng.
+
+Hvor mange av de 13 postene gir 2 poeng?
+
+Oppgave 4
+
+Begrunn hvorfor x? > x? nar x <0
+
+ 
+
+Eksempelsett MAT1019 Side 8 av 14
+Oppgave 5
+
+En skal med blabeergelé ble satt til avkjgling i et rom der temperaturen var 20 °C.
+
+Tabellen viser temperaturen i blabeergeléen x minutter etter at den ble satt til
+avkjgling.
+
+ 
+
+Tid (minutter) 4 8 16 20 40 60 15 90
+Temperatur (°C) | 90,6 | 86,5 | 78,9 | 75,4 | 61,0 | 503 | 44,1 | 39,2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stine vil pr@ve a lage en modell som viser temperaturen i geléen x minutter etter at
+den ble satt til avkjgling. Hun setter opp en ny tabell.
+
+ 
+
+Tid (minutter) 4 8 16 20 40 60 79 90
+Temperatur-20 | 70,6 66,5 58,9 95,4 | 41,0 | 30,3 24,1 19,2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Lag en modell T pa formen T{x)=a-b* +20 som viser temperaturen i
+geléen x minutter etter at den ble satt til avkjgling.
+
+b) Hvilket gyldighetsomrade vil du si modellen kan ha?
+
+ 
+
+Eksempelsett MAT1019 Side 9 av 14
+Oppgave 6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+J F a 2
+a > =) +
+j a %
+2 3 s
+Figur 1 Figur 2 Figur 3
+
+De tre figurene er laget av fyrstikker.
+
+Figur 1 bestar av ett lite kvadrat, figur 2 bestar av fire sma kvadrater, og figur 3 bestar
+av ni sma kvadrater.
+
+Tenk deg at du har 10 000 fyrstikker.
+
+Du skal lage de tre figurene, og sa fortsette a lage figurer etter samme m@nster, én i
+hver stgrrelse.
+
+a) Hvor mange figurer kan du lage?
+
+b) Hvor mange fyrstikker vil du ha igjen nar du har laget den siste figuren?
+
+ 
+
+Eksempelsett MAT1019 Side 10 av 14
+Oppgave 7
+«Lunsj pa nett» er et firma som lager og leverer ferdige lunsjretter.
+Kundene kan velge mellom tre retter:
+
+e Dagens pasta koster 100 kroner.
+
+« Dagens suppe koster 80 kroner.
+
+e« Dagens bagett koster 110 kroner.
+
+«Lunsj pa nett» gir 10 % rabatt til kunder som bestiller flere enn fire lunsjretter.
+
+Levering koster 70 kroner for avstander som er kortere enn 8 km.
+For lengre avstander er prisen 150 kroner.
+
+Lag et regneark som vist nedenfor. «Lunsj pa nett» skal bruke regnearket for a
+registrere en bestilling.
+
+Nar bestillingen er registrert, skal regnearket beregne hvor mye kunden skal betale.
+
+| de hvite cellene skal «Lunsj pa nett» registrere opplysninger nar de tar imot en
+bestilling. | de gronne cellene skal du lage formler.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B C D E F
+1 Lunsj pa nett
+2 Rabatt ved kjgp av mer enn fire retter 10 %
+3 Kunde [ Levering ved kortere avstander enn 8 km kr 70,00
+4 Levering ved avstander som er 8 km eller lengre | kr 150,00
+5
+6 Lunsj
+7 Antall porsjoner Pris per porsjon Totalt
+8 Dagens pasta kr 100,00
+9 Dagens suppe kr 80,00
+10 Dagens bagett kr 110,00
+11
+12 Sum Ss ey
+13
+14
+15 Rabatt (kroner) ||
+16
+17 Levering
+18
+19 Antall km [ Pris for levering [  ]
+20
+
+N
+—
+
+Abetaletotat [|]
+
+NN
+WN
+
+ 
+
+Eksempelsett MAT1019 Side 11 av 14
+Oppgave 8
+
+ 
+
+ 
+
+To taxiselskaper, Taxi A og Taxi B, har ulike mater a beregne pris pa.
+
+Kvitteringer fra hvert av taxiselskapene gir opplysninger om hvordan prisen blir
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+beregnet.
+
+TAXIA
+Tur 1 Tur 2
+Startpris kr 75,0 | |Startpris kr 75,0
+Tid (minutter) 11 kr 77,0 | |Tid (minutter) 14 kr 98,0
+Avstand (kilometer) 10,0 kr 140,0 } |Avstand (kilometer) 16,0 kr 2240
+TOTALT kr 292,0 | | TOTALT kr 397,0
+TAXI B
+Tur 1 Tur 2
+Startpris kr 66,0 | |Startpris kr 66,0
+Tid (minutter) | Avstand (kilometer) Tid (minutter) | Avstand (kilometer)
+
+6 5,0 kr  120,0 18 20,0 kr 435,0
+TOTALT kr 186,0 | |TOTALT kr 501,0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vurder og sammenlikn matene de to taxiselskapene beregner prisen pa.
+
+ 
+
+Eksempelsett MAT1019 Side 12 av 14
+Takk for at du gjennomgikk eksempeloppgavene!
+
+Her kan du gi oss dine tilbakemeldinger (questback):
+
+https://response.questback.com/utdanningsdirektoratet/sysekspwsd
+
+ 
+
+ 
+
+Eksempelsett MAT1019 Side 13 av 14
+Utdannings-
+direktoratet
+
+ 
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fgre opp kjeldene i svaret ditt dersom du bruker kjelder.
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, fr du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no
+
+ 

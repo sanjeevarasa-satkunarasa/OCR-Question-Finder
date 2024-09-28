@@ -1,0 +1,253 @@
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+Oppgave 1 (22 poeng)
+
+a)  Bruk opplysningene nedenfor til a finne ut hva én fotball koster,
+ig
+
+og hva én hockeykglle koster.
+Nag.
+C9 ee
+~ > S
+wn!
+& e ~
+=< . & e
+7 om -
+500 kroner
+
+  
+   
+
+= : 1200 kroner
+4
+
+b) Regn ut og skriv svaret pa standardform
+
+6,2-107 -2,5-10°
+
+c) L@s likningen
+A(x —1)=5+3x -(x -1)
+
+d)  Lg@s likningen og skriv svaret som et desimaltall
+3lgx =-6
+e) Regn ut
+
+5-4*.(4-3).2°
+
+f) Skriv sa enkelt som mulig
+
+(x ty)* —Axy
+x-y
+
+ 
+
+g) Los likningen
+x*—5x +6=0
+
+Eksempeloppgave/Eksempeloppgave, MAT1013 Matematikk 1T
+
+mat@matikk.net
+
+side 11 av 17
+
+ 
+h) Du kaster to terninger.
+Hva er sannsynligheten for at du far akkurat 6n sekser?
+
+i) | Funksjonen f er gitt ved f(x)=x°? —5x* +6x
+
+Finn stigningstallet til tangenten til grafen til f i punktet (1,f (1)).
+
+J) — Gitt en funksjon g. Fortegnet til funksjonsuttrykket og den deriverte av funksjonen
+varierer som vist nedenfor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—3 2 + 7
+x | t t !
+BP t--F
+2(x) Po ? o
+
+ 
+
+Skisser i et koordinatsystem hvordan grafen til g kan se ut.
+
+k) Du far vite falgende om en trekant ABC:
+
+e Vinkel B er 90°.
+e Tangens til vinkelA er 1.
+
+Lag en figur og forklar hvordan denne trekanten kan se ut.
+
+Eksempeloppgave/Eksempeloppgave, MAT1013 Matematikk 1T Side 12 av 17
+
+matematikk.net
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 2 (10 poeng)
+
+Funksjonen f er gitt ved
+
+ 
+
+a) Tegn grafen til f. Bruk x <| -10,10].
+
+b) Finn definisjonsmengden og verdimengden til f.
+
+Grafen til en lineaer funksjon g gar gjennom punktene (—2,0) og (3,5).
+
+C) Finn funksjonsuttrykket g(x) og tegn grafen til g i det samme koordinatsystemet
+som grafen til f.
+
+Det finnes flere mater a ga fram pa for a finne Igsningene av likningen f (x) = g(x)
+
+d) Bruk to ulike metoder for a finne lgsningene.
+
+Eksempeloppgave/Eksempeloppgave, MAT1013 Matematikk 1T Side 13 av 17
+mat@matikk.net
+Oppgave 3 (8 poeng)
+
+ws
+
+Du skal veere med i et mosjonslg@p som arrangeres av bygdas lokale idrettslag. Pa figuren ser
+du Igypa, som felger omkretsen til firkanten ABCD. Noen av malene star pa figuren.
+
+   
+
+ 
+
+a) Vis at lengden av diagonalen AC er ca. 641 meter.
+b) Finn vinkel DCA.
+c) Finn vinkel B.
+
+d) Dustarteri A og l@per rundt Igypa til du igjen er ved A. Hvor langt har du lopt?
+
+Eksempeloppgave/Eksempeloppgave, MAT1013 Matematikk 1T Side 14 av 17
+
+mat@matikk.net
+
+ 
+Oppgave 4 (8 poeng)
+
+| klasse 1A er det 30 elever. 12 av disse elevene har valgt kjemi, og 21 har valgt matematikk
+neste skolear. 7 elever har valgt begge fagene.
+
+a) Illustrer dette med et venndiagram.
+Hvor mange elever har verken valgt matematikk eller kjemi’?
+
+Vi velger en tilfeldig elev i klassen.
+
+b) Hva er sannsynligheten for at eleven har valgt matematikk, men ikke kjemi?
+
+Vi velger na to tilfeldige elever i klassen.
+
+c) Hvaersannsynligheten for at begge har valgt matematikk?
+
+| klasse 1B er det 4 elever som har valgt matematikk neste skolear. Dersom vi velger to
+tilfeldige elever fra denne klassen, er sannsynligheten for at begge har valgt matematikk 0,05.
+
+d) Hvor mange elever er det i klasse 1B?
+
+Eksempeloppgave/Eksempeloppgave, MAT1013 Matematikk 1T Side 15 av 17
+mai@matikk.net
+Oppgave 5 (8 poeng)
+
+ 
+
+| denne oppgaven skal du velge enten alternativ | eller alternativ II.
+De to alternativene teller like mye ved sensuren.
+
+ 
+
+ 
+
+ 
+
+Alternativ |
+
+ 
+
+| denne oppgaven kan det veere en fordel a bruke dynamisk programvare.
+
+ 
+
+ 
+
+ 
+
+La funksjonen f veere gitt ved
+
+f (x) =x> —6x* +9x -1
+a) Tegn grafen til f. Finn koordinatene til toppunktet og bunnpunktet.
+b) Finn stigningstallet til linjen / gijennom toppunktet og bunnpunktet.
+
+La m vere gjennomsnittet av x-koordinatene til toppunktet og bunnpunktet.
+
+C) Finn stigningstallet til tangenten til grafen til f i punktet (m, f(m)).
+
+2
+Vis at forholdet mellom stigningstallene til linjene / og t er a
+
+d) Finn to andre tredjegradsfunksjoner som har bade toppunkt og bunnpunkt. Las oppgavene
+a), b) og c) for hver av disse funksjonene.
+
+Sett opp en hypotese om forholdet mellom stigningstallene til linjen | og tangenten t.
+
+Eksempeloppgave/Eksempeloppgave, MAT1013 Matematikk 1T Side 16 av 17
+mat@matikk.net
+Alternativ II
+
+Nedenfor har vi gitt fire oppgaver. Alle kan Igses ved hjelp av ulike metoder:
+
+e ved regning (lgsning trinn for trinn)
+e grafisk
+
+e veda benytte kommandoer pa lommeregneren eller PC-en din
+
+Du skal lose alle oppgavene bare én gang, men du ma benytte deg av minst to av de tre
+metodene som er nevnt ovenfor.
+
+a) Ls likningssystemet
+x? +y7 =25
+fy —-xX =25
+
+b)  Lg@s ulikheten
+
+6x* -11x+3>0
+
+C)  L@s likningen
+
+Ig(x 3) =34+1g2
+
+d) Finn en verdi av a slik at likningen
+
+a-x* +3x+1=x-2
+
+bare har én Igsning.
+
+Eksempeloppgave/Eksempeloppgave, MAT1013 Matematikk 1T Side 17 av 17
+mai@matikk.net

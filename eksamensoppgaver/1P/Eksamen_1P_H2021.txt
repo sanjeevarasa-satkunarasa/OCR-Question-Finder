@@ -1,0 +1,1075 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+16.11.2021
+
+ 
+
+Eksamen
+MAT1019 Matematikk 1P
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timar.
+
+Delen utan og delen med hjelpemiddel skal delast ut samtidig.
+Delen utan hjelpemiddel skal leverast etter 1 time.
+
+Etter 1 time kan kandidaten bruka hjelpemiddel.
+
+Delen med hjelpemiddel skal leverast innan 5 timar.
+
+ 
+
+Del utan hjelpemiddel | Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Del med hjelpemiddel | Alle hjelpemiddel er tillatne, med unntak av internett og andre
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate Delen utan hjelpemiddel har 5 oppgaver.
+Delen med hjelpemiddel har 8 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+utteljing.
+
+Bruk av digitale verktoy som rekneark, programmering,
+grafteiknar og CAS skal dokumenterast.
+
+ 
+
+Rettleiing om Poeng er berre rettleiande i vurderinga. Karakteren blir fastsett
+vurderinga etter ei samla vurdering. Det betyr at sensor vurderer i kva
+grad du
+
+e viser rekneferdigheiter og matematisk forstaing
+
+e gjennomfgrer logiske resonnement
+
+e ser samanhengar i faget, er oppfinnsam og kan ta i bruk
+fagkunnskap i nye situasjonar
+
+e kan bruke formalstenlege hjelpemiddel
+
+e forklarer framgangsmatar og grunngir svar
+
+e skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+e vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar Kjelder for bilete, teikningar osv.
+
+Sara: https://pixabay.com/no/ (03.10.2021)
+Varmtvasstank: www.billigvvs.no (12.09.2021)
+Leerdalstunellen: at.no (10.10.2021)
+
+Ski: www.visitoslo.com (10.05.2021)
+
+Egg: https://pixabay.com/no/ (03.10.2021)
+Dyrespor: https://pixabay.com/no/ (03.10.2021)
+Blabeer: https://pixabay.com/no/ (12.09.2021)
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019 Side 2 av 24
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+ 
+
+| ein klasse har 15 av elevane vore pa tur i haustferien. Sverre har rekna ut at det
+betyr at 60 % av elevane i klassen har vore pa tur.
+
+Kor mange elevar er det i klassen?
+
+Oppgave 2 (2 poeng)
+
+Sara har fatt oppgava nedanfor.
+
+ 
+
+For tre ar sidan kjgpte mormor ein bil. | dag er verdien av bilen 400 000 kroner.
+Verdien av bilen har gatt ned med 10 % kvart ar.
+
+Kva var verdien av bilen da mormor kj@pte han?
+
+ 
+
+ 
+
+ 
+
+Sara har tenkt slik:
+
+10 % av 400 000 kroner er 40 000 kroner.
+
+Verdien har avteke med 40 000 kroner kvart ar.
+
+Det blir til saman 120 000 kroner.
+
+Da mormor kj@pte bilen, var verdien 520 000 kroner.
+
+ 
+
+Forklar Sara kvifor dette ikkje er rett, og vis ho korleis ho kan setje opp eit
+reknestykke som vil gi rett svar.
+
+ 
+
+Eksamen MAT1019 Side 3 av 24
+Oppgave 3 (2 poeng)
+
+Morten har kj@pt ny varmtvasstank. Han fyller varmtvasstanken med kaldt vatn og
+koplar til straumen.
+
+Formelen
+T=9t+7
+kan brukast for a berekne temperaturen T gradar celsius (°C ) i vatnet, t timar etter
+
+straumen er kopla til.
+
+a) Kor lang tid vil det ga for temperaturen i vatnet er 52 °C?
+
+b) Gi ei praktisk tolking av tala 9 og 7 i formelen ovanfor.
+
+ 
+
+Eksamen MAT1019 Side 4 av 24
+Oppgave 4 (2 poeng)
+
+ 
+
+Ein tunell er 24 kilometer lang. Audun k@yrer gjennom halve tunnelen med ein
+gjennomsnittsfart pa 80 km/h. Pa grunn av vegarbeid ma han sa bremse ned, og
+kgyrer med ein gjennomsnittsfart pa 60 km/h gjennom resten av tunellen.
+
+Kor mange minutt bruker Audun pa a kgyre gjennom tunellen?
+
+Oppgave 5 (4 poeng)
+
+\!
+
+ 
+
+ 
+
+| koordinatsystemet ovanfor ser du grafane til to lineeere funksjonar f og g.
+a) Bestem f(x) og g(x).
+
+b) Bestem arealet av den gr@ne trekanten.
+
+ 
+
+Eksamen MAT1019 Side 5 av 24
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (4 poeng)
+
+ 
+
+Ein nettbutikk vil starte sal av ein ny type ski 1. november 2022.
+
+Anta at funksjonen S gitt ved
+S(x) =0,75x* —59,5x*+1200x , O<x<52
+
+kan brukast som en modell for kor mange par ski S(x) butikken vil kunne selje per
+veke x veker etter salsstart.
+
+a) Kor mange veker vil butikken kunne selje meir enn 5000 par ski, if@lgje modellen?
+
+b) Bestem stigningstalet til den rette linja som gar gjennom punkta (0, S(0)) og
+(12, S(12)). Gi ei praktisk tolking av svaret.
+
+ 
+
+Eksamen MAT1019 Side 6 av 24
+Oppgave 2 (4 poeng)
+
+Energiinnhaldet i matvarer blir vanlegvis oppgitt i kilojoule (kJ) eller
+kilokaloriar (kcal).
+
+Tabellen viser energiinnhaldet i nokre neeringsstoff.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Neeringsstoff seer ote wy) Mtokstora {kcal
+Feitt 37 9
+Protein 17 A
+Karbohydrat 17 A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tobias har lest at 100 g kokt egg inneheld
+10,2 g fett, 12,4 g protein og 0,3 g karbohydrat.
+
+Resten av egget er vitaminar og vatn, og
+
+inneheld ikkje energi.
+
+a) Kva er energiinnhaldet i 100 g kokt egg?
+Oppgi svaret i kcal.
+
+ 
+
+Tobias har funne ut at han har eit energibehov pa 3000 kcal per dag. Ein dag et han to
+egg. Egga veg til saman 125 g med skall. Den etelege delen av egg er 88 % av
+totalvekta til egget.
+
+b) Kor mange prosent av Tobias sitt energibehov utgjorde egga han at denne dagen?
+
+ 
+
+Eksamen MAT1019 Side 7 av 24
+Oppgave 3 (8 poeng)
+
+ 
+
+Ein dyrebestand bestar i dag av 500 dyr. Ein forskar antar at bestanden vil doble seg i
+Idpet av dei ti neste ara.
+
+a) Set opp ein modell L(x) som viser kor mange dyr det vil vere i bestanden
+om x ar, dersom vi antar at bestanden aukar linezert.
+
+b) Set opp ein modell E(x) som viser kor mange dyr det vil vere i bestanden
+om x ar, dersom vi antar at bestanden aukar eksponentielt.
+c) Teikn grafen til funksjonen F gitt ved
+F(x)=L(x)-E(x) , OSx<13
+d) Bestem toppunktet pa grafen til F og skjeringspunkta mellom grafen til F og kvar
+av dei rette linjene x=12 og y=12.
+
+Gi ei praktisk tolking av svara du far.
+
+ 
+
+Eksamen MAT1019 Side 8 av 24
+Oppgave 4 (4 poeng)
+Avgjer kva for ein pastand eller kva for pastandar nedanfor som er rett(e). Hugs a
+
+grunngi svara dine.
+
+Pastand1: Dersom utgiftene til ein klassefest skal delast likt mellom elevane som
+er med pa festen, vil belopet kvar elev ma betale alltid vere omvendt
+proporsjonalt med antal elevar.
+
+Pastand 2: To stgrrelsar er alltid proporsjonale dersom det er slik at nar den eine
+aukar, sa aukar den andre ogsa.
+
+Pastand 3: To stgrrelsar er alltid omvendt proporsjonale dersom den eine
+storrelsen doblar seg nar den andre blir halvert.
+
+Pastand 4: Arealet av ein sirkel er alltid proporsjonalt med omkrinsen av sirkelen.
+
+Oppgave 5 (2 poeng)
+
+ 
+
+Angelica har laga blabzersaft. Safta inneheld 10 % sukker. Angelica synest safta er
+sur og vil lage ei ny saftblanding med 50 % meir sukker.
+
+Kor mange prosent sukker vil den nye saftblandinga innehalde?
+
+ 
+
+Eksamen MAT1019 Side 9 av 24
+Oppgave 6 (6 poeng)
+
+ 
+
+Verdifallet utgjor bilens storste kostnad, szerlig
+det forste aret, enten bilen er kjopt ny eller brukt.
+
+Verdifallet utgjgr bilen st@rste kostnad. Verdifallet er i de aller fleste tilfellene storst det forste aret.
+For en nybil kan du forvente 20 prosent f@rste aret. Deretter om lag 14 prosent av bruktprisen fra det
+
+andre aret, synkende til 10 prosent det sjette aret. Og fra det sjette aret 10 prosent arlig.
+
+ 
+
+ 
+
+ 
+
+Teksten ovanfor er henta fra smartepenger.no
+
+Mathilde har kj@pt ny bil. Bilen kosta 390 000 kroner.
+
+Mathilde vil lage ei oversikt som viser verdifallet til bilen i prosent dei f@rste seks ara.
+Kvart ar vil ho samanlikne verdien pa bilen med verdien aret for. | tillegg vil ho kvart ar
+samanlikne verdien pa bilen med verdien da han var ny.
+
+Ho har brukt tala fra smartepenger.no og sett opp eit rekneark som vist nedanfor.
+
+A B G
+
+Verdifall i prosent
+
+Ar Samanlikna med verdien aret for Samanlikna med verdien som ny
+
+20 % 20 %
+14% 31 %
+
+13 %
+12 %
+11%
+10 %
+
+ON DU PWN
+Ojo} R/wsrm]—
+
+ 
+
+a) Vis korleis Mathilde kan ha kome fram til 31 % i celle C4.
+
+b) Lag reknearket og legg inn formlar for a rekne ut verdiar i de grone cellene.
+
+Mathilde vil ogsa ha ei oversikt som viser verdifallet i kroner for bilen ho kjgpte. Kvart
+ar skal oversikta vise verdifallet i kroner fra aret for. | tillegg skal den for kvart ar vise
+verdifallet i kroner fra da bilen var ny.
+
+c) Utvid reknearket fra oppgave b) slik at du ogsa far med ei slik oversikt.
+
+ 
+
+Eksamen MAT1019 Side 10 av 24
+Oppgave 7 (8 poeng)
+
+  
+
+Figur 1 Figur 2
+
+Marius og Maria arbeider i ein daglegvarebutikk. Dei skal stable boksar med erter.
+
+Marius stablar boksane som vist i figur 1. | figur 1 har han laga eit tarn med fire
+
+etasjar.
+
+a) Kor mange boksar treng Marius for a lage eit tarn med 20 etasjar dersom han
+stablar boksane pa denne maten?
+
+Marius har 400 boksar.
+
+b) Kor mange etasjar vil det vere i det storste tarnet han kan lage?
+
+Maria vil stable boksane som vist i figur 2. | figur 2 har ho laga eit tarn med tre
+
+etasjar.
+
+c) Kor mange boksar treng Maria for a lage eit tarn med 20 etasjar dersom ho
+stablar boksane pa denne maten?
+
+Maria har 4000 boksar.
+
+d) Kor mange etasjar vil det vere i det storste tarnet ho kan lage?
+
+ 
+
+Eksamen MAT1019 Side 11 av 24
+Oppgave 8 (12 poeng)
+
+ 
+
+ 
+
+11 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21 22 | 23 | 24 | 25 30
+
+ 
+
+ 
+
+31 | 32 | 33 | 34 | 35 40
+
+ 
+
+ 
+
+ 
+
+41 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50
+
+ 
+
+oy 92 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60
+
+ 
+
+61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70
+
+ 
+
+71 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80
+
+ 
+
+81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90
+
+ 
+
+91 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| tabellen ovanfor har vi fargelagt to kvadrat.
+
+a) Bestem differansen mellom talet nedst til venstre og talet avst til hagre, og
+differansen mellom talet nedst til hagre og talet avst til venstre. Bestem sa
+produktet av dei to differansane.
+
+Du skal altsa rekne ut (11—2)-(12—1) for det bla kvadratet og (37 —28)-(38-27)
+for det gréne kvadratet.
+
+b) Gjer tilsvarande berekningar som i oppgave a) for fleire kvadrat med same
+storrelse som i oppgave a). Forklar kva du oppdagar, og argumenter for at dette er
+rett.
+
+c) Gjer tilsvarande berekningar som i oppgave a) for kvadrat med ulike stgrrelsar.
+Lag ei oversikt der du presenterer resultata pa ein systematisk mate. Forklar kva
+du oppdagar, og argumenter for at dette er rett.
+
+ 
+
+Eksamen MAT1019 Side 12 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+
+Delen uten og delen med hjelpemidler skal deles ut samtidig.
+Delen uten hjelpemidler skal leveres etter 1 time.
+
+Etter 1 time kan kandidaten bruke hjelpemidler.
+
+Delen med hjelpemidler skal leveres innen 5 timer.
+
+ 
+
+Del uten hjelpemidler | Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Del med hjelpemidler | Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Delen uten hjelpemidler har 5 oppgaver.
+
+Delen med hjelpemidler har 8 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe uttelling.
+
+Bruk av digitale verktgy som graftegner og regneark skal
+
+ 
+
+dokumenteres.
+Veiledning om Poeng er bare veiledende i vurderingen. Karakteren blir
+vurderingen fastsatt etter en samlet vurdering. Det betyr at sensor vurderer
+
+i hvilken grad du
+
+viser regneferdigheter og matematisk forstaelse
+gjennomfg¢rer logiske resonnementer
+
+ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+kan bruke hensiktsmessige hjelpemidler
+
+forklarer framgangsmater og begrunner svar
+
+skriver oversiktlig og er néyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+e vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+
+Sara: https://pixabay.com/no/ (03.10.2021)
+Varmtvannstank: www.billigvvs.no (12.09.2021)
+Leerdalstunellen: at.no (10.10.2021)
+
+Ski: www.visitoslo.com (10.05.2021)
+
+Egg: https://pixabay.com/no/ (03.10.2021)
+Dyrespor: https://pixabay.com/no/ (03.10.2021)
+Blabeer: https://pixabay.com/no/ (12.09.2021)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1019 Side 13 av 24
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+ 
+
+| en klasse har 15 av elevene veert pa tur i h@stferien. Sverre har regnet ut at det betyr
+at 60 % av elevene i klassen har veert pa tur.
+
+Hvor mange elever er det i klassen?
+
+Oppgave 2 (2 poeng)
+
+Sara har fatt oppgaven nedenfor.
+
+ 
+
+For tre ar siden kjgpte mormor en bil. | dag er bilens verdi 400 000 kroner.
+Bilens verdi har gatt ned med 10 % hvert ar.
+
+Hva var bilens verdi da mormor kjgpte den?
+
+ 
+
+ 
+
+ 
+
+Sara har tenkt slik:
+
+10 % av 400 000 kroner er 40 000 kroner.
+
+Verdien har avtatt med 40 000 kroner hvert ar.
+
+Det blir til sammen 120 000 kroner.
+
+Da mormor kj@pte bilen, var verdien 520 000 kroner.
+
+ 
+
+Forklar Sara hvorfor dette ikke er riktig, og vis henne hvordan hun kan sette opp et
+regnestykke som vil gi riktig svar.
+
+ 
+
+Eksamen MAT1019 Side 14 av 24
+Oppgave 3 (2 poeng)
+
+Morten har kj@pt ny varmtvannstank. Han fyller varmtvannstanken med kaldt vann og
+kobler til strémmen.
+
+Formelen
+T=9t+7
+kan brukes for a beregne temperaturen T grader celsius (°C ) i vannet, t timer etter
+
+str@mmen er koblet til.
+
+a) Hvor lang tid vil det ga for temperaturen i vannet er 52 °C?
+
+b) Gi en praktisk tolkning av tallene 9 og 7 i formelen ovenfor.
+
+ 
+
+Eksamen MAT1019 Side 15 av 24
+Oppgave 4 (2 poeng)
+
+ 
+
+En tunell er 24 kilometer lang. Audun kjgrer gjennom halve tunnelen med en
+gjennomsnittsfart pa 80 km/h. Pa grunn av veiarbeid ma han sa bremse ned, og
+kjgrer med en gjennomsnittsfart pa 60 km/h gjennom resten av tunellen.
+
+Hvor mange minutter bruker Audun pa a kj@re gjennom tunellen?
+
+Oppgave 5 (4 poeng)
+
+\!
+
+ 
+
+ 
+
+| koordinatsystemet ovenfor ser du grafene til to lineeere funksjoner f og g.
+
+a) Bestem f(x) og g(x).
+
+b) Bestem arealet av den gr@nne trekanten.
+
+ 
+
+Eksamen MAT1019 Side 16 av 24
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (4 poeng)
+
+ 
+
+En nettbutikk vil starte salg av en ny type ski 1. november 2022.
+Anta at funksjonen S gitt ved
+S(x)=0,75x* —59,5x*+1200x , O<x<52
+
+kan brukes som en modell for hvor mange par ski S(x) butikken vil kunne selge per
+uke x uker etter salgsstart.
+
+a) Hvor mange uker vil butikken kunne selge mer enn 5000 par ski, ifolge modellen?
+
+b) Bestem stigningstallet til den rette linjen som gar gjennom punktene (0, S(0)) og
+(12, S(12)). Gi en praktisk tolkning av svaret.
+
+ 
+
+Eksamen MAT1019 Side 17 av 24
+Oppgave 2 (4 poeng)
+
+Energiinnholdet i matvarer blir vanligvis oppgitt i kilojoule (kJ) eller
+kilokalorier (kcal).
+
+Tabellen viser energiinnholdet i noen neeringsstoffer.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+eee Sean scan
+Fett 37 9
+Protein 17 A
+Karbohydrater 17 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tobias har lest at 100 g kokt egg inneholder
+10,2 g fett, 12,4 g protein og 0,3 g karbohydrater.
+
+Resten av egget er vitaminer og vann, og
+
+inneholder ikke energi.
+
+a) Hva er energiinnholdet i 100 g kokt egg?
+Oppgi svaret i kcal.
+
+ 
+
+Tobias har funnet ut at han har et energibehov pa 3000 kcal per dag. En dag spiser
+han to egg. Eggene veier til sammen 125 g med skall. Den spiselige delen av egg er
+88 % av totalvekten til egget.
+
+b) Hvor mange prosent av Tobias’ energibehov utgjorde eggene han spiste denne
+dagen?
+
+ 
+
+Eksamen MAT1019 Side 18 av 24
+Oppgave 3 (8 poeng)
+
+ 
+
+En dyrebestand bestar i dag av 500 dyr. En forsker antar at bestanden vil doble seg i
+Idpet av de ti neste arene.
+
+a) Sett opp en modell L(x) som viser hvor mange dyr det vil vaere i bestanden om x
+ar, dersom vi antar at bestanden gker linezert.
+
+b) Sett opp en modell E(x) som viser hvor mange dyr det vil vaere i bestanden om x
+ar, dersom vi antar at bestanden @ker eksponentielt.
+
+c) Tegn grafen til funksjonen F gitt ved
+
+F(x)=L(x)-E(x) , O<x<13
+
+d) Bestem toppunktet pa grafen til F og skjazeringspunktene mellom grafen til F og
+hver av de rette linjene x =12 og y=12.
+
+Gi en praktisk tolkning av svarene du far.
+
+ 
+
+Eksamen MAT1019 Side 19 av 24
+Oppgave 4 (4 poeng)
+Avgjgr hvilken eller hvilke av pastandene nedenfor som er riktig(e).
+
+Husk a begrunne svarene dine.
+
+Pastand 1: Dersom utgiftene til en klassefest skal deles likt mellom elevene som er
+med pa festen, vil belopet hver elev ma betale alltid veere omvendt
+proporsjonalt med antall elever.
+
+Pastand 2: To stgrrelser er alltid proporsjonale dersom det er slik at nar den ene
+oker, sa @ker den andre ogsa.
+
+Pastand 3: To stgrrelser er alltid omvendt proporsjonale dersom den ene st@rrelsen
+dobler seg nar den andre halveres.
+
+Pastand 4: Arealet av en sirkel er alltid proporsjonalt med omkretsen av sirkelen.
+
+Oppgave 5 (2 poeng)
+
+ 
+
+Angelica har laget blabzersaft. Saften inneholder 10 % sukker. Angelica synes saften
+er sur og vil lage en ny saftblanding med 50 % mer sukker.
+
+Hvor mange prosent sukker vil den nye saftblandingen inneholde?
+
+ 
+
+Eksamen MAT1019 Side 20 av 24
+Oppgave 6 (6 poeng)
+
+ 
+
+Verdifallet utgjor bilens sterste kostnad, szerlig
+det forste aret, enten bilen er kjopt ny eller brukt.
+
+Verdifallet utgjgr bilen st@rste kostnad. Verdifallet er i de aller fleste tilfellene starst det forste aret.
+For en nybil kan du forvente 20 prosent f@rste aret. Deretter om lag 14 prosent av bruktprisen fra det
+
+andre aret, synkende til 10 prosent det sjette aret. Og fra det sjette aret 10 prosent arlig.
+
+ 
+
+ 
+
+ 
+
+Teksten ovenfor er hentet fra smartepenger.no
+
+Mathilde har kj@pt ny bil. Bilen kostet 390 000 kroner.
+
+Mathilde vil lage en oversikt som viser bilens verdifall i prosent de forste seks arene.
+Hvert ar vil hun sammenlikne bilens verdi med verdien aret for. | tillegg vil hun hvert
+ar sammenlikne bilens verdi med verdien da den var ny.
+
+Hun har brukt tallene fra smartepenger.no og satt opp et regneark som vist nedenfor.
+
+A B C
+
+Verdifall i prosent
+
+Ar Sammenliknet med verdien aret for | Sammenliknet med verdien som ny
+
+20 % 20 %
+14% 31%
+
+13 %
+12 %
+11%
+10 %
+
+ 
+
+ONDU PWN
+Ayan; Riwl/hy|]—
+
+a) Vis hvordan Mathilde kan ha kommet fram til 31 % i celle C4.
+
+b) Lag regnearket og legg inn formler for a regne ut verdier i de gronne cellene.
+
+Mathilde vil ogsa ha en oversikt som viser verdifallet i kroner for bilen hun kj@pte.
+Hvert ar skal oversikten vise verdifallet i kroner fra aret for. | tillegg skal den for hvert
+ar vise verdifallet i kroner fra da bilen var ny.
+
+c) Utvid regnearket fra oppgave b) slik at du ogsa far med en slik oversikt.
+
+ 
+
+Eksamen MAT1019 Side 21 av 24
+Oppgave 7 (8 poeng)
+
+  
+
+Figur 1 Figur 2
+
+Marius og Maria arbeider i en dagligvarebutikk. De skal stable bokser med erter.
+
+Marius stabler boksene som vist i figur 1. | figur 1 har han laget et tarn med fire
+
+etasjer.
+
+a) Hvor mange bokser trenger Marius for a lage et tarn med 20 etasjer dersom han
+stabler boksene pa denne maten?
+
+Marius har 400 bokser.
+
+b) Hvor mange etasjer vil det veere i det storste tarnet han kan lage?
+
+Maria vil stable boksene som vist i figur 2. | figur 2 har hun laget et tarn med tre
+etasjer.
+
+c) Hvor mange bokser trenger Maria for a lage et tarn med 20 etasjer dersom hun
+stabler boksene pa denne maten?
+
+Maria har 4000 bokser.
+
+d) Hvor mange etasjer vil det veere i det storste tarnet hun kan lage?
+
+ 
+
+Eksamen MAT1019 Side 22 av 24
+Oppgave 8 (12 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 2 3 4 5 6 7 8 9 10
+11 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+21 22 | 23 | 24 | 25 | 26 30
+31 32 | 33 | 34 | 35 | 36 40
+41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50
+31 92 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60
+61 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70
+71 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80
+81 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90
+91 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100
+
+ 
+
+ 
+
+| tabellen ovenfor har vi fargelagt to kvadrater.
+
+a) Bestem differansen mellom tallet nederst til venstre og tallet @verst til h@yre, og
+differansen mellom tallet nederst til hgyre og tallet @verst til venstre. Bestem sa
+
+produktet av de to differansene.
+
+Du skal altsa regne ut (11—2)-(12—1) for det bla kvadratet og (37—28)-(38-27)
+for det gronne kvadratet.
+
+b) Gjor tilsvarende beregninger som i oppgave a) for flere kvadrater med samme
+storrelse som i oppgave a). Forklar hva du oppdager, og argumenter for at dette
+
+er riktig.
+
+c) Gjor tilsvarende beregninger som i oppgave a) for kvadrater med ulike st@rrelser.
+Lag en oversikt der du presenterer resultatene pa en systematisk mate. Forklar
+
+hva du oppdager, og argumenter for at dette er riktig.
+
+ 
+
+Eksamen MAT1019
+
+Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no

@@ -1,0 +1,584 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (4 poeng)
+
+Alle som gar pa tur til Pollfjell, skriver navnet sitt i
+boka som ligger i postkassen pa toppen av
+fjellet. Nedenfor ser du hvor mange som har
+skrevet seg inn i boka hver uke de 12 siste
+ukene.
+
+6 12 20 4 10 15 5 12 8 12 18 10
+
+Bestem gjennomsnittet, medianen, typetallet og
+variasjonsbredden for dette datamaterialet.
+
+Oppgave 2 (2 poeng)
+
+Vi regner at verdien av en bil har avtatt med 15 % per ar siden den var ny.
+
+| dag er bilen verdt 100 O00 kroner.
+Sett opp et uttrykk som du kan bruke for a regne ut
+a) hvor mye bilen vil veere verdt om seks ar
+
+b) hvor mye bilen var verdt for seks ar siden
+
+Oppgave 3 (1 poeng)
+Regn ut og skriv svaret pa standardform
+
+0,0003 -0,00000015
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2012
+
+mat@ematikk.net
+
+Side 15 av 28
+Oppgave 4 (1 poeng)
+
+Skriv sa enkelt som mulig
+
+Oppgave 5 (14 poeng)
+
+Regn ut og skriv svaret som et helt tall
+
+a) (2° 99
+
+Oppgave 6 (4 poeng)
+
+Tallsystemet vi vanligvis bruker, er et plassverdisystem med grunntall 10.
+
+Det finnes ogsa plassverdisystemer med andre grunntall.
+
+Tegn av tabellen nedenfor i besvarelsen din, gj@r beregninger, og fyll inn det som
+
+ 
+
+ 
+
+ 
+
+ 
+
+manegler.
+Plassverdisystem med | Plassverdisystem med Plassverdisystem
+grunntall 10 grunntall 3 med grunntall 9
+10 11,
+10201, 121,
+200
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2012
+
+mate@matikk.net
+
+Side 16 av 28
+Oppgave 7 (3 poeng)
+
+Tabellen nedenfor viser hvor mye penger hver av de 10 elevene i en 2P-gruppe bruker i
+
+kantinen i |I@pet av en uke.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kroner Antall elever
+| 0,50) 1
+
+| 50,100) 5
+
+| 100,150) 1
+
+| 150,200) 3
+
+ 
+
+Gjer beregninger og avgjg@r om gjennomsnittet er sterre enn medianen for dette
+
+datamaterialet.
+
+Oppgave 8 (2 poeng)
+
+Et fallskjermhopp kan deles inn i fire faser. | hver fase ser vi pa farten fallskjermhopperen
+
+har loddrett nedover.
+
+Fase 1: _Fallskjermhopperen forlater flyet. Etter tre sekunder er farten 25 m/s, og etter
+atte sekunder har fallskjermhopperen nadd den maksimale farten, som er
+
+50 m/s.
+
+Fase 2: —_ Fallskjermhopperen faller med maksimal fart i fire sekunder.
+
+Fase 3: —‘- Fallskjermen I@ses ut, og i Igpet av ett sekund minker farten til 5 m/s.
+
+Fase 4: —‘- Fallskjermhopperen fortsetter med konstant fart 5 m/s i atte sekunder for han
+
+nar bakken.
+
+Lag en grafisk framstilling som viser hvordan farten til fallskjermhopperen varierer med
+
+tiden i Igpet av hoppet.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2012
+
+mat@matikk.net
+
+ 
+
+Side 17 av 28
+Oppgave 9 (6 poeng)
+
+Siri lager figurer av runde perler. Figurene ovenfor har hun kalt f,, f, og f,.
+
+a) Folg samme mgnster, og tegn figuren f, .
+Hvor mange perler vil det veere i figuren f, ogi figuren f, ?
+
+b) Sett opp en modell som viser antall perler i figuren f,, uttrykt ved n.
+
+Bruk modellen til a bestemme hvor mange perler Siri trenger for a lage figuren fy,.
+
+C) Hvaerden storste figuren f, Siri kan lage dersom hun har 1000 perler?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2012 Side 18 av 28
+
+matematikk.net
+ 
+
+ 
+
+Med hjelpemidier
+
+DEL 2
+
+ 
+
+ 
+
+Oppgave 1 (5 poeng)
+
+Camilla vil kij@pe en kurv med epler. Tabellen nedenfor viser Sammenhengen mellom hvor
+mange kilogram epler hun fyller i kurven, og hva hun ma betale for kurven med eplene.
+
+ 
+
+Antall kilogram
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 t 10
+epler
+Pris for kurv
+med epler 210 290 350
+(kroner)
+
+ 
+
+ 
+
+a) Hvor mye koster selve kurven, og hva er kiloprisen for eplene?
+
+ 
+
+b) Bestem den linezere modellen som viser Ssammenhengen mellom antall kilogram
+epler og prisen for kurven med eplene.
+
+Camilla betaler 320 kroner for kurven med eplene.
+
+c) Hvor mange kilogram epler har hun fylt i kurven?
+
+=179
+
+Kilde: http://www.bb9.no/default.pl?showPage
+
+(27.03.2012)
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2012
+
+mat@ematikk.net
+
+Side 19 av 28
+Oppgave 2 (5 poeng)
+De gamle babylonerne brukte et plassverdisystem med 60 som grunntall.
+
+Symbolet | betydde 1 ogsymbolet < betydde 10.
+
+For eksempel vil tallet
+
+< | CT]
+
+i babylonernes tallsystem svare til tallet 11-604+12:1=6/72 j titallsystemet.
+
+a) Skriv tallet
+
+TI COC < ]
+
+i titallsystemet.
+
+Et pytagoreisk talltrippel er tre hele tall som oppfyller Pytagoras’ leeresetning.
+
+For eksempel er de tre tallene 3, 4 og 5 et pytagoreisk talltrippel, siden 3° +4°* =57
+
+b) Bestem a slik at a, 112 og 113 blir et pytagoreisk talltrippel, og skriv de tre tallene i
+
+det babylonske tallsystemet.
+
+ 
+
+Leirtavien pa bildet er blitt datert til
+ca. 1800 f. Kr. Tavien er full av tall i
+kolonner. Disse tallene er
+
+pytagoreiske talltrippel.
+
+ 
+
+ 
+
+ 
+
+Pytagoras levde ca. 500 f. Kr. Sa
+hvem var det som oppdaget den
+pytagoreiske laeresetningen? Det vet
+vi faktisk ikke helt, selv om den har
+fatt navn etter Pytagoras.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kilde: http://en.wikipedia .org/wiki/Plimpton_322 (10.05.2012)
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2012
+
+mat@ematikk.net
+
+Side 20 av 28
+Oppgave 3 (6 poeng)
+
+Nr Resultat Utewer Land Verdensdel
+
+1 oA4fr Christian Reif — Tyskland Europa
+
+2 6,46 Dwight Phillips = USA Nord-Amerika
+
+3 6,40 Fabrice Lapierre Australia Oceania
+
+4 6,05 Alain Bailey p44 Jamaica Ser-Ameri ke
+
+5 S33 Chris Nottke Australia Ooeania
+
+6 6,00 Irving Saladine =. Panama Ser-Ameri ke
+
+T 8,27 Ndiss Kaba Badji BE Senegal Afrika
+
+Go oer Eusebio Caceres i SPpania Europa
+
+9 o,25 Pavel Shalin Ge Russland Europa 3
+
+10 8,24 = Salim Sdiri BQ Frankrike Europa bE
+11 824 Katétien Gomis BOQ Frankrike Europa 3 =
+i? o,20 Godfrey Ahotso Mokoena b Ser-ATri kia Afrika 3 S
+135 o,2 9 Christopher Tomlin=on —— England Europa 3 4
+i4 B22 Tommi Evilé — Finland Europa 22
+15 O22 Tyroné Smith Fag Bermuda Ser-Amerika : e
+16 B22 Greg Rutherford = England Europa % i
+17 821 Morten Jensen == Danmark Europa ° =
+16 6,20 Wilfredo Martinez = Cuba Ser-Ameri ke 2 8 J
+19 6,20 Trevell Quinley = USA Nord-Amerika * <8 rs
+20 6,19 Christian Taylor = USA Nord-Amerika : # 5 a
+
+Ovenfor ser du verdensstatistikken fra 2010 for gvelsen lengdehopp for menn.
+
+a) Lag et sektordiagram som viser hvordan de 20 ut@verne fordeler seg mellom de ulike
+verdensdelene.
+
+b) Finn giennomsnittslengden og standardavviket for resultatene til de 20 utgaverne.
+Sondre har funnet resultatene for utoverne som star som nummer 21-40 pa
+verdensstatistikken. Standardavviket for resultatene til disse 20 utoverne er tilnzermet lik
+
+0,0258.
+
+c) Hva forteller dette om resultatene til utaverne som star som nummer 21-40, i
+forhold til resultatene til de 20 beste uteverne?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2012 Side 21 av 28
+
+mat@matikk.net
+Oppgave 4 (4 poeng)
+
+ 
+
+Ar 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996
+
+ 
+
+Antall
+
+kamper 1 2 4 10 9 6 4 9 11 11 4
+per ar
+
+ 
+
+Antall
+
+mal 0 0 2 3 3 2 0 5 1 4 0
+per ar
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor viser hvor mange landskamper Jan Age Fjartoft spilte, og hvor mange
+mal han skaret per ar i perioden 1986-1996.
+
+a) Hvor mange mal skaret Fjgrtoft i giennomsnitt per kamp i denne perioden?
+| hvilket ar skaret han flest mal per kamp?
+
+b) Tegn av tabellen nedenfor i besvarelsen din, og fyll inn tallene som mangler.
+Hva er den kumulative frekvensen for to mal per ar, og hva forteller dette svaret?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Antall mal Kumulativ
+per ar ele frekvens
+O
+1
+2
+3
+A
+5
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2012 Side 22 av 28
+
+ 
+
+matematikk.net
+Oppgave 5 (6 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maned Januar Mars Juni Juli August Desember
+Antall
+
+kilogram 45 144 299 328 336 36
+pelser
+
+ 
+
+ 
+
+Tabellen ovenfor viser antall kilogram pglser som ble solgt i en butikk noen maneder |
+2011.
+
+a) Framstill datamaterialet i tabellen ovenfor som punkter i et koordinatsystem der
+X - aksen viser maned og y- aksen viser antall kilogram pglser.
+
+(La x =1 svare til januar, x =2 til februar, x =3 til mars, osv.)
+
+b) Bruk regresjon til A bestemme en modell pa formen f(x) = ax? + bx? +cx +d som kan
+brukes for a beskrive antall kilogram pglser som ble solgt per maned i Igpet av dette
+aret.
+
+Tegn grafen til f i Samme koordinatsystem som du brukte i a).
+
+Butikken regner med at pglsesalget vil veere 20 % hgyere hver maned i 2012
+sammenliknet med tilsvarende maned i 2011.
+
+c) Ihvilke maneder i 2012 vil butikken da selge mer enn 300 kg pelser per maned
+dersom vi tar utgangspunkt i modellen i b)?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2012 Side 23 av 28
+
+mate@matikk.net
+Oppgave 6 (4 poeng)
+
+Kroner
+
+a
+20000 |”
+
+ 
+
+ 
+
+Antall ar
+0 x .
+' t ' t ' t t t t ' ' ' t ' t t -
+
+0 1 2 3 4 5 6 7 8 a 10 #11 12 13 14 «15
+
+Guri setter et pengebelgp i banken. Grafen ovenfor viser hvordan belgpet vokser de 15
+forste arene. Vi antar at renten er den samme hvert ar.
+
+a) Sett opp et matematisk uttrykk som kan veere en modell for hvor mye penger Guri
+har i banken etter x ar.
+
+b) Hvor mye penger vil Guri ha i banken etter 20 ar ifolge modellen du satte opp i a)?
+Nar vil belapet hun har i banken, passere 50 OOO kroner ifelge modellen?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2012 Side 24 av 28
+
+mat@matikk.net
+Oppgave 7 (6 poeng)
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+Ovenfor ser du en pyramide av hermetikkbokser. Det antallet bokser vi trenger for a
+bygge pyramider pa denne maten, kaller vi pyramidetall.
+
+Det forste pyramidetallet er P, =1. Da er det én boks i «pyramiden». Det neste
+
+pyramidetallet er P, =5.Da har pyramiden fire bokser i det nederste laget og én pa
+toppen.
+
+a) Forklar at pyramidetall nummer n er gitt ved summen 1+ 27+37+ ... +n?
+
+og bruk dette til a finne de tre pyramidetallene, P,, P, og P,.
+
+| en laerebok star det en formel for pyramidetall. If@lge denne formelen er pyramidetall
+nummer n gitt ved
+
+p - n(n+1)(2n+1)
+6
+
+ 
+
+b) Vis at formelen i leereboka er riktig for P,.
+
+Bjarni har 1000 bokser. Han vil lage en pyramide.
+
+c) Hvor mange bokser ma han begynne med i det nederste laget dersom han skal
+bruke sa mange som mulig av boksene i pyramiden?
+Hvor mange bokser har han til overs nar han er ferdig med pyramiden?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2012 Side 25 av 28
+
+mai@matikk.net

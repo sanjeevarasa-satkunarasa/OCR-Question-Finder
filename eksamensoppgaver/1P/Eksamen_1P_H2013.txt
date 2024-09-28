@@ -1,0 +1,474 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Per har lest 150 sider i en bok. Dette er 30 % av sidene i boka.
+
+Hvor mange sider er det i boka?
+
+Oppgave 2 (1 poeng)
+
+Pa et kart er avstanden fra et punkt A til et punkt B 2,0 cm. | virkeligheten er avstanden i
+luftlinje mellom disse to punktene 10 km.
+
+Bestem malestokken til kartet.
+
+Oppgave 3 (2 poeng)
+
+6.0 m
+
+ 
+
+  
+
+50m
+
+>
+°
+3
+
+4----
+
+10.0 m
+
+Et omrade har form som vist pa figuren ovenfor.
+
+Bestem arealet av omradet.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 14 av 24
+
+matematikk.net
+Oppgave 4 (2 poeng)
+
+Et ar hadde Ole en reallann pa 500 O00 kroner. Konsumprisindeksen dette aret var 130.
+
+Bestem den nominelle Ignna til Ole dette aret.
+
+Oppgave 5 (2 poeng)
+
+ 
+
+ 
+
+Et omrade har form som vist pa figuren ovenfor.
+
+Avgjgr ved regning om avstanden fra A til B er lengre enn 7,0 m.
+
+Oppgave 6 (2 poeng)
+
+Skriv av, gjor beregninger, og sett inn tallene som manegler i hver av linjene:
+
+ 
+
+ 
+
+15 me = L
+4.2h=4hog min
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 15 av 24
+
+matematikk.net
+Oppgave 7 (3 poeng)
+
+Sammenhengen mellom maksimal puls M (antall slag/min) og alder A (antall ar) er gitt
+
+ved formelen
+
+M=211—-0,64-A
+
+a) Hvaer maksimal puls til en person som er 20 ar, if@lge formelen ovenfor?
+
+Svein har en maksimal puls pa 179 slag/min.
+
+b) | Hvor gammel er Svein ifglge formelen ovenfor?
+
+Oppgave & (4 poeng)
+
+Siv har fire bla og seks svarte bukser i skapet. En av de bla og tre av de svarte buksene
+
+passer ikke lenger.
+
+a) Tegn av tabellen nedenfor, og fyll inn tall i de hvite rutene.
+
+ 
+
+Bla bukser Svarte bukser
+
+Sum
+
+ 
+
+Bukser som
+passer
+
+ 
+
+Bukser som
+ikke passer
+
+ 
+
+Sum
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Siv tar tilfeldig 6n bukse fra skapet.
+
+b) Bestem sannsynligheten for at buksen passer.
+
+Siv har tatt en bukse som passer.
+
+c) Bestem sannsynligheten for at denne buksen er bla.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013
+
+matematikk.net
+
+Side 16 av 24
+Oppgave 9 (3 poeng)
+
+’ Pris for skalen
+med sjokolade (kroner)
+
+550-
+
+500 -
+
+450 -
+
+400 -
+
+350-
+
+300 -
+
+250 -
+
+200-
+
+ 
+
+Antall hektogram
+
+sjokolade
+0 x
+
+' ' '
+
+0 5 10 15 20 25 30 35 40 45 50
+
++
+-
+
+4
+_—
+=
+a
+_
+4
+_
+
+ 
+
+Terje kj@per en skal og fyller den med sjokolade. Den rette linjen i koordinatsystemet
+ovenfor viser Sammenhengen mellom antall hektogram sjokolade Terje kjgper, og hvor
+mye han ma betale for skalen med sjokolade.
+
+a) Hvor mye koster selve skalen?
+Hvor mye koster 1 hg sjokolade?
+
+b) | Bestem likningen for den rette linjen.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 17 av 24
+
+mat@matikk.net
+Oppgave 10 (2 poeng)
+
+ 
+
+ 
+
+ 
+
+KJOTTDEIG KJ@TTDEIG KJI@TTDEIG
+400 g 500 g 600 g
+24 kroner 30 kroner 36 kroner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ovenfor ser du hvor mye tre ulike pakker kjgttdeig koster i en butikk.
+
+Er vekt og pris proporsjonale storrelser her?
+
+Oppgave 11 (2 poeng)
+
+Jai
+
+ae
+=
+/
+-_
+i |
+i’
+—
+i
+
+ 
+
+Maria lurer pa hvor stor diameter en ball har. Hun maler langs ballens overflate og finner
+at det er ca. 100 cm fra A til B. Se bildet ovenfor.
+
+Gj@r overslag, og bestem omtrent hvor stor diameter ballen har.
+
+ 
+
+Eksamen MAT1011 Matematikk LP Hausten/H@sten 2013 Side 18 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+ 
+
+Ar 2008 2009 2010 2011 2012
+
+ 
+
+KPI 123,1 125,/ 128,8 130,4 131,4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tabellen ovenfor viser konsumprisindeksen (KPI) hvert ar fra 2008 til 2012.
+
+a) Hvor mange prosent har konsumprisindeksen @kt med i denne perioden?
+
+| 2010 kjopte familien Johnsen matvarer for 8000 kroner per maned. Vi antar at prisen pa
+disse matvarene har fulgt utviklingen i konsumprisindeksen.
+
+b) | Hvor mye betalte familien per maned for tilsvarende matvarer i 2012?
+
+| 2008 var inntekten til familien Jonnsen 45 OOO kroner per maned. | 2012 var inntekten
+@kt til 49 OOO kroner per maned.
+
+c)  Gjor beregninger og avgjor om familien hadde sterre kjopekraft (bedre rad) i 2012
+enn i 2008.
+
+Oppgave 2 (4 poeng)
+
+En undersgkelse har vist at 20 % av alle syklistene i en by sykler uten lys i m@rket.
+Vi velger tilfeldig to syklister fra denne byen.
+
+a) Bestem sannsynligheten for at begge sykler uten lys i mgrket.
+
+b) Bestem sannsynligheten for at noyaktig én av dem sykler uten lys i mgrket.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 19 av 24
+
+matematikk.net
+Oppgave 3 (4 poeng)
+
+Mystein har kjgpt bil. Bilen kostet 250 OOO kroner. Vi regner med at verdien har sunket, og
+at den vil fortsette a synke, med 15 % per ar.
+
+a) Hvor mye vil bilen vaere verd om fem ar?
+
+b) | Hvor mye var bilen verd for fem ar siden?
+
+Oppgave 4 (5 poeng)
+
+ 
+
+ 
+
++--
+
+En regulaer sekskant er satt sammen av seks likesidede trekanter. Sidene i trekantene
+er 3,0 cm. Se figuren ovenfor.
+
+a) Bestem ZABC.
+
+b) Bestem hgyden h i trekantene ved regning.
+
+c) Bestem arealet av sekskanten ved regning.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 20 av 24
+
+mat@matikk.net
+Oppgave 5 (8 poeng)
+
+ 
+
+Funksjonen f gitt ved
+f(x) = 3x° —48x* +162x +300
+
+viser hvor mange tonn fisk f(x) det vari en fiskebestand x ar etter ar 2000.
+
+a) Tegn grafentil f for O<x<10.
+
+b) Nar var fiskebestanden minst?
+Hvor mange tonn fisk var det i fiskebestanden da?
+
+c) Bestem skjzringspunktet mellom grafen til f og linjen med likning y=200.
+Hva forteller koordinatene til dette punktet om fiskebestanden?
+
+d) Hvor stor var den gjennomsnittlige endringen i fiskebestanden per ar i perioden
+1. januar 2003 - 1. januar 2007?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 21 av 24
+
+mat@matikk.net
+Oppgave 6 (4 poeng)
+
+Jonny er rerlegger. Han har en timelonn pa 215 kroner.
+
+Jonny betaler 2 % av bruttolgnna til en pensjonskasse.
+
+| tillegs betaler han hver maned 250 kroner i fagforeningskontingent.
+
+En maned arbeidet Jonny 150 timer.
+
+a) Hvor mye betalte Jonny til pensjonskassen denne maneden?
+
+Jonny har tabelltrekk. Se nedenfor.
+
+Trekktabell 7100 for 2013, manedsl@nn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Grunnlag Trekk | Grunnlag Trekk | Grunnlag Trekk | Grunnlag | Trekk | Grunnlag Trekk
+30 100 9 294 30 600 9 500 31 100 9 707 31 600 9914 32100 | 10120
+30 200 9 335 30 700 9 542 31 200 9 748 31 700 9955 32 200 | 10162
+30 300 9 376 30 800 9 583 31 300 9 790 31 800 9 996 32 300 | 10203
+30 400 9 418 30 900 9 624 31 400 9 831 31900 | 10038 32 400 | 10244
+30 500 9 459 31 000 9 666 31 500 9 872 32000 | 10079 32500 | 10286
+
+b) | Hvor mye betalte han i skatt denne maneden?
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 22 av 24
+
+matematikk.net
+
+ 
+Oppgave 7 (5 poeng)
+
+ 
+
+Tore har laget en stor modell av en kuleis. Modellen har tilnazermet form som en kjegle med
+
+en halvkule i enden. Toppen av kjeglen har radius 0,60 m, og modellen er 3,2 m lang.
+Se skissen ovenfor.
+
+a) Regn ut volumet av modellen.
+
+Modellen skal lakkeres. En boks lakk er nok til 2,2 m2.
+
+b) | Hvor mange bokser vil ga med for a lakkere modellen?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/Hg@sten 2013 Side 23 av 24
+
+mat@matikk.net

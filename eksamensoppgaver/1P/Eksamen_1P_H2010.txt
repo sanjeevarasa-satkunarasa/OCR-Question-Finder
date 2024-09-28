@@ -1,0 +1,575 @@
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (24 poeng)
+
+a) Andersen kjgper fem bord. | enden av
+hvert bord star det et tall som forteller °
+hvor mange centimeter bordet er. Se ‘
+bildet til h@yre.
+
+ 
+ 
+
+Gjer overslag og finn ut omtrent hvor "353"
+mye Andersen ma betale nar bordene
+
+koster 8,95 kroner per meter. /
+
+Kilde: Utdanningsdirektoratet
+
+b) Et politisk parti har @kt sin oppslutning fra 10 % til 16 %.
+
+1) Hvor mange prosentpoeng har @kningen veert pa?
+
+2) Hvor mange prosent har okningen veert pa?
+
+c)  Tegn et rektangel der den lengste siden er 9 cm og forholdet mellom den lengste og
+den korteste siden er 3: 2.
+
+ 
+
+d) Ove selger egg pa torget. Han har
+laget en plakat som viser hvor mye
+eggene koster. Se figuren til hayre. Gegg 10,50 kroner
+
+Undersgk om antall egg og pris er 10 egg 17,50 kroner
+
+proporsjonale storrelser. 15 egg 94 00 kroner
+
+30 egg 45.00 kroner
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 14 av 24
+
+matematikk.net
+e) For aten trapp skal vere behagelig a ga i, .
+bgr ett inntrinn pluss to opptrinn veere inntrinn
+omtrent 630 mm. A)
+opptrinn {
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hvor hgyt b@r opptrinnet | en trapp veere
+dersom inntrinnet skal veere
+340 mm?
+
+ 
+
+f) | Tabellen nedenfor viser konsumprisindeksen (KPI) for de tre siste arene.
+
+ 
+
+Ar 2007 2008 2009
+KPI 118,6 1231 125,7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| 2008 hadde Sondre en reallann pa 1 OOO OOO kroner.
+
+Hvor mye matte Sondre hatt i nominell lonn i 2009 hvis han skulle beholdt samme
+kjgpekraft som i 2008?
+
+g) Detre funksjonene f , g ogh er gitt ved
+f (x) =5x* +100 g (x) =100-5* h(x) =5x +100
+
+Hvilken av de tre funksjonene beskriver linezer vekst? Lag et eksempel der du
+bruker denne linezere funksjonen til a beskrive en praktisk situasjon.
+
+h) Rune trenger 61 m kabel. Han har en
+kabel som er rullet opp pa en trommel.
+Trommelen har en diameter pa 50 cm,
+og kabelen gar 40 ganger rundt
+trommelen.
+
+Gj@r overslag og finn ut om det er nok
+kabel pa trommelen.
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 15 av 24
+
+mat@matikk.net
+i) .
+
+100|¥ Strekning (meter)
+90 |
+80 |
+70 |
+60 |
+
+50 |
+
+Tid (sekunder) ,
+
+' ' ' ' ' ' ' ' ' ' ' -
+0 1 2 '3 4 5 BFS 9 10 11 12 13 14 15 #16 #17 18 19 20
+
+ 
+
+ 
+
+Jens og far har Igpt 100-meteren. Far fikk starte tre sekunder for Jens. Ovenfor ser
+du en forenklet grafisk framstilling av Igpet til Jens og av Igpet til far.
+
+Hva kan du si om de to I@pene ut fra den grafiske framstillingen ovenfor?
+
+J) | en twistpose er det 30 twistbiter. Per liker 18 av disse.
+Vi trekker tilfeldig én twistbit fra posen.
+
+1) Finn sannsynligheten for at Per liker denne
+twistbiten.
+
+Sannsynligheten for at Ola liker en tilfeldig valgt twistbit
+fra posen, er O,4.
+
+2) Hvor mange av twistbitene | posen liker Ola?
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+k) Tenk deg at du ser en kasse skratt ovenfra. Tegn kassen i ettounktsperspektiv.
+Forsvinningspunkt og perspektivlinjer skal veere med pa tegningen.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 16 av 24
+
+mat@matikk.net
+ 
+
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+Oppgave 2 (4 poeng)
+
+ 
+
+ 
+
+Byens beste bilpakke - Pakkepris: 16 900 kroner
+
+Pakken bestar av:
+
+13 kjgretimer
+sikkerhetskurs pa bane
+sikkerhetskurs pa vei
+
+2 veiledningstimer
+
+leie av bil pa 1 forerproave
+
+Kjoretimer utover pakken koster 550 kroner per time.
+
+ 
+
+ 
+
+Pa nettsidene til en trafikkskole fant Anne og Jon tilbudet ovenfor. Begge benyttet seg av
+
+tilbudet.
+
+a) Anne hadde tilsammen 21 kjgretimer.
+Hvor mye betalte hun for kjgreoppleeringen?
+
+b) Jon betalte 29 OOO kroner for kjgreoppleeringen.
+Hvor mange kj@retimer hadde han?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010
+
+mate@matikk.net
+
+Side 17 av 24
+
+ 
+Oppgave 3 (6 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ar KP nensin 95 biyft
+2001 108, 7 9,30
+2002 110,41 8,89
+2003 112,8 9,12
+2004 113,3 9,70
+2005 115,41 10,63
+2006 117,7 11,46
+2007 118,6 11,68
+2008 123,1 12,53
+2009 125,7 11,91
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kilder: http://www.ssb.no/kpi/tab-01.html (10.04.2010)
+http://www.np.no/priser "Norske produktpriser - Arsgjennomsnitt” (10.04.2010)
+
+Tabellen ovenfor viser konsumprisindeksen (KPI) og prisen per liter bensin i arene fra
+2001 til 2009.
+
+a) Hvor mange prosent @kte bensinprisen med fra 2001 til 2009?
+
+Sammenlikn arene 2001 og 2009.
+
+b) Hva ville bensinprisen veert i 2009 dersom den hadde utviklet seg pa samme mate
+som konsumprisindeksen?
+
+En journalist skriver at bensinen var ca. 11 % dyrere i 2009 i forhold til i 2001 dersom vi
+
+tar hensyn til kKonsumprisindeksen.
+
+c) Vis hvordan journalisten har kommet fram til dette.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 18 av 24
+
+mate@matikk.net
+Oppgave 4 (6 poeng)
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+En ost har form som en sylinder. Den er 34,0 cm i diameter og 4,0 cm hay.
+Osten veier 3,0 kg.
+
+a) Finn volumet av osten.
+
+Osten har en 2 mm tykk hvit skorpe.
+
+b) | Hvor stor del av osten utgjgr skorpen?
+
+Gunnar kj@per 250 g ost. Han far et
+ostestykke formet som en sirkelsektor.
+
+c) Hvor mange grader er denne
+sirkelsektoren’?
+
+ 
+
+Kilde: Utdanningsdirektoratet
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 19 av 24
+
+mat@matikk.net
+Oppgave 5 (8 poeng)
+
+Fotballgruppa i et idrettslag onsker seg en ny ballbinge. De gjennomf@rer en
+spe@rreunders@kelse for a finne ut hva medlemmene i idrettslaget mener om dette.
+
+Alle de 240 medlemmene i idrettslaget blir spurt.
+
+45 % av medlemmene er kvinner.
+
+63 av mennene gnsker ballbinge.
+
+TilSammen 110 av medlemmene @nsker ikke ballbinge.
+
+a) Tegn av tabellen nedenfor i besvarelsen din. Bruk opplysningene ovenfor og fyll inn
+tallene som skal sta i de hvite feltene.
+
+ 
+
+Mann Kvinne | Totalt
+
+ 
+
+Onsker
+ballbinge
+
+ 
+
+Onsker ikke
+ballbinge
+
+ 
+
+Totalt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Finn sannsynligheten for at et tilfeldig valgt medlem i idrettslaget onsker ballbinge.
+
+Et medlem blir valgt tilfeldig. Det viser seg at dette medlemmet @nsker ballbinge.
+
+c) Finn sannsynligheten for at dette medlemmet er en mann.
+
+Styret i idrettslaget setter som krav at minst 75 % av medlemmene ma @nske ballbinge
+dersom de skal godkjenne planene.
+
+Fotballgruppa prover a verve nye medlemmer som g@nsker ballbinge.
+
+d) Hvor mange slike medlemmer ma fotballgruppa verve for at kravet fra styret skal
+innfris?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 20 av 24
+
+matematikk.net
+Oppgave 6 (6 poeng)
+
+ 
+
+Aud arbeider ved et laboratorium. En dag samler hun fluer i en kasse. Hun mater fluene
+og holder dem isolert i to maneder. Hun finner ut at en god tilneerming for antall fluer i
+kassen etter t dager er gitt ved
+
+f (t)=—0,007t* +0,5t? —3t +20
+
+a) Bruk opplysningene i teksten ovenfor til a avgjore hvilke t - verdier du ber bruke nar
+
+du tegner grafen til f . Tegn grafen for disse verdiene av t .
+
+b) Finn grafisk og ved regning hvor mange fluer det var i kassen ved starten og ved
+
+slutten av eksperimentet.
+
+c) 1) Ihvilket tidsrom gkte antall fluer i kassen?
+
+2) Finn den gjennomsnittlige g@kningen per dag i dette tidsrommet.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 21 av 24
+
+mat@matikk.net
+Oppgave 7 (6 poeng)
+
+ 
+
+| denne oppgaven skal du velge enten alternativ | eller alternativ II.
+De to alternativene teller like mye ved sensuren.
+
+ 
+
+ 
+
+ 
+
+Alternativ |
+
+Et telefonabonnement har ofte en fast manedspris. | tillegg betaler du for hvert
+minutt du ringer.
+
+a) Grafen til hoyre viser kostnader per 350 Y Kostnader per maned (kroner)
+maned med et gitt 300
+telefonabonnement. :
+
+250_
+Bruk grafen og finn den faste
+manedsprisen og prisen for hvert
+minutt du ringer. 150 |
+
+200,
+
+100
+
+50
+Ringetid (minutter)
+x
+
+' ' ' ' ' ' ' ' ' ' >
+0 50 100 150 200 250 300 350 400 460 4500
+
+ 
+
+Tabellen nedenfor viser kostnader per maned med tre ulike
+telefonabonnementer, A, B og C.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abonnement Fast manedspris Pris per minutt du ringer
+A O kroner 1,59 kroner per minutt
+De fgrste 100 minuttene er
+B 100 kroner gratis, deretter 1,19 kroner per
+minutt
+C 250 kroner O,49 kroner per minutt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Tegn grafer som viser de manedlige kostnadene med hvert av de tre
+telefonabonnementene i ett nytt koordinatsystem. Velg x - verdier fra og
+med O minutter til og med 500 minutter.
+
+c) Hvor mye ma du ringe for at det skal Ignne seg a bruke
+hvert av de tre abonnementene A, B og C?
+
+ 
+
+Kilde: http://nrkbeta.no/2007/11/
+(13.03.2010)
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010 Side 22 av 24
+
+mat@matikk.net
+Alternativ II
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trine tegner et kvadrat der sidene er 8 cm lange. Hun tegner ogsa et rektangel. To av
+sidene i rektangelet er 10 % lengre enn sidene i kvadratet, og to av sidene er 10 %
+
+kortere enn sidene | kvadratet.
+
+Hun regner ut arealet av kvadratet og arealet av rektangelet. Sa finner hun forholdet
+mellom de to arealene. Resultatene setter hun opp i en tabell. Se nedenfor.
+
+ 
+
+ 
+
+ 
+
+. Areal av . Areal av Areal rektangel
+Side i kvadrat kKvadrat Side i rektangel rektangel Areal kvadrat
+8 64 8,8 1,2 63,36 0,99
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)  Tegn av tabellen. Velg to ulike kvadrater som er forskjellige fra kvadratet til Trine.
+For hvert av kvadratene skal du gjore de samme beregningene som Trine gjorde.
+
+Skriv resultatene pa de to neste radene i tabellen.
+
+b)  Gjer tilsvarende beregninger for et kvadrat der sidene er a cm lange, og fyll ut siste
+rad i tabellen. Kommenter resultatet.
+
+Oyvind har bygget en mur. Planen var at muren skulle veere like h@y som den var lang,
+men under byggingen bestemte Wyvind seg for a redusere hgyden med 10 % og @ke
+lengden med 10 %. Arealet av sideflaten til muren han bygget, ble 8,91 m2.
+
+c)  Hvor lang og hvor hgy ble muren?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Haust/H@st 2010
+
+mat@matikk.net
+
+Side 23 av 24
+
+ 

@@ -1,0 +1,527 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+En vare koster 640 kroner. Butikkeieren vurderer a sette opp prisen med 10 % eller 15 %.
+
+a) Hvor mye vil varen koste dersom prisen settes opp med 10 %?
+
+b) Hvor mye vil varen koste dersom prisen settes opp med 15 %?
+
+Oppgave 2 (2 poeng)
+
+Gravann
+_®
+
+|
+|
+|
+|
+|
+|
+|
+7 |
+|
+|
+|
+|
+|
+|
+|
+
+Solsletta 800 m Multemyr
+
+Noah skal ga fra Solsletta til Gravann. Han lurer pa om han skal ga den korteste veien,
+eller om han skal ga veien om Multemyr. Stiene gar langs de stiplede linjene.
+Se figuren ovenfor.
+
+Hvor mye lenger ma han ga dersom han velger a ga veien om Multemyr?
+
+Oppgave 3 (2 poeng)
+
+Et politisk parti har en oppslutning pa 40 %.
+Partiet @ker sin oppslutning med 2 prosentpoeng.
+
+Hvor mange prosent oker partiet oppslutningen med?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017 Side 13 av 24
+
+mate@matikk.net
+Oppgave 4 (4 poeng)
+
+| 2016 kostet en vare 6 % mer enn i basisaret.
+
+Hva var prisindeksen for varen i 2016?
+
+Oppgave 5 (3 poeng)
+
+Kari er baker. Hun har en oppskrift pa bred hvor det star at forholdet mellom mel og vann
+
+skal veere 10: 7.
+
+a) Hvor mye vann trenger Kari dersom hun skal bruke 50 L mel?
+
+Nar Kari baker brad hjemme, bruker hun til sammen 3,4 L mel og vann.
+
+b) Hvor mye mel og hvor mye vann bruker hun?
+
+Oppgave 6 (2 poeng)
+
+Ovenfor ser du to parallelle linjer, en sirkel, et parallellogram og en trekant.
+
+AB =8 og CD =4. Sirkelen har areal 97.
+
+Bestem arealet av parallellogrammet og av trekanten.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017
+
+mate@matikk.net
+
+Side 14 av 24
+Oppgave 7 (6 poeng)
+
+Noen venner vil dra pa hyttetur. Det koster 3600 kroner a leie hytta en helg. Vennene
+skal dele utgiftene for leie av hytta likt mellom seg. | tillegg ma hver person betale
+1300 kroner for mat og transport.
+
+a) Tegn av tabellen nedenfor i besvarelsen din. Fyll inn tallene som mangler.
+
+ 
+
+Antall personer 2 4 8
+
+ 
+
+Utgifter per person
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Bestem en formel som du kan bruke for a regne ut utgiftene U per person
+dersom xX personer deltar.
+
+c) Bruk formelen fra oppgave b) til a bestemme hvor mange personer som ma delta
+for at utgiftene per person skal bli 1600 kroner.
+
+d) Erantall personer og utgiftene per person omvendt proporsjonale sterrelser?
+Begrunn svaret ditt.
+
+Oppgave 8 (3 poeng)
+
+Ved en skole er det to Vg2-klasser, 2A og 2B. Det er like mange elever i hver klasse. Alle
+elevene i 2A har valgt biologi. Halvparten av elevene i 2B har valgt biologi.
+
+a) Bestem sannsynligheten for at en tilfeldig valgt elev i Vg2 har valgt biologi.
+
+b) Bestem sannsynligheten for at en tilfeldig valgt elev i Vg2 som har valgt biologi,
+gar i klasse 2A.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017 Side 15 av 24
+
+mate@matikk.net
+Oppgave 9 (3 poeng)
+
+Noen elever vil selge vafler for a samle inn penger til en skoletur.
+De kj@per inn litt utstyr og nodvendige ingredienser slik at de kan lage 120 vaffelplater.
+
+Den grafiske framstillingen nedenfor viser Sammenhengen mellom antall vaffelplater de
+far solgt, og overskuddet de vil fa fra salget.
+
+1400 |
+
+1300 |
+
+1200 |
+
+1100 |
+
+1000 |
+
+900 7
+
+800 |
+
+700 |
+
+600 |
+
+900 7
+
+400 |
+
+300 |
+
+200 |
+
+100 |
+
+y Overskudd (kroner)
+
+ 
+
+Antall solgte vaffelplater
+X
+
+ 
+
+-100 |
+
+-200 |
+
+-300 |
+
+-400 |
+
+-500 |
+
+ 
+
+0
+
+10 20 40 40 50 60 70 80 90 100 110 120 130 ~
+
+a) Den rette linjen starter i punktet (0,450) og gar gjennom punktet (30,0).
+Hvilken praktisk informasjon gir dette?
+
+b) Hvor mye vil elevene ta betalt for hver vaffelplate?
+
+c) Vis hvordan du kan regne ut hvor stort overskuddet blir dersom elevene far solgt
+alle vaffelplatene. Hvor stort blir overskuddet?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017 Side 16 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (4 poeng)
+
+ 
+ 
+  
+
+fc ay on ‘
+LS Vis
+«078 Cs WX/TKIPEDIA
+
+RS = > 9 The Free Encyclopedia
+
+THE TARE Ture herabecerc
+
+Antall tusen artikler i den engelske utgaven av Wikipedia x ar etter 1. januar 2002 er
+tilncermet gitt ved funksjonen f der
+
+f(x) =-2,34x° +50x*4+129x4+19,7 , O<x<15
+
+a) Bruk graftegner til a tegne grafen til f for O< x <15
+
+b) Nar passerte antall artikler 4 OOO OOO, ifelge funksjonen?
+
+Oppgave 2 (2 poeng)
+
+Pa et kart er en avstand 2,4 cm. | virkeligheten er den samme avstanden 4,8 mil.
+
+Bestem malestokken til kartet.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017 Side 17 av 24
+
+mat@matikk.net
+Oppgave 3 (2 poeng)
+
+En hermetikkboks har form som en sylinder med radius 10 cm og hgyde 10 cm. En kule
+har radius 10 cm.
+
+Bestem forholdet mellom overflaten av hermetikkboksen og overflaten av kula.
+
+Oppgave 4 (3 poeng)
+Basisaret for konsumprisindeksen er na 2015. Tidligere var basisaret 1998.
+
+Da 1998 ble brukt som basisar, var konsumprisindeksen 139,8 i 2015 og 144,8 i 2016.
+
+a) Vis at konsumprisindeksen i 1998 na er 71,5.
+
+b) Hva er na konsumprisinndeksen i 2016?
+
+Oppgave 5 (2 poeng)
+
+| 2010 var konsumprisindeksen 92,1. | 2014 var konsumprisindeksen 97,9.
+
+Helene hadde like stor kjgpekraft | 2014 som i 2010.
+| 2014 hadde hun en nominell lonn pa 540 O00 kroner.
+
+Hva var den nominelle Ilgnna hennes | 2010?
+
+Oppgave 6 (2 poeng)
+
+Prisen for en vare er endret fem ganger. To ganger er den satt ned med 30 %. Tre ganger
+er den satt opp med 20 %. Na koster varen 2646 kroner.
+
+Hva kostet varen fgr prisendringene?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017 Side 18 av 24
+
+mate@matikk.net
+Oppgave 7 (4 poeng)
+
+| en eske ligger det tre hvite og ni rede julekuler. En av de hvite og fire av de rade kulene
+er @delagt.
+
+Tenk deg at du skal ta to kuler tilfeldig fra esken.
+
+a) Bestem sannsynligheten for at du kommer til a ta to kuler som ikke er @delagt.
+
+b) Bestem sannsynligheten for at minst én av kulene du kommer til a ta, er o@delagt.
+
+Oppgave 8 (5 poeng)
+
+ 
+
+— 36,0 cm
+
+12,0 cm
+
+—
+
+Anders hadde en trekloss med form som et rett firkantet prisme. Han fikk skaret bort en
+del av klossen slik at den ene kanten ble avrundet. Se figuren ovenfor.
+Buen er en sirkeloue med radius 6,0 cm.
+
+a)  Bestem volumet av treklossen.
+
+b) Bestem overflaten av treklossen.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017
+
+matematikk.net
+
+Side 19 av 24
+Oppgave 9 (6 poeng)
+
+Per har deltidsjobb i en matvarebutikk. Han er ikke sikker pa hvor mye han kommer til a
+tjene i lopet av 2017. Han kan velge mellom to alternative skattetrekk.
+
+ 
+
+ 
+
+Alternativ 1 —- Frikort Alternativ 2 - Prosentkort
+Han kan tjene inntil 55 OOO kroner uten skattetrekk. Dersom han Han far et skattetrekk pa
+tjener mer enn 55 OOO kroner, far han et skattetrekk pa 50 % av 10 % av alt han tjener.
+
+den delen av Ig@nna som er over 55 OOO kroner.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anta at Per kommer til a ttene 6O O00 kr i 2017.
+
+a)  Bestem Pers nettolonn med hvert av alternativene ovenfor.
+
+Per onsker a lage en oversikt i et regneark for a finne ut hvor mye han vil fa i nettolonn
+ved ulike inntekter etter de to alternativene ovenfor. | regnearket nedenfor har vi lagt inn
+ulike mulige inntekter for Per i 2017.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B C D E F G
+
+1
+2 Alternativ 1 - Frikort Alternativ 2 - Prosentkort
+3 Fribelgp: kr 55000 Fribelgp: krO
+4 Trekkprosent: 50 % Trekkprosent: 10 %
+5
+
+Inntekt Skattetrekk Nettolgnn Skattetrekk Nettolgnn
+6 (kroner) (kroner)
+7 kr 56000
+8 | kr 57000
+9 kr 58000
+
+ 
+
+10 | kr 59000
+11. | kr 60000
+12 | kr 61000
+
+3 kr 62000
+14 kr 63000
+15 | kr 64000
+16 | kr 65000
+17 | kr 66000
+18 | kr 67000
+19 | kr 68000
+20 kr 69000
+21 kr 70000
+22 kr 71000
+
+3 kr 72000
+24 kr 73000
+25 kr 74000
+26 kr 75000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Lag et regneark som vist ovenfor. Du skal sette inn formler i de bla cellene og
+beregne skattetrekk og nettolgnn.
+
+c) Hvor mye ma Per tjene for at de to alternativene skal gi ngyaktig like stort
+skattetrekk?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017 Side 20 av 24
+
+matematikk.net
+Oppgave 10 (6 poeng)
+
+ 
+
+>
+t {|
+O
+
+ 
+
+ae
+oS
+
+“h
+
+ 
+
+Gitt figuren ovenfor.
+
+e Den bla linjen er grafen til funksjonen f, og den rede linjen er grafen til
+funksjonen g.
+
+e Linjene skjeerer hverandre i punktet A.
+e Punktet Bligger pa grafen til g , og punktet C ligger pa grafen til f.
+e Punktet D ligger pa BC, og BC er parallell med y- aksen.
+
+a) Forklar at AADC og AABD er formlike.
+
+Funksjonen f er gitt ved f(x)=2x-—4 og AD=1
+b) Vis at BD=0,5
+
+Funksjonen g er gitt ved g(x)=ax+b og g(0O)=3,5
+
+Cc) Bestem a og b.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten / Hgsten 2017 Side 21 av 24
+
+matematikk.net

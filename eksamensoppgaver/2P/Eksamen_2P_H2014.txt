@@ -1,0 +1,429 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 11 (1 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+0, 0003 -500 000 000
+0,002
+
+ 
+
+Oppgave 2 (1 poeng)
+
+Prisen for en vare er satt opp med 25 %. Na koster varen 250 kroner.
+
+Hva kostet varen fer prisen ble satt opp?
+
+Oppgave 3 (2 poeng)
+
+En bunke med 500 ark er 6 cm hgy.
+
+Hvor mange ark vil det veere i en bunke som er 300 m hg@y?
+Skriv svaret pa standardform.
+
+Oppgave 4 (1 poeng)
+
+Regn ut
+
+3 O
+<< 3.9%
+
+ 
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 13 av 24
+
+mate@matikk.net
+Oppgave 5 (4 poeng)
+
+| 2014 er det 350 elever ved en skole. Anta at det vil vere 275 elever ved skolen | 2029,
+og at antall elever avtar linezert i denne perioden.
+
+a) Bestem en modell som viser hvor mange elever A(x) det vil vaeere ved skolen x ar
+etter 2014.
+
+b) | Hvor mange elever vil det veere ved skolen | 2024 ifglge modellen i oppgave a)?
+
+Ved en annen skole antar ledelsen at funksjonen B gitt ved
+B(x) = 200-1,03*
+kan brukes som modell for antall elever ved skolen x ar etter 2014.
+
+c) Hva kan du si, uten a gjgre beregninger, om antall elever ved denne skolen ut fra
+modellen?
+
+Oppgave 6 (3 poeng)
+
+| september 2014 ble en mobilapplikasjon lastet ned 1500 ganger. Antall nedlastinger har
+@kt med 8 % per maned det siste aret, og vi antar at denne utviklingen vil fortsette.
+
+a) Sett opp et uttrykk som du kan bruke til a bestemme hvor mange ganger
+mobilapplikasjonen vil bli lastet ned i desember 2014.
+
+b) Sett opp et uttrykk som du kan bruke til a bestemme hvor mange ganger
+mobilapplikasjonen til Sammen ble lastet ned i juli, august, september og oktober
+2014.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 14 av 24
+
+mat@matikk.net
+Oppgave 7 (4 poeng)
+
+Frekvens
+
+ 
+
+Klassebredde
+
+2.5-
+
+2- re
+
+1.5-
+
+ 
+
+1
+
+ 
+
+0.5-
+
+ 
+
+ 
+
+ 
+
+ 
+
+w
+
+ 
+
+0 10 20 30 40 50 60 70 #80 90 £100
+Alder
+
+Histogrammet ovenfor viser aldersfordelingen blant de bes@kende pa en kinoforestilling.
+a) Forklar at det var 30 bes@kende mellom 30 og 50 ar.
+b) |Hvor mange prosent av de bes@kende var mellom O og 10 ar?
+
+c) Bestem gjennomsnittsalderen blant de besokende.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 15 av 24
+
+mat@matikk.net
+Oppgave 8 (3 poeng)
+
+|’ Avstand fra start (kilometer)
+
+ 
+
+Torbjern
+
+Tore
+
+Tid (minutter)
+x
+
+ 
+
+ 
+
+ul
+
+t t t t ' ' ' ' ' ' ' ' ' | ' t t ' t ' t t
+0 5 10 15 20 25 30 35 40 4 50 55 60 65 70 75 80 85 90 95 100 105 110 115
+
+>
+-
+
+Torbjorn og Tore padler fra Flekkefjord til Torsoy. Der gar de i land og tar en pause for de
+padler tiloake. Ovenfor ser du en forenklet grafisk framstilling av padleturen til Torbjorn
+
+(bla graf) og padleturen til Tore (rad graf).
+
+a) Hvem kommer ferst til Torsa@y?
+
+Hvor lenge er hver av de to guttene pa Torsgy?
+
+b) | Hvor fort padler Tore pa vei ut til Torsay?
+
+c) Hva kan du si om hjemturen ut fra grafene ovenfor?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oppgave 9 (5 poeng)
+Antall mal per kamp Frekvens
+O 2
+1 6
+2 3
+3 4
+4 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oda spiller ishockey. Tabellen ovenfor viser hvor mange mal hun skaret per kamp i Igpet av
+
+forrige sesong.
+
+a) Bestem gjennomsnittet og medianen.
+
+b) | Bestem den kumulative frekvensen for to mal per kamp.
+
+c) Bestem den relative frekvensen for tre mal per kamp.
+
+d) Forklar hva svarene i b) og c) forteller om antall mal Oda skaret denne sesongen.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014
+
+matematikk.net
+
+Side 16 av 24
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (3 poeng)
+
+| kropps@vingstimen kastet Svein spyd seks ganger. Nedenfor ser du hvor langt han kastet
+i hvert av de seks kastene.
+
+23,5 mM 26,1m 18,4 m 22,8 mM 25,1m 20,3 m
+
+a) Bestem gjennomsnittet og standardavviket.
+
+Kjell kastet ogsa spyd seks ganger. Standardawviket for kastene til Kjell var 3,2 m.
+
+6b) | Hva kan du ut fra dette si om kastene til Kjell sammenliknet med kastene til Svein?
+
+Oppgave 2 (5 poeng)
+
+En tankbil med gift har veert innblandet i en ulykke. Noe av giften har havnet i en innsjg.
+Innsjaen brukes som drikkevannskilde.
+
+Giftkonsentrasjonen f(x) mg/Lidrikkevannet x dggn etter ulykken er gitt ved
+
+f(x) =1,42-0,87°
+
+a) Bestem giftkonsentrasjonen i drikkevannet rett etter ulykken.
+Hvor mange prosent avtar giftkonsentrasjonen i drikkevannet per dggn?
+
+b) Hvor mye avtok giftkonsentrasjonen i drikkevannet i gijennomsnitt per dg@gn den
+forste uken etter ulykken?
+
+Nar giftkonsentrasjonen kommer under 0,40 mg/L, er det ikke lenger farlig a drikke
+vannet.
+
+c) Hvor mange d@egn tar det fer vannet igjen kan drikkes?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 17 av 24
+
+matematikk.net
+Oppgave 3 (4 poeng)
+
+Da Mads og Malin ble konfirmert, opprettet de hver sin konto i banken. Begge satte inn
+25 000 kroner. Renten er 2,25 % per ar.
+
+a) Hvor mye vil Mads ha pa kontoen 10 ar etter konfirmasjonen dersom han lar
+pengene sta urert?
+Hvor mange prosent har belgpet pa kontoen hans til sammen @kt i denne perioden?
+
+Malin lar pengene sta ur@rt i 5 ar. Sa setter hun inn 25 OOO kroner til pa kontoen sin.
+
+b) | Hvor mye vil Malin ha pa kontoen 10 ar etter konfirmasjonen?
+
+Oppgave 4 (4 poeng)
+oO Oo
+Oo G see. @9ees7?s
+®e 6 ee50ee @®9ees7?s
+Oo @ e e ®9eesd sé
+Oo O
+F, F, F,
+
+Ole lager figurer av runde perler. Ovenfor ser du tre figurer, F,, F, og F,.
+a) Felg samme monster, og tegn figuren F,.
+b) = Sett opp en modell som viser hvor mange perler det vil veere i figur F, uttrykt ved n.
+
+n
+
+C) Bruk modellen til A bestemme hvor mange perler det vil veere i figuren F,,.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 18 av 24
+
+mate@matikk.net
+Oppgave 5 (4 poeng)
+
+ 
+
+Du skal lage et fuglebur av hgnsenetting. Buret skal ha form som et rett, firkantet prisme.
+Buret skal bygges langs en mur slik at muren utgjor den ene veggen. Buret skal sta pa
+bakken og trenger ikke bunn.
+
+Sett bredden av buret lik x meter og hgyden lik h meter. Buret skal vere fire ganger sa
+langt som det er bredt. Se skissen ovenfor.
+
+a) Vis at overflaten O(x) m2 som skal lages av hgnsenetting, er gitt ved
+
+O(x) = 4x* + 6hx
+Du skal bruke 40 m? hg@nsenetting .
+
+b) Vis athgyden h meter av buret da er gitt ved
+
+— 40- Ax?
+6x
+
+h
+
+C) Hvordan ma du lage buret for at volumet skal bli storst mulig?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 19 av 24
+
+matematikk.net
+Oppgave 6 (8 poeng)
+
+Liter per person
+
+ 
+
+Diagrammet ovenfor viser hvor mange liter melk hver person i Norge drakk i gjennomsnitt
+hvert ar i perioden 2007-2013.
+
+Sett xX =O i 2007, x =1 i 2008 og sa videre.
+a)  Bruk opplysningene i diagrammet til a bestemme
+
+e en lineeer funksjon som viser hvordan forbruket av melk har endret seg i denne
+perioden
+
+e en andregradsfunksjon som viser hvordan forbruket av melk har endret seg |
+denne perioden
+
+b)  Tegn grafene til funksjonene du fant i oppgave a) i et koordinatsystem for
+O<x<25.
+
+c) Hvor mange liter melk vil hver person i Norge i giennomsnitt drikke hvert ar om ti ar
+ifglge hver av de to funksjonene?
+
+d) Hvor mange liter vil forbruket per person avta med per ar om ti ar ifelge hver av de to
+funksjonene?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 20 av 24
+
+mat@matikk.net
+Oppgave 7 (8 poeng)
+
+| displayet pa en tredemaglle kan farten justeres mellom O km/h og 20 km/h. Det er
+mistanke om at bandet pa tredemgllen gar for fort i forhold til farten som angis i displayet
+(angitt fart). En gruppe 2P-elever far i oppgave a unders@ke dette.
+
+Elevene maler at lopebandet pa tredemagllen er 3,25 meter langt. Nar bandet har gatt én
+runde, har man altsa lgpt 3,25 meter. For a undersoke sammenhengen mellom angitt fart
+og reell fart teller elevene antall runder bandet gar i Iopet av ett minutt ved ulike
+fartsangivelser.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Angitt fart  Tyoet av ott | Reell fart
+x km/h eM F(x) km/h
+25 18 3,51
+5,0 35
+10,0 65
+15,0 95
+20,0 124
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Skriv av tabellen ovenfor i besvarelsen din, gj@r beregninger, og fyll inn verdiene for
+reell fart i kolonnen til hgyre.
+
+Elevene vil lage en modell som viser den reelle farten f(x) km/h som funksjon av den
+angitte farten x km/h.
+
+b) Bestem den lineeere funksjonen som passer best som modell for denne
+sammenhengen.
+Bestem den potensfunksjonen som passer best som modell for denne
+sammenhengen.
+
+Hvilken av disse to modellene mener du elevene ber velge? Begrunn svaret.
+
+Henrik vil lope i 15 km/h.
+
+c)  Hvilken fart ber han angi i displayet pa tredemgllen ifolge modellen du valgte i
+oppgave b)’?
+
+Elevene vil lage et oppslag som skal henge ved siden av tredemgllen, slik at de som I@per,
+
+kan finne den reelle farten.
+
+d) Lag etforslag til oppslag.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2014 Side 21 av 24
+
+mate@matikk.net

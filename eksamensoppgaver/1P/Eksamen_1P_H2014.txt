@@ -1,0 +1,448 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Antall boker
+4
+
+8000 --
+7000
+
+ 
+
+ 
+
+6000
+
+ 
+
+5000
+
+4000 -
+
+3000 -
+
+2000 -
+
+1000 -
+
+ 
+
+ 
+
+0 -
+
+ 
+
+2010 2011 2012 2013
+
+Diagrammet ovenfor viser hvor mange bgker en forfatter har solgt hvert ar de fire siste
+arene.
+
+Nar var den prosentvise @kningen i salget fra et ar til det neste storst?
+
+Oppgave 2 (1 poeng)
+
+lfglge en oppskrift trenger du 500 g kjottdeig for a lage middag til fire personer.
+
+Hvor mye kjgttdeig trenger du for a lage middag til ni personer?
+
+Oppgave 3 (2 poeng)
+
+| basisaret kostet en vare 600 kroner. | 2013 kostet varen 720 kroner.
+Vi antar at prisen for varen har fulgt indeksen.
+
+Bestem indeksen for varen i 2013.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 14 av 24
+
+mat@ematikk.net
+Oppgave 4 (2 poeng)
+
+| en klasse er det seks gutter og fire jenter. To elever velges tilfeldig til a vaeere med i en
+Spe@rreunders@kelse.
+
+Tegn et valgtre, og bruk dette til a bestemme sannsynligheten for at én jente og én gutt
+velges ut.
+
+Oppgave 5 (2 poeng)
+
+ 
+
+REM ANOOS eae AT
+Gs a — b MR EMA 1000 _—
+
+{|
+
+ 
+
+\ \. )
+\ ’
+
+Trond pastar at antall kiwi du kjgper i denne butikken, og belgpet du betaler for kiwiene, er
+proporsjonale sterrelser. Therese mener det ikke er grunnlag for a pasta dette.
+
+Hvordan kan Trond og Therese argumentere?
+
+Oppgave 6 (3 poeng)
+| 2006 kostet en vare 600 kroner. | 2014 koster varen 1 OOO kroner.
+
+a)  |l@pet av disse atte arene har prisen okt lineeert. Forklar hva det vil si.
+
+Vi antar at prisen fortsetter a ake linezert.
+b) | Bestem en funksjon f som viser prisen f(x) kroner for varen X ar etter 2006.
+
+c)  Hvor mye vil varen koste i 2018 ifolge funksjonen i oppgave b)?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 15 av 24
+
+mat@ematikk.net
+Oppgave 7 (4 poeng)
+
+Julie har fatt folgende oppgave:
+
+ 
+
+«En formiddag i barnehagen var det fem ganger sa mange barn ute som inne. Etter luns)
+kom tre barn til ut. Da ble det atte ganger sa mange barn ute som inne.
+
+Hvor mange barn var det i barnehagen denne dagen?»
+
+ 
+
+ 
+
+ 
+
+Hun arbeider med teksten, og setter fgrst opp en tabell:
+
+ 
+
+ 
+
+ 
+
+Inne Ute
+X 5x
+x-3 5x+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sa setter hun opp denne likningen:
+8(x —3)=5x+3
+
+a) Forklar hvordan Julie kommer fram til uttrykkene som er satt inn i tabellen, og
+hvordan hun kommer fram til likningen.
+
+b) Ls likningen.
+Hvor mange barn var det i barnehagen denne dagen?
+
+Oppgave & (4 poeng)
+
+a) Hva kjennetegner et annuitetslan?
+Hva kjennetegner et serielan?
+
+Siv tar opp et annuitetslan pa 2 OOO OOO kroner. Solveig tar opp et serielan pa
+2 000 OOO kroner. Begge far samme rentesats, og de skal betale ned lanene over like
+lang tid.
+
+b) Hvorfor ma Siv totalt betale mer tilbake til banken enn Solveig?
+
+C) Hvorfor kan det for noen veere gunstig a velge et annuitetslan framfor et serielan?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 16 av 24
+
+matematikk.net
+Oppgave 9 (4 poeng)
+
+{\
+
+Figur 1 Figur 2
+
+Figur 1 ovenfor er Ssammensatt av en trekant og en halvsirkel. Halvsirkelen har radius 5,5.
+
+Figur 2 er sammensatt av en trekant og to halvsirkler. Den minste halvsirkelen har radius
+2,5 og den ste@rste har radius 6,0.
+
+a) Vis at linjestykket PO har lengde 13.
+
+b)  Gjor beregninger, og avgjer hvilken figur som har sterst omkrets.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 17 av 24
+
+mat@matikk.net
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (4 poeng)
+
+Da skatteetaten la ut det forelopige skatteoppgjgret pa nett 19. mars i ar, var dette en av
+overskriftene pa nettsidene til Teknisk Ukeblad:
+
+ 
+
+SELVANGIVELSEN 2013
+
+45 palogginger hvert sekund for a
+sjekke skatten
+
+ 
+
+ 
+
+ 
+
+Anta at pagangen var like stor hele denne dagen.
+
+a) Hvor mange hadde da logget seg pa i Igpet av én time?
+
+Omtrent 900 OOO skattytere fikk skatteoppgjgret sitt elektronisk denne dagen.
+
+b) Hvor lang tid ville det gatt for alle hadde logget seg pa?
+
+Nedenfor ser du et annet sitat fra nettet i forbindelse med skatteoppgjgret.
+
+ 
+
+Onsdag 19. mars kan nzr 900.000 skattytere sjekke selvangivelsen ...
+
+«I denne omgang er det bare elektroniske brukere (e-brukere) som
+far tilgang til selvangivelsen. Resten, det vil si rundt 3,7 millioner
+innbyggere, ma vente til 1. april for de far skattedommen.»
+
+ 
+
+ 
+
+ 
+
+c) Hvor mange prosent av skattyterne i Norge er elektroniske brukere?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 18 av 24
+
+mat@ematikk.net
+Oppgave 2 (4 poeng)
+
+Funksjonen f er gitt ved
+
+f(x) =—0,003x* —0,005x*+0,8x , O<x<18
+
+a)  Tegn grafentil f.
+b) Bestem nullpunktene til f.
+
+Bestem toppunktet pa grafen til f.
+
+En sommernatt begynte det a sng i en fjellbygd. Nar f(x) >Oviser funksjonen f
+sn@dybden f(x) cm ibygda x timer etter midnatt.
+
+c)  Hva forteller svarene du fant i oppgave b) om sngdybden i fjellbygda?
+
+Oppgave 3 (5 poeng)
+
+| en by abonnerer 39 % av husstandene pa lokalavisen, mens 32 % av husstandene
+abonnerer pa regionavisen. 41 % av husstandene abonnerer ikke pa noen av de to
+avisene.
+
+a) Systematiser opplysningene ovenfor i et venndiagram eller en krysstabell.
+
+En husstand i byen abonnerer pa regionavisen.
+
+b) | Bestem sannsynligheten for at denne husstanden ogsa abonnerer pa lokalavisen.
+
+Tre husstander i byen velges ut tilfeldig.
+
+c) Bestem sannsynligheten for at akkurat én av husstandene abonnerer pa lokalavisen.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 19 av 24
+
+matematikk.net
+Oppgave 4 (6 poeng)
+
+AABC og ABDE er formlike.
+
+AB=4,0 cm
+AC=2,4 cm
+BE =20,0 cm
+CD=16,8 cm
+
+a) Bestem lengden av DE ved regning.
+
+b) Bestem lengden av BC ved regning
+
+Arealet av AABC er 3,3 cm2
+
+c) Bestem arealet av ABDE ved regning.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 20 av 24
+
+mat@matikk.net
+Oppgave 5 (4 poeng)
+
+Stanley har laget en sopp som skal brukes i en juleutstilling. Soppen er en sylinder med en
+halvkule pa toppen.
+
+Sylinderen har radius 2,0 dm, og halvkulen har radius 4,0 dm.
+Heyden i sylinderen er lik radien i halvkulen.
+
+a) Bestem volumet av soppen.
+
+Stanley skal male soppen. 1 L maling er nok til 6 m2.
+
+b) Hvor mye maling trenger han?
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 21 av 24
+
+mate@matikk.net
+Oppgave 6 (4 poeng)
+
+ 
+
+Ar 2010 2011 2012 2013
+Konsumprisindeks 128,8 130,4 131,4 134,2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| 2011 flyttet Per inn i ny leilighet. Husleien var da 8000 kroner per maned.
+| leiekontrakten til Per star det blant annet:
+
+ 
+
+Manedsleien justeres én gang per ar. Dette skjer i januar i samsvar med
+konsumprisindeksen fra aret for. Manedsleien rundes alltid opp til naeermeste
+hele krone.
+
+ 
+
+ 
+
+ 
+
+a) Vis at manedsleien fra og med januar 2012 var 8100 kroner.
+
+b) Hvor mye betalte Per til sammen i husleie fra og med januar 2012 til og med
+desember 2013?
+
+Oppgave 7 (7 poeng)
+
+Arne opprettet en hgyrentekonto i banken 1. januar 2014 og satte inn 75 OOO kroner.
+Renten er 1,75 % per ar.
+
+a)  Hvor mye vilhan ha i banken 1. januar 2017?
+
+Eirik opprettet en BSU-konto (boligsparing for ungdom) i banken 1. januar 2014 og satte
+inn 25 OOO kroner. Renten er 4,5 % per ar. Eirik vil sette inn 25 OOO kroner pa kontoen
+1. januar 2015 og 1. januar 2016.
+
+b) Hvor mye vil han ha i banken 1. januar 2017?
+
+Eirik far et skattefradrag pa 20 % av belgpet han setter inn pa kontoen hvert ar.
+c) Vis at dette betyr at han til sammen betaler 15 OOO kroner mindre i skatt i Iopet av
+
+disse tre arene enn han ellers ville ha gjort.
+
+d) Vis at nar vi ser pa renter og skattefradrag, «tjenerm Eirik omtrent 448 % mer enn
+Arne ved a velge BSU framfor hgyrentekonto.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 22 av 24
+
+matematikk.net
+Oppgave 8 (2 poeng)
+
+ts
+
+y
+4000)" Timelenn
+3800; —- (kroner)
+
+3600;
+3400;
+3200+
+3000;
+2800;
+2600;
+
+2200
+2000-
+1800-
+
+1600-
+
+1200-
+1000-
+800-
+600-
+400-
+
+200- Antall timer x
+
+ 
+
+ 
+
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40
+
+Maler Jensen tilbyr en kunde en fast pris for a male et hus. Grafen ovenfor viser
+sSammenhengen mellom antall timer Jensen bruker pa jobben, og timelonnen han vil fa.
+
+Bestem Jensens timelonn dersom han bruker 64 timer pa jobben.
+
+ 
+
+Eksamen MAT1011 Matematikk 1P Hausten/H@sten 2014 Side 23 av 24
+
+mat@ematikk.net

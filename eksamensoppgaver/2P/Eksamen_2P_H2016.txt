@@ -1,0 +1,608 @@
+ 
+
+DEL 1
+Uten hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (1 poeng)
+
+Skriv tallene nedenfor pa standardform
+
+26,3 millioner 16,5-10°
+
+Oppgave 2 (1 poeng)
+
+    
+
+Regn ut og skriv svaret som desimaltall
+
+3,5-10°
+7,0:10° -0,5-10°
+
+ 
+
+Oppgave 3 (1 poeng)
+
+Ved en skole er det 135 jenter og 115 gutter.
+Hvor mange prosent av elevene er jenter?
+
+Oppgave 4 (2 poeng)
+
+En vare kostet like mye i butikk A og butikk B. Sa ble prisen endret.
+
+| butikk A ble prisen fgrst satt opp med 10 %. Senere ble prisen satt ned med 10 %.
+| butikk B ble prisen forst satt ned med 10 %. Senere ble prisen satt opp med 10 %.
+
+Avgjor hvilken av de tre pastandene nedenfor som er riktig.
+Pastand 1: Varen koster na minst i butikk A.
+
+Pastand 2: Varen koster na minst i butikk B.
+Pastand 3: Varen koster na like mye i de to butikkene.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 15 av 28
+
+mate@matikk.net
+Oppgave 5 (2 poeng)
+
+Tenk deg at du har 1024 kroner. Hver uke framover bruker du halvparten av de pengene
+du har igjen.
+
+Skriv 1024 som en potens med grunntall 2, og regn med potenser for a bestemme
+hvor mye du vil ha igjen etter 7 uker.
+
+Oppgave 6 (4 poeng)
+
+Antall dyr
+11000 } --------b -------- tonne nt n nnn nnn do nnn nnn nnn nnn np nn nnn pon nnn nnn pone nnn pon enn
+
+10000
+9000
+8000
+
+7000
+
+ 
+
+6000
+
+9000
+
+4000
+
+3000
+
+2000
+
+1000
+Ar etter 2010
+
+ 
+
+X
+0 | 2 3 - 3
+
+Linjediagrammet ovenfor viser hvordan antall dyr av en art har avtatt innenfor et bestemt
+omrade i perioden 2010-2015.
+
+a) Bestem en linezer funksjon som tilneermet beskriver utviklingen.
+
+b) Hvor mange dyr av arten vil det veere i omradet i 2018 ifelge
+funksjonen fra oppgave a) ?
+
+c) Hvor mange ar vil det ga for det ikke er flere dyr av arten igjen i omradet ifglge
+funksjonen fra oppgave a) ?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 16 av 28
+
+matematikk.net
+Oppgave 7 (4 poeng)
+
+ 
+
+Sondre solgte frukt og gronnsaker pa torget 20 lordager i Iopet av 2016. Hver av de
+20 Igrdagene skrev han opp hvor mange kunder han hadde. Han laget ogsa en tabell.
+Tabellen ser du nedenfor, men her mangler noen av tallene Sondre satte inn.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Antall kunder Frekvens Relativ frekvens Kumulativ frekvens
+| 0,50) 0,05
+
+| 50,100) 6
+
+| 100,150) 8
+
+| 150, 200) 20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Tegn av tabellen ovenfor, og fyll inn tallene som mangler.
+Gj@r beregninger eller forklar hvordan du tenker.
+
+Nedenfor ser du listen der Sondre har skrevet opp hvor mange kunder han hadde hver av
+de 20 lordagene. Tre av tallene er skjult under flekker.
+
+116 100 at 125 185 125 4150 at 60 75
+120 50 140 175 at 88 133 96 105 4169
+
+b) Foresla tre mulige tall som kan sta under de tre flekkene slik at de 20 verdiene
+ovenfor gir resultatene i tabellen.
+
+ 
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 17 av 28
+
+mat@matikk.net
+Oppgave 8 (2 poeng)
+
+Siri har kjgpt bil. Hun antar at verdien av bilen x ar etter at hun kjgpte den, vil vere gitt
+
+ved
+V(x) = 250000-0,9"*
+
+a) Hva forteller tallene 250 000 og 0,9 i dette funksjonsuttrykket om verdien av
+
+Siris bil?
+
+b) Hva vil bilens verdi veere ett ar etter at Siri kiopte den?
+
+Oppgave 9 (3 poeng)
+
+Tabellen nedenfor viser hvor mange poeng hver av de 30 elevene i en 2P-gruppe fikk pa
+
+en matematikkpr@ve.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Poeng Antall elever
+| 0, 5) 4
+| 5, 10) 12
+| 10, 15) 10
+| 15, 20) 0
+| 20, 25) 4
+
+ 
+
+ 
+
+a) Bestem gjennomsnittet for det klassedelte datamaterialet.
+
+Per var en av elevene som hadde preven. Han fikk 10 poeng og pastar at han var blant
+
+den beste halvdelen av elevene.
+
+b) Kan Per bruke medianen for datamaterialet til a begrunne pastanden sin?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2016
+
+mate@matikk.net
+
+Side 18 av 28
+Oppgave 10 (4 poeng)
+
+Nedenfor har vi beskrevet fire ulike situasjoner.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Situasjon | Beskrivelse
+
+1 Eline tar en Iopetur. Hun starter hjemmefra i rolig tempo og ker sa tempoet
+etter hvert. Etter en stund snur hun og Il@per raskt tiloake samme vel.
+
+> Eline loper hjemmefra for a rekke bussen. Etter a ha ventet noen minutter
+skjonner hun at hun ikke rakk bussen, og gar tiloake samme vei.
+
+3 Eline starter hlemmefra og gar opp en bratt bakke. Hun tar en liten pause pa
+toppen av bakken fer hun Igper tiloake samme vel.
+
+4 Eline starter hjemmefra og padler over fjorden. | starten har hun motvind, men
+etter hvert avtar vinden, og farten oker.
+
+ 
+
+Nedenfor ser du grafiske framstillinger som beskriver sammenhengen mellom tid og Elines
+avstand hjemmefra for hver av de fire situasjonene.
+
+ly Avstand hjemmefra
+
+A
+
+ 
+
+ 
+
+Tid |
+
+y Avstand hjemmefra
+
+C
+
+ 
+
+ 
+
+Tid
+
+Hvilken graf passer til situasjon 1°?
+Hvilken graf passer til situasjon 2?
+Hvilken graf passer til situasjon 3?
+Hvilken graf passer til situasjon 4?
+
+Begrunn svarene dine.
+
+ 
+
+y Avstand hjemmefra
+
+ 
+
+ 
+
+Tid
+
+y Avstand hjemmefra
+
+ 
+
+Tid
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/H@sten 2016
+
+matematikk.net
+
+Side 19 av 28
+
+ 
+ 
+
+DEL 2
+Med hjelpemidier
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Tid brukt pa ulike massemedier en gjennomsnittsdag
+
+Internett 127
+
+Radio
+
+ 
+
+Papiraviser
+
+Ukeblader ‘ 2
+
+0 20 40 60 80 100 120 140
+Minutter
+
+Diagrammet ovenfor viser hvor mange minutter personer i Norge brukte pa ulike
+massemedier en gijennomsnittsdag i 2015.
+
+Lag et sektordiagram som viser hvor stor andel av tiden som ble brukt pa hvert av de ulike
+massemediene.
+
+Oppgave 2 (3 poeng)
+
+Verdien av en eiendom har ekt med 2,5 % per ar fram til na. Anta at verdien vil fortsette a
+@ke med 2,5 % per ar framover. | dag er eiendommen verd 6 500 OOO kroner.
+
+a) Hva vil verdien av eiendommen vere om 8 ar?
+b) Hva var verdien av eiendommen for 8 ar siden?
+
+c) Nar vil verdien av eiendommen passere 10 OOO O00 kroner?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 20 av 28
+
+mat@ematikk.net
+Oppgave 3 (8 poeng)
+
+Tabellen nedenfor viser pris og antall solgte enheter av en vare.
+
+ 
+
+Pris (kroner) 15 19 24 30 34 42 5O
+
+ 
+
+Antall solgte enheter 160 | 132 | 108 | 90 19 6/7 58
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Bruk regresjon til a vise at funksjonen f gitt ved
+
+f(x) =1600-x°*
+
+er en god modell for sammenhengen mellom pris x og antall solgte
+enheter av varen.
+
+b) Bruk graftegner til a tegne grafen til f for 15<x <50
+c) Bestem antall solgte enheter nar prisen er 45 kroner.
+d) Bestem prisen nar antall solgte enheter er 100.
+
+e) Bestem den gjennomsnittlige vekstfarten for funksjonen f fra x =20 til x=45.
+Hva forteller svaret om antall solgte enheter?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 21 av 28
+
+mate@matikk.net
+Oppgave 4 (6 poeng)
+
+Klasse 2A har hatt matematikkprove. De 15 elevene i klassen fikk disse poengsummene:
+
+31 8 24 9 24 14 26 13
+
+26 4 13 2/ 12 20 28
+a) Bestem gjennomsnittet og medianen for poengsummene.
+Pastand 1: Gjennomsnittet er 7,0 % lavere enn medianen.
+Pastand 2: Medianen er 7,5 % hgyere enn gjennomsnittet.
+b) Avgjgr om hver av pastandene ovenfor er riktige.
+c) Bestem standardavviket for poengsummene.
+15 elever fra klasse 2B har hatt samme pr@ve. | denne klassen ble gjennomsnittet for
+
+poengsummene 18,6 og standardawviket 5,9.
+
+d) Hva kan du si om poengsummene i 2B sammenliknet med poengsummene | 2A?
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 22 av 28
+
+mate@matikk.net
+Oppgave 5 (5 poeng)
+
+Nar en pasient har tatt en tablett, vil virkestoffet i tabletten brytes ned i kroppen.
+Konsentrasjonen av virkestoffet i blodet vil avta eksponentielt med tiden.
+
+Tabellen nedenfor viser konsentrasjonen i mikrogram per milliliter (ug/ML ) av virkestoffet
+i blodet 1 time etter og 24 timer etter at pasienten har tatt tabletten.
+
+ 
+
+Timer etter at pasienten har tatt tabletten 1 24
+
+ 
+
+Konsentrasjon av virkestoff i blodet (ug /mL) 0,50 0,050
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Bruk opplysningene i tabellen til a bestemme en eksponentiell modell f(x) for
+konsentrasjonen av virkestoffet | blodet x timer etter at pasienten har tatt en tablett.
+
+b) Bruk modellen fra oppgave a) til a bestemme konsentrasjonen av virkestoffet i blodet
+10 timer etter at pasienten har tatt en tablett.
+
+En pasient begynner a ta tabletter. Han tar én tablett kiokka 08.00 hver morgen og én
+tablett klokka 20.00 hver kveld.
+
+c) Bruk modellen fra oppgave a) til a bestemme konsentrasjonen av virkestoffet i blodet
+30 timer etter at pasienten tok den ferste tabletten.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 23 av 28
+
+mate@matikk.net
+Oppgave 6 (6 poeng)
+
+1. september 2016 kjgpte Monica en hytte. Hun lante da 1 O00 OOO kroner av foreldrene.
+
+De inngikk felgende avtale:
+
+- Renten pa lanet skal veere 2,5 % per ar.
+
+-  Tilbakebetalingen skal skje ved at Monica overfgrer 100 OOO kroner til foreldrenes
+konto 1. september hvert ar til lanet er nedbetalt.
+
+- Fgrste overfgring skal skje 1. september 2017.
+
+| denne oppgaven skal du lage et regneark som viser
+
+e hvor mye Monica skylder foreldrene etter hver overforing fram til lanet er nedbetalt
+e hvor mye Monica betaler i renter, og hvor mye hun betaler i avdrag hvert ar
+e hvor mye Monica totalt vil ha betalt i renter i Igpet av nedbetalingstiden
+
+Nedenfor ser du et eksempel pa hvordan de ferste radene i regnearket kan se ut.
+Husk at du i ste@rst mulig grad skal benytte formler, slik at lasningen blir dynamisk, og at
+formlene som er brukt, skal komme klart fram i besvarelsen din.
+
+ 
+
+A B C D E F
+
+o
+, Lan-Hytte
+2
+3 Lanebelgp: kr 1 000 000,00
+4 Rente: 2,5%
+5
+6 Vekstfaktor: 1,025
+7
+8 Dato Skyldig belgp fgr innbetaling Innbetaling Skyldig belgp etter innbetaling Betaltiavdrag Betalti renter
+9 01.09.2016 kr 1000000,00 kr - kr 1000000,00 kr - kr -
+10 01.09.2017 kr 1025000,00 kr 100 000,00 kr 925000,00 kr 75000,00 kr 25 000,00
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 24 av 28
+
+matematikk.net
+Oppgave 7 (6 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Snorre lager figurer av kvadratiske klosser etter et fast mgnster.
+Ovenfor ser du figur F,, F, og F, .
+
+a) Hvor mange klosser trenger Snorre for 4 lage F, og for a lage F, ?
+
+b) Bestem et uttrykk for antall klosser i figur F, uttrykt ved n.
+
+n
+
+Snorre har 1000 klosser. Han vil lage en figur som er sa stor som mulig.
+
+c) Bruk formelen fra oppgave b) til a bestemme hvor mange klosser han far til overs
+nar han har laget figuren.
+
+ 
+
+Eksamen MAT1015 Matematikk 2P Hausten/Hgsten 2016 Side 25 av 28
+
+mat@matikk.net

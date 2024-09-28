@@ -1,0 +1,858 @@
+U
+
+juapisyeq ed sdijsuawesya as
+
+Utdannings-
+direktoratet
+
+19.11.2019
+
+ 
+
+Eksamen
+MAT1013 Matematikk 1T
+
+ 
+
+Nynorsk/Bokmal
+Nynorsk
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timar.
+Del 1 skal leverast inn etter 3 timar.
+Del 2 skal leverast inn seinast etter 5 timar.
+
+ 
+
+Hjelpemiddel pa Del 1 | Vanlege skrivesaker, passar, linjal med centimetermal og
+vinkelmalar.
+
+ 
+
+Hjelpemiddel pa Del 2 | Alle hjelpemiddel er tillatne, med unntak av internett og andre
+verktgy som tillet kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 13 oppgaver. Del 2 har 5 oppgaver.
+
+Der oppgaveteksten ikkje seier noko anna, kan du fritt velje
+framgangsmate. Dersom oppgava krev ein bestemt
+lsysingsmetode, kan ein alternativ metode gi lag/noko
+
+ 
+
+utteljing.
+Bruk av digitale verktgy som grafteiknar og CAS skal
+dokumenterast.
+Rettleiing om Poeng i Del 1 og Del 2 er berre rettleiande i vurderinga.
+vurderinga Karakteren blir fastsett etter ei samla vurdering. Det betyr at
+
+sensor vurderer i kva grad du
+
+— viser rekneferdigheiter og matematisk forstaing
+
+— gjennomf¢rer logiske resonnement
+
+— ser samanhengar i faget, er oppfinnsam og kan ta i bruk
+fagkunnskap i nye situasjonar
+
+— kan bruke formalstenlege hjelpemiddel
+
+— forklarer framgangsmatar og grunngir svar
+
+—  skriv oversiktleg og er ngyaktig med utrekningar,
+nemningar, tabellar og grafiske framstillingar
+
+— vurderer om svar er rimelege
+
+ 
+
+Andre opplysningar Kjelder for bilete, teikningar osv.
+
+Fisk, kj@tt, dessert: godt.no (04.05.2019)
+Symfyse-fundusmal: https://symfysefundus.no (17.03.2019)
+Matematikk: ung.no (05.05.2019)
+
+Sprak: pixabay.com (05.05.3019)
+
+Andre bilete, teikningar og grafiske framstillingar:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1013 Side 2 av 24
+ 
+
+DEL 1
+Utan hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+Rekn ut og skriv svaret pa standardform
+
+0,000 46 - 25000000
+0,05
+
+ 
+
+Oppgave 2 (2 poeng)
+
+Lgys likningssystemet
+
+2X+3y=6
+5x+6y=18
+
+Oppgave 3 (2 poeng)
+Lgys ulikskapen
+
+—2(x+2)(x-4)>0
+
+Oppgave 4 (2 poeng)
+Trekk saman og skriv sa enkelt som mogleg
+
+2x*4+X+3 xX
+
+x? -9 x+3
+
+ 
+
+Eksamen MAT1013 Side 3 av 24
+Oppgave 5 (5 poeng)
+
+Loys likningane
+
+a) Ig(4x)=0
+
+48
+
+I
+2
+
+c) 2°. 2% =16
+
+Oppgave 6 (2 poeng)
+Ei rett linje gar gjennom punkta (—7,—1) og (5,2).
+
+Bestem ei likning for linja ved rekning.
+
+Oppgave 7 (2 poeng)
+Gitt likninga ax*+3x+1=x-2,der ax0
+
+Bestem ein verdi av a slik at likninga berre har éi Igysing.
+
+Oppgave 8 (4 poeng)
+
+Ein funksjon f er gitt ved
+f(x)=x°+4x?+x-6
+
+a) Bestem f’(x)
+
+b) Bestem den momentane vekstfarten til f i punktet (—3, f(-3))
+
+c) Bestem den gjennomsnittlege vekstfarten til f i intervallet | 1, 2 |
+
+ 
+
+Eksamen MAT1013 Side 4 av 24
+Oppgave 9 (3 poeng)
+
+ 
+
+Pa ein skoletur fekk elevane servert middag. Dei kunne velje mellom ein fiskerett og
+ein kj@ttrett. | tillegg fekk alle som @nskte det, dessert.
+
+Det viste seg at = av elevane valde fiskeretten, medan resten valde kjgttretten.
+Halvparten av dei som valde fiskeretten, onskte dessert, medan - av dei som valde
+kjottretten, onskte dessert.
+
+a) Lag eit valtre som illustrerer situasjonen ovanfor.
+
+Tenk deg at vi vel ein tilfeldig elev som var med pa turen.
+
+b) Bestem sannsynet for at denne eleven gnskte dessert.
+
+Oppgave 10 (3 poeng)
+
+Gitt ein funksjon f . Forteiknet til funksjonsuttrykket f(x) og til den deriverte av
+funksjonen f’(x) varierer som vist i figuren nedanfor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+—3 2 4 7
+X - verdier rs — >
+F(x)
+f’(x) ?
+
+ 
+
+ 
+
+Lag ei skisse som viser korleis grafen til f kan sja ut.
+
+ 
+
+Eksamen MAT1013 Side 5 av 24
+Oppgave 11 (4 poeng)
+
+Skissa nedanfor viser ein rettvinkla, likebeint trekant med hypotenus 44/2
+
+4/2
+
+ 
+
+ 
+
+a) Bestem lengdene av katetane i trekanten.
+b) Bruk trekanten til a bestemme tanv.
+
+c) Bruk trekanten til a vise at sinv = =
+
+Oppgave 12 (2 poeng)
+
+3/2
+
+45°
+
+ 
+
+Bestem arealet av trekanten ovanfor.
+
+ 
+
+Eksamen MAT1013
+
+Side 6 av 24
+Oppgave 13 (3 poeng)
+For a bestemme ein ukjend vinkel i ein trekant Igyser Stein likninga nedanfor.
+
+sinx _ sin40°
+108
+
+ 
+
+Han far to Idysingar. Den eine Idysinga er x =53,5°
+
+a) Bestem den andre I@ysinga.
+
+Dei to Idysingane svarer til to ulike trekantar.
+
+b) Lag skisser som viser korleis trekantane kan sja ut.
+
+ 
+
+Eksamen MAT1013 Side 7 av 24
+ 
+
+DEL 2
+Med hjelpemiddel
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+For a vurdere om eit foster veks som forventa, utfgrer jordmor og lege regelmessige
+malingar av magen til den gravide fra veke 24 i svangerskapet. Desse malingane blir
+kalla symfyse-fundusmal og maler avstanden fra den @vste kanten av underlivsbeinet
+(symfysen) til toppen av livmora (fundus). Ut fra malingane blir det teikna ei
+vekstkurve for fosteret.
+
+Toppen av livmor
+'
+
+Underlivsbeinet
+
+ 
+
+Funksjonen G gitt ved
+
+G(x) = -0,0011x* + 0,097x? -1,945x+29,3 , | 23, 42]
+
+viser symfyse-fundusmalet G(x) cmiveke xX av eit bestemt svangerskap.
+
+a) Bruk grafteiknar til a teikne vekstkurva G.
+
+b) Bestem den momentane vekstfarten til funksjonen G nar x =29.
+Gi ei praktisk tolking av dette svaret.
+
+c) Kor mykje aukar symfyse-fundusmalet i gjennomsnitt per veke fra veke 23 til veke
+A0 i dette svangerskapet, ifg@lgje funksjonen G?
+
+ 
+
+Eksamen MAT1013 Side 8 av 24
+Oppgave 2 (4 poeng)
+
+G
+.= Dzien dobry
+SS SZIA
+SS=HEI = NOROC\—
+SVEIKI a mo H GUTEN TAG = = SANNU
+SCzes¢ M= S BONJOUR = PRONTO
+sHELLOSaMS2Q|42
+HALOO: = DIA DUITS SALE
+TIENS < ZDRAVO S MERHABA L <O S HALLO
+= (Li SALUT = >
+ox =
+o
+= N
+
+Tjanare
+
+vi
+
+ 
+
+VER
+
+| ein klasse er det 30 elevar. 12 av elevane har tysk som framandsprak. 14 av elevane
+har matematikk 1T. 10 elevar har verken tysk eller 1T.
+
+a) Systematiser opplysningane ovanfor i ein krysstabell eller i eit venndiagram.
+
+Tenk deg at du trekkjer ein elev fra klassen tilfeldig.
+
+b) Bestem sannsynet for at eleven har tysk, men ikkje 1T.
+
+Tenk deg at du har trekt ein elev som ikkje har 1T.
+
+c) Bestem sannsynet for at eleven har tysk.
+
+ 
+
+Eksamen MAT1013 Side 9 av 24
+Oppgave 3 (3 poeng)
+
+ 
+
+Gitt AABC og AADE ovanfor. AB=13, AC=12 og AD=9,6.
+
+Bestem lengda ED.
+
+Oppgave 4 (3 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gitt firkanten ovanfor. AD=a, AC=2a, BC = V3-a, ZADC =90° og ZBCD=165°
+a) Bestem lengda av sida CD uttrykt ved a.
+
+b) Bestem lengda av sida AB uttrykt ved a.
+
+ 
+
+Eksamen MAT1013 Side 10 av 24
+Oppgave 5 (8 poeng)
+
+Funksjonen f er gitt ved
+
+f(x)= x? -—2k-x*+k*-x , k>0
+
+a) Bestem nullpunkta til f .
+b) Bestem f’(x).
+
+c) Bruk svara fra oppgave a) og oppgave b) til a argumentere for og avgjere kva for
+ein av grafane nedanfor som er grafen til f .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d) Bruk CAS til a bestemme stigingstalet til den rette linja som gar gjennom
+toppunktet og botnpunktet pa grafen til f.
+
+e) Vis at grafen til f berre har éin tangent med stigingstal -3k
+
+Bestem koordinatane til tangeringspunktet T mellom denne tangenten og
+grafen til fF.
+
+ 
+
+Eksamen MAT1013 Side 11 av 24
+Bokmal
+
+ 
+
+Eksamensinformasjon
+
+ 
+
+Eksamenstid Eksamen varer i 5 timer.
+Del 1 skal leveres inn etter 3 timer.
+Del 2 skal leveres inn senest etter 5 timer.
+
+ 
+
+Hjelpemidler pa Del 1 | Vanlige skrivesaker, passer, linjal med centimetermal og
+vinkelmaler.
+
+ 
+
+Hjelpemidler pa Del 2. | Alle hjelpemidler er tillatt, med unntak av internett og andre
+verktgy som tillater Kommunikasjon.
+
+ 
+
+Framgangsmate Del 1 har 13 oppgaver. Del 2 har 5 oppgaver.
+
+Der oppgaveteksten ikke sier noe annet, kan du fritt velge
+framgangsmate. Dersom oppgaven krever en bestemt
+lgsningsmetode, kan en alternativ metode gi lav/noe uttelling.
+
+Bruk av digitale verktgy som graftegner og CAS skal
+
+ 
+
+dokumenteres.
+Veiledning om Poeng i Del 1 og Del 2 er bare veiledende i vurderingen.
+vurderingen Karakteren blir fastsatt etter en samlet vurdering. Det betyr at
+
+sensor vurderer i hvilken grad du
+
+— viser regneferdigheter og matematisk forstaelse
+
+— gjennomf¢rer logiske resonnementer
+
+— ser sammenhenger i faget, er oppfinnsom og kan ta i
+bruk fagkunnskap i nye situasjoner
+
+— kan bruke hensiktsmessige hjelpemidler
+
+— forklarer framgangsmater og begrunner svar
+
+—  skriver oversiktlig og er néyaktig med utregninger,
+benevninger, tabeller og grafiske framstillinger
+
+— vurderer om svar er rimelige
+
+ 
+
+Andre opplysninger Kilder for bilder, tegninger osv.
+
+Fisk, kj@tt, dessert: godt.no (04.05.2019)
+Symfyse-fundusmal: https://symfysefundus.no (17.03.2019)
+Matematikk: ung.no (05.05.2019)
+
+Sprak: pixabay.com (05.05.3019)
+
+Andre bilder, tegninger og grafiske framstillinger:
+Utdanningsdirektoratet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eksamen MAT1013 Side 12 av 24
+ 
+
+DEL 1
+Uten hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (2 poeng)
+
+Regn ut og skriv svaret pa standardform
+
+0,000 46 - 25000000
+0,05
+
+ 
+
+Oppgave 2 (2 poeng)
+
+Los likningssystemet
+
+2xX+3y=6
+5xX+6y=18
+
+Oppgave 3 (2 poeng)
+
+Las ulikheten
+
+—2(x+2)(x-4)>0
+
+Oppgave 4 (2 poeng)
+Trekk sammen og skriv sa enkelt som mulig
+
+2x*4+X+3 xX
+
+x? -9 x+3
+
+ 
+
+Eksamen MAT1013 Side 13 av 24
+Oppgave 5 (5 poeng)
+
+Los likningene
+
+a) Ig(4x)=0
+
+fe)
+
+1
+2
+
+c) 2°. 2 =16
+
+Oppgave 6 (2 poeng)
+En rett linje gar gjennom punktene (—7,—1) og (5,2).
+
+Bestem en likning for linjen ved regning.
+
+Oppgave 7 (2 poeng)
+Gitt likningen ax*+3x+1=x-—2,der a0
+
+Bestem en verdi av a slik at likningen bare har én I@sning.
+
+Oppgave 8 (4 poeng)
+
+En funksjon f er gitt ved
+f(x)=x°+4x?+x-6
+a) Bestem f’(x)
+
+b) Bestem den momentane vekstfarten til f i punktet (—3, f(-3))
+
+c) Bestem den gjennomsnittlige vekstfarten til f i intervallet | -1, 2 |
+
+ 
+
+Eksamen MAT1013 Side 14 av 24
+Oppgave 9 (3 poeng)
+
+ 
+
+Pa en skoletur fikk elevene servert middag. De kunne velge mellom en fiskerett og en
+kjottrett. | tillegg fikk alle som @nsket det, dessert.
+
+Det viste seg at . av elevene valgte fiskeretten, mens resten valgte kjgttretten.
+
+Halvparten av de som valgte fiskeretten, @nsket dessert, mens - av de som valgte
+
+kj@ttretten, onsket dessert.
+a) Lag et valgtre som illustrerer situasjonen ovenfor.
+
+Tenk deg at vi velger en tilfeldig elev som var med pa turen.
+
+b) Bestem sannsynligheten for at denne eleven gnsket dessert.
+
+Oppgave 10 (3 poeng)
+
+Gitt en funksjon f . Fortegnet til funksjonsuttrykket f(x) og til den deriverte av
+funksjonen f’(x) varierer som vist i figuren nedenfor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+. —3 2 A 7
+X - verdier oO — >
+F(x)
+f(x)
+
+ 
+
+ 
+
+Lag en skisse som viser hvordan grafen til f kan se ut.
+
+ 
+
+Eksamen MAT1013 Side 15 av 24
+Oppgave 11 (4 poeng)
+
+Skissen nedenfor viser en rettvinklet, likebeint trekant med hypotenus 4/2
+
+AV2
+
+ 
+
+ 
+
+a) Bestem lengdene av katetene i trekanten.
+b) Bruk trekanten til a bestemme tanv.
+
+V2
+
+c) Bruk trekanten til a vise at sinv = >
+
+Oppgave 12 (2 poeng)
+
+3/2
+
+45°
+
+ 
+
+Bestem arealet av trekanten ovenfor.
+
+ 
+
+Eksamen MAT1013
+
+Side 16 av 24
+Oppgave 13 (3 poeng)
+
+For a bestemme en ukjent vinkel i en trekant Idser Stein likningen nedenfor.
+
+sinx — sin40°
+108
+
+ 
+
+Han far to Igsninger. Den ene I@sningen er x =53,5°
+
+a) Bestem den andre I@sningen.
+
+De to Ig@sningene svarer til to ulike trekanter.
+
+b) Lag skisser som viser hvordan trekantene kan se ut.
+
+ 
+
+Eksamen MAT1013 Side 17 av 24
+ 
+
+DEL 2
+Med hjelpemidler
+
+ 
+
+ 
+
+ 
+
+Oppgave 1 (6 poeng)
+
+For a vurdere om et foster vokser som forventet, utf@rer jordmor og lege
+regelmessige malinger av magen til den gravide fra uke 24 i svangerskapet. Disse
+malingene kalles symfyse-fundusmal og maler avstanden fra @verste kant av
+underlivsbenet (symfysen) til toppen av livmoren (fundus). Ut fra malingene tegnes
+en vekstkurve for fosteret.
+
+Toppen av livmor
+'
+
+Underlivsbenet
+
+ 
+
+Funksjonen G gitt ved
+
+G(x) =—0,001 1x° +0,097x? -1,945x+29,3 , | 23, 42 |
+
+viser symfyse-fundusmalet G(x) cmiuke X av et bestemt svangerskap.
+
+a) Bruk graftegner til a tegne vekstkurven G.
+
+b) Bestem den momentane vekstfarten til funksjonen G nar x =29.
+Gi en praktisk tolkning av dette svaret.
+
+c) Hvor mye oker symfyse-fundusmalet i gjennomsnitt per uke fra uke 23 til uke 40 i
+dette svangerskapet, iflge funksjonen G?
+
+ 
+
+Eksamen MAT1013 Side 18 av 24
+Oppgave 2 (4 poeng)
+
+oo
+.= Dzien dobry
+SSZIA
+=< = HEJ S NOROCi—
+SVEIKI a mo B GUTEN TAG = = SANNU
+3 Czes¢ n= S BONJOUR = = PRONTO
+sHELLOsS Sawszs =014 4=
+HALOO: DIA DUITS satve
+TIENS << ZDRAVO SMERHABA L <O S HALLO
+TI uSALUTS >
+Ox =
+
+=
+
+Tjanare
+
+vi
+
+P=
+o
+N
+
+ 
+
+VER
+
+| en klasse er det 30 elever. 12 av elevene har tysk som fremmedsprak. 14 av elevene
+har matematikk 1T. 10 elever har verken tysk eller 1T.
+
+a) Systematiser opplysningene ovenfor i en krysstabell eller i et venndiagram.
+
+Tenk deg at du trekker en elev fra klassen tilfeldig.
+
+b) Bestem sannsynligheten for at eleven har tysk, men ikke 1T.
+
+Tenk deg at du har trukket en elev som ikke har 1T.
+
+c) Bestem sannsynligheten for at eleven har tysk.
+
+ 
+
+Eksamen MAT1013 Side 19 av 24
+Oppgave 3 (3 poeng)
+
+ 
+
+Gitt AABC og AADE ovenfor. AB=13, AC=12 og AD=9,6.
+
+Bestem lengden ED.
+
+Oppgave 4 (3 poeng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gitt firkanten ovenfor. AD=a, AC=2a, BC= V3-a, ZADC = 90° og ZBCD=165°
+a) Bestem lengden av siden CD uttrykt ved a.
+
+b) Bestem lengden av siden AB uttrykt ved a.
+
+ 
+
+Eksamen MAT1013 Side 20 av 24
+Oppgave 5 (8 poeng)
+
+Funksjonen f er gitt ved
+
+f(x)= x? -—2k-x*+k*-x , k>0
+
+a) Bestem nullpunktene til f.
+b) Bestem f’(x).
+
+c) Bruk svarene fra oppgave a) og oppgave b) til a argumentere for og avgj@re
+hvilken av grafene nedenfor som er grafen til f .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d) Bruk CAS til a bestemme stigningstallet til den rette linjen som gar gjennom
+toppunktet og bunnpunktet pa grafen til f .
+
+e) Vis at grafen til f bare har én tangent med stigningstall -3k
+
+Bestem koordinatene til tangeringspunktet T mellom denne tangenten og
+grafen til f.
+
+ 
+
+Eksamen MAT1013 Side 21 av 24
+Blank side
+
+ 
+
+Eksamen MAT1013 Side 22 av 24
+Blank side
+
+ 
+
+Eksamen MAT1013 Side 23 av 24
+U
+
+Utdannings-
+direktoratet
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVA:
+
+Start med a lese oppgaveinstruksen godt.
+
+Hugs a fére opp kjeldene i svaret ditt dersom du bruker
+kjelder.
+
+Les gjennom det du har skrive, f@r du leverer.
+
+Bruk tida. Det er lurt a drikke og ete undervegs.
+
+Lykke til!
+
+TIPS TIL DEG SOM AKKURAT HAR
+FATT EKSAMENSOPPGAVEN:
+
+Start med a lese oppgaveinstruksen godt.
+
+Husk a fore opp kildene i svaret ditt hvis du bruker kilder.
+Les gjennom det du har skrevet, for du leverer.
+
+Bruk tiden. Det er lurt a drikke og spise underveis.
+
+Lykke til!
+
+udir.no
