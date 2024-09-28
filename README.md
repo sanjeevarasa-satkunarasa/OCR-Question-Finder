@@ -17,6 +17,8 @@ You will need to have these libraries installed on you computer
 
 You will also need to install MongoDB and will also need files to put into the program
 
+also important that you run this line apt-get install tesseract-ocr-nor to get norwegian ocr
+
 ### Setup
 
 

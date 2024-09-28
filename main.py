@@ -52,8 +52,8 @@ def process_pdfs(directory):
                     print(f'Output file path: {output_file} (WSL: {wsl_output_file})')
                     print(f'Sidecar file path: {sidecar_file} (WSL: {wsl_sidecar_file})')
                     
-                    # Run ocrmypdf command in WSL
-                    result = subprocess.run(['wsl', 'ocrmypdf', '--sidecar', wsl_sidecar_file, '--force-ocr', wsl_pdf_path, wsl_output_file], check=True, capture_output=True, text=True)
+                    # Run ocrmypdf command in WSL with Norwegian language option
+                    result = subprocess.run(['wsl', 'ocrmypdf', '-l', 'nor', '--sidecar', wsl_sidecar_file, '--force-ocr', wsl_pdf_path, wsl_output_file], check=True, capture_output=True, text=True)
                     print(f'ocrmypdf command result: {result}')
                     print(f'Stdout: {result.stdout}')
                     print(f'Stderr: {result.stderr}')
