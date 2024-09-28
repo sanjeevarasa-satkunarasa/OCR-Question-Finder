@@ -2,133 +2,32 @@ import os
 from bs4 import BeautifulSoup
 
 # Define the subject variable
-subject = "1P"  # You can change this to any subject you want
+subject = "Rettslære_2"  # You can change this to any subject you want
 
 html_content = """
 <li>
-                    <h3>V2024</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V24.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2023</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H23.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2023</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V23.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2022</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H22_LK20.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2022</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V22_LK20.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2021</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/EVH-2021MAT1019____F01S.pdf" target="_blank" download> Oppgave </a>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/Eksempelsett_1P_H21.pdf" target="_blank" download> Oppgave (Eksempel)
-                    </a>
-                </li>
-                <li>
-                    <h3>V2021</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V21_LK20.pdf" target="_blank" download> Oppgave </a></li>
-                <li><a href="/eksamensoppgaver/1P/1P  V21 LK20 eksempel 2.pdf" target="_blank" download> Oppgave
-                        (Eksempel)
-                    </a></li>
-                <li>
-                    <h3>H2020</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H20.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2020</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/Eksamen 1P V2020.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2019</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H19.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2019</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/EVV-2019MAT1011____F02S.pdf" target="_blank" download> Oppgave </a>
-                </li>
-                <li>
-                    <h3>H2018</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H18.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2018</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V18.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2017</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H17.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2017</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V17.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2016</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H16.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2016</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V16.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2015</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H15.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2015</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V15.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2014</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H14.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2014</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V14.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2013</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H13.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2013</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V13.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2012</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H12.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2012</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V12.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2011</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H11.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2011</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V11.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>H2010</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_H10.pdf" target="_blank" download> Oppgave </a></li>
-                <li>
-                    <h3>V2010</h3>
-                </li>
-                <li><a href="/eksamensoppgaver/1P/1P_V10.pdf" target="_blank" download> Oppgave </a></li>
+          <h3>H2023</h3>
+        </li>
+        <li><a href="/eksamensoppgaver\Rettslære 2/sam3023-rettslaere-2-e-h23_removed.pdf" target="_blank" download>
+            Oppgave </a></li>
+        <li>
+          <h3>V2016</h3>
+        </li>
+        <li><a href="/eksamensoppgaver\Rettslære 2/SAM3023 Rettslære 2 eksamen v16 oppg.pdf" target="_blank" download>
+            Forberedelsesdel </a></li>
+        <li><a href="/eksamensoppgaver\Rettslære 2/Forberedelsesdel SAM3023 Rettslære 2 v16.pdf" target="_blank"
+            download> Oppgave </a></li>
+        <li>
+          <h3>V2011</h3>
+        </li>
+        <li><a href="/eksamensoppgaver\Rettslære 2/Rettslære_2_oppgave_v11.pdf" target="_blank" download> Oppgave </a>
+        </li>
+        <li>
+          <h3>H2007</h3>
+        </li>
+        <li><a href="/eksamensoppgaver\Rettslære 2/Eksamensoppgaver Rettslære H07 - Udir.no.pdf" target="_blank"
+            download> Oppgave </a></li>
+        <li>
 """
 
 base_path = r"G:\My Drive\Personal\Programming\Projects\OCR Question Bank\OCR-Question-Finder"
