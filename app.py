@@ -1,7 +1,12 @@
-from flask import Flask, request, redirect, url_for
+from flask import Flask, request, redirect, url_for, render_template_string, flash
 import os
+import subprocess
+from PIL import Image
+import pymongo
+from difflib import SequenceMatcher
 
 app = Flask(__name__)
+app.secret_key = 'supersecretkey'  # Needed for flashing messages
 
 # Configuration for file uploads
 UPLOAD_FOLDER = 'uploads'
@@ -15,7 +20,7 @@ output = ""
 @app.route('/')
 def index():
     global output
-    return '''
+    return render_template_string('''
     <!DOCTYPE html>
     <html lang="nb">
     <head>
@@ -54,6 +59,15 @@ def index():
                 <h4>Output:</h4>
                 <h4 id="question-output">{{ output }}</h4>
             </div>
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <ul class="flashes">
+                    {% for message in messages %}
+                        <li>{{ message }}</li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endwith %}
         </div>
         <div class="support">
             <h1>Støtt oss!</h1>
@@ -83,29 +97,86 @@ def index():
         </div>
     </body>
     </html>
-    '''
+    ''', output=output)
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
     global output
     text = request.form.get('question-text')
     file = request.files.get('file-upload')
-    
-    if text or file:
-        response = ''
-        if text:
-            text_file_path = os.path.join(app.config['UPLOAD_FOLDER'], 'submitted_text.txt')
-            with open(text_file_path, 'w') as text_file:
-                text_file.write(text)
-            response += f'Text saved to: {text_file_path}<br>'
-        if file:
-            file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
-            file.save(file_path)
-            response += f'File saved to: {file_path}'
-        output = response
+
+    if text and file:
+        flash("Det kan ikke være to inputter")
         return redirect(url_for('index'))
-    output = 'No text or file uploaded'
+    elif file:
+        file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+        file.save(file_path)
+        ocr_output = process_file(file_path)
+        output = format_output(get_most_similar_document_key(ocr_output, "admin", "results"))
+    elif text:
+        output = format_output(get_most_similar_document_key(text, "admin", "results"))
+    else:
+        output = "No input provided"
+
     return redirect(url_for('index'))
+
+def convert_to_wsl_path(win_path):
+    return subprocess.run(['wsl', 'wslpath', '-a', win_path], capture_output=True, text=True).stdout.strip()
+
+def convert_image_to_pdf(image_path):
+    image = Image.open(image_path)
+    pdf_path = os.path.splitext(image_path)[0] + '.pdf'
+    image.save(pdf_path, 'PDF', resolution=100.0)
+    return pdf_path
+
+def process_file(file_path):
+    if file_path.lower().endswith(('.jpg', '.jpeg', '.png', '.bmp', '.gif', '.tiff')):
+        file_path = convert_image_to_pdf(file_path)
+    
+    wsl_file_path = convert_to_wsl_path(file_path)
+    output_file = os.path.splitext(file_path)[0] + '_output.pdf'
+    wsl_output_file = convert_to_wsl_path(output_file)
+    sidecar_file = os.path.splitext(file_path)[0] + '.txt'
+    wsl_sidecar_file = convert_to_wsl_path(sidecar_file)
+    
+    try:
+        result = subprocess.run(['wsl', 'ocrmypdf', '--sidecar', wsl_sidecar_file, '--force-ocr', wsl_file_path, wsl_output_file], check=True, capture_output=True, text=True)
+        
+        if os.path.exists(sidecar_file):
+            with open(sidecar_file, 'r') as file:
+                content = file.read()
+            return content
+        else:
+            return 'Sidecar file not found'
+    except subprocess.CalledProcessError as e:
+        return f'Error processing {file_path}: {e}'
+    except Exception as e:
+        return f'Unexpected error: {e}'
+
+def get_most_similar_document_key(input_string, db_name, collection_name):
+    # Connect to MongoDB
+    client = pymongo.MongoClient("mongodb://localhost:27017/")
+    db = client[db_name]
+    collection = db[collection_name]
+
+    most_similar_key = None
+    highest_similarity = 0
+
+    # Iterate through all documents in the collection
+    for document in collection.find():
+        value = document.get("value", "")
+        if isinstance(value, str):
+            similarity = SequenceMatcher(None, input_string, value).ratio()
+            if similarity > highest_similarity:
+                highest_similarity = similarity
+                most_similar_key = document.get("key")
+
+    return most_similar_key
+
+def format_output(output):
+    if output:
+        output = output.replace(".pdf", "").replace("_", " ")
+    return output
 
 if __name__ == '__main__':
     app.run(debug=True)

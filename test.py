@@ -1,0 +1,1 @@
+Tegn grafene til ogf g i samme koordinatsystem, og bestem skjæringspunktet grafisk

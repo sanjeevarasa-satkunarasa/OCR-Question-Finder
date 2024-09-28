@@ -1,0 +1,2 @@
+Tegn grafene til f og g isamme koordinatsystem, og bestem skjeeringspunktet
+grafisk.
