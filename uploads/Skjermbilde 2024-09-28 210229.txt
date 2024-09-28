@@ -1,0 +1,3 @@
+En kjegle er innskrevet i en kule. Kulen har sentrumi S og radius R=3. Grunnflaten i
+kjeglen har radius r. Hayden i kjeglen er h=3+y, der y er avstanden fra S til
+grunnflaten i kjeglen. Se skissen ovenfor.

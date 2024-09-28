@@ -29,7 +29,7 @@ def index():
         <meta name="keywords" content="science, study tools, study tool, realfag, realfag.net">
         <meta name="description" content="Nettstedet som gjør realfag enklere og har et oppgave gjennkjennelsesprogram">
         <meta name="author" content="Nover Studio">
-        <link rel="stylesheet" href="css/styles.css" id="theme-style">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" id="theme-style">
         <title>Realfag.net</title>
         <link rel="icon" type="image/x-icon" href="/media/favicon_light.ico" id="favicon">
         <link rel="preconnect" href="https://fonts.googleapis.com">
