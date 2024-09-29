@@ -8,19 +8,22 @@ client = pymongo.MongoClient("mongodb://localhost:27017/")
 # Select the database
 db = client["admin"]
 
-# Select the collection
-collection = db["results"]
+# Create or get the collection with collation for Norwegian characters
+try:
+    collection = db.create_collection(
+        "results",
+        collation={"locale": "nb"}
+    )
+except pymongo.errors.CollectionInvalid:
+    collection = db.get_collection(
+        "results",
+        collation={"locale": "nb"}
+    )
 
 # Function to insert into MongoDB
-def insert_mangodb(key, value):
-    # Create a dictionary to insert
-    document = {
-        "key": key,
-        "value": value
-    }
-    # Insert the document into the collection
+def insert_mongodb(key, value):
+    document = {"key": key, "value": value}
     result = collection.insert_one(document)
-    # Print the ID of the inserted document
     print("Document inserted with ID:", result.inserted_id)
 
 # Directory containing the PDF files
@@ -35,38 +38,28 @@ def process_pdfs(directory):
     for root, _, files in os.walk(directory):
         for filename in files:
             if filename.endswith('.pdf'):
-                # Full path to the PDF file
                 pdf_path = os.path.join(root, filename)
                 wsl_pdf_path = convert_to_wsl_path(pdf_path)
-                
-                # Output file path
                 output_file = os.path.join(root, f'{os.path.splitext(filename)[0]}_output.pdf')
                 wsl_output_file = convert_to_wsl_path(output_file)
-                
                 sidecar_file = os.path.join(root, f'{os.path.splitext(filename)[0]}.txt')
                 wsl_sidecar_file = convert_to_wsl_path(sidecar_file)
                 
                 try:
-                    # Debug print statements
                     print(f'PDF path: {pdf_path} (WSL: {wsl_pdf_path})')
                     print(f'Output file path: {output_file} (WSL: {wsl_output_file})')
                     print(f'Sidecar file path: {sidecar_file} (WSL: {wsl_sidecar_file})')
                     
-                    # Run ocrmypdf command in WSL with Norwegian language option
                     result = subprocess.run(['wsl', 'ocrmypdf', '-l', 'nor', '--sidecar', wsl_sidecar_file, '--force-ocr', wsl_pdf_path, wsl_output_file], check=True, capture_output=True, text=True)
                     print(f'ocrmypdf command result: {result}')
                     print(f'Stdout: {result.stdout}')
                     print(f'Stderr: {result.stderr}')
                     
-                    # Check if sidecar file was created
                     if os.path.exists(sidecar_file):
                         print(f'Sidecar file created: {sidecar_file}')
-                        # Read the output file
                         with open(sidecar_file, 'r') as file:
                             content = file.read()
-                        
-                        # Insert into MongoDB
-                        insert_mangodb(filename, content)
+                        insert_mongodb(filename, content)
                     else:
                         print(f'Sidecar file not found: {sidecar_file}')
                 except subprocess.CalledProcessError as e:

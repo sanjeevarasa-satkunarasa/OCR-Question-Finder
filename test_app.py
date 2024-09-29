@@ -1,10 +1,12 @@
 from flask import Flask, request, redirect, url_for, render_template_string, flash
 import os
 import subprocess
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 import pymongo
-from difflib import SequenceMatcher
 import re
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
 app = Flask(__name__)
 app.secret_key = 'supersecretkey'  # Needed for flashing messages
@@ -14,6 +16,15 @@ UPLOAD_FOLDER = 'uploads'
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+# MongoDB connection setup
+client = pymongo.MongoClient("mongodb://localhost:27017/")
+
+# Select the database
+db = client["admin"]
+
+# Select the collection with collation for Norwegian characters
+collection = db.get_collection("results", collation={"locale": "nb"})
 
 # Variable to store the output
 output = ""
@@ -117,6 +128,7 @@ def upload_file():
     elif text:
         # Normalize and remove noise from text
         normalized_text = re.sub(r'\W+', ' ', text.lower())
+        # Directly process the text input
         output = format_output(get_most_similar_document_key(normalized_text, "admin", "results"))
     else:
         output = "No input provided"
@@ -160,19 +172,25 @@ def get_most_similar_document_key(input_string, db_name, collection_name):
     # Connect to MongoDB
     client = pymongo.MongoClient("mongodb://localhost:27017/")
     db = client[db_name]
-    collection = db[collection_name]
+    collection = db.get_collection(collection_name, collation={"locale": "nb"})
 
-    most_similar_key = None
-    highest_similarity = 0
+    documents = list(collection.find())
+    keys = [doc.get("key") for doc in documents]
+    values = [doc.get("value", "") for doc in documents]
 
-    # Iterate through all documents in the collection
-    for document in collection.find():
-        value = document.get("value", "")
-        if isinstance(value, str):
-            similarity = SequenceMatcher(None, input_string, value).ratio()
-            if similarity > highest_similarity:
-                highest_similarity = similarity
-                most_similar_key = document.get("key")
+    # Add the input string to the list of documents
+    values.append(input_string)
+
+    # Compute TF-IDF vectors
+    vectorizer = TfidfVectorizer().fit_transform(values)
+    vectors = vectorizer.toarray()
+
+    # Compute cosine similarity
+    cosine_similarities = cosine_similarity(vectors[-1:], vectors[:-1]).flatten()
+
+    # Find the index of the most similar document
+    most_similar_index = np.argmax(cosine_similarities)
+    most_similar_key = keys[most_similar_index]
 
     return most_similar_key
 

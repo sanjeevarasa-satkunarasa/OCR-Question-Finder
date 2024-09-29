@@ -1,0 +1,8 @@
+Rune trenger 61 m kabel. Han har en
+kabel som er rullet opp på en trommel.
+Trommelen har en diameter på 50 cm,
+og kabelen går 40 ganger rundt
+trommelen.
+
+Gjør overslag og finn ut om det er nok
+kabel på trommelen.
