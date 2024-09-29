@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="science, study tools, study tool, realfag, realfag.net">
+    <meta name="description" content="Nettstedet som gjør realfag enklere og har et oppgave gjennkjennelsesprogram">
+    <meta name="author" content="Nover Studio">
+    <link rel="stylesheet" href="../static/css/styles.css" id="theme-style">
+    <title>Realfag.net</title>
+    <link rel="icon" type="image/x-icon" href="/media/favicon_light.ico" id="favicon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <script src="/script.js" defer></script>
+</head>
+<body>
+    <nav>
+        <h1><a href="../index.html">Realfag.net</a></h1>
+        <a onclick="toggleMode(false)" id="dark_mode">
+            <img src="/media/dark_mode_light.png" alt="mørk modus knapp" id="dark_mode_icon">
+        </a>
+        <a id="discord" href="https://discord.gg/7AwyneAqgY" target="_blank">
+            <img src="/media/discord_logo_light.png" alt="discord-logo" id="dark_mode_discord">
+        </a>
+        <div class="dropdown">
+            <button class="dropbtn"><img src="/media/arrow_down.png" alt="dropdown button"></button>
+            <div class="dropdown-content">
+                <a href="/html/VG3.html">VG3</a>
+                <a href="/html/VG2.html">VG2</a>
+                <a href="/html/VG1.html">VG1</a>
+                <a href="/html/info.html">Info</a>
+            </div>
+        </div>
+    </nav>
+    <div class="ambitions">
+        <h1 class="ambitions-text">Nettstedet som gjør læring enkelt</h1>
+    </div>
+    <div class="ocr-program">
+        <h3 class="ocr-program-heading">Program som finner fram til oppgaven din</h3>
+        <form class="question-form" action="/upload" method="post" enctype="multipart/form-data">
+            <textarea id="textInput" name="question-text" rows="6" cols="75" placeholder="Skriv inn oppgaven" class="question-text"></textarea>
+            <br>
+            <label for="file-upload" class="custom-file-upload"> Klikk for å laste opp filer</label>
+            <input id="fileInput" name="file-upload" type="file" />
+            <input type="submit" class="question-submit" value="Submit">
+        </form>
+        <div class="question-output-container">
+            <h4>Output:</h4>
+            <h4 id="question-output">{{ output }}</h4>
+        </div>
+    </div>
+    <div class="support">
+        <h1>Støtt oss!</h1>
+        <h3>Støtt oss ved å gi dine oppgaver/prøver/løsningsforslag!</h3>
+        <div class="form">
+            <form netlify method="POST">
+                <label class="form-title">Skjema for innsending:</label>
+                <br>
+                <label for="year">Årstall (åååå)</label>
+                <input type="number" name="year" min="1950" max="2025">
+                <br>
+                <label for="school">Skolenavn:</label>
+                <input list="school">
+                <datalist id="school">
+                    <option value="Nydalen VGS">
+                    <option value="Elvebakken VGS">
+                    <option value="Edvard Munch VGS">
+                    <option value="F21 VGS">
+                    <option value="Lillestrøm VGS">
+                    <option value="Skedsmo VGS">
+                    <option value="Mailand VGS">
+                    <option value="Hersleb VGS">
+                </datalist>
+                <br>
+                <label for="subject">Fag:</label>
+                <input type="text" name="subject">
+                <br>
+                <label for="file-upload">Last opp filer:</label>
+                <input type="file" name="file-upload">
+                <br>
+                <input type="submit" value="Send inn">
+            </form>
+        </div>
+    </div>
+</body>
+</html>
