@@ -1,0 +1,5 @@
+I en klasse er det seks gutter og fire jenter. To elever velges tilfeldig til å være med i en
+spørreundersøkelse.
+
+Tegn et valgtre, og bruk dette til å bestemme sannsynligheten for at én jente og én gutt
+velges ut.

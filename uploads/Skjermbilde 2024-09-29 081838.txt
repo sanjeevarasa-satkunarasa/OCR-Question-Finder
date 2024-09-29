@@ -1,6 +1,0 @@
-En vare kostet like mye i butikk A og butikk B. Så ble prisen endret.
-
-I butikk A ble prisen først satt opp med 10 %. Senere ble prisen satt ned med 10 %.
-I butikk B ble prisen først satt ned med 10 %. Senere ble prisen satt opp med 10 %.
-
-Avgjør hvilken av de tre påstandene nedenfor som er riktig.

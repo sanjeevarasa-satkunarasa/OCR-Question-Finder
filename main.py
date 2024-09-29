@@ -57,7 +57,7 @@ def process_pdfs(directory):
                     
                     if os.path.exists(sidecar_file):
                         print(f'Sidecar file created: {sidecar_file}')
-                        with open(sidecar_file, 'r') as file:
+                        with open(sidecar_file, 'r', encoding='utf-8') as file:
                             content = file.read()
                         insert_mongodb(filename, content)
                     else:
